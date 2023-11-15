@@ -12,20 +12,20 @@ permalink: /casebook/contents
 
 <a href='{{ site.baseurl }}/assets/pdf/CivProBook-large.pdf'><button class='button syllabus smaller'>PDF (large-print)</button></a>
 
-[Preface]({{ site.baseurl }}/casebook/preface) 
+[Preface]({{ site.baseurl }}/casebook/Preface) 
 
-[Chapter 1: Introduction]({{ site.baseurl }}/casebook/chap1) 
+[Chapter 1: Foundations of Civil Procedure]({{ site.baseurl }}/casebook/Foundations) 
 
-[Chapter 2: Parties & Claims]({{ site.baseurl }}/casebook/chap2) 
+[Chapter 2: Pleading]({{ site.baseurl }}/casebook/Pleading) 
 
-[Chapter 3: Personal Jurisdiction]({{ site.baseurl }}/casebook/chap3) 
+[Chapter 3: Discovery & Summary Judgment]({{ site.baseurl }}/casebook/SummaryJudgment) 
 
-[Chapter 4: Subject Matter Jurisdiction]({{ site.baseurl }}/casebook/chap4) 
+[Chapter 4: Joining Parties & Claims]({{ site.baseurl }}/casebook/Joinder) 
 
-[Chapter 5: Choice of Law in Federal Court]({{ site.baseurl }}/casebook/chap5) 
+[Chapter 5: Claim & Issue Preclusion]({{ site.baseurl }}/casebook/Preclusion) 
 
-[Chapter 6: Pleading]({{ site.baseurl }}/casebook/chap6) 
+[Chapter 6: Personal Jurisdiction]({{ site.baseurl }}/casebook/PersonalJurisdiction) 
 
-[Chapter 7: Claim & Issue Preclusion]({{ site.baseurl }}/casebook/chap7) 
+[Chapter 7: Subject Matter Jurisdiction]({{ site.baseurl }}/casebook/SubjectMatterJurisdiction) 
 
-[Chapter 8: Summary Judgment]({{ site.baseurl }}/casebook/chap8)
+[Chapter 8: Governing Law]({{ site.baseurl }}/casebook/GoverningLaw)

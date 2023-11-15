@@ -45,7 +45,7 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 
 <div class="chapter">
 
-{% include_relative Foundations.md %}
+{% include_relative chap1.md %}
 
 </div>
 
@@ -53,7 +53,7 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 2 -->
 <div class="chapter">
 
-{% include_relative Pleading.md %}
+{% include_relative chap2.md %}
 
 </div>
 
@@ -61,7 +61,7 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 3 -->
 <div class="chapter">
 
-{% include_relative SummaryJudgment.md %}
+{% include_relative chap3.md %}
 
 </div>
 
@@ -69,7 +69,7 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 4 -->
 <div class="chapter">
 
-{% include_relative Joinder.md %}
+{% include_relative chap4.md %}
 
 </div>
 
@@ -77,7 +77,7 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 5 -->
 <div class="chapter">
 
-{% include_relative Preclusion.md %}
+{% include_relative chap5.md %}
 
 </div>
 
@@ -85,7 +85,7 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 6 -->
 <div class="chapter">
 
-{% include_relative PersonalJurisdiction.md %}
+{% include_relative chap6.md %}
 
 </div>
 
@@ -93,7 +93,7 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 7 -->
 <div class="chapter">
 
-{% include_relative SubjectMatterJurisdiction.md %}
+{% include_relative chap7.md %}
 
 </div>
 
@@ -101,6 +101,6 @@ The PDF version of this casebook contains links (indicated by red-colored text, 
 <!-- CHAPTER 8 -->
 <div class="chapter">
 
-{% include_relative GoverningLaw.md %}
+{% include_relative chap8.md %}
 
 </div>
