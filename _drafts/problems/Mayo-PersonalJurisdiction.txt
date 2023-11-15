@@ -1,0 +1,12 @@
+---
+layout: sidenotes
+date: 2020-08-12T04:00:00
+
+course: Civil Procedure 
+title: Personal Jurisdiction Question
+  
+---
+
+Gerald Mayo sued Satan and his Staff, alleging that, on numerous occasions, they caused him misery, made unwarranted threats against him, and placed deliberate obstacles in his path, causing his downfall. Mayo filed his suit in the U.S. District Court for the Western District of Pennsylvania. Mayo resides in Pittsburgh, where the court is located. Mayo lives in Slippery Rock, Pennsylvania. None of the defendants reside in Pennsylvania. 
+
+_On what basis might the court have personal jurisdiction over the defendants? _
