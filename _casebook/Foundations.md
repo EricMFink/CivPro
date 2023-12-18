@@ -289,7 +289,6 @@ There is one form of action—the civil action.
 
 </div>
 
-
 ### Stages of a Civil Suit
 
 Figures 1 and 2 illustrate the stages of a civil suit. 
@@ -298,10 +297,10 @@ Figures 1 and 2 illustrate the stages of a civil suit.
 
 ![Fig. 1.3](../img/CivilAction2.png){width="90%"}
 
-Before commencing a suit, a lawyer (in consultation with the client) must decide who will be named as the plaintiff(s) and defendant(s) (Party Joinder), what claims the plaintiff(s) will assert (Claim Joinder), and where to file the suit (Subject Matter Jurisdiction, Personal Jurisdiction, & Venue). Decisions about party and claim joinder may constrain the choice of forum, and vice versa. At some point, it may also be necessary for the court to determine which law---state or federal, and if state law, which state---should apply to the various issues in the case. 
+Before commencing a suit, a lawyer (in consultation with the client) must decide who will be named as the plaintiff(s) and defendant(s) (Party Joinder), what claims the plaintiff(s) will assert (Claim Joinder), and where to file the suit (Subject Matter Jurisdiction, Personal Jurisdiction, & Venue). Decisions about party and claim joinder may constrain the choice of forum, and vice versa. The limited subject matter jurisdiction of the federal courts means that federal courts may only decide certain claims. The constitutional limits on personal jurisdiction mean that courts (state or federal) may only decide cases against defendants having sufficient contacts with the forum state. At some point, it may also be necessary for the court to determine which law---state or federal, and if state law, which state---should apply to the various issues in the case. 
 
-The lawyer must then file a complaint with the court and serve a copy of the complaint and summons on the defendant(s). The defendant(s) must then respond, either by admitting or denying the allegations in the complaint (Answer, which may also include claims by the defendant(s) against plaintiffs, co-defendants, or additional parties not named in the complaint), or asking the court to  dismiss the complaint on procedural grounds (Rule 12 Motions). 
+The next step is to commence the suit by filing a complaint with the court and serving a copy on the defendant. The defendant must then respond, either by admitting or denying the allegations in the complaint (Answer, which may also include counterclaims by the defendant against the plaintiff, crossclaims against co-defendants, or third party claims against additional parties not named in the plaintiff's complaint), or asking the court to  dismiss the complaint on procedural grounds (Rule 12 Motions). 
 
 If the case is not dismissed at the pleadings stage, the parties will then produce evidence through the discovery process. The parties may also ask the court to decide all or part of the suit based on the evidence in the pre-trial record (Summary Judgment). 
 
-If the case is not fully decided on summary judgment, it will then proceed to trial, at the end of which the court will enter judgment in favor of the plaintiff(s) or defendant(s). After a final judgment has been entered, the losing party may appeal to a higher court. A final judgment may also have consequences for other lawsuits involving the same parties (Claim and Issue Preclusion). 
+If the case is not fully decided on summary judgment (or settled), it will then proceed to trial, at the end of which the court will enter judgment in favor of the plaintiff(s) or defendant(s). After a final judgment has been entered, the losing party may appeal to a higher court. A final judgment may also have consequences for other lawsuits involving the same parties (Claim and Issue Preclusion). 
