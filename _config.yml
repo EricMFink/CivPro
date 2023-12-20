@@ -15,16 +15,16 @@ author:
   phone: 336-279-9334
   web: emfink.net/ElonLaw
 
-ta:
-  name: Ashley Cooper
-  email: acooper25@elon.edu
+#ta:
+#  name: Ashley Cooper
+#  email: acooper25@elon.edu
 
 course:
   subject: Civil Procedure 
   term: Fall 2023
   room: Room 207 
   meets: "Monday, Wednesday, & Friday 1:30–3:15 pm"
-  repository: CivilProcedure
+  repository: CivPro
 
 coursebook:
   title: Civil Procedure
