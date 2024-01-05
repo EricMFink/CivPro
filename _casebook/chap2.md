@@ -78,7 +78,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 
 
-## Counterclaims
+### Counterclaims
 
 <div class="legal-code">
 
@@ -285,7 +285,7 @@ Indeed, in alleging an abuse of process, Ms. Pace primarily relies on her 2011 a
 
 We conclude that the district court erred in dismissing the Paces' 2013 complaint in its entirety. Because neither Rule 13 nor Rule 20 provide for compulsory joinder, Ms. Pace's claims against the individual defendants and Mr. Pace's claims for loss of consortium were not compulsory counterclaims. Ms. Pace's abuse of process claim against Timmermann's was in existence when Ms. Pace filed her 2011 answer and counterclaim, and therefore the district court was correct to bar her subsequent abuse of process claim against Timmermann's. 
 
-## Crossclaims
+### Crossclaims
 
 <div class="legal-code">
 
