@@ -15,66 +15,82 @@ preface: This book presents material for use in a first-year law school Civil Pr
 
 ---
 
-<!-- CHAPTER 1 -->
-
 <div class="chapter">
 
-{% include_relative Foundations.md %}
+<article class="group">
+
+{% include_relative chap1.md %}
+
+</article>
 
 </div>
 
-
-<!-- CHAPTER 2 -->
 <div class="chapter">
 
-{% include_relative Joinder.md %}
+<article class="group">
+
+{% include_relative chap2.md %}
+
+</article>
 
 </div>
 
-
-<!-- CHAPTER 3 -->
 <div class="chapter">
 
-{% include_relative SubjectMatterJurisdiction.md %}
+<article class="group">
+
+{% include_relative chap3.md %}
+
+</article>
 
 </div>
 
-
-<!-- CHAPTER 4 -->
 <div class="chapter">
 
-{% include_relative PersonalJurisdiction.md %}
+<article class="group">
+
+{% include_relative chap5.md %}
+
+</article>
 
 </div>
 
-
-<!-- CHAPTER 5 -->
 <div class="chapter">
 
-{% include_relative GoverningLaw.md %}
+<article class="group">
+
+{% include_relative chap5.md %}
+
+</article>
 
 </div>
 
-
-<!-- CHAPTER 6 -->
 <div class="chapter">
 
-{% include_relative Pleading.md %}
+<article class="group">
+
+{% include_relative chap6.md %}
+
+</article>
 
 </div>
 
-
-<!-- CHAPTER 7 -->
 <div class="chapter">
 
-{% include_relative Preclusion.md %}
+<article class="group">
+
+{% include_relative chap7.md %}
+
+</article>
 
 </div>
 
-
-<!-- CHAPTER 8 -->
 <div class="chapter">
 
-{% include_relative SummaryJudgment.md %}
+<article class="group">
+
+{% include_relative chap8.md %}
+
+</article>
 
 </div>
