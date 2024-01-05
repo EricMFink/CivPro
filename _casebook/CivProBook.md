@@ -49,7 +49,7 @@ preface: This book presents material for use in a first-year law school Civil Pr
 
 <article class="group">
 
-{% include_relative chap5.md %}
+{% include_relative chap4.md %}
 
 </article>
 
