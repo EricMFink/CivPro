@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Foundations of Civil Procedure 
-chapter-number: 1
-
 ---
-
-<p class="chapter-number">Chapter 1</p>
 
 # Foundations of Civil Procedure 
 

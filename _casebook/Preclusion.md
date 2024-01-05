@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Claim & Issue Preclusion
-chapter-number: 5
-
 ---
-
-<p class="chapter-number">Chapter 5</p>
 
 # Claim & Issue Preclusion
 

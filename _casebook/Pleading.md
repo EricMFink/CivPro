@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Pleading
-chapter-number: 2
-
 ---
-
-<p class="chapter-number">Chapter 2</p>
 
 # Pleading
 

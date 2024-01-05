@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Personal Jurisdiction
-chapter-number: 6
-
 ---
-
-<p class="chapter-number">Chapter 6</p>
 
 # Personal Jurisdiction
 

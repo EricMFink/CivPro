@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Joining Parties & Claims
-chapter-number: 4
-
 ---
-
-<p class="chapter-number">Chapter 4</p>
 
 # Joining Parties & Claims
 

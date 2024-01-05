@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Choice of Governing Law 
-chapter-number: 8
-
 ---
-
-<p class="chapter-number">Chapter 5</p>
 
 # Choice of Governing Law 
 

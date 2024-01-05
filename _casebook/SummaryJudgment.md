@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Discovery & Summary Judgment
-chapter-number: 3
-
 ---
-
-<p class="chapter-number">Chapter 3</p>
 
 # Discovery & Summary Judgment  
 

@@ -1,11 +1,7 @@
 ---
 layout: casebook
 chapter-title: Subject Matter Jurisdiction
-chapter-number: 7
-
 ---
-
-<p class="chapter-number">Chapter 7</p>
 
 # Subject Matter Jurisdiction
 
