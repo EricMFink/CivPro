@@ -273,11 +273,7 @@ We think that in the circumstances of this case the federal court should not fol
 
 _Third_. We have discussed the problem upon the assumption that the outcome of the litigation may be substantially affected by whether the issue of immunity is decided by a judge or a jury. But clearly there is not present here the certainty that a different result would follow, or even the strong possibility that this would be the case. There are factors present here which might reduce that possibility. The trial judge in the federal system has powers denied the judges of many States to comment on the weight of evidence and credibility of witnesses, and discretion to grant a new trial if the verdict appears to him to be against the weight of the evidence. We do not think the likelihood of a different result is so strong as to require the federal practice of jury determination of disputed factual issues to yield to the state rule in the interest of uniformity of outcome.
 
-### The Rules Enabling Act[^rea1]
-
-[^rea1]: 
-
-  {-} For other provisions of the Rules Enabling Act, see Chap. 1, §???
+### The Rules Enabling Act
 
 <div class="legal-code">
 
