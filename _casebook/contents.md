@@ -10,18 +10,18 @@ permalink: /casebook/contents
 
 [Preface]({{ site.baseurl }}/casebook/Preface) 
 
-[Chapter 1: Foundations of Civil Procedure]({{ site.baseurl }}/casebook/Foundations) 
+[Chapter 1: Foundations of Civil Procedure]({{ site.baseurl }}/casebook/chap1) 
 
-[Chapter 2: Joining Parties & Claims]({{ site.baseurl }}/casebook/Joinder) 
+[Chapter 2: Joining Parties & Claims]({{ site.baseurl }}/casebook/chap2) 
 
-[Chapter 3: Subject Matter Jurisdiction]({{ site.baseurl }}/casebook/SubjectMatterJurisdiction) 
+[Chapter 3: Subject Matter Jurisdiction]({{ site.baseurl }}/casebook/chap3) 
 
-[Chapter 4: Personal Jurisdiction]({{ site.baseurl }}/casebook/PersonalJurisdiction) 
+[Chapter 4: Personal Jurisdiction]({{ site.baseurl }}/casebook/chap4) 
 
-[Chapter 5: Governing Law]({{ site.baseurl }}/casebook/GoverningLaw)
+[Chapter 5: Governing Law]({{ site.baseurl }}/casebook/chap5)
 
-[Chapter 6: Pleading]({{ site.baseurl }}/casebook/Pleading) 
+[Chapter 6: Pleading]({{ site.baseurl }}/casebook/chap6) 
 
-[Chapter 7: Discovery & Summary Judgment]({{ site.baseurl }}/casebook/SummaryJudgment) 
+[Chapter 7: Discovery & Summary Judgment]({{ site.baseurl }}/casebook/chap7) 
 
-[Chapter 8: Claim & Issue Preclusion]({{ site.baseurl }}/casebook/Preclusion) 
+[Chapter 8: Claim & Issue Preclusion]({{ site.baseurl }}/casebook/chap8) 
