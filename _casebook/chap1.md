@@ -221,7 +221,7 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 (f) No rule may be prescribed by a district court other than under this section.
 
-#### 28 U.S.C. § 2072 [^rea1]
+#### 28 U.S.C. § 2072
 
 <p class="case-h1">Rules of procedure and evidence; power to prescribe</p>
 
