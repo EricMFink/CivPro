@@ -102,7 +102,7 @@ The questions for decision are (1) whether, within the limitations of the due pr
 
 In this case notice of assessment for unpaid contributions for the years in question was personally served upon a sales solicitor employed by appellant in the State of Washington, and a copy of the notice was mailed by registered mail to appellant at its address in St. Louis, Missouri. Appellant appeared specially before the office of unemployment and moved to set aside the order and notice of assessment on the ground that the service upon appellant's salesman was not proper service upon appellant; that appellant was not a corporation of the State of Washington and was not doing business within the state; that it had no agent within the state upon whom service could be made; and that appellant is not an employer and does not furnish employment within the meaning of the statute.
 
-![International Shoe Co., St. Louis, Missouri](../img/IntlShoeBldg2.jpg){width="100%"}
+![International Shoe Co., St. Louis, Missouri]({{ site.baseurl }}/assets/img/casebook/IntlShoeBldg2.jpg){width="100%"}
 
 The facts as found by the appeal tribunal and accepted by the state Superior Court and Supreme Court, are not in dispute. Appellant is a Delaware corporation, having its principal place of business in St. Louis, Missouri, and is engaged in the manufacture and sale of shoes and other footwear. It maintains places of business in several states, other than Washington, at which its manufacturing is carried on and from which its merchandise is distributed interstate through several sales units or branches located outside the State of Washington.
 
@@ -148,17 +148,17 @@ Suppose that Dan, who lives in Ohio, rents a beach house in the Outer Banks from
 
 The suit arises out of Dan's conduct in North Carolina, satisfying the minimum contacts requirement for personal jurisdiction. But there has been no service of process, so the court's power is not yet activated (Fig. 4.1).
 
-![Fig. 4.1](../img/PJ-NoService.png){width="55%"}
+![Fig. 4.1]({{ site.baseurl }}/assets/img/casebook/PJ-NoService.png){width="55%"}
 
 After filing the suit, Pat serves Dan with a copy of the summons and complaint, in a manner authorized, and within the time allowed, under Rule 4. The court's power is now active (Fig. 4.2).
 
-![Fig. 4.2](../img/PJ-Service.png){width="55%"}
+![Fig. 4.2]({{ site.baseurl }}/assets/img/casebook/PJ-Service.png){width="55%"}
 
 Suppose instead that Pat travels from North Carolina to Ohio for a football game between the Carolina Panthers and the Cleveland Browns. Dan, a diehard Browns fan, was sitting behind Pat. Throughout the game, Pat vociferously cheers for the visiting team and mercilessly heckles the Cleveland quarterback. Annoyed with Pat's taunts, Dan pours a large cup of beer over Pat's head, provoking a brawl in which Pat is badly injured. After returning home, having vowed never to return to Ohio again, Pat sues Dan for battery, filing the case in the U.S. District Court for the Eastern District of North Carolina.
 
 In this case, there has been service of process, but the suit does not arise out of any contacts between Dan and North Carolina. So the switch is not connected and the court has no power at all  (Fig. 4.3).
 
-![Fig. 4.3](../img/NoPJ-Service.png){width="55%"}
+![Fig. 4.3]({{ site.baseurl }}/assets/img/casebook/NoPJ-Service.png){width="55%"}
 
 </div>
 
@@ -844,7 +844,7 @@ But if fairness is what Norfolk Southern seeks, pause for a moment to measure th
 
 <div class="figure">
 
-![Norfolk Southern Corp., State Fact Sheets–Pennsylvania (2018)](../img/NorfolkSouthern.png)
+![Norfolk Southern Corp., State Fact Sheets–Pennsylvania (2018)]({{ site.baseurl }}/assets/img/casebook/NorfolkSouthern.png)
 
 </div>
 
@@ -953,13 +953,13 @@ Critics of Daimler and Goodyear may be happy to see them go. And make no mistake
 
 ### Synthesis: Analyzing a Personal Jurisdiction Problem 
 
-![FIg. 4.4](../img/personal-jurisdiction.png)
+![FIg. 4.4]({{ site.baseurl }}/assets/img/casebook/personal-jurisdiction.png)
 
 ## Statutory Authorization: Long-Arm Statutes
 
 Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. There are two types of long-arm statute.
 
-![Robert Wadlow, the tallest human in history, visiting Folsom Prison in 1939 as a spokesman for the International Shoe Company. ](../img/Long-Arm.jpg)
+![Robert Wadlow, the tallest human in history, visiting Folsom Prison in 1939 as a spokesman for the International Shoe Company. ]({{ site.baseurl }}/assets/img/casebook/Long-Arm.jpg)
 
 ### Enumerated Statutes 
 

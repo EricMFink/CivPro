@@ -45,7 +45,7 @@ The bill[^Mottley1] alleged that in September, 1871, plaintiffs, while passenger
 
 [^Mottley1]:
 
-  {-} The remedy that the Mottleys sought was "specific performance", i.e. an order requiring the Railroad to honor the free passes. This is a form a equitable relief, sometimes available instead of money damages, which is the usual legal relief for breach of contract. Prior to the advent of the Federal Rules of Civil Procedure, different procedures applied to suits for equitable relief and suits for legal relief. A suit in equity was commenced by filing a "bill", functionally equivalent to a complaint. You can [read the Mottleys' bill here](../img/Mottley-complaint.pdf).
+  {-} The remedy that the Mottleys sought was "specific performance", i.e. an order requiring the Railroad to honor the free passes. This is a form a equitable relief, sometimes available instead of money damages, which is the usual legal relief for breach of contract. Prior to the advent of the Federal Rules of Civil Procedure, different procedures applied to suits for equitable relief and suits for legal relief. A suit in equity was commenced by filing a "bill", functionally equivalent to a complaint. You can [read the Mottleys' bill here]({{ site.baseurl }}/assets/img/casebook/Mottley-complaint.pdf).
 
 [^Mottley1a]:
 
@@ -681,7 +681,7 @@ One view is that the "same case or controversy" requirement under § 1367(a) is
 
 The contrary view is that the "same case or controversy" requirement under § 1367(a) and the "same transaction or occurrence" standard under Rule 13 are functionally equivalent. Under that view, supplemental jurisdiction over a permissive counterclaim is never allowed. See _Ginwright_.
 
-![Fig. 4.1](../img/joinder_smj.png)
+![Fig. 4.1]({{ site.baseurl }}/assets/img/casebook/joinder_smj.png)
 
 </div>
 
@@ -750,13 +750,13 @@ It follows from this conclusion that the threshold requirement of § 1367(a) is
 
 ### Supplemental Jurisdiction Diagrams 
 
-![Supplemental Jurisdiction](../img/1367.png)
+![Supplemental Jurisdiction]({{ site.baseurl }}/assets/img/casebook/1367.png)
 
-![Supplemental Jurisdiction: Claims by Co-Plaintiffs](../img/1367b_Co-Plaintiffs.png)
+![Supplemental Jurisdiction: Claims by Co-Plaintiffs]({{ site.baseurl }}/assets/img/casebook/1367b_Co-Plaintiffs.png)
 
-![Supplemental Jurisdiction: Claims Against Co-Defendants](../img/1367b_Co-Defendants.png)
+![Supplemental Jurisdiction: Claims Against Co-Defendants]({{ site.baseurl }}/assets/img/casebook/1367b_Co-Defendants.png)
 
-![Joinder & Supplemental Jurisdiction](../img/joinder_smj.png)
+![Joinder & Supplemental Jurisdiction]({{ site.baseurl }}/assets/img/casebook/joinder_smj.png)
 
 ## Removal Jurisdiction
 

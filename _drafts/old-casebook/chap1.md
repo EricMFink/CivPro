@@ -35,7 +35,7 @@ There are two special trial courts that have nationwide jurisdiction over certai
 
 Three territories of the United States— the Virgin Islands, Guam, and the Northern Mariana Islands—have U.S. district courts that hear federal cases, including bankruptcy cases.
 
-![Fig. 1.3](../img/FederalCourtsMap.png){width="90%"}
+![Fig. 1.3]({{ site.baseurl }}/assets/img/casebook/FederalCourtsMap.png){width="90%"}
 
 <p class="case-h2">Appellate Courts</p>
 
@@ -188,9 +188,9 @@ In between courts and psychotherapy there are many other dispute institutions---
 
 Figures 1 and 2 illustrate the stages of a civil suit. 
 
-![Fig. 1.2](../img/CivilAction1.png){width="90%"}
+![Fig. 1.2]({{ site.baseurl }}/assets/img/casebook/CivilAction1.png){width="90%"}
 
-![Fig. 1.3](../img/CivilAction2.png){width="90%"}
+![Fig. 1.3]({{ site.baseurl }}/assets/img/casebook/CivilAction2.png){width="90%"}
 
 Before commencing a suit, a lawyer (in consultation with the client) must decide who will be named as the plaintiff(s) and defendant(s) (Party Joinder), what claims the plaintiff(s) will assert (Claim Joinder), and where to file the suit (Subject Matter Jurisdiction, Personal Jurisdiction, & Venue). Decisions about party and claim joinder may constrain the choice of forum, and vice versa. At some point, it may also be necessary for the court to determine which law---state or federal, and if state law, which state---should apply to the various issues in the case. 
 

@@ -184,7 +184,7 @@ _Fourth_. The defendant contended that by the common law of Pennsylvania as decl
 
 On remand, the Court of Appeals concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. 98 F.2d 49 (2d Cir. 1938).
 
-For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Bryan Frye, ["The Ballad of Harry Tompkins"](../img/Frye-Tompkins.pdf).
+For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Bryan Frye, ["The Ballad of Harry Tompkins"]({{ site.baseurl }}/assets/img/casebook/Frye-Tompkins.pdf).
 
 </div>
 
@@ -536,7 +536,7 @@ Accordingly, the Court will apply the Rule 15 standard in determining whether to
 
 ## Erie-Hanna Diagram 
 
-![Erie-Hanna Analysis](../img/Erie-Hanna.png)
+![Erie-Hanna Analysis]({{ site.baseurl }}/assets/img/casebook/Erie-Hanna.png)
 
 
 ## Review Questions 
