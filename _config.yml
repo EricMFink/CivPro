@@ -4,7 +4,6 @@ title: Civil Procedure
 
 last_updated: 26 March 2024  # leave blank if you don't want to display last updated
 
-
 author:
   name: Eric M. Fink
   positition: Associate Professor
@@ -48,8 +47,6 @@ collections:
 # deployment
 host: localhost
 port: 4000
-
-remote_theme: EricMFink/Akademicky
 
 gems:
   - jekyll-pandoc
