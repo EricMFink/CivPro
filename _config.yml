@@ -34,7 +34,7 @@ coursebook:
   date: August 2023
 
 collections:
-  questions:
+  exams:
     output: true
 
 # -----------------------------------------------------------------------------

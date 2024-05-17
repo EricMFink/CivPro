@@ -35,9 +35,17 @@ This course is intended to prepare you for legal practice by developing the know
 
 ## Required Materials
 
-_Civil Procedure: An Open-Source Casebook_ (2023) ("Casebook"). Available on the course website: [emfink.net/CivilProcedure](http://www.emfink.net/CivilProcedure/casebook).
+### Required
 
-Kevin M. Clermont, _Principles of Civil Procedure_ (6th ed. 2021) ("Hornbook"). Digital version is available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/).
+_Casebook:_ [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website. 
+
+_Course website:_ [emfink.net/CivPro]({{ site.baseurl }}). The website has the casebook (ebook and PDF formats) and links to other resources. 
+
+### Suggested
+
+_Hornbook:_ Kevin_ M. Clermont, _Principles of Civil Procedure_ (6th ed. 2021). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). 
+
+_Study Aid:_ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (9th ed.) or _The Glannon Guide to Civil Procedure_ (5th ed.). 
 
 ## Policies
 
