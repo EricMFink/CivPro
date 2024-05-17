@@ -1,6 +1,6 @@
 ---
 layout: casebook
-chapter-title: Pleading
+title: Pleading
 permalink: /chap6/
 ---
 

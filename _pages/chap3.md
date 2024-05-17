@@ -1,6 +1,6 @@
 ---
 layout: casebook
-chapter-title: Subject Matter Jurisdiction
+title: Subject Matter Jurisdiction
 permalink: /chap3/
 ---
 

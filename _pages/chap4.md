@@ -1,6 +1,6 @@
 ---
 layout: casebook
-chapter-title: Personal Jurisdiction
+title: Personal Jurisdiction
 permalink: /chap4/
 ---
 

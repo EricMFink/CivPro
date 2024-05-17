@@ -1,6 +1,6 @@
 ---
 layout: casebook
-chapter-title: Claim & Issue Preclusion
+title: Claim & Issue Preclusion
 permalink: /chap7/
 ---
 

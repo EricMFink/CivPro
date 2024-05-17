@@ -1,6 +1,6 @@
 ---
 layout: casebook
-chapter-title: Choice of Governing Law 
+title: Choice of Governing Law 
 permalink: /chap5/
 ---
 

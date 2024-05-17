@@ -1,6 +1,6 @@
 ---
 layout: casebook
-chapter-title: Discovery & Summary Judgment
+title: Discovery & Summary Judgment
 permalink: /chap8/
 ---
 

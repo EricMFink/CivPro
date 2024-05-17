@@ -1,6 +1,6 @@
 ---
 layout: casebook
-chapter-title: Joining Parties & Claims
+title: Joining Parties & Claims
 permalink: /chap2/
 ---
 
