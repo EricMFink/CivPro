@@ -44,7 +44,7 @@ There are two special trial courts that have nationwide jurisdiction over certai
 
 Three territories of the United States— the Virgin Islands, Guam, and the Northern Mariana Islands—have U.S. district courts that hear federal cases, including bankruptcy cases.
 
-![Fig. 1.3]({{ site.baseurl }}/assets/img/casebook/FederalCourtsMap.png){width="90%"}
+![Fig. 1.3]({{ site.baseurl }}/assets/img/casebook/FedCourtsMap.png){width="90%"}
 
 <p class="case-h2">Appellate Courts</p>
 
