@@ -19,7 +19,7 @@ The standard for determining whether a contractual choice of forum clause in a c
 
 _Should the court apply state or federal law in deciding whether to enforce the forum selection clause?_
 
-# Model Answer
+## Model Answer
 
 Two federal statutes, the Rules of Decision Act (RDA) and the Rules Enabling Act (REA) govern the choice between state and federal law in federal court. The Supreme Court has developed different analytical approaches, depending on which of these statutes controls the choice.
 
@@ -60,4 +60,3 @@ If the federal rule here was from a federal statute, the analysis would be simil
 The first question would be whether there is a direct conflict between the federal and state rule. Under state law, the forum selection clause will be unenforceable, while under federal law, it will be enforceable. The rules are thus in direct conflict.
 
 The next question would be whether the statute establishing the federal rule was a valid exercise of legislative power under the constitution. Assuming Congress has the constitutional authority (for example, under the contracts or commerce clause) to adopt a statute on the enforceability of contractual choices of forum, the statute will be valid and controlling by virtue of the supremacy clause.
-

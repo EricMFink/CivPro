@@ -7,7 +7,9 @@ subtitle: Joinder & Subject Matter Jurisdiction
 
 ---
 
-## Part A
+## Questions
+
+### Part A
 
 Peter Parker, a lifelong resident of Pennsylvania, was reviewing his credit card bill and noticed a $100 charge for a subscription to the Daily Bugle, a newspaper published in New York (where it is incorporated and has its sole place of business). Parker had never subscribed to the Daily Bugle, and never received any copies of the paper. However, he recalled that, a few months earlier, he had visited the Bugle’s website and ordered a t-shirt with the paper’s stylish logo (pictured below). 
 
@@ -34,7 +36,7 @@ Parker bring his suit in the U.S. District Court for the Southern District of Ne
 
 2. Does the federal court have subject matter jurisdiction over the suit?{% sidenote "sidenote-id" "Assume that the court has personal jurisdiction over any additional parties and do not discuss that issue." %}
 
-## Part B
+### Part B
 
 Regardless of your answer to the previous question, assume that the federal court had subject matter jurisdiction over the suit as initially filed. For each of the following additional claims, explain (i) whether joinder would be proper under the Federal Rules of Civil Procedure, and (ii) whether the federal court would have subject matter jurisdiction over the claim. 
 
@@ -46,9 +48,9 @@ Regardless of your answer to the previous question, assume that the federal cour
  
 4. A claim by the Bugle against ZF Corp. (incorporated and having its principal place of business in New York), which manufactured the Bugle t-shirts, for indemnification on Parker’s personal injury claim (assume, regardless of your answer to the previous question, that Parker’s personal injury claim against the Bugle is properly joined). 
 
-# Model Answers
+## Model Answers
 
-## Part A
+### Part A
 
 1. Joinder of Co-Defendants 
 
@@ -74,9 +76,9 @@ To satisfy the amount in controversy requirement, it must be legally possible fo
 
 Supplemental jurisdiction permits a federal court to hear an otherwise non-jurisdictional claim where it forms part of the same constitutional case or controversy as a claim over which the federal court has subject matter jurisdiction. Sec. 1367(a). This requirement is satisfied where the claims share a common nucleus of operative fact (CNOF). Here, Parker’s federal CCPA claim and his state UDAP claim are based on the same underlying facts, i.e. the alleged fraudulent charge to his credit card. Where the sole basis for the federal court’s original jurisdiction is diversity, sec. 1367(b) restricts the exercise of supplemental jurisdiction over certain claims (to prevent parties from evading the complete diversity requirement under sec. 1332). Because Parker asserts a federal CCPA claim here, sec. 1367(b) does not apply. The court may exercise supplemental jurisdiction over the UDAP claim. 
 
-## Part B
+### Part B
 
-### B.1: Brant v. Bugle (wrongful discharge)
+_1: Brant v. Bugle (wrongful discharge)_
 
 It is likely that Brant may intervene as a co-plaintiff against the Bugle; if so, the court could exercise supplemental jurisdiction over her claim. 
 
@@ -84,21 +86,20 @@ Rule 24(b)(1)(B) permits someone who "has a claim or defense that shares with th
 
 Brant's claim arises under state law, not federal law. The court would not have diversity jurisdiction over that claim, because the amount in controversy is only $50,000. However, the court may exercise supplemental jurisdiction. Brant’s claim and Parker’s claims share a CNOF, i.e. the facts pertaining to the fraudulent credit card charges. Section 1367(b) does not apply, because original jurisdiction over the action is based on a federal question (Parker’s CCPA claim). 
 
-### B.2: Bugle v. Jameson (breach of contract)
+_2: Bugle v. Jameson (breach of contract)_
 
 Rule 13(g) permits crossclaims between co-parties if those claims arise from the same transaction or occurrence that is the subject of the original action. Here, the Bugle and Jameson are co-defendants. The Bugle’s claim against Jameson is logically related to Parker’s original claims against the defendants: the claims all arise from the same alleged conduct by Jameson concerning the unauthorized credit card charges. 
 
 The breach of contract claim arises under state law, and both the Bugle and Jameson are citizens of NY. Consequently, the court would have neither federal question nor diversity jurisdiction over the crossclaim. However, the crossclaim shares a CNOF with Parker’s claims, again the facts surrounding the unauthorized charges. Sec. 1367(b) does not apply, because the court has original jurisdiction based on Parker’s federal claim. Even if diversity were the sole basis for original jurisdiction, sec. 1367(b) does not apply to crossclaims between co-defendants. Consequently, the lack of diversity between the Bugle and Jameson does not preclude the exercise of supplemental jurisdiction over the crossclaim. 
 
-### B.3. Parker v. Bugle (personal injury)
+_3: Parker v. Bugle (personal injury)_
 
 Under Rule 18(a), a party asserting a claim may join any other claim it has against the same opposing party. Joinder of claims under Rule 18(a) does not require that the claims arise from the same T/O or share any common question of law or fact. Accordingly, having asserted the CCPA and UDAP claims against the Bugle, Parker may also join his personal injury claim under Rule 18(a). 
 
 The court would not have supplemental jurisdiction over the personal injury claim, because it does not share a CNOF with Parker’s CCPA & UDAP claims. Even though all three claims ultimately arose from Parker’s visit to the Bugle website, that is too slender of a factual nexus to satisfy sec. 1367(a). The personal injury claim is based on a fundamentally distinct injury with a fundamentally distinct cause, having no logical relationship to the CCPA and UDAP claims. Accordingly, while Rule 18(a) will permit joinder, Parker may bring that claim only if it independently satisfies federal subject matter jurisdiction. There is no federal question jurisdiction over the personal injury claim, which arises under state law. The sole basis for SMJ is diversity, which is satisfied here. As discussed above, Parker is a citizen of PA, while the Bugle and Jameson are citizens of NY. Joining the personal injury claim to the CCPA & UDAP claims brings the total amount in controversy to $75,300, which exceeds the statutory requirement.
 
-### B.4. Bugle v. ZF Corp. (indemnification)
+_4: Bugle v. ZF Corp. (indemnification)_
 
 The Bugle’s claim for indemnification asserts that, in the event the Bugle is found liable to Parker for his injuries caused by the t-shirt, ZF Corp. will be liable to the Bugle for all or part of the Bugle’s liability to Parker. Rule 14(a) permits a defendant to implead a third-party defendant for such a claim. Accordingly, joinder of ZF Corp. as a third-party defendant is proper. Rule 18(a) would then permit the Bugle also to assert any other claims it may have against ZF, for instance a claim for reimbursement for t-shirts that the Bugle is unable to sell because of the defect. 
 
 The Bugle and ZF are both citizens of NY. Consequently, regardless of the amount of indemnification to which the Bugle may be entitled, there would be no diversity jurisdiction over that claim. However, the court may exercise supplemental jurisdiction. By definition, a Rule 14(a) third-party claim shares a CNOF with the underlying plaintiff’s claim. The third-party defendant’s liability depends on the same facts giving rise to the primary defendant’s liability to the plaintiff. If the Bugle relied on Rule 18(a) to assert some additional claim against ZF pertaining to the defective t-shirts, that would also share a CNOF with Parker’s personal injury claim, since the facts about the defect would be common to these claims. Once again, even if diversity were the only basis for original jurisdiction here, sec. 1367(b) does not apply to claims by a defendant against a Rule 14 third-party defendant. Accordingly, the court may exercise supplemental jurisdiction. 
-

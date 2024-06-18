@@ -7,7 +7,7 @@ subtitle: Pleadings & Preclusion
 
 ---
 
-## Part A
+### Part A
 
 Healthway, Inc. ("Healthway") produces non-dairy alternatives to milk, yogurt, and other dairy products, which it advertises and distributes throughout the US. 
 
@@ -33,7 +33,7 @@ The complaint seeks damages on behalf of PHFC members who purchased Healthway's 
 
 If Healthway moves to dismiss the complaint for failure to state a claim under the NC TIFLA statute, how should the court rule? (Approx. 3000-6000 words)
 
-## Part B
+### Part B
 
 Regardless of your answer to the previous questions, assume that Healthway does not move to dismiss and instead answers the complaint, denying that the branding or labeling of its products is false or misleading, and asserting claim preclusion as an affirmative defense. 
 
@@ -47,13 +47,13 @@ In a previous case, decided about a year before, an individual plaintiff, Virgil
 
 Does the judgment in the prior Virginia suit preclude PHFC's claim? (Approx. 3000-4500 characters)
 
-## Part C
+### Part C
 
 Assuming (regardless of your answer to the previous question) that PHFC's claim is not precluded, does the judgment in the prior suit preclude Healthway from contesting the issues of whether Healthway's branding and labeling of its products violate FDA regulations and constitute unfair or deceptive practices under the NC TIFLA statute? (Approx. 3000-4500 characters)
 
-# Model answers
+## Model Answers
 
-## Part A
+### Part A
 
 FRCP Rule 8(a) sets out the requirements for stating a claim: (1) a statement of the court's jurisdiction, (2) a statement of the claim showing an entitlement to relief, and (3) a demand for the relief sought. Rule 9(b) imposes a heightened standard for allegations of fraud or mistake, which "must state with particularity the circumstances constituting fraud or mistake". A motion to dismiss for failure to state a claim under Rule 12(b)(6) asserts that the claimant has not satisfied the requirents under Rule 8(a)(2) and Rule 9. 
 
@@ -67,25 +67,25 @@ Healthway might argue that a claim of "false or deceptive" labeling amounts to a
 
 Because the complaint includes sufficient factual allegations to support a plausible finding of liability under the NC TIFLA statute, and because the allegations are sufficiently detailed to satisfy the heightened pleading requirement under Rule 9(b), the court should deny the motion to dismiss. 
 
-## Part B
+### Part B
 
 Claim preclusion bars the assertion of any claims decided in a prior action between the same parties, if the prior action ended in a valid and final judgment on the merits. 
 
-### Requirements for Claim Preclusion 
+**Requirements for Claim Preclusion**
 
-#### Same Parties 
+_Same Parties _
 
 The first requirement is that the party asserting the claim and the party against whom the claim is asserted are the same in both actions. Healthway was the defendant in the VA suit and is again the defendant in the NC sut. However, the plaintiff in the prior suit was Vance, an individual, suing on his own behalf. The plaintiff here is PHFC, an organization suing on behalf of its members. 
 
 While Vance is a PHFC member, and was represented by the same lawyer as PHFC, this isn't enough to make him and PHFC the same party for preclusion purposes. There is nothing in the facts to suggest that Vance brought the previous action as a representative or agent of PHFC or its other members; nor is there anything to suggest that PHFC had any control over or involvement in the VA suit. At most, the judgment in the prior suit might preclude a new claim on behalf of Vance himself. It will not preclude a claim by PHFC on behalf of its other members. 
 
-#### Same Claim 
+_Same Claim_
 
 The next requirement is that the claims in the two actions are the same. Under the modern "transactional" approach, preclusion applies not only to the specific claims asserted and decided in the prior action, but to any other claims arising from the same transaction or occurrence. Other approaches limit the scope of preclusion to claims involving the same harm or same wrongful conduct. Under any of these approaches, there is an exception for claims that could not have been asserted in the prior action, because of jurisdictional or other limits.
 
 Under any of the common approaches (transactional, same harm, or same wrongful conduct), the claims here are probably not the same for preclusion purposes. While the claims involve the same conduct by Healthway (i.e. its labeling of the products) and same general type of harm (consumer deception), they arise from from different transactions/occurrences: different purchases by different consumers in different states. 
 
-#### Valid & Final Judgment on the Merits 
+_Valid & Final Judgment on the Merits_ 
 
 The last requirement is that the prior judgment was valid, final, and on the merits. 
 
@@ -95,40 +95,40 @@ A judgment is final when there is nothing remaining for the court to do. Jurisdi
   
 A judgment is on the merits when it is not based on jurisdictional or other procedural grounds. A final judgment in favor of the plaintiff is, by its very nature, on the merits. In this case, the VA court entered a final judgment in favor of Vance. That judgment was on the merits. 
 
-### Conclusion 
+**Conclusion**
 
 Because the claimants in the VA and NC suits are not the same, and because the claims arise from different transactions by different consumers, claim preclusion will not apply. 
 
-## Part C
+### Part C
 
 Like claim preclusion, issue preclusion serves the interests of economy, finality, and fairness. Unlike claim preclusion, issue preclusion applies to specific factual or legal issues, rather than to an entire claim. The effect of issue preclusion is that the issue is deemed to be decided in the same way as in the prior suit. This may narrow the issues for trial, or dispose of a claim altogether if disposition of the issue means that one or the other party must prevail as a matter of law. 
 
 As with claim preclusion, for issue preclusion to apply the prior judgment must be valid & final; however it does not have to be on the merits (e.g. a prior judgment dismissing a claim for lack of personal jurisdiction may preclude relitigation of the issue of personal jurisdiction, or the underlying facts on which the prior determination rested). The same issue of fact or law must have been actually litigated and necessarily decided. In contrast to claim preclusion, issue preclusion does not necessarily require that both parties be identical in both actions. Non-mutual issue preclusion--asserted against someone who was a party in the prior action by someone who was not--is sometimes allowed. 
 
-### Requirements for Issue Preclusion 
+**Requirements for Issue Preclusion**
 
-#### Valid & Final Prior Judgment 
+_Valid & Final Prior Judgment_
 
 The requirement of a valid and final prior judgment is the same as for claim preclusion. As noted above, the VA judgment was valid and final.
 
-#### Same Issue 
+_Same Issue_ 
 
 Issue preclusion may apply to issue of fact and issues of law. In this case, the issue of whether Healthway's product branding and labeling violates FDA regulations is the same as in the prior VA suit, which involved the same products with the same branding and labeling. 
 
 The issue of whether the branding and labeling are false or deceptive under the NC TIFLA statute may seem superfically new, since the prior suit was based on the VA statute. However, in reality this issue is also the same. The provisions of the two statutes are identical. Under both statutes, food labels that violate FDA regulations are deemed to be false or misleading. In the prior suit, the VA court determined that Healthway's branding and labeling of its products violate FDA regulations. Given that determination, the branding and labeling are deemed to be false or misleading under the NC statute. 
 
-#### Actually Litigated & Necessarily Decided 
+_Actually Litigated & Necessarily Decided_ 
 
 An issue is actually litigated when the party against whom the issue was decided contested it and presented evidence, either in a motion for summary judgment or at trial. An issue is necessarily decided when the disposition of the issue was essential to support the judgment. If a different determination of the issue would not have meant a different outcome, the prior judgment will not have preclusive effect on that issue. 
 
 In this case, both requirements are satisfied. The problem says that the case went to trial. There is nothing to suggest that Healthway stipulated or otherwise failed to contest the assertion that its branding and labeling violated FDA regulations and were thus false or deceptive. The issue was thus actually litigated. The judgment in favor of Vance specifically rested on the court's conclusion that the branding and labeling violated FDA regulations. Had the court determined that the branding and labeling complied with FDA regulations, Healthway would have prevailed in the suit (since there was no other apparent basis on which to find the branding or labeling was false or deceptive). As such, the issue was necessarily decided.  
 
-#### Non-Mutuality 
+_Non-Mutuality_ 
 
 While claim preclusion requires identify of both parties in both actions, issue preclusion may sometimes be asserted non-mutually, that is by someone who was not a party to the prior action against someone who was (but not by someone who was a party to the prior action against someone who was not). Courts generally allow defensive non-mutual issue preclusion, i.e. where the new party asserts issue preclusion to defend against a claim by the repeat party. Courts sometimes also allow offensive non-mutual issue preclusion, i.e. where the new party asserts issue preclusion to establish part of their claim against the repeat party. In the latter case, courts consider various factors, such as whether the new party could have joined in the prior action but chose not to do so to gain an unfair advantage, whether there were any procedural limitations in the prior forum that prevented the repeat party from fully contesting the issue, or whether the stakes in the prior action were such that the repeat party had little or no incentive to do so. 
 
 In this case, PHFC, which (as discussed above) was not a party to the prior action, would assert issue preclusion against Healthway, which was a party in the prior action. PHFC would do so to establish part of its TIFLA claim. This is an example of offensive non-mutual issue preclusion. The NC court may allow this, depending on its assessment of the fairness factors. Weighing against PHFC would be the fact that it may have known about the VA suit (since Vance is a member and he was represented by the same lawyer) and probably could have joined in the prior action to assert claims on behalf of its members then (though the Virginia court may have lacked jurisdiction over, or been an improper venue for, claims arising from purchases in NC). On the other hand, there is no indication that there were any procedural limits on Healthway's ability to contest the issues (the same procedural and evidentiary rules apply in both the VA and NC federal courts). Nor were the stakes in the prior suit so limited--particularly since Healthway should have anticipated that a verdict in favor of Vance would inspire similar suits by other consumers--that Healthway wouldn't have been motivated to contest the issues fully in that case. 
 
-### Conclusion 
+**Conclusion** 
 
 The same issues were actually litigated and necessarily decided in the prior suit, and the prior judgment was valid and final. Healthway may thus be precluded from contesting these issues, if the NC court concludes that the fairness factors permit offensive non-mutual issue preclusion in this case. 

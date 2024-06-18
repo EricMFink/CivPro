@@ -7,13 +7,15 @@ subtitle: Personal Jurisdiction
  
 ---
 
+## Question
+
 Easycredit Mortgage Co., a Delaware corporation headquartered in Pennsylvania, brought a lawsuit in Pennsylvania court against Sprawlin Development Partnership, a business partnership organized under the laws of North Carolina and doing business exclusively in that state. Easycredit alleges that Sprawlin owes $250,000 pursuant to a loan agreement between the two entities. Sprawlin sought the loan agreement to secure the funding necessary to develop a residential development in Greensboro, North Carolina. The agreement had been negotiated and signed on behalf of Easycredit by its regional account representative in North Carolina.
 
 Under the agreement, Sprawlin was required to request funds from Easycredit as needed during the construction project. Those requests were made by telephone to Easycredit’s Pennsylvania headquarters. After the project was completed, Sprawlin sent interest payments to Easycredit in Pennsylvania. The loan agreement also required Sprawlin to send progress and operating reports on the project to Easycredit in Pennsylvania. The agreement contained a provision specifying that Pennsylvania law would govern any disputes arising out of the agreement, but did not specify where any such disputes should be brought. 
 
-If Sprawlin moves to dismiss the complaint for lack of personal jurisdiction in Pennsylvania, how should the court rule?
+_If Sprawlin moves to dismiss the complaint for lack of personal jurisdiction in Pennsylvania, how should the court rule?_
 
-# Model Answer 
+## Model Answer 
 
 Under the "minimum contacts" standard for personal jurisdiction over a non-resident defendant, the focus is on whether the defendant's contacts with the forum state are sufficient that requiring the defendant to litigate in that state would not offend "traditional notions of fair play and substantial justice". If so, and if the suit arises out of those contacts, there is a presumption in favor of jurisdiction. The burden then shifts to the defendant to overcome that presumption, by identifying special circumstances that would make jurisdiction unreasonable despite the contacts. 
 

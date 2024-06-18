@@ -7,7 +7,9 @@ subtitle: Joinder & Jurisdiction
 
 ---
 
-## Part A
+## Questions 
+
+### Part A
 
 Angelica Sanchez is a citizen of Mexico, where she lives with her boyfriend, Arturo Quiñonez (also a Mexican citizen). Angelica’s two children, Roberto (age 10) & Carmen (age 7) lived with the couple until one year ago, when their aunt, Miriam Lopez (also a Mexican citizen), brought them across the border to El Paso, Texas. Lopez did so without Angelica’s knowledge. When Sanchez learned what had happened, she contacted Lopez and demanded that she bring the children home to Mexico. Lopez refused, believing that the children would not be safe if they returned home, because Quiñonez was involved in drug trafficking. Instead, Lopez contacted the Texas Department of Children’s Services (“DCS”), explaining that she feared for the children’s safety, but was unable to care for them herself. DCS took custody of the children and placed them in the temporary care of the South Texas Children’s Home (“STCH”, a non-profit corporation incorporated and having its sole place of business in Texas). Lopez then returned home to Mexico. 
 
@@ -17,15 +19,15 @@ Sanchez files a lawsuit in the U.S. District Court for the Western District of T
 
 Are Lopez and STCH properly joined as co-defendants? 
 
-## Part B
+### Part B
 
 May the Texas federal court exercise personal jurisdiction against the defendants (assume that the Texas long-arm statute provides for jurisdiction to the full extent permitted under the Constitution)?
 
-## Part C
+### Part C
 
 Are the ICARA and state-law tort claims properly joined and does the federal court have subject-matter jurisdiction over the suit? 
 
-## Part D
+### Part D
 
 Assume that the claims against Lopez and STCH are properly joined, and that the court has both subject matter and personal jurisdiction. For each of the following claims, explain (i) whether joinder would be proper, and (ii) whether the federal court would have subject matter jurisdiction:
 
@@ -36,15 +38,15 @@ Assume that the claims against Lopez and STCH are properly joined, and that the 
 3. A state law claim by STCH against DCS for reimbursement of $80,000 in expenses that STCH has incurred in the course of caring for children (other than the Sanchez children) placed in its care by DCS. 
 
 
-# Model Answer
+## Model Answers
 
-## Part A
+### Part A
 
 FRCP Rule 20 permits the joinder of multiple plaintiffs or defendants if: (1) the claims by/against the co-parties, arise from the same (series of) transaction(s) or occurrence(s), and (2) the claims share at least one common question of law or fact. The first requirement is satisfied where the transactions or events giving rise to the claim are logically related in time, subject-matter, or other relevant respects.  
 
 Here, the claims against Lopez & STCH arise from the same sequence of events: Lopez’s bringing the children from Mexico to Texas, where they were taken into DCS custody and placed under the care of STCH. This satisfies the first requirement for joinder under Rule 20. The claims will also share common questions of law & fact concerning the circumstances under which the children were brought to the US and the liability of the two defendants under ICARA and state tort law. This satisfies the second requirement for joinder under Rule 20. Joinder of the two co-defendants is proper here.
 
-## Part B
+### Part B
 
 A court may exercise personal jurisdiction over a non-resident defendant if the defendant has minimum contacts with the forum state, such that the exercise of jurisdiction does not offend traditional notions of fair play and substantial justice. A two-part analysis applies: First, a court assesses the defendant’s contacts with the forum state, and their connection to the cause of action. Second, the court considers whether there are special circumstances making the exercise of jurisdiction so unreasonable as to offend due process. 
 
@@ -58,7 +60,7 @@ The reasonableness analysis balances various interests at stake in the choice of
 
 The inconvenience and expense of traveling from Mexico to Texas is not enough to make jurisdiction over Lopez unreasonable. See Burger King. Sanchez, who also lives in Mexico, has chosen to sue in Texas, where she can obtain the relief she seeks. Texas has an interest in this case, which involves the custody and legal status of children currently in the state. Mexico’s interest in a custody dispute involving Mexican children is probably not so much greater as to outweigh the interests favoring Texas as a forum. Compare Asahi (exercise of jurisdiction unreasonable where original plaintiff had settled his claim and thus had no remaining interest in the caser, and where the only remaining indemnification claim between two overseas companies with no significant impact on the forum-state’s interests). 
 
-## Part C
+### Part C
 
 Rule 18 permits the a party join as many claims as it has against an opposing party, whether related or not. Having asserted an ICARA claim against Lopez, Sanchez may join her state tort claims under Rule 18. 
 
@@ -70,21 +72,21 @@ Federal courts may also exercise supplemental jurisdiction over state-law claims
 
 The claims in this case share a common nucleus of operative fact, i.e. Lopez’s bringing the children from Mexico to Texas. Because the court has original jurisdiction over the ICARA claim under § 1331, the limitations under § 1367(b) do not apply, so the fact that Sanchez and Lopez are both citizens of Mexico will not preclude the exercise of supplemental jurisdiction. 
 
-## Part D
+### Part D
 
-### D.1
+_D.1_
 
 Rule 13(g) permits a party to assert a crossclaim against a co-party, if the claim arises from the same transaction or occurrence that is the subject matter of the original action. Here, STCH and Lopez are co-defendants. The contribution claim arises from the same occurrence as the underlying claims by Sanchez: i.e. in the event STCH is found liable to Sanchez, STCH seeks to hold Lopez liable for all or part of any damages that STCH must pay to Sanchez. Rule 13(g) specifically identifies such a claim as a valid crossclaim. 
 
 The court might have diversity jurisdiction over the crossclaim. STCH is a citizen of Texas and Lopez is a citizen of Mexico. But it is unclear whether the amount in controversy on the crossclaim would exceed $75,000. Regardless, the court may exercise supplemental jurisdiction over that claim. Since the crossclaim arises from the same occurrence as the original action, it forms part of the same case or controversy, satisfying § 1367(a). The limitation on supplemental jurisdiction under § 1367(b) does not apply where the court has federal question jurisdiction over the original action, and in any event does not apply to crossclaims between co-defendants. 
 
-### D.2
+_D.2_
 
 Rule 14(a) permits a defendant to implead a third party for a claim seeking contribution or indemnification on a claim against the initial defendant. STCH may therefore implead DCS to seek indemnification on the tort claims by Sanchez against STCH. 
 
 The indemnification claim shares a common nucleus of operative fact with the original claims by Sanchez: i.e. the facts surrounding the children’s being taken from Mexico to Texas where DCS placed them in the care of STCH. This satisfies the requirement for supplemental jurisdiction under § 1367(a). The limitation on supplemental jurisdiction under § 1367(b) does not apply here, because the court has federal question jurisdiction over the original action, and § 1367(b) does not apply to third-party claims by a defendant. 
 
-### D.3
+_D.3_
 
 Once STCH impleads DCS with a valid third-party claim for indemnification, Rule 18 then permits STCH to assert any other claims it has against DCS. Joinder under Rule 18 does not require any relationship among claims. However, the court must have subject matter jurisdiction. 
 
@@ -93,4 +95,3 @@ The claim by STCH against DCS for reimbursement of expenses unrelated to the San
 Nor is there any independent basis for SMJ over this claim. Since the reimbursement claim arises under state law, the court would not have federal question jurisdiction. STCH and DCS are both citizens of Texas, so the court would not have diversity jurisdiction. 
 
 Consequently, while joinder is permitted under Rule 18, STCH may not assert that claim in this suit, because the federal court would lack subject matter jurisdiction. 
-

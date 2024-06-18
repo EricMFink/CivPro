@@ -7,17 +7,19 @@ subtitle: Joinder & Subject Matter Jurisdiction
   
 ---
 
+## Questions 
+
 Mrs. Claypool (a citizen of Pennsylvania), an aspiring society matron, hears that the director of the New York Opera Company, Herman Gottlieb (a citizen of NY), is seeking a patron. Claypool believes this is a perfect way to enhance her standing in society. She hires Otis Driftwood (a citizen of NY) to act as her agent in negotiating a deal with Gottlieb, under which Claypool will donate $500,000 to the Opera Company so it can hire Rodolfo Lassparri (a citizen of NY), the greatest tenor in the world. In exchange, Gottlieb agrees to name the Opera House after Claypool. 
 
 Driftwood goes to meet Lassparri, intending to sign him to a contract with the Opera Company to close the deal between Claypool & Gottlieb. Along the way, he meets Fiorello (a citizen of NY), a genial con artist, who tricks Driftwood into signing Lassparri's rival, Baroni (a citizen of NY), instead. When Gottlieb discovers what has happened, he renegs on his agreement to name the Opera House after Claypool. 
 
 A furious Claypool sues Gottlieb for breach of contract, seeking restitution of the $500,000 she donated to the Opera Company. She also sues Driftwood for breach of contract over his role in the Lasparri fiasco, seeking $100,000 in damages. Claypool brings her suit in federal court. 
 
-## Part A
+### Part A
 
 Is joinder of Gottlieb and Driftwood as defendants proper under the FRCP, and does the federal court have subject matter jurisdiction over the claims?
 
-## Part B 
+### Part B 
 
 For each of the following additional claims, explain whether joinder is proper under the FRCP and whether the federal court would have subject matter jurisdiction: 
 
@@ -43,9 +45,9 @@ For each of the following additional claims, explain whether joinder is proper u
 
 11. A claim by Claypool against Baroni for battery, based on his pelting her with rotten tomatoes in retaliation for her statement. 
 
-# Model Answer 
+## Model Answers
 
-## Part A: Joinder of Gottlieb and Driftwood as co-defendants
+### Part A: Joinder of Gottlieb and Driftwood as co-defendants
 
 Joinder is proper under Rule 20(a)(2). The rule permits joinder of co-defendants if (A) the plaintiff asserts at least one claim against each co-defendant arising out of the same (series of) transaction(s) or occurence(s) ("same T/O"), and (B) the claims involve _at least one_ common question of law _or_ fact. Claims arise out of the same transaction or occurrence when they are logically related in some way that it makes practical sense to treat them as part of the same dispute. 
  
@@ -54,7 +56,7 @@ Claypool is asserting a claim against each defendant arising out of the same T/O
 Since Claypool's breach of contract claims arise under state law, the relevant basis for subject matter jurisdiction is diversity. This requires (1) that the plaintiff and defendant must be citizens of different states (and if there are multiple plaintiffs or defendants, that there be no common state of citizenship between any plaintiff and any defendant), and (2) and amount in controversy greater than $75,000. Since there is complete diversity between Claypool (PA) on the plaintiff's side and Gottlieb & Driftwood (both NY) on the defendants' side, and since Claypool seeks more than $75,000 from each defendant, the court has diversity jurisdiction. 
 
 
-## Part B 
+### Part B 
 
 1. Claim by Driftwood against Claypool for breach of contract.
 

@@ -6,7 +6,9 @@ title: Practice Exam Question 1
 subtitle: Pleadings
 ---
 
-## Part A
+## Questions
+
+### Part A
 
 Vesuvius, a health insurance company, offers a managed care plan, under which members who receive covered medical treatment from participating providers incur no out-of-pocket costs, and the company reimburses the doctors for the covered treatment at rates set by the company. 
 
@@ -38,7 +40,7 @@ Bonner files a suit on behalf of West against Vesuvius in the U.S. District Cour
 
 In response to the complaint, Vesuvius files a motion to dismiss under FRCP Rule 12(b)(6). Should the court grant the motion to dismiss?
 
-## Part B
+### Part B
 
 Assume that, in a case decided one year before Bonner filed the West's suit, the U.S. Court of Appeals for the Fourth Circuit held that a federal statute, the Health Insurance Company Competition & Unfair Practices Act (“HICCUP”), provides the exclusive remedy for unfair or deceptive practices associated with a health insurance plan, and that all state-law claims are preempted. The Fourth Circuit is the only federal appellate court to have decided whether HICCUP preempts state-law claims; federal district courts outside the Fourth Circuit have been divided on the issue.
 
@@ -46,9 +48,9 @@ Based on the controlling Fourth Circuit precedent, the District Court dismisses 
 
 Should the court grant the motion for sanctions on either ground?
 
-# Model Answers
+## Model Answers
 
-## Part A
+### Part A
 
 A Rule 12(b)(6) motion seeks dismissal of a complaint for failure to satisfy Rule 8(a)(2).1 A court will dismiss under Rule 12(b)(6) where the allegations in the complaint are legally insufficient to show that the defendant may be held liable. FRCP Rule 8(a)(2) sets the basic requirement for sufficiency of a complaint: it must contain “a short and plain statement of the claim showing that the pleader is entitled to relief.” For allegations of fraud, Rule 9(b) adds a heightened standard, requiring that the pleading “must state with particularity the circumstances constituting fraud …” At a minimum, the plaintiff must identify the allegedly fraudulent statements or conduct by the defendant, and explain why they were fraudulent. 
 
@@ -60,7 +62,7 @@ The allegations of false and misleading representations are akin to allegations 
 
 In Iqbal, the plaintiffs didn’t allege any facts to establish a discriminatory intent by the Attorney General, as required to hold him liable. The mere fact that the plaintiffs fit an ethnic & religious profile was insufficient, in the Court’s opinion, to support an inference of discriminatory intent, against the alternative, non-culpable explanation that the Attorney General ordered the detentions based on non-discriminatory law enforcement considerations. In contrast, given the facts alleged in West's complaint, no inferential leap is required to conclude that Vesuvius did not pay reimbursements as represented. Accordingly, the court should deny the motion to dismiss. 
 
-## Part B
+### Part B
 
 The purpose of Rule 11 is to deter frivolous, bad faith, or abusive litigation. Rule 11(b) enumerates standards for pleadings and motions: they must not be presented for an improper purpose; must not assert frivolous claims or defenses; and must not contain unfounded allegations or denials of fact. Rule 11(c) allows a court, either on motion by a party or on the court’s own initiative, to impose sanctions against an attorney or party whose pleading or motion violates the standards under Rule 11(b). A court has broad discretion in the choice of sanction, provided it serves the deterrent goal of Rule 11. A motion for sanctions must be made separately from any other motion, and must specify the conduct alleged to violate Rule 11(b). The party served with a Rule 11 motion has 21 days in which to correct or withdraw the pleading and avoid imposition of sanctions (though the court may still order payment of expenses and attorney’s fees incurred by the moving party). 
 

@@ -7,7 +7,9 @@ subtitle: Jurisdiction
 
 ---
 
-## Part A
+## Questions 
+
+### Part A
 
 Burnley Mills, a textile manufacturing company incorporated and headquartered in the State of Ealing, hired Sidney Stratton as a chemist in its stain prevention research and development department. Stratton left her long-time home in the State of Pinewood and moved to Ealing when she started work at Burnley. She is unsure how long she will remain with the company, as she has considered returning to school at Pinewood State University to pursue a doctorate in chemistry.
 
@@ -21,7 +23,7 @@ Two weeks after DuMond files its suit and serves the defendants with process, th
 
 You are a clerk for the federal judge assigned to the case. Draft a memo indicating how the court should rule on the motion to remand. (You may assume that both defendants are subject to personal jurisdiction, and should not discuss that issue.)
 
-## Part B 
+### Part B 
 
 To promote sales of Impervitex, Burnley places advertisements in various national fashion publications, such as Vogue and GQ, aimed at both clothing designers and consumers. As with all its products, Burnley sells Impervitex through an independent distributor, Fabricorp (incorporated and headquartered in Ealing). Barry Lyndon, Inc., a clothing design and manufacturing company incorporated and headquartered in the State of Cackalacky, orders several thousand yards of Impervitex through Fabricorp, for use in its new line of women’s clothing. For many years, Barry Lyndon has exclusively used Burnley fabrics in its designs, because they are known for being of particularly high quality. All Barry Lyndon garments include a label identifying the fabric as being manufactured by Burnley. Barry Lyndon sells its clothing through its flagship boutique in Gotham City (located in the State of Gotham), and through select retailers in other states (which do not include Ealing).
 
@@ -29,11 +31,11 @@ Barry Lyndon launches its new women’s clothing line featuring Impervitex at th
 
 Devastated by the adverse publicity, Klutz hires you to represent her in a defective product suit against Barry Lyndon and Burnley Mills. Assume that the long-arm statutes in both Ealing and Gotham authorize the exercise of jurisdiction to the full extent permitted under the Constution. In which state(s) may Klutz file her suit against both defendants?
 
-# Model Answer
+## Model Answers
 
-## Part A
+### Part A
 
-### Standard & Procedures for Removal & Remand
+_Standard & Procedures for Removal & Remand_
 
 Removal of a case from state to federal court is proper where the complaint states claims within federal subject matter jurisdiction, so that it could have been filed in federal court to begin with. Where the sole basis for federal subject matter jurisdiction is diversity of citizenship, removal is not allowed if any defendant is a citizen of the forum state. But where the complaint states a claim arising under federal law, removal is permitted without regard to the citizenship of the defendants. 
 
@@ -41,7 +43,7 @@ To remove a suit, the defendant files a notice of removal with the federal court
 
 If a plaintiff believes a suit has been removed improperly, they may move for remand to state court. Where a motion to remand is based on a lack of federal SMJ, there is no time limit. Otherwise the motion must be filed within 30 days of the notice of removal. Here, the remand motion is based on lack of jurisdiction, so there is no issue of timeliness.
 
-### Subject Matter Jurisdiction
+_Subject Matter Jurisdiction_
 
 Under 28 U.S.C. sec. 1332, a federal court has SMJ over any case in which (1) there is complete diversity of citizenship between the plaintiff(s) and defendant(s), and (2) the amount in controversy exceeds $75,000. 
 
@@ -61,15 +63,15 @@ The requirement is also likely satisfied as between Lyndon & Burnley. To determi
 
 Assuming diversity is the sole basis for removal, the forum defendant rule does not apply, as neither defendant is a citizen of Pinewood, where the suit was filed. For removal based solely on diversity, each defendant must join in or consent to removal. Assuming Stratton does not object, removal based on diversity is proper. 
 
-### Conclusion
+_Conclusion_
 
 The court should deny the motion to remand. Removal was proper based on diversity jurisdiction (assuming Stratton is a citizen of Ealing).
 
-## Part B
+### Part B
 
 Personal jurisdiction refers to a court's power to bind a party to its judgments. The reach of personal jurisdiction is limited by both constitutional (due process) and statutory (long-arm) provisions. The requirement of personal jurisdiction ensures that a party will not be haled into court in a remote forum without being on notice (actual or constructive) of the possibility. Because personal jurisdiction protects this personal interest, it is waivable by a party. In practice, the issue of personal jurisdiction arises only for defendants, as the plaintiff implicitly consents to jurisdiction by choosing to sue in the forum state.
 
-### General Jurisdiction
+_General Jurisdiction_
 
 A party is subject to general jurisdiction in its home state, even for suits that have no connection to the state. A corporation may be subject to general jurisdiction in a state other than its official home state, where, because of the corporation's extensive activities within that state, it may be considered virtually at home there. 
 
@@ -77,17 +79,17 @@ In this case, the first defendant, Burnley, is incorporated & headquartered in E
 
 The second defendant, Lyndon, is incorporated & headquartered in Cackalacky. Lyndon's activity in both Ealing or Gotham is too limited to support general jurisdiction in either state. 
 
-### Specific Jurisdiction: Minimum Contacts
+_Specific Jurisdiction: Minimum Contacts_
 
 For an out-of-state defendant, the modern test for personal jurisdiction is whether the defendant has minimum contacts with the forum state so that the exercise of jurisdiction will not offend traditional notions of fair play and substantial justice. The test looks to acts by which the defendant has purposefully availed itself of the benefits of the forum state, or directly aimed its conduct there. Independent actions by the plaintiff or third parties do not count. For example, where the plaintiff buys goods from the defendant in the defendant's home state, takes those goods to some other state, and is injured there, the defendant will not be subject to jurisdiction in the remote state, absent some conduct by the defendant purposefully aimed at that state. 
 
-#### Contacts with Ealing. 
+_Contacts with Ealing._
 
 Because Burnley is subject to general jurisdiction in its home state of Ealing, it is not necessary to apply the minimum contacts test.
 
 On the stated facts, Lyndon's contacts with Ealing are limited to the purchase of fabric from the Ealing-based Burnley Mill, through the Ealing-based distributor. The plaintiff might argue that her claims arise out of, or are at least related to, Lyndon's purchase of the fabric from Ealing. In Helicopteros, the Court held that the purchase of helicopters and training of pilots in Texas were insufficient to establish jurisdiction over the foreign defendant in Texas, where the cause of action arose out of a crash in Peru. While the majority framed its decision in terms of general jurisdiction, it implied that the Texas purchases were too peripheral for the claim to be said to arise out of the defendant's Texas contacts. Lyndon may likewise argue that this single contact is too peripheral to satisfy the minimum contacts test. The plaintiff might counter with the dissenting opinion in Helicopteros, which suggested that the Texas contacts, including the helicopter purchases, could support specific, if not general, jurisdiction. The fact that Lyndon regularly and exclusively buys its fabric from an Ealing manufacturer, through an Ealing distributor, might be regarded as relevant contacts where that fabric was at the center of the claim. 
 
-#### Contacts with Gotham
+_Contacts with Gotham_
 
 On the stated facts, each defendant has multiple contacts with Gotham. 
 
@@ -99,7 +101,7 @@ Lyndon likewise has sufficient contacts with Gotham to satisfy the minimum conta
 
 The plaintiff's claims arise out of the defendants' activity in Gotham. It was in Gotham that she suffered public humiliation because of the defective fabric. Her appearance there was part of the defendants' joint marketing efforts. Accordingly, the minimum contacts test is satisfied as to both defendants. 
 
-#### Reasonableness Factors
+_Reasonableness Factors_
 
 In Asahi, Justice Brennan opined that, even where the minimum contacts test is satisfied, there may be other considerations making the exercise of jurisdiction unreasonable in a particular case. While Justice O'Connor found that the minimum contacts test was not satisfied in Asahi, she agreed with Brennan that the reasonableness analysis was also relevant.
 
