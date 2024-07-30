@@ -1,7 +1,7 @@
 ---
 layout: casebook
 title: Claim & Issue Preclusion
-permalink: /chap7/
+permalink: /casebook/chap7/
 ---
 
 # Claim & Issue Preclusion

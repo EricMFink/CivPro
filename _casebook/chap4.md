@@ -1,7 +1,7 @@
 ---
 layout: casebook
 title: Personal Jurisdiction
-permalink: /chap4/
+permalink: /casebook/chap4/
 ---
 
 # Personal Jurisdiction
@@ -87,7 +87,7 @@ It follows from the views expressed that the personal judgment recovered in the 
 
 The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossesson of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonencyclopedia.org/articles/exclusion_laws/).
 
-[John H. Mitchell](https://www.oregonencyclopedia.org/articles/mitchell_john_hipple_1835_1905_) and [Sylvester Pennoyer](https://www.oregonencyclopedia.org/articles/pennoyer_sylvester_1831_1902_/) were significant and colorful political figures in Oregon. Marcus Neff was later a party to another suit involving the same property, once again turning on a dispute with a lawyer for payment of his fees. [Wells v. Neff](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/Wells_Neff.pdf), 14 Or. 66 (1886). For further background on _Pennoyer v. Neff_ and a discussion of its significance for modern personal jurisdiction doctrine, see Wendy Collins Purdue, [Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and Pennoyer Reconsidered](https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8/), 62 Wash. L. Rev. 479 (1987).
+[John H. Mitchell](https://www.oregonencyclopedia.org/articles/mitchell_john_hipple_1835_1905_) and [Sylvester Pennoyer](https://www.oregonencyclopedia.org/articles/pennoyer_sylvester_1831_1902_/) were significant and colorful political figures in Oregon. Marcus Neff was later a party to another suit involving the same property, once again turning on a dispute with a lawyer for payment of his fees. [Wells v. Neff]({{ site.baseurl }}/assets/casebook/Wells-Neff-1886.pdf), 14 Or. 66 (1886). For further background on _Pennoyer v. Neff_ and a discussion of its significance for modern personal jurisdiction doctrine, see Wendy Collins Purdue, [Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and Pennoyer Reconsidered](https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8/), 62 Wash. L. Rev. 479 (1987).
 
 </div>
 
@@ -99,7 +99,7 @@ The questions for decision are (1) whether, within the limitations of the due pr
 
 In this case notice of assessment for unpaid contributions for the years in question was personally served upon a sales solicitor employed by appellant in the State of Washington, and a copy of the notice was mailed by registered mail to appellant at its address in St. Louis, Missouri. Appellant appeared specially before the office of unemployment and moved to set aside the order and notice of assessment on the ground that the service upon appellant's salesman was not proper service upon appellant; that appellant was not a corporation of the State of Washington and was not doing business within the state; that it had no agent within the state upon whom service could be made; and that appellant is not an employer and does not furnish employment within the meaning of the statute.
 
-![International Shoe Co., St. Louis, Missouri]({{ site.baseurl }}/assets/img/casebook/IntlShoeBldg2.jpg){width="100%"}
+![International Shoe Co., St. Louis, Missouri]({{ site.baseurl }}/assets/casebook/img/IntlShoeBldg2.jpg){width="100%"}
 
 The facts as found by the appeal tribunal and accepted by the state Superior Court and Supreme Court, are not in dispute. Appellant is a Delaware corporation, having its principal place of business in St. Louis, Missouri, and is engaged in the manufacture and sale of shoes and other footwear. It maintains places of business in several states, other than Washington, at which its manufacturing is carried on and from which its merchandise is distributed interstate through several sales units or branches located outside the State of Washington.
 
@@ -145,17 +145,17 @@ Suppose that Dan, who lives in Ohio, rents a beach house in the Outer Banks from
 
 The suit arises out of Dan's conduct in North Carolina, satisfying the minimum contacts requirement for personal jurisdiction. But there has been no service of process, so the court's power is not yet activated (Fig. 4.1).
 
-![Fig. 4.1]({{ site.baseurl }}/assets/img/casebook/PJ-NoService.png){width="55%"}
+![Fig. 4.1]({{ site.baseurl }}/assets/casebook/img/PJ-NoService.png){width="55%"}
 
 After filing the suit, Pat serves Dan with a copy of the summons and complaint, in a manner authorized, and within the time allowed, under Rule 4. The court's power is now active (Fig. 4.2).
 
-![Fig. 4.2]({{ site.baseurl }}/assets/img/casebook/PJ-Service.png){width="55%"}
+![Fig. 4.2]({{ site.baseurl }}/assets/casebook/img/PJ-Service.png){width="55%"}
 
 Suppose instead that Pat travels from North Carolina to Ohio for a football game between the Carolina Panthers and the Cleveland Browns. Dan, a diehard Browns fan, was sitting behind Pat. Throughout the game, Pat vociferously cheers for the visiting team and mercilessly heckles the Cleveland quarterback. Annoyed with Pat's taunts, Dan pours a large cup of beer over Pat's head, provoking a brawl in which Pat is badly injured. After returning home, having vowed never to return to Ohio again, Pat sues Dan for battery, filing the case in the U.S. District Court for the Eastern District of North Carolina.
 
 In this case, there has been service of process, but the suit does not arise out of any contacts between Dan and North Carolina. So the switch is not connected and the court has no power at all  (Fig. 4.3).
 
-![Fig. 4.3]({{ site.baseurl }}/assets/img/casebook/NoPJ-Service.png){width="55%"}
+![Fig. 4.3]({{ site.baseurl }}/assets/casebook/img/NoPJ-Service.png){width="55%"}
 
 </div>
 
@@ -841,7 +841,7 @@ But if fairness is what Norfolk Southern seeks, pause for a moment to measure th
 
 <div class="figure">
 
-![Norfolk Southern Corp., State Fact Sheets–Pennsylvania (2018)]({{ site.baseurl }}/assets/img/casebook/NorfolkSouthern.png)
+![Norfolk Southern Corp., State Fact Sheets–Pennsylvania (2018)]({{ site.baseurl }}/assets/casebook/img/NorfolkSouthern.png)
 
 </div>
 
@@ -950,13 +950,13 @@ Critics of Daimler and Goodyear may be happy to see them go. And make no mistake
 
 ### Synthesis: Analyzing a Personal Jurisdiction Problem 
 
-![FIg. 4.4]({{ site.baseurl }}/assets/img/casebook/personal-jurisdiction.png)
+![FIg. 4.4]({{ site.baseurl }}/assets/casebook/img/personal-jurisdiction.png)
 
 ## Statutory Authorization: Long-Arm Statutes
 
 Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. There are two types of long-arm statute.
 
-![Robert Wadlow, the tallest human in history, visiting Folsom Prison in 1939 as a spokesman for the International Shoe Company. ]({{ site.baseurl }}/assets/img/casebook/Long-Arm.jpg)
+![Robert Wadlow, the tallest human in history, visiting Folsom Prison in 1939 as a spokesman for the International Shoe Company. ]({{ site.baseurl }}/assets/casebook/img/Long-Arm.jpg)
 
 ### Enumerated Statutes 
 
@@ -1072,3 +1072,11 @@ d. No, because New Jersey is not Pat's permanent home
 Ronnie operates a gas station near U.S. Interstate 40 in Greensboro, North Carolina. The station is frequented by locals and by interstate travelers using I-40. Last summer, Ronnie changed a tire on an automobile bearing Missitucky license plates. The car belonged to Vivian, who was driving through Greensboro on the way home from vacation in the Outer Banks. A few days later, after Vivian reached Missitucky, the tire suddenly fell off, causing the car to swerve out of control and hit an embankment. Vivian sued Ronnie in Missitucky state court, alleging that the accident resulted in Ronnie's negligence in changing the tire. 
 
 _Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Ronnie be permissible under the U.S. Constitution?_
+
+<p class="case-h1">Question 5</p>
+
+Gerald Mayo sued Satan and his Staff, alleging that, on numerous occasions, they caused him misery, made unwarranted threats against him, and placed deliberate obstacles in his path, causing his downfall. Mayo filed his suit in the U.S. District Court for the Western District of Pennsylvania. Mayo resides in Pittsburgh, where the court is located. Mayo lives in Slippery Rock, Pennsylvania. None of the defendants reside in Pennsylvania. 
+
+_On what basis might the court have personal jurisdiction over the defendants?_
+
+_See_ [_U.S. ex rel. Mayo v. Satan and His Staff_]({{ site.baseurl }}/assets/casebook/Mayo_Satan.pdf)

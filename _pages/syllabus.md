@@ -51,7 +51,7 @@ _Study Aid:_ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (9
 
 ### Grading
 
-Your final grade for the term will be based on interim quizzes (30%) and a final exam (70%):
+Your final grade for the term will be based on two interim quizzes (10% each) and a final exam (70%):
 
 - There will be three quizzes (open-book/open-notes), consisting of multiple-choice questions. You will take the quizzes online outside of class, any time during the dates indicated in the course schedule below. The quizzes are intended to help you assess your understanding of the material and identify topics for further review. The quiz portion of your final grade will be based on your two best quiz results. 
 - The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School on the date indicated in the course schedule below. 
@@ -96,20 +96,18 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  September 18 & 20 | Minimum Contacts | Casebook, Chap. 3, § 1.2
  September 22 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
  &nbsp; |  &nbsp; |  &nbsp;
- September 27 | Joinder & Personal Jurisdiction Review | &nbsp;
- September 27-29 | **Quiz 1: Joinder & Personal Jurisdiction** | &nbsp;
- &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Subject Matter Jurisdiction** | Clermont, § 4.1
- September 29 & October 2 | Federal Question Jurisdiction | Casebook, Chap. 4, § 1
- October 4 & 9 | Diversity Jurisdiction | Casebook, Chap. 4, § 2
- October 11, 13 & 16 | Supplemental Jurisdiction & Removal | Casebook, Chap. 4, §§ 3 & 4
+ September 27 & 29 | Federal Question Jurisdiction | Casebook, Chap. 4, § 1
+ October 2 & 4 | Diversity Jurisdiction | Casebook, Chap. 4, § 2
+ October 9 & 11 | Supplemental Jurisdiction | Casebook, Chap. 4, § 3
+ October 13 | Removal | Casebook, Chap. 4, § 4
+&nbsp; |  &nbsp; |  &nbsp;
+ October 16 | Review: Joinder, Personal Jurisdiction, & Subject Matter Jurisdiction | &nbsp;
+ October 16-17 | **Quiz 1: Joinder, Personal Jurisdictgion, & Subject Matter Jurisdiction** | &nbsp;
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Choice of Law in Federal Court** | Clermont, Chapter 3
  October 18 & 20 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1
- October 23 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 2 & 3
- &nbsp; |  &nbsp; |  &nbsp;
- October 25 | Subject Matter Jurisdiction & Choice of Law Review 
- October 25-27 | **Quiz 2: Subject Matter Jurisdiction & Choice of Law** | &nbsp;
+ October 23 & 25 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 2 & 3
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Pleading** | Clermont, § 2.2(A)
  October 27 & 30 | Complaints | Casebook, Chap. 6, §§ 1 & 2
@@ -124,8 +122,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  &nbsp; | **Summary Judgment** | Clermont, § 2.2(B), (C), & (E)(2)
  November 17 | Standard & Burden of Production | Casebook, Chap. 8
  &nbsp; |  &nbsp; |  &nbsp;
- November 20 | Pleading, Preclusion, & Summary Judgment Review | &nbsp;
- November 20-24 | **Quiz 3: Pleading, Preclusion, & Summary Judgment** | &nbsp;
+ November 20 | Review: Choice of Law, Pleading, Preclusion, & Summary Judgment | &nbsp;
+ November 20-21 | **Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment** | &nbsp;
  &nbsp; |  &nbsp; |  &nbsp;
  December 1 | **Final Review** | &nbsp;
  December 4 | **Final Exam** | &nbsp;

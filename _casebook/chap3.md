@@ -1,7 +1,7 @@
 ---
 layout: casebook
 title: Subject Matter Jurisdiction
-permalink: /chap3/
+permalink: /casebook/chap3/
 ---
 
 # Subject Matter Jurisdiction
@@ -173,7 +173,7 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 ### Arising Under Federal Law
 
-#### Louisville & Nashville R.R. Co. v. Mottley, 211 U.S. 1496 (1908)
+#### Louisville & Nashville R.R. Co. v. Mottley, 211 U.S. 149 (1908)
 
 <p class="case-h1">Statement by Justice MOODY</p>
 
@@ -187,7 +187,7 @@ The bill[^Mottley1] alleged that in September, 1871, plaintiffs, while passenger
 
 [^Mottley1]:
 
-  {-} The remedy that the Mottleys sought was "specific performance", i.e. an order requiring the Railroad to honor the free passes. This is a form a equitable relief, sometimes available instead of money damages, which is the usual legal relief for breach of contract. Prior to the advent of the Federal Rules of Civil Procedure, different procedures applied to suits for equitable relief and suits for legal relief. A suit in equity was commenced by filing a "bill", functionally equivalent to a complaint. You can [read the Mottleys' bill here]({{ site.baseurl }}/assets/img/casebook/Mottley-complaint.pdf).
+  {-} The remedy that the Mottleys sought was "specific performance", i.e. an order requiring the Railroad to honor the free passes. This is a form a equitable relief, sometimes available instead of money damages, which is the usual legal relief for breach of contract. Prior to the advent of the Federal Rules of Civil Procedure, different procedures applied to suits for equitable relief and suits for legal relief. A suit in equity was commenced by filing a "bill", functionally equivalent to a complaint. You can [read the Mottleys' bill here]({{ site.baseurl }}/assets/casebook/Mottley-complaint.pdf).
 
 [^Mottley1a]:
 
@@ -208,11 +208,13 @@ The application of this rule to the case at bar is decisive against the jurisdic
 
 #### Note on _Mottley_
 
-On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. [_Louisville & Nashville R. Co. v. Mottley_](https://emfink.net/CivilProcedure/assets/materials/subject-matter-jurisdiction/Mottley_KyCtApp_1909.pdf), 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
+On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. [_Louisville & Nashville R. Co. v. Mottley_](https://emfink.net/CivilProcedure/assets/casebook/Mottley-KyCtApp-1909.pdf), 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
 
 > Whether, without enforcing the contract in suit, the defendants in error may, by some form of proceeding against the railroad company, recover or restore the rights they had when the railroad collision occurred is a question not before us, and we express no opinion on it.
 
 However, there is no record of anything further transpiring in the case.
+
+Apart from the case for which he is remembered today, Erasmus Mottley was apparently "a prominent and influential business man" and unsuccessful candidate for public office. E. Polk Johnson, [_A History of Kentucky & Kentuckians_](https://play.google.com/books/reader?id=FXQUAAAAYAAJ&pg=GBS.PA1145.w.4.0.0_1693), vol. 2 (Lewis Publishing Co. 1912). 
 
 </div>
 
@@ -823,7 +825,7 @@ One view is that the "same case or controversy" requirement under § 1367(a) is
 
 The contrary view is that the "same case or controversy" requirement under § 1367(a) and the "same transaction or occurrence" standard under Rule 13 are functionally equivalent. Under that view, supplemental jurisdiction over a permissive counterclaim is never allowed. See _Ginwright_.
 
-![Fig. 4.1]({{ site.baseurl }}/assets/img/casebook/joinder_smj.png)
+![Fig. 4.1]({{ site.baseurl }}/assets/casebook/img/joinder_smj.png)
 
 </div>
 
@@ -892,13 +894,13 @@ It follows from this conclusion that the threshold requirement of § 1367(a) is
 
 ### Supplemental Jurisdiction Diagrams 
 
-![Supplemental Jurisdiction]({{ site.baseurl }}/assets/img/casebook/1367.png)
+![Supplemental Jurisdiction]({{ site.baseurl }}/assets/casebook/img/1367.png)
 
-![Supplemental Jurisdiction: Claims by Co-Plaintiffs]({{ site.baseurl }}/assets/img/casebook/1367b_Co-Plaintiffs.png)
+![Supplemental Jurisdiction: Claims by Co-Plaintiffs]({{ site.baseurl }}/assets/casebook/img/1367b_Co-Plaintiffs.png)
 
-![Supplemental Jurisdiction: Claims Against Co-Defendants]({{ site.baseurl }}/assets/img/casebook/1367b_Co-Defendants.png)
+![Supplemental Jurisdiction: Claims Against Co-Defendants]({{ site.baseurl }}/assets/casebook/img/1367b_Co-Defendants.png)
 
-![Joinder & Supplemental Jurisdiction]({{ site.baseurl }}/assets/img/casebook/joinder_smj.png)
+![Joinder & Supplemental Jurisdiction]({{ site.baseurl }}/assets/casebook/img/joinder_smj.png)
 
 ## Removal Jurisdiction
 

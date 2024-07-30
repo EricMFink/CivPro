@@ -1,7 +1,7 @@
 ---
 layout: casebook
 title: Choice of Governing Law 
-permalink: /chap5/
+permalink: /casebook/chap5/
 ---
 
 # Choice of Governing Law 
@@ -183,7 +183,7 @@ _Fourth_. The defendant contended that by the common law of Pennsylvania as decl
 
 On remand, the Court of Appeals concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. 98 F.2d 49 (2d Cir. 1938).
 
-For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Bryan Frye, ["The Ballad of Harry Tompkins"]({{ site.baseurl }}/assets/img/casebook/Frye-Tompkins.pdf).
+For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Brian Frye, ["The Ballad of Harry Tompkins"](https://uknowledge.uky.edu/law_facpub/639/).
 
 </div>
 
@@ -197,7 +197,7 @@ The underlying issue in _Erie_ was one of substantive law: the standard of care 
 
 > The line between procedural and substantive law is hazy but no one doubts federal power over procedure. The Judiciary Article and the "necessary and proper" clause of Article One may fully authorize legislation, such as this section of the Judiciary Act.
 
-In the aftermath of _Erie_, the Court sought to provide an answer to the question of how to draw the line between substance and procedure.
+In the aftermath of _Erie_, the Court sought to provide an answer to the question of how to draw the line between substance and procedure:
 
 <p class="case-h1">Guaranty Trust Co. of New York v. York, 326 U.S. 99 (1945)</p>
 
@@ -475,7 +475,7 @@ Accordingly, the Court will apply the Rule 15 standard in determining whether to
 
 ### Erie-Hanna Diagram 
 
-![Erie-Hanna Analysis]({{ site.baseurl }}/assets/img/casebook/Erie-Hanna.png)
+![Erie-Hanna Analysis]({{ site.baseurl }}/assets/casebook/img/Erie-Hanna.png)
 
 
 ### Review Questions 
@@ -539,11 +539,3 @@ In contrast, under the FTC Act (a federal statute), an advertiser is liable for 
 The Company moves to dismiss Carlill's complaint for failure to state a claim, because the complaint fails to allege that Carlill reasonably relied on the claims in the ad regarding the supposed health benefits of the Carbolic Smoke Ball. 
 
 _Should the federal court apply state or federal law on the issue of whether Carlill must allege and prove reasonable reliance?_ 
-
-
-## Choice of State Law 
-
-#### RESTATEMENT 
-
-#### CASE 
-

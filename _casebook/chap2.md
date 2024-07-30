@@ -1,7 +1,7 @@
 ---
 layout: casebook
 title: Joining Parties & Claims
-permalink: /chap2/
+permalink: /casebook/chap2/
 ---
 
 # Joining Parties & Claims
@@ -721,7 +721,7 @@ Under Rule 24(a)(2), the motion to intervene must not only be timely, but also t
 
 Fed.R.Civ.P. 24(a)(2).
 
-The Tribe wanted to intervene in order to assert that it was an indispensable party under Rule 19(a). The idea being that the Tribe could then invoke its sovereign immunity and have the court dismiss Amador County's action against the Department of the Interior. In terms of Rule 24(a)(2), the Tribe claimed that the United States did not "adequately represent" the Tribe's "interest"—which the Tribe defined as its sovereign immunity. Appellant's Brief at 46.
+The Tribe wanted to intervene in order to assert that it was an indispensable party under Rule 19(a). The idea being that the Tribe could then invoke its sovereign immunity and have the court dismiss Amador County's action against the Department of the Interior. In terms of Rule 24(a)(2), the Tribe claimed that the United States did not "adequately represent" the Tribe's "interest"—which the Tribe defined as its sovereign immunity. 
 
 The strategy was clever but it would not have worked. The Tribe's interest in its sovereign immunity was not—in the words of Rule 24(a)(2)—"an interest relating to the property or transaction that is the subject of the action." The very point of the Tribe's motion was to inject sovereign immunity into the case. The Tribe therefore would not have qualified for intervention as of right even if it had timely filed its motion.
 
@@ -846,10 +846,10 @@ Deutsch seeks to interplead a sculpture[^Deutsch1]---_Industrial Forms_ (aka _Au
 [^Deutsch1]:
   {-} The sculpture was one of several related pieces by Storrs, two of which are in the [National Gallery of Art](https://www.nga.gov/collection/art-object-page.140328.html). 
   
-In the late 1970s,[^Deutsch2] John Storrs' estate (represented by his daughter, Monique Storrs Booz) consigned _Industrial Forms_{% marginfigure "auto-tower" "casebook/img/AutoTower.jpg" "_Auto Tower, Industrial Forms_, John Storrs (ca. 1922)" %} to the Robert Schoelkopf Gallery in New York City. The Schoelkopf Gallery maintained a long-term business relationship with the Storrs estate through this period, selling several of the artist's works.
+In the late 1970s,[^Deutsch2] John Storrs' estate (represented by his daughter, Monique Storrs Booz) consigned _Industrial Forms_{% marginfigure "auto-tower" "{{ site.baseurl }}/casebook/img/AutoTower.jpg" "_Auto Tower, Industrial Forms_, John Storrs (ca. 1922)" %} to the Robert Schoelkopf Gallery in New York City. The Schoelkopf Gallery maintained a long-term business relationship with the Storrs estate through this period, selling several of the artist's works.
 
 [^Deutsch2]:
-  {-} “late 1970s” appears to be a clerical error. [The Complaint](https://bit.ly/3MODhmA) indicates that the consignment was made in 1969.
+  {-} “late 1970s” appears to be a clerical error. [The Complaint]({{ site.baseurl }}/casebook/Deutsch-complaint.pdf) indicates that the consignment was made in 1969.
 
 In the summer of 1977, the Schoelkopf Gallery sent a letter to Monique Storrs Booz informing her that _Industrial Forms_ had been stolen. Schoelkpf enclosed payment for $2,250, the amount she would have received had the sculpture been sold (list price minus gallery commission). Records submitted to the Smithsonian Archives of American Art for preservation by the Schoelkopf Gallery show _Industrial Forms_ labeled as "stolen." In 1991, Robert Schoelkopf passed away, the Schoelkopf Gallery closed, and Andrew Schoelkopf---Robert's son---assumed control of the Gallery's outstanding art interests.
 
@@ -949,7 +949,7 @@ In response to defendants' arguments, Meyer only states that "defendants are sim
 
 </div>
 
-![Fig. 2.1: Third Party Claims Under Rule 14]({{ site.baseurl }}/assets/img/casebook/Rule14.png){width="90%"}
+![Fig. 2.1: Third Party Claims Under Rule 14]({{ site.baseurl }}/assets/casebook/img/Rule14.png){width="90%"}
 
 <div class="comment">
 
@@ -967,7 +967,7 @@ FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to h
 
 These provisions refer to claims for _indemnification_ and _contribution_. They arise where a party to a suit (D1) seeks to hold someone else (D2) responsible for all (indemnification) or part (contribution) of the amount of a judgment against D1 in favor of another party (P1).
 
-![Fig. 2.2: Indemnification & Contribution]({{ site.baseurl }}/assets/img/casebook/Indemnification_Contribution.png){width="90%"}
+![Fig. 2.2: Indemnification & Contribution]({{ site.baseurl }}/assets/casebook/img/Indemnification_Contribution.png){width="90%"}
 
 In Fig. 2.2, P1 asserts a claim against D1. D1 then asserts a claim against D2, contending that, if P1 prevails against D1, D2 must cover all or part of D1's liability to P1.
 
@@ -1124,7 +1124,7 @@ For each of the following additional claims, explain whether joinder is proper u
 
 <div class="break">
 
-![Claims & Applicable Joinder Rules]({{ site.baseurl }}/assets/img/casebook/JoinderProblem.png)
+![Claims & Applicable Joinder Rules]({{ site.baseurl }}/assets/casebook/img/JoinderProblem.png)
 
 </details>
 

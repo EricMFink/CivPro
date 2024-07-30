@@ -1,14 +1,41 @@
 ---
 layout: casebook
 title: Discovery & Summary Judgment
-permalink: /chap8/
+permalink: /casebook/chap8/
 ---
 
 # Discovery & Summary Judgment  
 
 ## Discovery 
 
-BRIEF OVERVIEW OF DISCOVERY PROCESS AND METHODS 
+The Federal Rules of Civil Procedure provide for pre-trial disclosure and discovery of evidence. The general rules for disclosures and discovery are contained in FRCP R. 26: 
+
+- Rule 26(a) requires parties to disclose certain information "without awaiting a discovery request";
+- Rule 26(b)-(f) sets out general provisions for the discovery process, including the scope and limits of discovery, protective orders, timing and sequence, and other procedural matters;
+- Rule 26(g) requires that disclosures, discovery requests, responses, and objections must be signed by an attorney (or party if unrepresented). The attorney or party signing a disclosure, discovery request, response, or objection certifies that it "is complete and correct", complies with the FRCP, is not legally frivolous, is not made for an improper purpose, and is not unreasonable, unduly burdensome, or expensive, As undeer Rule 11, attorneys and parties are subject to sanctions for improper disclosures, discovery requests, responses, or objections.
+
+Other rules provide for various methods of discovery: 
+
+- Depositions, i.e. recorded testimony (either by oral examination or written questions) of a prospective witness under oath. Rules 27, 28, 30, 31, and 32;
+- Interrogatories, i.e. written questions to a party. Rule 33;
+- Requests for production of documents and other evidence. Rule 34; 
+- Physical and mental examinations of a party. Rule 35; 
+- Requests for admission. Rule 36. 
+
+Rule 37 governs the imposition of sanctions for failure to make disclosures or cooperate in discovery.[^discovery1]
+
+[^discovery1]:
+
+  {-} Recall that Rule 11 applies only to pleadings and motions. Rules 26(g) and 37 are the analogous provisions for discovery violations. 
+
+Disclosures and discovery under the Federal Rules serve multiple purposes: 
+
+- Revealing information that might be the basis for amended pleadings; 
+- Narrowing the factual and legal issues in dispute, which might support a motion for summary judgment;
+- Preparing for trial.
+
+
+
 
 ## Summary Judgment
 
@@ -312,7 +339,7 @@ Milo Mebelmacher, founder and president of Mebelmacher Designs, testified in his
 
 The chair consists of a “tub” seat attached to a plywood base in a manner that permits the “tub” to tilt and swivel. A chrome veneer, about one-sixteenth of an inch thick, is affixed to the outside of the base. The diameter of the base is about two inches less than the diameter of the tub, and the bottom of the tub is about three inches off the floor.
 
-![Tub Chair]({{ site.baseurl }}/assets/img/casebook/TubChair.jpg)
+![Tub Chair]({{ site.baseurl }}/assets/casebook/img/TubChair.jpg)
 
 The chair was designed for residential use. Mebelmacher assumes that people commonly walk barefoot in their homes. Nonetheless, he never anticipated that someone might put their foot in the area between the tub seat and the top of the base. 
 

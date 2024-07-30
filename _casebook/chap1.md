@@ -1,7 +1,7 @@
 ---
 layout: casebook
 title: Foundations of Civil Procedure 
-permalink: /chap1/
+permalink: /casebook/chap1/
 ---
 
 # Foundations of Civil Procedure 
@@ -44,7 +44,7 @@ There are two special trial courts that have nationwide jurisdiction over certai
 
 Three territories of the United States— the Virgin Islands, Guam, and the Northern Mariana Islands—have U.S. district courts that hear federal cases, including bankruptcy cases.
 
-![Fig. 1.3]({{ site.baseurl }}/assets/img/casebook/FedCourtsMap.png){width="90%"}
+![Fig. 1.3]({{ site.baseurl }}/assets/casebook/img/FedCourtsMap.png){width="90%"}
 
 <p class="case-h2">Appellate Courts</p>
 
@@ -290,9 +290,9 @@ There is one form of action—the civil action.
 
 Figures 1 and 2 illustrate the stages of a civil suit. 
 
-![Fig. 1.2]({{ site.baseurl }}/assets/img/casebook/CivilAction1.png){width="90%"}
+![Fig. 1.2]({{ site.baseurl }}/assets/casebook/img/CivilAction1.png){width="90%"}
 
-![Fig. 1.3]({{ site.baseurl }}/assets/img/casebook/CivilAction2.png){width="90%"}
+![Fig. 1.3]({{ site.baseurl }}/assets/casebook/img/CivilAction2.png){width="90%"}
 
 Before commencing a suit, a lawyer (in consultation with the client) must decide who will be named as the plaintiff(s) and defendant(s) (Party Joinder), what claims the plaintiff(s) will assert (Claim Joinder), and where to file the suit (Subject Matter Jurisdiction, Personal Jurisdiction, & Venue). Decisions about party and claim joinder may constrain the choice of forum, and vice versa. The limited subject matter jurisdiction of the federal courts means that federal courts may only decide certain claims. The constitutional limits on personal jurisdiction mean that courts (state or federal) may only decide cases against defendants having sufficient contacts with the forum state. At some point, it may also be necessary for the court to determine which law---state or federal, and if state law, which state---should apply to the various issues in the case. 
 
