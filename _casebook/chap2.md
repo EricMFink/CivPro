@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Joining Parties & Claims
-permalink: /casebook/chap2/
 ---
 
 # Joining Parties & Claims

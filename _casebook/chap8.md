@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Discovery & Summary Judgment
-permalink: /casebook/chap8/
 ---
 
 # Discovery & Summary Judgment  

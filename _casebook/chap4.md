@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Personal Jurisdiction
-permalink: /casebook/chap4/
 ---
 
 # Personal Jurisdiction

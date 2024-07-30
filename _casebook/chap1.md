@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Foundations of Civil Procedure 
-permalink: /casebook/chap1/
 ---
 
 # Foundations of Civil Procedure 

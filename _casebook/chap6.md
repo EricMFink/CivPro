@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Pleading
-permalink: /casebook/chap6/
 ---
 
 # Pleading

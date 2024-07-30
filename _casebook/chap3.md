@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Subject Matter Jurisdiction
-permalink: /casebook/chap3/
 ---
 
 # Subject Matter Jurisdiction

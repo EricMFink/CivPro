@@ -1,7 +1,6 @@
 ---
 layout: casebook
 title: Preface
-permalink: /casebook/preface/
 ---
 
 # Preface

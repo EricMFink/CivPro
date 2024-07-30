@@ -38,6 +38,7 @@ collections:
     output: true
   casebook:
     output: true
+    permalink: /:collection/:name
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
