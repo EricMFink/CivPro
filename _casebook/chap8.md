@@ -1,44 +1,11 @@
 ---
 layout: casebook
-title: Discovery & Summary Judgment
+title: Summary Judgment
 ---
 
-# Discovery & Summary Judgment  
+# Summary Judgment  
 
-## Discovery 
-
-The Federal Rules of Civil Procedure provide for pre-trial disclosure and discovery of evidence. The general rules for disclosures and discovery are contained in FRCP R. 26: 
-
-- Rule 26(a) requires parties to disclose certain information "without awaiting a discovery request";
-- Rule 26(b)-(f) sets out general provisions for the discovery process, including the scope and limits of discovery, protective orders, timing and sequence, and other procedural matters;
-- Rule 26(g) requires that disclosures, discovery requests, responses, and objections must be signed by an attorney (or party if unrepresented). The attorney or party signing a disclosure, discovery request, response, or objection certifies that it "is complete and correct", complies with the FRCP, is not legally frivolous, is not made for an improper purpose, and is not unreasonable, unduly burdensome, or expensive, As undeer Rule 11, attorneys and parties are subject to sanctions for improper disclosures, discovery requests, responses, or objections.
-
-Other rules provide for various methods of discovery: 
-
-- Depositions, i.e. recorded testimony (either by oral examination or written questions) of a prospective witness under oath. Rules 27, 28, 30, 31, and 32;
-- Interrogatories, i.e. written questions to a party. Rule 33;
-- Requests for production of documents and other evidence. Rule 34; 
-- Physical and mental examinations of a party. Rule 35; 
-- Requests for admission. Rule 36. 
-
-Rule 37 governs the imposition of sanctions for failure to make disclosures or cooperate in discovery.[^discovery1]
-
-[^discovery1]:
-
-  {-} Recall that Rule 11 applies only to pleadings and motions. Rules 26(g) and 37 are the analogous provisions for discovery violations. 
-
-Disclosures and discovery under the Federal Rules serve multiple purposes: 
-
-- Revealing information that might be the basis for amended pleadings; 
-- Narrowing the factual and legal issues in dispute, which might support a motion for summary judgment;
-- Preparing for trial.
-
-
-
-
-## Summary Judgment
-
-### Standard for Summary Judgment 
+## Standard for Summary Judgment 
 
 <div class="legal-code">
 
@@ -159,7 +126,7 @@ As we affirm the dismissal of the passengers' claims against Roper for a failure
 We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summary judgment on Crane's claims and REMAND to the district court for further proceedings consistent with this opinion.
 
 
-### Burden of Production 
+## Burden of Production 
 
 <div class="legal-code">
 
@@ -208,29 +175,29 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 Under Rule 26(a), the parties have a duty to disclose certain information pertaining to their claims and defenses:
 
 > (1) Initial Disclosure.
-
+> 
 > > (A) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties: must disclose certain information "without awaiting a discovery request": 
-
+> 
 > > > (i) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;
-
+> 
 > > > (ii) a copy—or a description by category and location—of all documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment;
-
+> 
 > > > (iii) a computation of each category of damages claimed by the disclosing party—who must also make available for inspection and copying as under Rule 34 the documents or other evidentiary material, unless privileged or protected from disclosure, on which each computation is based, including materials bearing on the nature and extent of injuries suffered; and
-
+> 
 > > > (iv) for inspection and copying as under Rule 34, any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in the action or to indemnify or reimburse for payments made to satisfy the judgment.
-
+> 
 > (2) Disclosure of Expert Testimony.
-
+> 
 > > (A) In General. In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705.
-
+> 
 > (3) Pretrial Disclosures.
-
+> 
 > (A) In General. In addition to the disclosures required by Rule 26(a)(1) and (2), a party must provide to the other parties and promptly file the following information about the evidence that it may present at trial other than solely for impeachment:
-
+> 
 > (i) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;
-
+> 
 > (ii) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and
-
+> 
 > (iii) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
 
 The parties may also seek information through the the discovery process. Rule 26(b)(1) defines the scope of discovery: 
@@ -239,7 +206,7 @@ The parties may also seek information through the the discovery process. Rule 26
 
 Rule 26(b) also sets certain limits on discovery and governs the timing of requests. 
 
-The discovery methods authorized under the FRCP include depositions (i.e. examination and cross-examination of parties and other potential witnesses) (Rules 30-32); interrogatories (i.e. written questions directed to a party) (Rule 33); requests for production of documents or things (Rule 34); physical and mental examinations (Rule 35); and requests for admission (Rule 36). 
+The discovery methods authorized under the FRCP include depositions (i.e. recorded testimony, either by oral examination or written questions, of parties and other potential witnesses) (Rules 30-32); interrogatories (i.e. written questions directed to a party) (Rule 33); requests for production of documents or things (Rule 34); physical and mental examinations of a party (Rule 35); and requests for admission (Rule 36). 
 
 The record may also include stipulations by the parties, i.e. agreements as to certain facts. The parties may stipulate to facts provisionally, for the purpose of summary judgment only, while reserving the right to contest the facts at trial if the court does not grant summary judgment. 
 
