@@ -2,7 +2,7 @@
 layout: page
 title: Civil Procedure
 subtitle: An Open-Source Casebook
-permalink: /casebook/contents/
+permalink: /casebook/index.html/
 
 ---
 

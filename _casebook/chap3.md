@@ -23,7 +23,7 @@ The judicial power shall extend to all _cases_, in law and equity, arising under
 
 <p class="case-h1">DOUGLAS HARPOOL, District Judge.</p>
 
-Before the Court is defendants the United States of America, the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Merrick Garland — in his official capacity as Attorney General of the United States, and Bernard G. Hansen — in his official capacity as Special Agent in Charge of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Kansas City Field Division's Motion to Dismiss. (Doc. 9). Defendants move to dismiss _pro se_ plaintiff Blount's Complaint for lack of subject matter jurisdiction and for failure to state a claim.
+Before the Court is defendants' Motion to Dismiss. Defendants move to dismiss _pro se_ plaintiff Blount's Complaint for lack of subject matter jurisdiction and for failure to state a claim.
 
 <p class="case-h1">Background</p>
 
@@ -62,7 +62,7 @@ Here, Plaintiff has not alleged any prior violations of § 922(o) and has not al
 Defendants cite to a district court in Wyoming that recently dismissed a Second Amendment challenge to § 922(o) because the plaintiff had failed to allege a sufficiently concrete intention to acquire a machine gun. The Wyoming district court found that the plaintiff lacked standing because he "merely expressed a desire to own an M16 machinegun." The court noted that the plaintiff "did not plead any facts regarding when or how he plans to own such a gun nor allege any fear or likelihood of investigation, arrest, or prosecution." While this decision is not controlling the analysis is the same as the allegations presented in this case.[^blount2] Here, the Court finds Defendants' motion to dismiss for lack of standing is well taken and Plaintiff has failed to allege an injury in fact.
 
 [^blount1]: 
-	{-} A copy of the complaint is [available here]({{ site.baseurl }}/casebook/docs/Blount_-v_US-complaint.pdf). 
+	{-} A copy of the complaint is [available here]({{ site.baseurl }}/assets/casebook/Blount-complaint.pdf). 
 
 [^blount2]: (n.1 in opinion) "Plaintiff desires to own an M16 machine gun for all lawful purposes, including defense of hearth and home and militia functions. But this is too indefinite to establish a particularized injury and insufficient to constitute an injury-in-fact. The mere existence of a statute, which may or may not ever be applied to plaintiffs, is not sufficient to create a case or controversy within the meaning of Article III."
 
