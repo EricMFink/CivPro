@@ -845,7 +845,7 @@ Deutsch seeks to interplead a sculpture[^Deutsch1]---_Industrial Forms_ (aka _Au
 [^Deutsch1]:
   {-} The sculpture was one of several related pieces by Storrs, two of which are in the [National Gallery of Art](https://www.nga.gov/collection/art-object-page.140328.html). 
   
-In the late 1970s,[^Deutsch2] John Storrs' estate (represented by his daughter, Monique Storrs Booz) consigned _Industrial Forms_{% marginfigure "auto-tower" "{{ site.baseurl }}/assets/casebook/img/AutoTower.jpg" "_Auto Tower, Industrial Forms_, John Storrs (ca. 1922)" %} to the Robert Schoelkopf Gallery in New York City. The Schoelkopf Gallery maintained a long-term business relationship with the Storrs estate through this period, selling several of the artist's works.
+In the late 1970s,[^Deutsch2] John Storrs' estate (represented by his daughter, Monique Storrs Booz) consigned _Industrial Forms_{% marginfigure "auto-tower" "https://www.emfink.net/CivPro/assets/casebook/img/AutoTower.jpg" "_Auto Tower, Industrial Forms_, John Storrs (ca. 1922)" %} to the Robert Schoelkopf Gallery in New York City. The Schoelkopf Gallery maintained a long-term business relationship with the Storrs estate through this period, selling several of the artist's works.
 
 [^Deutsch2]:
   {-} “late 1970s” appears to be a clerical error. [The Complaint]({{ site.baseurl }}/assets/casebook/Deutsch-complaint.pdf) indicates that the consignment was made in 1969.
