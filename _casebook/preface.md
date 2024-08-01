@@ -30,7 +30,7 @@ Links to cross-referenced pages or external online material are indicated by red
 
 <p class="case-h2">PDF Version</p>
 
-A PDF version is available for downloading from the [Table of Contents](../casebook) page. The PDF file includes embedded links as described above. 
+A PDF version is available for downloading from the [Table of Contents]({{ site.baseurl }}/casebook) page. The PDF file includes embedded links as described above. 
 
 <div class="colophon">
 

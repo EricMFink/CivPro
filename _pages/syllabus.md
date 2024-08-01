@@ -11,11 +11,11 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-term: 'Fall 2023'
+term: 'Fall 2024'
 days: 'Monday, Wednesday, & Friday 1:30–3:15 pm'
 room: 'Room 207'
-ta: Name
-ta-email: email@elon.edu
+ta: John Bailey
+ta-email: jbailey34@elon.edu
 
 syllabus: true
 
