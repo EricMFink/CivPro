@@ -78,7 +78,7 @@ Although federal courts are located in every state, they are not the only forum 
 
 [^fed_courts1]:
 
-  {-} Federal subject matter jurisdiction is covered in Chapter 
+  {-} Federal subject matter jurisdiction is covered in Chapter 3
 
 ### State Courts
 

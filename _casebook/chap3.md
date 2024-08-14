@@ -207,7 +207,7 @@ The application of this rule to the case at bar is decisive against the jurisdic
 
 #### Note on _Mottley_
 
-On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. [_Louisville & Nashville R. Co. v. Mottley_](https://emfink.net/CivilProcedure/assets/casebook/Mottley-KyCtApp-1909.pdf), 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
+On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. _Louisville & Nashville R. Co. v. Mottley_, 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
 
 > Whether, without enforcing the contract in suit, the defendants in error may, by some form of proceeding against the railroad company, recover or restore the rights they had when the railroad collision occurred is a question not before us, and we express no opinion on it.
 
@@ -909,9 +909,9 @@ It follows from this conclusion that the threshold requirement of § 1367(a) is
 
 <p class="case-h1">Removal of civil actions</p>
 
-(a) Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending ….
+(a) Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending ….
 
-(b) Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or law of the United States, shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
+(b) Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or law of the United States, shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
 
 </div>
 
@@ -921,11 +921,15 @@ It follows from this conclusion that the threshold requirement of § 1367(a) is
 
 <p class="case-h1">Procedure after removal generally</p>
 
-(a) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
-(b) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.
-(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
-(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
-(e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
+(a) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
+
+(b) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.\
+
+(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
+
+(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
+
+(e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
 
 </div>
 
@@ -981,9 +985,9 @@ During her first six months of work, Eleanor has been paid at the rate of $20/ho
 
 Believing that she has been underpaid, Eleanor decides to sue Bombco for $4800 (representing the alleged underpayment of $5/hour for the 960 hours she worked during the six month period). The DCWFA does not provide for a private right of action for employees who believe they have not been paid at the applicable prevailing wage rate. Instead, Eleanor asserts a claim under the state Wage Payment & Collection Law (“WPCL”), which provides that an employer must pay all wages earned by employees on regularly scheduled paydays. The WPCL also provides than an employee may bring a civil lawsuit to collect any unpaid wages. A plaintiff suing under the WPCL must allege and prove the following:
 
-- The applicable rate of pay for the period subject to the suit,  
-- The total amount of wages earned during the same period, and 
-- The total amount of alleged underpayment during the same period.
+1. The applicable rate of pay for the period subject to the suit,  
+2. The total amount of wages earned during the same period, and 
+3. The total amount of alleged underpayment during the same period.
 
 The Keystone Supreme Court has held that a WPCL plaintiff may satisfy the first requirement by offering evidence of a wage rate imposed by state or federal law. 
 

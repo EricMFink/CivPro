@@ -69,14 +69,13 @@ Be that as it may, the courts of the United States are not required to give effe
 
 Since the adoption of the Fourteenth Amendment to the Federal Constitution, the validity of such judgments may be directly questioned, and their enforcement in the State resisted, on the ground that proceedings in a court of justice to determine the personal rights and obligations of parties over whom that court has no jurisdiction do not constitute due process of law. Whatever difficulty may be experienced in giving to those terms a definition which will embrace every permissible exertion of power affecting private rights, and exclude such as is forbidden, there can be no doubt of their meaning when applied to judicial proceedings. They then mean a course of legal proceedings according to those rules and principles which have been established in our systems of jurisprudence for the protection and enforcement of private rights. To give such proceedings any validity, there must be a tribunal competent by its constitution---that is, by the law of its creation---to pass upon the subject-matter of the suit; and, if that involves merely a determination of the personal liability of the defendant, he must be brought within its jurisdiction by service of process within the State, or his voluntary appearance.
 
-Except in cases affecting the personal status of the plaintiff, and cases in which that mode of service may be considered to have been assented to in advance, as hereinafter mentioned, the substituted service of process by publication, allowed by the law of Oregon and by similar laws in other States, where actions are brought against non-residents, is effectual only where, in connection with process against the person for commencing the action, property in the State is brought under the control of the court, and subjected to its disposition by process adapted to that purpose, or where the judgment is sought as a means of reaching such property or affecting some interest therein; in other words, where the action is in the nature of a proceeding _in rem_.
-
-[^Pennoyer5]
-
-It is true that, in a strict sense, a proceeding in rem is one taken directly against property, and has for its object the disposition of the property, without reference to the title of individual claimants; but, in a larger and more general sense, the terms are applied to actions between parties, where the direct object is to reach and dispose of property owned by them, or of some interest therein. Such are cases commenced by attachment against the property of debtors, or instituted to partition real estate, foreclose a mortgage, or enforce a lien. So far as they affect property in the State, they are substantially proceedings in rem in the broader sense which we have mentioned.
+Except in cases affecting the personal status of the plaintiff, and cases in which that mode of service may be considered to have been assented to in advance,[^Pennoyer5] as hereinafter mentioned, the substituted service of process by publication, allowed by the law of Oregon and by similar laws in other States, where actions are brought against non-residents, is effectual only where, in connection with process against the person for commencing the action, property in the State is brought under the control of the court, and subjected to its disposition by process adapted to that purpose, or where the judgment is sought as a means of reaching such property or affecting some interest therein; in other words, where the action is in the nature of a proceeding _in rem_. 
 
 [^Pennoyer5]:
   {-} In an omitted portion of the opinion, the Court notes some limits to its holding. In suits "to determine the civil status and capacities of" state residents (e.g. divorce cases) judgments may bind non-residents even "without personal service of process or personal notice". States may also require that non-residents appoint in-state agents to receive service, or consent to alternative forms of service, in cases involving business dealings or contracts within the state.
+
+It is true that, in a strict sense, a proceeding in rem is one taken directly against property, and has for its object the disposition of the property, without reference to the title of individual claimants; but, in a larger and more general sense, the terms are applied to actions between parties, where the direct object is to reach and dispose of property owned by them, or of some interest therein. Such are cases commenced by attachment against the property of debtors, or instituted to partition real estate, foreclose a mortgage, or enforce a lien. So far as they affect property in the State, they are substantially proceedings in rem in the broader sense which we have mentioned.
+
 
 It follows from the views expressed that the personal judgment recovered in the State court of Oregon against the plaintiff herein, then a non-resident of the State, was without any validity, and did not authorize a sale of the property in controversy. 
 
@@ -96,9 +95,7 @@ The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) wa
 
 The questions for decision are (1) whether, within the limitations of the due process clause of the Fourteenth Amendment, appellant, a Delaware corporation, has by its activities in the State of Washington rendered itself amenable to proceedings in the courts of that state to recover unpaid contributions to the state unemployment compensation fund exacted by state statutes, and (2) whether the state can exact those contributions consistently with the due process clause of the Fourteenth Amendment.
 
-In this case notice of assessment for unpaid contributions for the years in question was personally served upon a sales solicitor employed by appellant in the State of Washington, and a copy of the notice was mailed by registered mail to appellant at its address in St. Louis, Missouri. Appellant appeared specially before the office of unemployment and moved to set aside the order and notice of assessment on the ground that the service upon appellant's salesman was not proper service upon appellant; that appellant was not a corporation of the State of Washington and was not doing business within the state; that it had no agent within the state upon whom service could be made; and that appellant is not an employer and does not furnish employment within the meaning of the statute.
-
-![International Shoe Co., St. Louis, Missouri]({{ site.baseurl }}/assets/casebook/img/IntlShoeBldg2.jpg){width="100%"}
+In this case notice of assessment for unpaid contributions for the years in question was personally served upon a sales solicitor employed by appellant in the State of Washington, and a copy of the notice was mailed by registered mail to appellant at its address in St. Louis, Missouri.{% marginfigure "international-shoe" "https://www.emfink.net/CivPro/assets/casebook/img/IntlShoeBldg2.jpg" "International Shoe Co., St. Louis, Missouri" %} Appellant appeared specially before the office of unemployment and moved to set aside the order and notice of assessment on the ground that the service upon appellant's salesman was not proper service upon appellant; that appellant was not a corporation of the State of Washington and was not doing business within the state; that it had no agent within the state upon whom service could be made; and that appellant is not an employer and does not furnish employment within the meaning of the statute.
 
 The facts as found by the appeal tribunal and accepted by the state Superior Court and Supreme Court, are not in dispute. Appellant is a Delaware corporation, having its principal place of business in St. Louis, Missouri, and is engaged in the manufacture and sale of shoes and other footwear. It maintains places of business in several states, other than Washington, at which its manufacturing is carried on and from which its merchandise is distributed interstate through several sales units or branches located outside the State of Washington.
 
@@ -584,7 +581,7 @@ In 2004, plaintiffs (respondents here) filed suit in the United States District 
 
 [^Daimler1]:
 
-  {-} The Alien Tort Statute gives federal district courts subject matter jurisdiction over suits "by an alien for a tort only, committed in violation of the law of nations or a treaty of the United States." The Torture Victims Protection Act ('TVPA') amended the Alien Tort Statute to establish a civil cause of action against "An individual who, under actual or apparent authority, or color of law, of any foreign nation subjects an individual to torture or subjects an individual to extrajudicial killing". In [Mohamad v. Palestinian Authority](https://scholar.google.com/scholar_case?case=8123691441658588112), 566 U.S. 449 (2012), the Supreme Court held that the TVPA authorized suits only against individuals, not organizations. In a later case, [Jesner v. Arab Bank, PLC](https://scholar.google.com/scholar_case?case=15742931096346620980), 138 S.Ct. 1386 (2018), the Court likewise held that the Alien Tort Statute does not authorize suits against foreign corporations.
+  {-} The Alien Tort Statute gives federal district courts subject matter jurisdiction over suits "by an alien for a tort only, committed in violation of the law of nations or a treaty of the United States." The Torture Victims Protection Act ('TVPA') amended the Alien Tort Statute to establish a civil cause of action against "An individual who, under actual or apparent authority, or color of law, of any foreign nation subjects an individual to torture or subjects an individual to extrajudicial killing". In [Mohamad v. Palestinian Authority](https://scholar.google.com/scholar_case?case=8123691441658588112), 566 U.S. 449 (2012), the Supreme Court held that the TVPA authorized suits only against individuals, not organizations. In a later case, [Jesner v. Arab Bank, PLC](https://scholar.google.com/scholar_case?case=3924931054627865651), 584 U.S. 241 (2018), the Court likewise held that the Alien Tort Statute does not authorize suits against foreign corporations.
 
 Plaintiffs' operative complaint names only one corporate defendant: Daimler, the petitioner here. Plaintiffs seek to hold Daimler vicariously liable for MB Argentina's alleged malfeasance. Daimler is a German _Aktiengesellschaft_ (public stock company) that manufactures Mercedes-Benz vehicles in Germany and has its headquarters in Stuttgart. At times relevant to this case, MB Argentina was a subsidiary wholly owned by Daimler's predecessor in interest.
 
@@ -608,7 +605,7 @@ In _Pennoyer v. Neff,_ decided shortly after the enactment of the Fourteenth Ame
 
 _International Shoe's_ conception of "fair play and substantial justice" presaged the development of two categories of personal jurisdiction. The first category is represented by _International Shoe_ itself, a case in which the in-state activities of the corporate defendant "had not only been continuous and systematic, but also gave rise to the liabilities sued on." _International Shoe_ recognized, as well, that "the commission of some single or occasional acts of the corporate agent in a state" may sometimes be enough to subject the corporation to jurisdiction in that State's tribunals with respect to suits relating to that in-state activity. Adjudicatory authority of this order, in which the suit "arises out of or relates to the defendant's contacts with the forum," is today called "specific jurisdiction."
 
-_International Shoe_ distinguished between, on the one hand, exercises of specific jurisdiction, as just described, and on the other, situations where a foreign corporation's "continuous corporate operations within a state are so substantial and of such a nature as to justify suit against it on causes of action arising from dealings entirely distinct from those activities." As we have since explained, "a court may assert general jurisdiction over foreign (sister-state or foreign-country) corporations to hear any and all claims against them when their affiliations with the State are so 'continuous and systematic' as to render them essentially at home in the forum State." _Goodyear,_ 131 S.Ct. at 2851.
+_International Shoe_ distinguished between, on the one hand, exercises of specific jurisdiction, as just described, and on the other, situations where a foreign corporation's "continuous corporate operations within a state are so substantial and of such a nature as to justify suit against it on causes of action arising from dealings entirely distinct from those activities." As we have since explained, "a court may assert general jurisdiction over foreign (sister-state or foreign-country) corporations to hear any and all claims against them when their affiliations with the State are so 'continuous and systematic' as to render them essentially at home in the forum State." 
 
 Our post-_International Shoe_ opinions on general jurisdiction are few. "[The Court's] 1952 decision in _Perkins v. Benguet Consol. Mining Co._ remains the textbook case of general jurisdiction appropriately exercised over a foreign corporation that has not consented to suit in the forum." The defendant in _Perkins,_ Benguet, was a company incorporated under the laws of the Philippines, where it operated gold and silver mines. Benguet ceased its mining operations during the Japanese occupation of the Philippines in World War II; its president moved to Ohio, where he kept an office, maintained the company's files, and oversaw the company's activities. The plaintiff, an Ohio resident, sued Benguet on a claim that neither arose in Ohio nor related to the corporation's activities in that State. We held that the Ohio courts could exercise general jurisdiction over Benguet without offending due process. That was so, we later noted, because "Ohio was the corporation's principal, if temporary, place of business."
 
@@ -616,7 +613,7 @@ The next case on point, _Helicopteros,_ arose from a helicopter crash in Peru. F
 
 Most recently, in _Goodyear,_ we answered the question: "Are foreign subsidiaries of a United States parent corporation amenable to suit in state court on claims unrelated to any activity of the subsidiaries in the forum State?" 131 S.Ct. at 2850. That case arose from a bus accident outside Paris that killed two boys from North Carolina. The boys' parents brought a wrongful-death suit in North Carolina state court alleging that the bus's tire was defectively manufactured. The complaint named as defendants not only The Goodyear Tire and Rubber Company (Goodyear), an Ohio corporation, but also Goodyear's Turkish, French, and Luxembourgian subsidiaries. Those foreign subsidiaries, which manufactured tires for sale in Europe and Asia, lacked any affiliation with North Carolina. A small percentage of tires manufactured by the foreign subsidiaries were distributed in North Carolina, however, and on that ground, the North Carolina Court of Appeals held the subsidiaries amenable to the general jurisdiction of North Carolina courts.
 
-We reversed, observing that the North Carolina court's analysis "elided the essential difference between case-specific and all-purpose (general) jurisdiction." Although the placement of a product into the stream of commerce "may bolster an affiliation germane to _specific_ jurisdiction," we explained, such contacts "do not warrant a determination that, based on those ties, the forum has _general_ jurisdiction over a defendant." As _International Shoe_ itself teaches, a corporation's "continuous activity of some sorts within a state is not enough to support the demand that the corporation be amenable to suits unrelated to that activity." 326 U.S. at 318. Because Goodyear's foreign subsidiaries were "in no sense at home in North Carolina," we held, those subsidiaries could not be required to submit to the general jurisdiction of that State's courts.
+We reversed, observing that the North Carolina court's analysis "elided the essential difference between case-specific and all-purpose (general) jurisdiction." Although the placement of a product into the stream of commerce "may bolster an affiliation germane to _specific_ jurisdiction," we explained, such contacts "do not warrant a determination that, based on those ties, the forum has _general_ jurisdiction over a defendant." As _International Shoe_ itself teaches, a corporation's "continuous activity of some sorts within a state is not enough to support the demand that the corporation be amenable to suits unrelated to that activity." Because Goodyear's foreign subsidiaries were "in no sense at home in North Carolina," we held, those subsidiaries could not be required to submit to the general jurisdiction of that State's courts.
 
 As is evident from _Perkins_, _Helicopteros,_ and _Goodyear,_ general and specific jurisdiction have followed markedly different trajectories post-_International Shoe._ Specific jurisdiction has been cut loose from _Pennoyer's_ sway, but we have declined to stretch general jurisdiction beyond limits traditionally recognized. As this Court has increasingly trained on the "relationship among the defendant, the forum, and the litigation," _i.e.,_ specific jurisdiction, general jurisdiction has come to occupy a less dominant place in the contemporary scheme.
 
@@ -776,7 +773,7 @@ In light of this split of authority, we agreed to hear this case and decide whet
 
 <p class="case-h1">II</p>
 
-The question before us is not a new one. In truth, it is a very old question—and one this Court resolved in __Pennsylvania Fire_ Ins. Co. of Philadelphia v. Gold Issue Mining & Milling Co._, 243 U. S. 93 (1917). There, the Court unanimously held that laws like Pennsylvania’s comport with the Due Process Clause. Some background helps explain why the Court reached the result it did.
+The question before us is not a new one. In truth, it is a very old question—and one this Court resolved in _Pennsylvania Fire Ins. Co. of Philadelphia v. Gold Issue Mining & Milling Co._, 243 U. S. 93 (1917). There, the Court unanimously held that laws like Pennsylvania’s comport with the Due Process Clause. Some background helps explain why the Court reached the result it did.
 
 Both at the time of the founding and the Fourteenth Amendment’s adoption, the Anglo-American legal tradition recognized that a tribunal’s competence was generally constrained only by the “territorial limits” of the sovereign that created it. That principle applied to all kinds of actions, but cashed out differently based on the object of the court’s attention. So, for example, an action _in rem_ that claimed an interest in immovable property was usually treated as a “local” action that could be brought only in the jurisdiction where the property was located. Meanwhile, an _in personam_ suit against an individual “for injuries that might have happened any where” was generally considered a “transitory” action that followed the individual. All of which meant that a suit could be maintained by anyone on any claim in any place the defendant could be found. 
 
@@ -826,7 +823,7 @@ But if this account might seem a plausible summary of some of our _International
 
 In reality, then, all _International Shoe_ did was stake out an additional road to jurisdiction over out-of-state corporations. _Pennsylvania Fire_ held that an out-of-state corporation that has consented to in-state suits in order to do business in the forum is susceptible to suit there. _International Shoe_ held that an out-of-state corporation that has not consented to in-state suits may also be susceptible to claims in the forum State based on “the quality and nature of its activity” in the forum. Consistent with all this, our precedents applying _International Shoe_ have long spoken of the decision as asking whether a state court may exercise jurisdiction over a corporate defendant “‘that has not consented to suit in the forum.’” Our precedents have recognized, too, that “express or implied consent” can continue to ground personal jurisdiction—and consent may be manifested in various ways by word or deed. 
 
-That Norfolk Southern overreads _International Shoe_ finds confirmation in that decision’s emphasis on “‘fair play and substantial justice.’” Sometimes, _International Shoe_ said, the nature of a company’s in-state activities will support jurisdiction over a nonconsenting corporation when those activities “give rise to the liabilities sued on.” Other times, it added, suits “on causes of action arising from dealings entirely distinct from [the company’s] activities” in the forum State may be appropriate. These passages may have pointed the way to what (much) later cases would label “specific jurisdiction” over claims related to in-forum activities and “general jurisdiction” in places where a corporation is incorporated or headquartered. But the fact remains that _International Shoe_ itself eschewed any “mechanical or quantitative” test and instead endorsed a flexible approach focused on “the fair and orderly administration of the laws which it was the purpose of the due process clause to insure.” Unquestionably, too, _International Shoe_ saw this flexible standard as expanding—not contracting—state court jurisdiction. As we later put the point: “The immediate effect of [_International Shoe_] was to increase the ability of the state courts to obtain personal jurisdiction over nonresident defendants.” _Shaffer v. Heitner_, 433 U. S. 186, 204 (1977).
+That Norfolk Southern overreads _International Shoe_ finds confirmation in that decision’s emphasis on “‘fair play and substantial justice.’” Sometimes, _International Shoe_ said, the nature of a company’s in-state activities will support jurisdiction over a nonconsenting corporation when those activities “give rise to the liabilities sued on.” Other times, it added, suits “on causes of action arising from dealings entirely distinct from the company’s activities” in the forum State may be appropriate. These passages may have pointed the way to what (much) later cases would label “specific jurisdiction” over claims related to in-forum activities and “general jurisdiction” in places where a corporation is incorporated or headquartered. But the fact remains that _International Shoe_ itself eschewed any “mechanical or quantitative” test and instead endorsed a flexible approach focused on “the fair and orderly administration of the laws which it was the purpose of the due process clause to insure.” Unquestionably, too, _International Shoe_ saw this flexible standard as expanding—not contracting—state court jurisdiction. As we later put the point: “The immediate effect of _International Shoe_ was to increase the ability of the state courts to obtain personal jurisdiction over nonresident defendants.”
 
 Given all this, it is no wonder that we have already turned aside arguments very much like Norfolk Southern’s. In Burnham, the defendant contended that _International Shoe_ implicitly overruled the traditional tag rule holding that individuals physically served in a State are subject to suit there for claims of any kind. This Court rejected that submission. Instead, as Justice Scalia explained, _International Shoe_ simply provided a “novel” way to secure personal jurisdiction that did nothing to displace other “traditional ones.” What held true there must hold true here.
 
@@ -949,55 +946,47 @@ Critics of Daimler and Goodyear may be happy to see them go. And make no mistake
 
 ### Synthesis: Analyzing a Personal Jurisdiction Problem 
 
-![FIg. 4.4]({{ site.baseurl }}/assets/casebook/img/personal-jurisdiction.png)
+![Fig. 4.4]({{ site.baseurl }}/assets/casebook/img/personal-jurisdiction.png)
+
+<div class="comment">
 
 ## Statutory Authorization: Long-Arm Statutes
 
-Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. There are two types of long-arm statute.
-
 ![Robert Wadlow, the tallest human in history, visiting Folsom Prison in 1939 as a spokesman for the International Shoe Company. ]({{ site.baseurl }}/assets/casebook/img/Long-Arm.jpg)
+
+Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. There are two types of long-arm statute.
 
 ### Enumerated Statutes 
 
-<div class="comment">
-
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example.
 
-</div>
 
-<div class="legal-code">
+> **NY CPLR § 302: Personal jurisdiction by acts of non-domiciliaries.**
 
-#### NY CPLR § 302
+> (a) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:
 
-<p class="case-h1">Personal jurisdiction by acts of non-domiciliaries.</p>
+> > 1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or
 
-(a) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:
+> > 2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or
 
-> 1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or
+> > 3. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he
 
-> 2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or
+> > > (i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or
 
-> 3. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he
+> > > (ii) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or
 
-> > (i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or
-
-> > (ii) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or
-
-> 4. owns, uses or possesses any real property situated within the state.
+> > 4. owns, uses or possesses any real property situated within the state.
  
-(b) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law.
+> (b) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law.
 
-(c) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section.
+> (c) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section.
 
-(d) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:
+> (d) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:
 
-> 1. the publication at issue was published in New York, and 
+> > 1. the publication at issue was published in New York, and 
 
-> 2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision.
+> > 2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision.
 
-</div>
-
-<div class="comment">
 
 Under an enumerated long-arm statute, determining whether the court may exercise personal jurisdiction requires a two-step analysis: 
 
@@ -1005,28 +994,13 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 
 (2) If so, does the defendant have the requisite contacts with the forum state to satisfy the constitutional due process standard? 
 
-</div>
-
-
 ### Constitutional Limit Statutes 
-
-<div class="comment">
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example.
 
-</div>
-
-<div class="legal-code">
-
-#### Cal. Code Civ. Proc § 410.10
-
-<p class="case-h1">Jurisdiction exercisable.</p>
+> **Cal. Code Civ. Proc § 410.10: Jurisdiction exercisable.**
  
-A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States.
-
-</div>
-
-<div class="comment">
+> A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States.
 
 Under this type of long-arm statute, the same analysis (i.e. does the defendant have minimum contacts with the forum state?) answers both the statutory and constitutional question.
 
