@@ -34,7 +34,7 @@ The Rules of Decision Act applies to cases in which federal courts hear claims t
 
 **Summary of Facts**
 
-The defendant, George Tysen[^Swift1] purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swift2] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt. Swift may have been in cahoots with Norton and Keith:
+The defendant, George Tysen[^Swift1] purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange.[^Swift2] It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt.[^Swift3]
 
 [^Swift1]: 
 
@@ -44,9 +44,9 @@ The defendant, George Tysen[^Swift1] purchased some land from Nathaniel Norton a
 
   {-} "A bill of exchange, a short-term negotiable instrument, is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/bill_of_exchange)
 
-> The circumstances surrounding the giving of the promissory note of Norton and Keith to Swift and the fact that after indorsing the bill to Swift the two erstwhile real estate salesmen disappeared, all hinted that Swift, Keith, and Norton had attempted to manufacture Swift's status as bona fide holder in order to allow him to collect the bill in spite of the hanky panky surrounding the land deal. Perhaps in return Swift gave Norton and Keith enough cash with which to make their escape.
+[^Swift3]:
 
-William P. LaPiana, _Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of the Idea of Law in Antebellum America_, 20 Suffolk University Law Review 771, 796 (1986)
+  {-} Swift may have been in cahoots with Norton and Keith: "The circumstances surrounding the giving of the promissory note of Norton and Keith to Swift and the fact that after indorsing the bill to Swift the two erstwhile real estate salesmen disappeared, all hinted that Swift, Keith, and Norton had attempted to manufacture Swift's status as bona fide holder in order to allow him to collect the bill in spite of the hanky panky surrounding the land deal. Perhaps in return Swift gave Norton and Keith enough cash with which to make their escape." William P. LaPiana, _Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of the Idea of Law in Antebellum America_, 20 Suffolk University Law Review 771, 796 (1986). 
 
 Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship.
 
