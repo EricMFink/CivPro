@@ -172,21 +172,13 @@ The fallacy underlying the rule declared in _Swift v. Tyson_ is made clear by Mr
 
 Thus the doctrine of _Swift v. Tyson_, is, as Mr. Justice Holmes said, "an unconstitutional assumption of powers by courts of the United States which no lapse of time or respectable array of opinion should make us hesitate to correct." In disapproving that doctrine we do not hold unconstitutional § 34 of the Federal Judiciary Act of 1789 or any other Act of Congress. We merely declare that in applying the doctrine this Court and the lower courts have invaded rights which in our opinion are reserved by the Constitution to the several States.
 
-_Fourth_. The defendant contended that by the common law of Pennsylvania as declared by its highest court [ * * * ], the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
+_Fourth_.[^erie9] The defendant contended that by the common law of Pennsylvania as declared by its highest court [ * * * ], the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
 
-***
+[^erie9]:
 
-<div class="comment">
+  {-} On remand, the Court of Appeals concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. 98 F.2d 49 (2d Cir. 1938).
 
-#### Note on _Erie_
-
-On remand, the Court of Appeals concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. 98 F.2d 49 (2d Cir. 1938).
-
-For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Brian Frye, ["The Ballad of Harry Tompkins"](https://uknowledge.uky.edu/law_facpub/639/).
-
-</div>
-
-
+  For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Brian Frye, ["The Ballad of Harry Tompkins"](https://uknowledge.uky.edu/law_facpub/639/).
 
 <div class="comment">
 
