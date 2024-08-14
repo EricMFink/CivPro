@@ -138,7 +138,7 @@ In _Conley v. Gibson_, 355 U.S. 41 (1957), the Supreme Court interpreted Rule 8(
 
 A half-century later, a pair of Supreme Court decisions jettisoned the _Conley_ "no set of facts" standard and adopted a more demanding approach. 
 
-1. _Bell Atlantic Corp. v. Twombly_, 550 U.S. 544 (2007)
+**Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)**
 
 In _Twombly_, the plaintiffs alleged that four telecommunications companies had "engaged in a contract, combination or conspiracy to prevent competitive entry in their respective local telephone and/or high speed internet services markets by, among other things, agreeing not to compete with one another and to stifle attempts by others to compete with them and otherwise allocating customers and markets to one another in violation of Section 1 of the Sherman Antitrust Act, [15 U.S.C. § 1](https://www.law.cornell.edu/uscode/text/15/1)" In support of that claim, the complaint alleged that the defendants "engaged in parallel conduct" to restrict competition, including "making unfair agreements with [competing providers] for access to [the defendants'] networks, providing inferior connections to the networks, overcharging, and billing in ways designed to sabotage the [competing providers'] relations with their own customers." The complaint also alleged that the defendants agreed to refrain from competing with one another, by not pursuing business opportunities in markets already serviced by other defendants. 
 
@@ -152,7 +152,7 @@ The Court held that the allegations in the complaint were insufficient to state 
  
 To asses whether the inference of an agreement was plausible, the majority considered "an obvious alternative explanation": While the alleged parallel conduct was "consistent with conspiracy," it was, in the majority's view, "as much in line with a wide swath of rational and competitive business strategy unilaterally prompted by common perceptions of the market." Finding that "the plaintiffs here have not nudged their claims across the line from conceivable to plausible," the majority concluded that "their complaint must be dismissed."
 
-2. _Ashcroft v. Iqbal_, 556 U.S. 662 (2009)
+**Ashcroft v. Iqbal, 556 U.S. 662 (2009)**
 
 Javaid Iqbal sued various federal government officials, including former Attorney General John Ashcroft and FBI Director Robert Mueller, over his arrest and detention as a "a person 'of high interest' to the September 11 investigation". Iqbal, a citizen of Pakistan and a Muslim, alleged that Ashcroft and Mueller "adopted an unconstitutional policy that subjected him to harsh conditions of confinement on account of his race, religion, or national origin." 
 
@@ -197,9 +197,9 @@ Applying that standard to Iqbal's complaint, the majority concluded that the all
 
 This is a dispute over the unwinding of a relationship between the parties related to sponsorship of high school lacrosse tournaments nationwide following the impact of the novel coronavirus in 2020. Before the court is the motion of Plaintiff Intercollegiate Women's Lacrosse Coaches Association ("IWLCA") to dismiss all counterclaims against it pursuant to Federal Rule of Civil Procedure 12(b)(6). Defendants Corrigan Sports Enterprises, Inc. ("CSE") and Richard Lee Corrigan, Jr. filed a response in opposition, and IWLCA filed a reply. For the reasons set forth below, the motion will be granted in part and denied in part.
 
-<p class="case-h1">I. BACKGROUND</p>
+<p class="case-h1">I. Background</p>
 
-<p class="case-h2">A. Factual Background</p>
+<p class="case-h2">A. Factual Background</p>
 
 The facts as outlined in CSE's counterclaims, which are taken as true for the purposes of the present motion, show the following:
 
@@ -231,21 +231,21 @@ In the months following the April 2020 announcements, IWLCA allegedly began to a
 
 Between July and November 2020, CSE hosted five high school women's lacrosse tournaments with COVID-19 protocols in place. Ultimately, though, the number of teams in attendance was significantly lower than prior years.
 
-<p class="case-h2">B. Procedural History</p>
+<p class="case-h2">B. Procedural History</p>
 
 On May 6, 2020, IWLCA filed this action in a North Carolina state court seeking declaratory, monetary, and injunctive relief. Defendants timely removed the lawsuit to this court and moved to dismiss for lack of jurisdiction. IWLCA subsequently filed an amended complaint, and the motion to dismiss for lack of jurisdiction was denied.
 
 Defendants also filed a motion to dismiss pursuant to Rule 12(b)(6), which this court granted in part and denied in part on December 4, 2020. Defendants then filed their answer, affirmative defenses, and counterclaims in response to IWLCA's amended complaint. Defendants allege five counterclaims against IWLCA: (1) breach of contract; (2) tortious interference with contract; (3) tortious interference with prospective economic advantage; (4) unfair competition; and (5) violations of the North Carolina Unfair and Deceptive Trade Practices Act ("UDTPA"). IWLCA now moves to dismiss all counterclaims pursuant to Federal Rule of Civil Procedure 12(b)(6). Defendants oppose the motion, which is fully briefed and ready for resolution.
 
-<p class="case-h1">II. ANALYSIS</p>
+<p class="case-h1">II. Analysis</p>
 
-<p class="case-h2">A. Standard of Review</p>
+<p class="case-h2">A. Standard of Review</p>
 
 Federal Rule of Civil Procedure 8(a)(2) provides that a pleading must contain "a short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. (8)(a)(2). Under Federal Rule of Civil Procedure 12(b)(6), a complaint — or as is the case here, a counterclaim — must contain "sufficient factual matter ... to 'state a claim to relief that is plausible on its face.'" A claim is plausible "when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In considering a Rule 12(b)(6) motion, a court "must accept as true all of the factual allegations," and all reasonable inferences must be drawn in the complainant's favor. "Rule 12(b)(6) protects against meritless litigation by requiring sufficient factual allegation 'to raise a right to relief above the speculative level' so as to 'nudge the claims across the line from conceivable to plausible.'" A counterclaim is judged by the same standard and "must 'state a plausible claim for relief' that permits the court to infer more than the mere possibility of misconduct based upon 'its judicial experience and common sense.'" Thus, mere legal conclusions are not accepted as true, and "threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice."
 
 In ruling on a motion to dismiss, courts may consider documents attached to either the counterclaims or the motion to dismiss without converting the motion into one for summary judgment so long as the documents are integral to the counterclaims and authentic.
 
-<p class="case-h2">B. Breach of Contract</p>
+<p class="case-h2">B. Breach of Contract</p>
 
 Defendants first bring a counterclaim for breach of contract against IWLCA. Under North Carolina law, the essential elements for a breach of contract claim are the existence of a valid contract and a breach of its terms. A valid contract requires an agreement based on a meeting of the minds and sufficient consideration. As such, in order to state a claim for breach of contract, Defendants must first show that the parties had an enforceable agreement.
 
@@ -261,7 +261,7 @@ Because Defendants have plausibly alleged a contract implied in fact, it must ne
 
 [^IWLC1]: (n.4 in opinion) To the extent that IWLCA argues that Defendants ignore the "obvious alternative explanation" for decreased attendance and participation in the 2020 tournaments — namely, the COVID-19 pandemic — it raises a fact question that the court is constrained not to consider at the motion to the dismiss stage. For this reason, the court does not address this argument here.
 
-<p class="case-h2">C. Tortious Interference with Contract</p>
+<p class="case-h2">C. Tortious Interference with Contract</p>
 
 Defendants next bring a claim of tortious interference with contract. Defendants contend that IWLCA tortiously interfered with contracts between Defendants and players, teams, and coaches registered for the 2020 tournaments. IWLCA argues that this claim should be dismissed because Defendants failed to adequately plead the cause of action in several respects; specifically, that Defendants failed to adequately allege that IWLCA induced any specific third party to breach its contract, that any specific third party actually breached its contract, that Defendants actually maintained contracts with the third parties, or that any third party would have performed under its contract but for IWLCA's conduct. Defendants respond that IWLCA has mischaracterized their pleadings. 
 
@@ -277,7 +277,7 @@ Finally, IWLCA's argument that Defendants did not maintain the registration cont
 
 For all these reasons, IWLCA's motion to dismiss Defendants' tortious interference of contract claim will be denied.
 
-<p class="case-h2">D. Tortious Interference with Prospective Economic Advantage</p>
+<p class="case-h2">D. Tortious Interference with Prospective Economic Advantage</p>
 
 Defendants next bring a claim for tortious interference with prospective economic advantage. Defendants allege that IWLCA interfered with CSE's plans to hold high school women's lacrosse tournaments in 2021 by encouraging teams, players, and coaches not to attend these events and by making false statements regarding the safety and effectiveness of the tournaments for college recruitment. IWLCA argues that this claim must be dismissed because Defendants' allegations fail in multiple respects; namely, that Defendants failed (1) to identify a particular prospective contract with a particular third party with which IWLCA allegedly interfered, (2) to allege that IWLCA was aware of any prospective contract, (3) to allege that any such inference was intentional, and (4) to allege that any particular contract was not consummated. IWLCA further argues that the claim must be dismissed because it is based only on Defendants' expectation of continuing business relationships. In response, Defendants contest IWLCA's characterization of their pleadings as vague and further contend that they had more than a mere expectancy of contracting with teams, players, and coaches for the 2021 tournaments.
 
@@ -287,7 +287,7 @@ Courts have acknowledged that North Carolina law "is not crystal clear" on the l
 
 Here, the court need not determine whether Defendants have adequately pleaded sufficient facts for many of the particulars of this claim, which is at best dubious because Defendants fail to identify any particular contract or any particular team, player, or coach that was so dissuaded. The claim fails for another reason — namely, that it is based on the "mere expectation of a continuing business relationship." Defendants indicate that "teams, players, and coaches that historically attended CSE's recruiting tournaments" have failed to register for the 2021 tournaments "as they had for several years prior." Beyond the historic attendance of these unspecified teams, players, and coaches, Defendants provide no basis for their conclusion that contracts for the 2021 tournaments would have resulted but for IWLCA's conduct. Defendants' expectation of a continuing business relationship with these third parties alone is not sufficient to state a claim for tortious interference with prospective economic advantage. As such, IWLCA's motion to dismiss this claim will be granted.
 
-<p class="case-h2">E. Violations of the UDTPA and Unfair Competition</p>
+<p class="case-h2">E. Violations of the UDTPA and Unfair Competition</p>
 
 Lastly, Defendants bring claims for violations of the UDTPA and common law unfair competition. Defendants base these causes of action on their underlying claims for breach of contract and tortious interference with contract and prospective economic advantage. In response, IWLCA argues that a breach of contract alone cannot support either claim. Further, it argues that Defendants have failed to make any specific allegations that would support these claims.
 
@@ -594,7 +594,7 @@ This matter is before the court on Defendant Allstate Insurance Company’s Moti
 
 On January 4, 2004, Plaintiff Kathryn Shiflet’s mobile home and personal belongings were destroyed by fire. At the time of the fire, Plaintiff’s mobile home was covered under an insurance policy provided by Allstate Insurance. On November 3, 2004, Plaintiff initiated this action against Defendant Allstate Insurance for breach of contract, bad faith, and violation of [the S.C. insurance claims practices statute], after Allstate allegedly wrongfully denied Plaintiff’s claim.
 
-Defendant Allstate originally filed its answer to the original complaint on December 6, 2004. Then, on May 31, 2005, Plaintiff amended the original complaint with the leave of the court. On June 3, 2005, Defendant filed its answer to the Amended Complaint, including a motion to join Mr. Shiflet as a necessary party or, if that is not feasible, that the action be dismissed.1(#co_footnote_B00112008358850_1) On November 10, 2005, Defendant filed a motion to amend its answer to the Amended Complaint so as to include the defense of arson. Five days after Defendant filed this motion to amend, the court adopted, with the consent of both parties, a Second Amended Scheduling Order. This Order specified that any amended pleadings would be due by December 15, 2005 and that discovery was to be completed by March 1, 2006.
+Defendant Allstate originally filed its answer to the original complaint on December 6, 2004. Then, on May 31, 2005, Plaintiff amended the original complaint with the leave of the court. On June 3, 2005, Defendant filed its answer to the Amended Complaint, including a motion to join Mr. Shiflet as a necessary party or, if that is not feasible, that the action be dismissed. On November 10, 2005, Defendant filed a motion to amend its answer to the Amended Complaint so as to include the defense of arson. Five days after Defendant filed this motion to amend, the court adopted, with the consent of both parties, a Second Amended Scheduling Order. This Order specified that any amended pleadings would be due by December 15, 2005 and that discovery was to be completed by March 1, 2006.
 
 On January 13, 2006, Plaintiff filed her response in opposition to Defendant’s motion to amend its answer. Plaintiff argues that the proposed amendment should be denied because it is prejudicial to Plaintiff, in bad faith, and would be futile.
 
@@ -651,11 +651,11 @@ The relevant legal basis for punitive damages under Minnesota law provides:
 
 > Punitive damages shall be allowed in civil actions only upon clear and convincing evidence that the acts of the defendant show deliberate disregard for the rights or safety of others.
 >
-> (b) A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
+> (b) A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
 >
-> > (1) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
+> > (1) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
 >
-> > (2) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
+> > (2) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
 
 <p class="case-h1">III. ANALYSIS</p>
 
@@ -663,9 +663,9 @@ With respect to Rule 15, Defendants argue that the Motion should be denied becau
 
 > A defendant has acted with deliberate disregard for the rights or safety of others if the defendant has knowledge of facts or intentionally disregards facts that create a high probability of injury to the rights or safety of others and:
 >
-> (1) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
+> (1) deliberately proceeds to act in conscious or intentional disregard of the high degree of probability of injury to the rights or safety of others; or
 >
-> (2) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
+> (2) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
 
 Under these criteria, "a defendant operates with 'deliberate disregard' by acting with intent or indifference to threaten the rights or safety of others." As such, "the mere existence of negligence or of gross negligence does not rise to the level required so as to warrant a claim for punitive damages." Moreover, Plaintiffs must allege that Defendants were aware of a high probability that their conduct would cause injury to Plaintiffs. Put another way, the Court looks to whether the allegations in the proposed amended complaint plausibly allege that Defendants knew of facts, or intentionally disregarded facts, that created a high probability that Defendants' actions would harm the rights or safety of Plaintiffs.
 
@@ -788,7 +788,7 @@ The only factor which might call for a denial of Plaintiffs' motion is possible 
 
 (c) Sanctions.
 
-> (1) In General. If, after notice and a reasonable opportunity to respond, the court determines that Rule 11(b) has been violated, the court may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.
+> (1) In General. If, after notice and a reasonable opportunity to respond, the court determines that Rule 11(b) has been violated, the court may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.
 
 > (2) Motion for Sanctions. A motion for sanctions must be made separately from any other motion and must describe the specific conduct that allegedly violates Rule 11(b). The motion must be served under Rule 5, but it must not be filed or be presented to the court if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets. If warranted, the court may award to the prevailing party the reasonable expenses, including attorney's fees, incurred for the motion.
 
@@ -934,11 +934,11 @@ For over two years, from May 1998 until June 2000, no action was taken with resp
 
 On October 23, 2000, the district court entered the order we are called upon to review in this appeal. Finding the attorneys' behavior to be sanctionable, the court barred Ms. Hunter from the practice of law in the Western District of North Carolina for a period of five years. It also reprimanded Ms. Hunter's co-counsel, and it admonished them "to be conscious of and strictly abide by the provisions of Rule 11 in the future." The court based its Sanctions Order on the following:
 
-> (a) first and foremost, counsel's assertion of a legal position contrary to the holding of our 1996 decision in _Austin v. Owens-Brockway Glass Container, Inc.,_ 78 F.3d 875 (4th Cir.1996), which the court characterized as a "frivolous legal contention."
+> (a) first and foremost, counsel's assertion of a legal position contrary to the holding of our 1996 decision in _Austin v. Owens-Brockway Glass Container, Inc.,_ 78 F.3d 875 (4th Cir.1996), which the court characterized as a "frivolous legal contention."
 
-> (b) counsel's lack of judgment and skill; and
+> (b) counsel's lack of judgment and skill; and
 
-> (c) Ms. Hunter's sanction by the same court eleven years earlier.
+> (c) Ms. Hunter's sanction by the same court eleven years earlier.
 
 Ms. Hunter has timely appealed the suspension imposed upon her, maintaining that Rule 11 sanctions are unwarranted and that her suspension from practice was an overly severe penalty. We possess jurisdiction under 28 U.S.C. § 1291.
 
@@ -1083,7 +1083,7 @@ Rule 11 requires attorneys to certify that motions are "not being presented for 
 
 A district court may consider a wide variety of evidence in making its determination, including the attorney's subjective beliefs about the motion, "\circumstantial facts surrounding the filing," "the outrageous nature of the claims made" in the motion, and the attorney's "experience in a particular area of law." As previously noted, the Court may impose an appropriate sanction on any attorney, law firm, or party that "is responsible for the violation."
 
-<p class="case-h3">1. Mr. Shaw</p>
+<p class="case-h3">1. Mr. Shaw</p>
 
 Many facts show that Mr. Shaw filed the motion for attorney's fees with an improper purpose. First, the motion lacked a basis in law or in fact, as detailed in the Show Cause Order, and earlier in this Order. The fact that a filing lacked a basis in law or in fact strongly supports a finding of improper purpose under Rule 11(b).
 
@@ -1107,11 +1107,11 @@ Finally, Mr. Shaw's course of conduct is indicative of a general willingness to 
 
 Viewing all of the evidence as a whole, the Court finds by clear and convincing evidence that Mr. Shaw filed the motion for attorney's fees for an improper purpose and that by filing it he violated Rule 11(b)(1).
 
-<p class="case-h3">2. Mr. Matheny</p>
+<p class="case-h3">2. Mr. Matheny</p>
 
 Although Mr. Matheny was responsible for the conduct of the litigation and was required to review and sign all pleadings and papers, the Court will not find him in violation of Rule 11(b)(1). The evidence establishes that Mr. Shaw drafted and filed the motion. The facts show that Mr. Matheny was inattentive, irresponsible, and shirked his professional and ethical duties in accepting a role where he did not have any oversight or review and in not reviewing this motion. Perhaps the evidence would support a finding that he personally filed the motion for an improper purpose, but the Court declines to so find in its discretion, given the overall context.
 
-<p class="case-h3">3. The Moving Defendants</p>
+<p class="case-h3">3. The Moving Defendants</p>
 
 Craig Brooksby, one of the Group 1 defendants, is "the primary individual defendant" and "the primary contact for nearly all of the Limited Liability Company defendants," including for those defendants in Group 1 and Group 2. He made the litigation decisions for these defendant entities while Mr. Shaw and Mr. Matheny represented them. The Court finds by clear and convincing evidence that Mr. Brooksby is responsible for the filing of the motion for attorney's fees and that he had the same improper purpose as Mr. Shaw, in violation of Rule 11(b)(1).
 
@@ -1137,7 +1137,7 @@ While Rule 11 itself does not list the factors that courts should consider in se
 
 Sanctions may be monetary or non-monetary. _See_ Fed. R. Civ. P. 11(c)(4). Because the Court initiated these proceedings _sua sponte,_ monetary sanctions are limited to penalties payable to the court; attorney's fees or other monetary sanction payable to a party are not available. _See_ Fed. R. Civ. P. 11(c)(4). In deciding the amount of a monetary sanction, courts consider the minimum necessary to deter, the sanctioned party's ability to pay, and the severity of the violation. Nonmonetary sanctions vary widely depending on the facts. They include, _inter alia,_ reprimands, warnings, orders to undergo continuing legal education, circulation of the Rule 11 Order to members of the offending attorney's firm, suspensions, and disbarment.
 
-<p class="case-h3">1. Mr. Matheny</p>
+<p class="case-h3">1. Mr. Matheny</p>
 
 As to Mr. Matheny, the appropriate sanction for violating Rule 11(b)(2) and (3) is to make this Order public and to impose a fine. A public finding that he has violated Rule 11 will, by itself, have an effect on his reputation and serve to deter others from similar misconduct. It is necessary here.
 
@@ -1147,7 +1147,7 @@ A fine of $2,500 for the Rule 11 violation is roughly equivalent to the attorney
 
 The Court appreciates that Mr. Matheny has offered to pay plaintiffs' counsel $1,420 to cover some of the attorney's fees incurred by the plaintiffs in connection with the motion. But when Rule 11 proceedings are initiated by the Court, the Court cannot require a financial sanction payable to a party. Fed. R. Civ. P. 11(c)(4).
 
-<p class="case-h3">2. Mr. Shaw</p>
+<p class="case-h3">2. Mr. Shaw</p>
 
 The Court will direct that a copy of this Order is sent to the Utah Supreme Court and the Utah State Bar. Mr. Shaw's misconduct should not be hidden and should be public, to protect the public and to deter other lawyers from similar violations. Given his disregard of previous public court orders pointing out his failures and reminding him to follow the rules, a public reprimand or warning is clearly insufficient. A financial sanction is also appropriate.
 
@@ -1159,7 +1159,7 @@ The Court concludes that a fine of $25,000 is necessary and appropriate to deter
 
 The plaintiffs have suggested that "disgorgement of the excessive fees" Mr. Shaw apparently charged the moving defendants "is an appropriate sanction under both Rule 11 and 28 U.S.C. § 1927." But disgorgement is typically used in this circuit as a sanction for civil contempt. And any monetary sanctions imposed under Rule 11 must be payable into the court because the Court initiated the present action. In this procedural context, it is not an appropriate sanction.
 
-<p class="case-h3">3. Mr. Brooksby</p></p>
+<p class="case-h3">3. Mr. Brooksby</p></p>
 
 As to Mr. Brooksby, it was clear from his testimony at trial that he lives in his wallet; under ordinary circumstances, a fine would be appropriate for his violation of Rule 11(b)(1) and would hit where it matters most to him. But Mr. Brooksby has declared under oath that he has no money and no assets, and that he never paid a nickel towards a multi-million-dollar judgment entered against him in Nevada state court in 2010. The facts of the case show his ongoing efforts to protect and hide assets through complicated corporate structures. The defendants he controls had to be threatened with contempt during the litigation before they paid a fairly small attorney's fee imposed as a discovery sanction. Given this, the Court has serious doubts that Mr. Brooksby will ever pay any fine ordered or that imposition of a fine will have any deterrent effect on Mr. Brooksby.
 
@@ -1213,9 +1213,9 @@ Olson's complaint includes the following allegations:
 
 Under Hudson state law, the elements of a claim for wrongful termination in breach of an employment contract are as follows: 
 
-- The plaintiff was employed by the defendant under an express (written or oral) contract of employment for a definite time period. 
-- The contract expressly provided that the employer could not terminate the plaintiff's employment during the stated term without cause. 
-- The employer terminated the plaintiff's employment without cause during the contract term. 
+1. The plaintiff was employed by the defendant under an express (written or oral) contract of employment for a definite time period. 
+2. The contract expressly provided that the employer could not terminate the plaintiff's employment during the stated term without cause. 
+3. The employer terminated the plaintiff's employment without cause during the contract term. 
 
 Sterling Cooper moves to dismiss for failure to state a claim under FRCP Rule 12(b)(6), asserting that the allegations in the complaint are insufficient to state a claim for breach of contract. 
 
