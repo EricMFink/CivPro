@@ -37,9 +37,7 @@ This course is intended to prepare you for legal practice by developing the know
 
 ### Required
 
-_Casebook:_ [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website. 
-
-_Course website:_ [emfink.net/CivPro]({{ site.baseurl }}). The website has the casebook (ebook and PDF formats) and links to other resources. 
+_Casebook:_ [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website: [emfink.net/CivPro]({{ site.baseurl }}).
 
 ### Suggested
 
@@ -51,10 +49,10 @@ _Study Aid:_ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (9
 
 ### Grading
 
-Your final grade for the term will be based on two interim quizzes (10% each) and a final exam (70%):
+Your final grade for the term will be based on two interim quizzes (10% each) and a final exam (80%):
 
-- There will be three quizzes (open-book/open-notes), consisting of multiple-choice questions. You will take the quizzes online outside of class, any time during the dates indicated in the course schedule below. The quizzes are intended to help you assess your understanding of the material and identify topics for further review. The quiz portion of your final grade will be based on your two best quiz results. 
-- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School on the date indicated in the course schedule below. 
+- There will be two quizzes (open-book/open-notes), consisting of multiple-choice questions. You will take the quizzes online outside of class, during the dates indicated in the course schedule. The quizzes are intended to help you assess your understanding of the material and identify topics for further review.
+- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (Dec. 2-9; date & time TBA). 
 
 ### Attendance
 
@@ -82,50 +80,52 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
  &nbsp; | **Introduction** | Clermont, Chapter 1
- August 28 | The Judicial System and the Litigation Process | Casebook, Chapter 1
+ September 4 | The Judicial System and the Litigation Process | Casebook, Chapter 1
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp;  | **Parties and Claims** | Clermont, Chapter 6
- August 30 | Permissive Joinder of Parties and Claims | Casebook, Chap. 2, §§ 1 & 2
- September 1  | Counterclaims | Casebook, Chap. 2, § 3 
- September 6 | Crossclaims | Casebook, Chap. 2, § 4 
- September 8 | Third-Party Claims | Casebook, Chap. 2, § 5
- September 11 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 6, 7, & 8
+ September 6 | Permissive Joinder of Parties and Claims | Casebook, Chap. 2, §§ 1 & 2
+ September 9  | Counterclaims | Casebook, Chap. 2, § 3 
+ September 11 | Crossclaims | Casebook, Chap. 2, § 4 
+ September 13| Third-Party Claims | Casebook, Chap. 2, § 5
+ September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 6, 7, & 8
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Personal Jurisdiction** | Clermont, §§ 4.2, 4.3, 4.4
- September 13 | Due Process and State Power | Casebook, Chap. 3, § 1.1
- September 18 & 20 | Minimum Contacts | Casebook, Chap. 3, § 1.2
- September 22 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
+ September 18 | Due Process and State Power | Casebook, Chap. 3, § 1.1
+ September 20 & 23 | Minimum Contacts | Casebook, Chap. 3, § 1.2
+ September 25 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Subject Matter Jurisdiction** | Clermont, § 4.1
- September 27 & 29 | Federal Question Jurisdiction | Casebook, Chap. 4, § 1
- October 2 & 4 | Diversity Jurisdiction | Casebook, Chap. 4, § 2
+ September 27 & 30 | Federal Question Jurisdiction | Casebook, Chap. 4, § 1
+ October 2 & 7 | Diversity Jurisdiction | Casebook, Chap. 4, § 2
  October 9 & 11 | Supplemental Jurisdiction | Casebook, Chap. 4, § 3
- October 13 | Removal | Casebook, Chap. 4, § 4
+ October 14 | Removal | Casebook, Chap. 4, § 4
 &nbsp; |  &nbsp; |  &nbsp;
  October 16 | Review: Joinder, Personal Jurisdiction, & Subject Matter Jurisdiction | &nbsp;
+ &nbsp; |  &nbsp; |  &nbsp;
  October 16-17 | **Quiz 1: Joinder, Personal Jurisdictgion, & Subject Matter Jurisdiction** | &nbsp;
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Choice of Law in Federal Court** | Clermont, Chapter 3
- October 18 & 20 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1
- October 23 & 25 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 2 & 3
+ October 21 & 23 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1
+ October 25 & 28 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 2 & 3
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Pleading** | Clermont, § 2.2(A)
- October 27 & 30 | Complaints | Casebook, Chap. 6, §§ 1 & 2
- November 1 | Answers and Defenses | Casebook, Chap. 6, § 3
- November 3 | Amendments | Casebook, Chap. 6, § 4
- November 6 | Truthfulness and Good Faith | Casebook, Chap. 6, § 5
+ October 30 & November 1 | Complaints | Casebook, Chap. 6, §§ 1 & 2
+ November 4 | Answers and Defenses | Casebook, Chap. 6, § 3
+ November 6 | Amendments | Casebook, Chap. 6, § 4
+ November 8 | Truthfulness and Good Faith | Casebook, Chap. 6, § 5
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Preclusion** | Clermont, Chapter 5
- November 8 & 10 | Claim Preclusion | Casebook, Chap. 7, §§ 1 & 2
- November 13 & 15 | Issue Preclusion | Casebook, Chap. 7, § 3
+ November 11 & 13 | Claim Preclusion | Casebook, Chap. 7, §§ 1 & 2
+ November 15 & 18 | Issue Preclusion | Casebook, Chap. 7, § 3
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Summary Judgment** | Clermont, § 2.2(B), (C), & (E)(2)
- November 17 | Standard & Burden of Production | Casebook, Chap. 8
+ November 20 & 22| Standard & Burden of Production | Casebook, Chap. 8
  &nbsp; |  &nbsp; |  &nbsp;
- November 20 | Review: Choice of Law, Pleading, Preclusion, & Summary Judgment | &nbsp;
- November 20-21 | **Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment** | &nbsp;
+ November 25 | Review: Choice of Law, Pleading, Preclusion, & Summary Judgment | &nbsp;
+&nbsp; |  &nbsp; |  &nbsp; 
+ November 26-27 | **Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment** | &nbsp;
  &nbsp; |  &nbsp; |  &nbsp;
- December 1 | **Final Review** | &nbsp;
- December 4 | **Final Exam** | &nbsp;
+ TBD | **Final Review** | &nbsp;
+ TBD | **Final Exam** | &nbsp;
 
-_Note: This class will not meet on Sept. 4, Sept. 15, Sept. 25, and Oct. 6_
+_Note: This class will not meet on October 4 and 18_
