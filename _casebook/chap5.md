@@ -176,9 +176,7 @@ _Fourth_.[^erie9] The defendant contended that by the common law of Pennsylvania
 
 [^erie9]:
 
-  {-} On remand, the Court of Appeals concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. 98 F.2d 49 (2d Cir. 1938).
-
-  For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Brian Frye, ["The Ballad of Harry Tompkins"](https://uknowledge.uky.edu/law_facpub/639/).
+  {-} On remand, the Court of Appeals concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. 98 F.2d 49 (2d Cir. 1938). For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Brian Frye, ["The Ballad of Harry Tompkins"](https://uknowledge.uky.edu/law_facpub/639/).
 
 <div class="comment">
 
@@ -199,11 +197,11 @@ York sued Guaranty Trust for breach of fiduciary duty. The issue was whether, "i
 Rather than mechanically applying the labels "substance" and "procedure", the Court took a pragmatic approach focused on whether application of a different rule would yield a different outcome.
 
 > Here we are dealing with a right to recover derived not from the United States but from one of the States. When, because the plaintiff happens to be a non-resident, such a right is enforceable in a federal as well as in a State court, the forms and mode of enforcing the right may at times, naturally enough, vary because the two judicial systems are not identic. But since a federal court adjudicating a State-created right solely because of the diversity of citizenship of the parties is for that purpose, in effect, only another court of the State, it cannot afford recovery if the right to recover is made unavailable by the State nor can it substantially affect the enforcement of the right as given by the State.
-
+> 
 > And so the question is not whether a statute of limitations is deemed a matter of "procedure" in some sense. The question is whether such a statute concerns merely the manner and the means by which a right to recover, as recognized by the State, is enforced, or whether such statutory limitation is a matter of substance in the aspect that alone is relevant to our problem, namely, does it significantly affect the result of a litigation for a federal court to disregard a law of a State that would be controlling in an action upon the same claim by the same parties in a State court?
-
+> 
 > It is therefore immaterial whether statutes of limitation are characterized either as "substantive" or "procedural" in State court opinions in any use of those terms unrelated to the specific issue before us. _Erie R. Co. v. Tompkins_ was not an endeavor to formulate scientific legal terminology. It expressed a policy that touches vitally the proper distribution of judicial power between State and federal courts. In essence, the intent of that decision was to insure that, in all cases where a federal court is exercising jurisdiction solely because of the diversity of citizenship of the parties, the outcome of the litigation in the federal court should be substantially the same, so far as legal rules determine the outcome of a litigation, as it would be if tried in a State court. The nub of the policy that underlies _Erie R. Co. v. Tompkins_ is that for the same transaction the accident of a suit by a non-resident litigant in a federal court instead of in a State court a block away should not lead to a substantially different result.
-
+> 
 > Plainly enough, a statute that would completely bar recovery in a suit if brought in a State court bears on a State-created right vitally and not merely formally or negligibly. As to consequences that so intimately affect recovery or non-recovery a federal court in a diversity case should follow State law.
 
 <p class="case-h1">Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530 (1949)</p>
