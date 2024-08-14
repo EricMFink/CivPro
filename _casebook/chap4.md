@@ -960,6 +960,8 @@ Within the outer bounds allowed under the constitutional due process standard, t
 
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
+</div>
+
 <div class="legal-code">
 
 **NY CPLR § 302: Personal jurisdiction by acts of non-domiciliaries.**
@@ -990,6 +992,8 @@ Enumerated long-arm statutes identify particular circumstances in which a state'
 
 </div>
 
+<div class="comment">
+
 Under an enumerated long-arm statute, determining whether the court may exercise personal jurisdiction requires a two-step analysis: 
 
 (1) Does the case fall within one (or more) of the circumstances enumerated in the statute? 
@@ -1000,6 +1004,8 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
 
+</div>
+
 <div class="legal-code">
 
 **Cal. Code Civ. Proc § 410.10: Jurisdiction exercisable.**
@@ -1007,6 +1013,8 @@ This type of long-arm statute grants a state's courts jurisdiction to the full e
 A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States.
 
 </div>
+
+<div class="comment">
 
 Under this type of long-arm statute, the same analysis (i.e. does the defendant have minimum contacts with the forum state?) answers both the statutory and constitutional question.
 
