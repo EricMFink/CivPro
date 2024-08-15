@@ -947,7 +947,7 @@ A party precluded from relitigating an issue with an opposing party, in accordan
 
 (1) Treating the issue as conclusively determined would be incompatible with an applicable scheme of administering the remedies in the actions involved;
 
-(2)  The forum in the second action affords the party against whom preclusion is asserted procedural opportunities in the presentation and determination of the issue that were not available in the first action and could likely result in the issue being differently determined;
+(2) The forum in the second action affords the party against whom preclusion is asserted procedural opportunities in the presentation and determination of the issue that were not available in the first action and could likely result in the issue being differently determined;
 
 (3) The person seeking to invoke favorable preclusion, or to avoid unfavorable preclusion, could have effected joinder in the first action between himself and his present adversary;
 
@@ -1035,18 +1035,18 @@ Under Hudson state law, a claim by an employee for injuries sustained in the cou
 
 Guy brings a workers’ compensation claim for the injury to his foot. Sterling Cooper defends against the workers’ compensation claim on two grounds: 
 
-- Guy negligently failed to move out of the way from the approaching mower.
-- The accident was the fault of Elke, which designed the mower without an adequate safety device to prevent operation by an unconscious driver, and failed to warn against operating the mower indoors or while intoxicated.
+1. Guy negligently failed to move out of the way from the approaching mower.
+2. The accident was the fault of Elke, which designed the mower without an adequate safety device to prevent operation by an unconscious driver, and failed to warn against operating the mower indoors or while intoxicated.
 
 The Workers’ Compensation Claims Board makes the following findings of fact & conclusions of law:
 
-- Guy was injured while attending a work-related function at Sterling Cooper’s office.
-- The proximate cause of Guy’s injury was the operation of a riding mower in the office by another Sterling Cooper employee, who was intoxicated.
-- Guy could not have anticipated that Lois would drive the mower over his foot, and could not readily have moved out of the way in time to avoid the accident.
-- While an injured employee’s contributory negligence may provide an employer with a defense to a claim under the worker’s compensation statute, Guy was not negligent in connection with the accident. 
-- The mower was not defective in its design. 
-- The mower did not include any warning against operation indoors or while intoxicated. 
-- As a matter of law, neither a design defect nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
+1. Guy was injured while attending a work-related function at Sterling Cooper’s office.
+2. The proximate cause of Guy’s injury was the operation of a riding mower in the office by another Sterling Cooper employee, who was intoxicated.
+3. Guy could not have anticipated that Lois would drive the mower over his foot, and could not readily have moved out of the way in time to avoid the accident.
+4. While an injured employee’s contributory negligence may provide an employer with a defense to a claim under the worker’s compensation statute, Guy was not negligent in connection with the accident. 
+5. The mower was not defective in its design. 
+6. The mower did not include any warning against operation indoors or while intoxicated. 
+7. As a matter of law, neither a design defect nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
 
 Based on these findings, the Board granted Guy’s claim. Sterling Cooper appeals the Board’s decision to the Hudson Court of Appeals, which affirms the Board’s ruling. Under Hudson law, when a decision by the Board has been affirmed on appeal, the Board’s decision has the same preclusive effect as a court judgment. 
 
