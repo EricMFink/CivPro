@@ -38,7 +38,7 @@ The defendant, George Tysen[^Swift1] purchased some land from Nathaniel Norton a
 
 [^Swift1]: 
 
-  {-} The spelling of his name in the Supreme Court's opinion appears to have been an error. _See_ Alfred B. Teton, The Story of Swift v. Tyson, 35 Illinois Law Review 519, 530 n.59 (1940).
+  {-} The spelling of Tysen's name in the Supreme Court's opinion appears to have been an error. _See_ Alfred B. Teton, The Story of Swift v. Tyson, 35 Illinois Law Review 519, 530 n.59 (1940).
 
 [^Swift2]: 
 
