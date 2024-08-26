@@ -41,7 +41,7 @@ _Casebook:_ [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebo
 
 ### Suggested
 
-_Hornbook:_ Kevin_ M. Clermont, _Principles of Civil Procedure_ (6th ed. 2021). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). 
+_Hornbook:_ Kevin M. Clermont, _Principles of Civil Procedure_ (6th ed. 2021). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). 
 
 _Study Aid:_ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (9th ed.) or _The Glannon Guide to Civil Procedure_ (5th ed.). 
 
