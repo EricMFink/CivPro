@@ -37,7 +37,7 @@ This course is intended to prepare you for legal practice by developing the know
 
 ### Required
 
-_Casebook:_ [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.2.1 2023). Available on the course website: [emfink.net/CivPro]({{ site.baseurl }}).
+_Casebook:_ [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.3.0 2024). Available on the course website: [emfink.net/CivPro]({{ site.baseurl }}).
 
 ### Suggested
 
