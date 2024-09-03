@@ -1,5 +1,5 @@
 ---
-date: Fall 2023
+date: Fall 2024
 layout: syllabus
 title: Syllabus
 permalink: /syllabus/
@@ -66,7 +66,7 @@ You should let me know (in advance if feasible) if you are unable to attend clas
 
 ### Disability Accommodations
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).  
+For disability accommodation requests, contact Monica Isbell, [misbell@elon.edu](mailto:misbell@elon.edu), [Director of Disability Resources](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/).
 
 ### Honor Code
 
