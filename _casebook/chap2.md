@@ -419,7 +419,173 @@ For the reasons set forth above, we conclude that the district court abused its 
 
 The judgment of the district court disallowing joinder of the plaintiffs' individual actions is reversed and remanded with directions to permit the plaintiffs to proceed jointly.
 
-### Required Party Joinder
+### Third-Party Joinder
+
+<div class="legal-code">
+
+#### Fed. R. Civ. P. Rule 14 {#rule14}
+
+(a) When a Defending Party May Bring in a Third Party.
+
+> (1) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
+
+> (2) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint---the "third-party defendant":
+
+> > (A) must assert any defense against the third-party plaintiff's claim under Rule 12;
+
+> > (B) must assert any counterclaim against the third-party plaintiff under Rule 13(a), and may assert any counterclaim against the third-party plaintiff under Rule 13(b) or any crossclaim against another third-party defendant under Rule 13(g);
+
+> > (C) may assert against the plaintiff any defense that the third-party plaintiff has to the plaintiff's claim; and
+
+> > (D) may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff.
+
+> (3) Plaintiff's Claims Against a Third-Party Defendant. The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff. The third-party defendant must then assert any defense under Rule 12 and any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g).
+
+> (4) Motion to Strike, Sever, or Try Separately. Any party may move to strike the third-party claim, to sever it, or to try it separately.
+
+> (5) Third-Party Defendant's Claim Against a Nonparty. A third-party defendant may proceed under this rule against a nonparty who is or may be liable to the third-party defendant for all or part of any claim against it.
+
+(b) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
+
+</div>
+
+![Fig. 2.1: Third Party Claims Under Rule 14]({{ site.baseurl }}/assets/casebook/img/Rule14.png){width="90%"}
+
+<div class="comment">
+
+#### Contribution & Indemnification
+
+FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them:
+
+- Rule 13(g)
+
+> \[A\] crossclaim may include a claim that the coparty _is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant_.
+
+- Rule 14(a)
+
+> A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who _is or may be liable to it for all or part of the claim against it_.
+
+These provisions refer to claims for _indemnification_ and _contribution_. They arise where a party to a suit (D1) seeks to hold someone else (D2) responsible for all (indemnification) or part (contribution) of the amount of a judgment against D1 in favor of another party (P1).
+
+![Fig. 2.2: Indemnification & Contribution]({{ site.baseurl }}/assets/casebook/img/Indemnification_Contribution.png){width="90%"}
+
+In Fig. 2.2, P1 asserts a claim against D1. D1 then asserts a claim against D2, contending that, if P1 prevails against D1, D2 must cover all or part of D1's liability to P1.
+
+D2 may already be a party to the lawsuit (i.e. P1 has joined D2 as a co-defendant under Rule 20), in which case D2 would assert a crossclaim for indemnification or contribution under Rule 13(g). Or D2 may not yet be a party, in which case D1 would join D2 as a third-party defendant and assert a claim for indemnification or contribution under Rule 14(a).
+
+D1's claim is functionally the same in either situation, but the FRCP uses different terminology depending on how D2 becomes a party. Under Rule 13(g), it is a cross-claim against a co-defendant; under Rule 14(a), it is a third-party claim against a third-party defendant. Understanding that distinction (and using the correct terms) is important, because it has other consequences under the FRCP: Rule 14 permits joinder of a third-party defendant _only_ to assert a claim for indemnification or contribution on P's underlying claim, while Rule 13(g) would also permit crossclaims between D1 & D2 for their direct liability to each other arising from the same transaction or occurrence.
+
+Under the FRCP, neither crossclaims nor third-party claims are compulsory. Consequently, a party with a potential contribution or indemnification claim (whether against a co-party or potential third-party) may opt to wait until the outcome of the suit and then bring the contribution/indemnification claim in a subsequent action.
+
+Rules 13(g) and 14(a) do not establish a right to indemnification or contribution. That is a matter of substantive law (tort, contract, or statute). These Rules simply govern the procedure for joining such claims where they have some basis in substantive law.
+
+<p class="case-h1">Indemnification</p>
+
+A right to indemnification allows a defending party to recover the full amount of a judgment against them (and sometimes defense costs) from another person. Indemnification originated as a common law right, based on tort and agency law. The common law right has been augmented (or in some jurisdictions replaced) by statutory and contractual rights to indemnification.
+
+<p class="case-h2">Common Law Indemnification</p>
+
+Common law indemnification applies where a defendant was not actually at fault, but is liable to the plaintiff for another person's conduct, based on their legal status or relationship.
+
+_Example:_ At common law, if an employer was held vicariously liable for harm to a third party caused by an employee, the employer could sue the employee for indemnification. In some states, this common law right to indemnification from employees has been abrogated by judicial opinion or statute.
+
+_Example:_ In some states, if a retailer is subject to strict liability for injuries caused by a defective product it sold, the retailer has a common law right to indemnification by the manufacturer or other party actually responsible for the defect, as long as the retailer was not itself also at fault.
+
+<p class="case-h2">Statutory Indemnification</p>
+
+Indemnification statutes may codify the common law right or impose a duty to indemnify where it would not apply under common law.
+
+_Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code § 2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB).  
+
+_Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code § 145](https://delcode.delaware.gov/title8/c001/sc04/).
+
+<p class="case-h2">Contractual Indemnification</p>
+
+Parties may enter into agreements that shift ultimate responsibility for judgments, without regard to which one is at fault.
+
+_Example:_ Many corporations enter into indemnification agreements with corporate officers and directors to provide indemnification for liability arising out of their corporate roles (as authorized by statute).
+
+_Example:_ Manufacturers of consumer products may agree to indemnify distributors or retailers who face product liability suits. Such agreements may provide for indemnification where the common law right to indemnification does not apply or is not recognized at all under state law.
+
+Liability insurance is a common type of contractual indemnification agreement. Such policies typically provide that the insurance carrier will pay (subject to limits and conditions in the policy) the cost of judgments and the cost of defense for claims covered by the policy. If there there is a dispute as to whether the policy covers the insured party's potential liability, the insured party may join the insurance carrier as a third-party defendant so that the court can resolve the coverage dispute.
+
+<p class="case-h1">Contribution</p>
+
+A right of contribution allows a joint tortfeasor who pays damages beyond their proportionate share of fault (e.g. under joint and several liability) to seek reimbursement from other joint tortfeasors for their proportionate shares. The right of contribution may be governed by common law or statute. You will learn more about joint & several liability, and contribution among joint tortfeasers, in your Torts class.
+
+</div>
+
+
+#### Lehman v. Revolution Portfolio, 166 F.3d 389 (1st Cir. 1999)
+
+<p class="case-h1">SELYA, Circuit Judge</p>
+
+This appeal grows out of a triangular 1987 financial transaction that involved the Farm Street Trust (the Trust), its beneficiaries (Barry Lehman and Stuart A. Roffman), and First Mutual Bank for Savings (the Bank). In the ensuing eleven years, the transaction imploded, litigation commenced, the Bank and Lehman became insolvent, parties came and went, and the case was closed and partially reopened. In the end, only a third-party complaint proved ripe for adjudication. Even then, the district court dismissed two of its three counts, but entered summary judgment on the remaining count. The third-party defendant, Roffman, now appeals. After sorting through the muddled record and the case's serpentine procedural history, we affirm.
+
+<p class="case-h1">I. BACKGROUND</p>
+
+The historical facts are not seriously disputed. On or about October 19, 1987, the Trust, acting through its trustee, executed a promissory note for $2,800,000 in favor of the Bank in order to fund the purchase of property in Dover, Massachusetts. Lehman and Roffman, each of whom enjoyed a 50% beneficial interest in the Trust, personally guaranteed the note, and Lehman proffered two parcels of real estate as additional collateral. In short order, the Trust defaulted on the loan and the Bank foreclosed on Lehman's properties. Lehman responded by suing the Bank seeking restraint or rescission of the imminent sale of his real estate. The gravamen of his suit was a claim that Roffman had fraudulently introduced a sham investor to the Bank in order to gull it into making the loan, and that the Bank, in swallowing this spurious bait hook, line, and sinker, had failed to exercise due diligence.
+
+[_The Bank failed and was placed in receivership. The FDIC, in its role as receiver, replaced the Bank as defendant and asserted a counterclaim against Lehman, as guarantor on the loan, to collect the outstanding balance owed. The FDIC also joined Roffman as a third-party defendant._]
+
+The FDIC's third-party complaint contained three counts. The first two sought indemnification and contribution, respectively, in regard to the claims advanced by Lehman. The third sought judgment against Roffman, _qua_ guarantor, for the outstanding loan balance.
+
+[_Roffman moved to strike the third-party complaint. The trial court denied that motion and Roffman appealed. Meanwhile, Revolution Portfolio LLC ("RP"), to which the FDIC had assigned its interest in the Farm Street Trust debt, replaced the FDIC as the real party in interest._]
+
+<p class="case-h1">II. Discussion</p>
+
+We must answer the question whether the FDIC's deployment of a third-party complaint against Roffman was proper. In this regard, Roffman asserts that the district court should not have entertained the impleader, and that, therefore, the joined claim on the guaranty should fall of its own weight. We review a district court's decision to permit the filing of a third-party complaint under Fed.R.Civ.P. 14(a) for abuse of discretion.
+
+As previously explained, the FDIC impleaded Roffman as a third-party defendant on theories of indemnification and contribution (counts 1 and 2, respectively), maintaining, in essence, that if it were found to be liable to Lehman, then Roffman would in turn be liable to hold it harmless or, at least, contribute to any damages assessed against it. In the same pleading, the FDIC asserted an independent claim for the outstanding loan balance, premised on Roffman's guaranty (count 3). RP (which now stands in the FDIC's shoes) acknowledges that the FDIC could not have brought count 3 as a stand-alone third-party claim under Rule 14(a), but asserts that count 3 was validly joined with counts 1 and 2 under Fed.R.Civ.P. 18(a) (providing for permissive joinder). To parry this thrust, Roffman contends that the FDIC's claims for indemnification and contribution were not viable under state law, and thus, since the use of Rule 14(a) admittedly hinged on the propriety of those claims, the FDIC should not have been allowed to implead him at all.
+
+We conclude, without serious question, that the FDIC was entitled to implead Roffman under Rule 14(a) and that it appropriately joined the guaranty claim under Rule 18(a).
+
+A defendant, acting as a third-party plaintiff, may implead any non-party "who is or _may be_ liable to the third-party plaintiff for all or part of the plaintiff's claim against the third-party plaintiff." Fed.R.Civ.P. 14(a) (emphasis supplied). If the defendant acts within ten days of submitting his answer, he may bring a third party into the suit without leave of court. Otherwise, the court's permission must be obtained. In that event, the determination is left to the informed discretion of the district court, which should allow impleader on any colorable claim of derivative liability that will not unduly delay or otherwise prejudice the ongoing proceedings. Under this liberal standard, a party accused of passive negligence (here, the FDIC) assuredly is entitled to implead the party who allegedly committed the relevant active conduct (here, Roffman) on a theory of indemnification.
+
+The FDIC's third-party claim for contribution against Roffman similarly passes muster because Roffman and the Bank (the FDIC's predecessor in interest) were putative joint tortfeasors (i.e., according to the complaint, Roffman's fraudulent acts combined with the Bank's negligent omissions to create harm). _See_ Mass. Gen. Laws ch. 231B, § 1(a) (1986) (providing a right of contribution among persons who are jointly liable in tort for the same injury).
+
+To be sure, Roffman argues that because Lehman's complaint sought only restraint or rescission of the property sales, and not damages, a third-party claim for contribution should not lie. But this argument gains him no ground. Even though Lehman's complaint did not explicitly seek money damages, that omission did not eliminate the possibility that damages might be awarded to him. As long as damages may be awarded in lieu of rescission, impleader properly may be used to seek contribution toward those potential damages. It follows inexorably that the district court did not err in denying Roffman's motion to strike and allowing the FDIC's Rule 14(a) claims to stand.
+
+Against this backdrop, the court properly assumed jurisdiction over count 3 of the third-party complaint. Rule 18(a) authorizes a third-party plaintiff to "join, either as independent or as alternative claims, as many claims, legal, equitable, or maritime, as the [third-party plaintiff] has against an opposing party." This authorization is subject only to the usual requirements of jurisdiction and venue (none of which are implicated here) and the district court's discretionary power to "direct an appropriate procedure for trying the claims.". Given Rule 18(a)'s broad expanse, misjoinder of claims has become an anachronism in federal civil practice.
+
+In this instance, Roffman signed an unconditional personal guaranty of a loan, and the borrower later defaulted. As a holder in due course of the note, the FDIC had an independent claim for the outstanding balance against Roffman. There is absolutely no reason why the FDIC could not append its independent claim on the guaranty to its other claims against Roffman.
+
+As a fallback position, Roffman suggests that the third-party complaint against him should have been dismissed because the FDIC had a complete defense under 12 U.S.C. § 1823(e) (1994) to the claims brought by Lehman. We do not agree. Even if section 1823(e) offered the FDIC a potentially strong defense against Lehman's claims, the record fails to show that the mere existence of that statute rendered Lehman's complaint a nullity.
+
+There is, moreover, a broader point. A district court must oversee third-party practice with the core purpose of Rule 14(a) in mind: avoiding unnecessary duplication and circuity of action. Requiring a district court to determine the merits of all defenses potentially available to the original defendant as a precondition to allowing that defendant to file a third-party complaint would frustrate this purpose and countervail the efficient allocation of judicial resources. Thus, as long as a third-party action falls within the general contours limned by Rule 14(a), does not contravene customary jurisdictional and venue requirements, and will not work unfair prejudice, a district court should not preclude its prosecution. So here.
+
+
+#### Kirkcaldy v. Richmond County Bd. of Ed., 212 F.R.D. 289 (M.D.N.C. 2002)
+
+<p class="case-h1">BEATY, District Judge.</p>
+
+This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
+
+<p class="case-h1">I. FACTUAL BACKGROUND</p>
+
+Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. § 2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
+
+In his Answer to Kirkcaldy's Complaint, Smith brings a cross-claim against the Board and a third-party complaint against the Superintendent of the Richmond County School System, Larry K. Weatherly ("Weatherly"), and Board members Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, and Carlene Hill, all in their individual and official capacities. Smith's claim against these Defendants is filed pursuant to 42 U.S.C. § 1983 based on the Individual School Defendants and the Board's (together, "School Defendants") alleged violation of Smith's due process rights. It is this Section 1983 claim that the School Defendants now move to dismiss.
+
+In support of his claim, Smith asserts the following alleged facts. On June 20, 2000, Weatherly informed Smith that he was being suspended with pay while Weatherly investigated the allegations of sexual harassment made by Kirkcaldy and another school employee, Sharon Renee Peek ("Peek"). Based upon the results of this investigation, on July 25, 2000, Weatherly changed Smith's suspension with pay to suspension without pay. Weatherly also informed Smith that a hearing before the Board regarding Smith's employment would be held in August of 2000. Weatherly further advised Smith that it would be recommended to the Board members that they terminate Smith from his position.
+
+Prior to the Board hearing, which was held on August 24, 2000, Weatherly delivered to each Board member a copy of all the evidence he intended to present at the hearing against Smith. This evidence included references to polygraph examinations taken by Kirkcaldy and Peek. Smith asserts that this evidence was inadmissible at a school board hearing under North Carolina law. After reviewing the information provided to the Board members, including the references to the polygraph examinations, Myrtle Stogner, one of the Board members, allegedly made the statement to an unidentified individual that the case against Smith was " cut and dried" and that he would be dismissed for the alleged conduct.
+
+At the August 24, 2000 hearing, Smith was allowed to present his evidence. Smith proffered fourteen affidavits from witnesses that rebutted the allegations of harassment made against Smith. Smith also submitted his medical records and his wife's affidavit demonstrating that he was impotent during the time period when the alleged harassment occurred, and therefore would have been physically unable to engage in some of the alleged misconduct. Smith requested a continuance of the hearing in order to obtain additional evidence concerning his impotence, but the Board denied his request.
+
+At the conclusion of the August 24, 2000 hearing, the Board entered an order dismissing Smith from his position as principal. Smith appealed the Board's decision dismissing him to the North Carolina Superior Court, which affirmed the Board's decision. Smith then appealed the North Carolina Superior Court's decision to the North Carolina Court of Appeals. This court affirmed the Superior Court's decision, which upheld the Board's decision to dismiss Smith.
+
+Smith's present cross-claim and third-party complaint filed pursuant to Section 1983 claims that the School Defendants violated his due process rights by denying him a fair hearing prior to his dismissal. In response, the School Defendants have filed the Motion to Dismiss now before the Court, asserting that dismissal of Smith's cross-claim and third-party complaint is proper pursuant to Rule 12(b)(6) for failure to state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
+
+<p class="case-h1">II. DISCUSSION OF DEFENDANTS' MOTION TO DISMISS</p>
+
+In addition to the Board's argument for dismissal of Smith's claim against it, the School Defendants' Motion to Dismiss also requests that the Court dismiss Smith's claim against the Individual School Defendants because Smith's third-party complaint does not satisfy the jurisdictional requirements of the Federal Rules of Civil Procedure. As the Individual School Defendants, unlike the School Board itself, were not parties to Kirkcaldy's original action, Smith's joinder of the Individual School Defendants must meet the requirements of one of the two Rules that allow the joinder of non-parties by a party defendant: Rule 14(a), which governs the impleader of non-parties as third-party defendants, or Rule 13(h), which governs the joinder of non-parties in certain other situations.
+
+As Smith has characterized his claim against the Individual School Defendants as a third-party complaint, the Court will first consider whether Smith's claim satisfies Rule 14(a), the Rule that authorizes the addition of a third-party complaint to an action. Rule 14(a) allows a defendant to assert, as a third-party complaint, a claim against a person who is a non-party if that person is or may be liable to the defendant for part or all of the plaintiff's claims against him. Turning now to Smith's third-party complaint, the Court notes that it nowhere asserts that the Individual School Defendants are liable to him for any damages he might be responsible for due to Kirkcaldy's claims of sexual harassment. Instead, Smith asserts a Section 1983 claim based on the Individual School Defendants' actions regarding Smith's discharge. As Smith's Section 1983 claim is not based on the secondary or derivative liability of the Individual School Defendants, it cannot serve as the basis for a third-party complaint. The Court therefore must conclude that Smith has failed to satisfy Rule 14(a)'s requirements and cannot use this Rule as the basis to join his claim against the Individual School Defendants to Kirkcaldy's action.
+
+In light of the Court's holding that Smith has not satisfied the third-party practice requirements of Rule 14(a), Smith's claim as alleged in his third-party complaint must be dismissed unless the claims are authorized by Rule 13(h). Rule 13(h) allows a cross-defendant, when asserting a cross-claim against another cross-defendant, to join to the cross-claim persons who are not parties to the original action. It is important to underscore, however, that Rule 13(h) imposes as a necessary prerequisite that the cross-defendant first assert a claim against another cross-claim defendant. Smith cannot meet this prerequisite because of the Court's above decision dismissing his cross-claim against the Board. As a result, Smith's Third-Party Complaint against the Individual School Defendants can satisfy neither Rule 14(a) nor Rule 13(h) and therefore must also be dismissed. Accordingly, the Motion to Dismiss for lack of subject matter jurisdiction is GRANTED to the Individual School Defendants as well as to the School Board.
+
+### Required Parties
 
 <div class="legal-code">
 
@@ -968,171 +1134,6 @@ Because Meyer has not properly brought an interpleader action, she is not entitl
 
 In response to defendants' arguments, Meyer only states that "defendants are simply incorrect when they contend there are not competing claims from diverse parties to the funds proposed to be interpleaded, and are properly restrained from initiating competing claims in any other court." Meyer does not substantively argue how she has properly pleaded an interpleader action, nor does she cite to any case law in support of her motion. Meyer briefly mentions that her counsel cannot disburse the fund without her approval, citing to Rule 1.5 of the Rules of Professional Responsibility; however, any ethical obligations belonging to Meyer's counsel play no role in the court's determination of whether Meyer has properly pleaded an interpleader action. Therefore, the court denies Meyer's motion to transfer funds and restrain defendants.
 
-### Third-Party Joinder
-
-<div class="legal-code">
-
-#### Fed. R. Civ. P. Rule 14 {#rule14}
-
-(a) When a Defending Party May Bring in a Third Party.
-
-> (1) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
-
-> (2) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint---the "third-party defendant":
-
-> > (A) must assert any defense against the third-party plaintiff's claim under Rule 12;
-
-> > (B) must assert any counterclaim against the third-party plaintiff under Rule 13(a), and may assert any counterclaim against the third-party plaintiff under Rule 13(b) or any crossclaim against another third-party defendant under Rule 13(g);
-
-> > (C) may assert against the plaintiff any defense that the third-party plaintiff has to the plaintiff's claim; and
-
-> > (D) may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff.
-
-> (3) Plaintiff's Claims Against a Third-Party Defendant. The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff. The third-party defendant must then assert any defense under Rule 12 and any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g).
-
-> (4) Motion to Strike, Sever, or Try Separately. Any party may move to strike the third-party claim, to sever it, or to try it separately.
-
-> (5) Third-Party Defendant's Claim Against a Nonparty. A third-party defendant may proceed under this rule against a nonparty who is or may be liable to the third-party defendant for all or part of any claim against it.
-
-(b) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
-
-</div>
-
-![Fig. 2.1: Third Party Claims Under Rule 14]({{ site.baseurl }}/assets/casebook/img/Rule14.png){width="90%"}
-
-<div class="comment">
-
-#### Contribution & Indemnification
-
-FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them:
-
-- Rule 13(g)
-
-> \[A\] crossclaim may include a claim that the coparty _is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant_.
-
-- Rule 14(a)
-
-> A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who _is or may be liable to it for all or part of the claim against it_.
-
-These provisions refer to claims for _indemnification_ and _contribution_. They arise where a party to a suit (D1) seeks to hold someone else (D2) responsible for all (indemnification) or part (contribution) of the amount of a judgment against D1 in favor of another party (P1).
-
-![Fig. 2.2: Indemnification & Contribution]({{ site.baseurl }}/assets/casebook/img/Indemnification_Contribution.png){width="90%"}
-
-In Fig. 2.2, P1 asserts a claim against D1. D1 then asserts a claim against D2, contending that, if P1 prevails against D1, D2 must cover all or part of D1's liability to P1.
-
-D2 may already be a party to the lawsuit (i.e. P1 has joined D2 as a co-defendant under Rule 20), in which case D2 would assert a crossclaim for indemnification or contribution under Rule 13(g). Or D2 may not yet be a party, in which case D1 would join D2 as a third-party defendant and assert a claim for indemnification or contribution under Rule 14(a).
-
-D1's claim is functionally the same in either situation, but the FRCP uses different terminology depending on how D2 becomes a party. Under Rule 13(g), it is a cross-claim against a co-defendant; under Rule 14(a), it is a third-party claim against a third-party defendant. Understanding that distinction (and using the correct terms) is important, because it has other consequences under the FRCP: Rule 14 permits joinder of a third-party defendant _only_ to assert a claim for indemnification or contribution on P's underlying claim, while Rule 13(g) would also permit crossclaims between D1 & D2 for their direct liability to each other arising from the same transaction or occurrence.
-
-Under the FRCP, neither crossclaims nor third-party claims are compulsory. Consequently, a party with a potential contribution or indemnification claim (whether against a co-party or potential third-party) may opt to wait until the outcome of the suit and then bring the contribution/indemnification claim in a subsequent action.
-
-Rules 13(g) and 14(a) do not establish a right to indemnification or contribution. That is a matter of substantive law (tort, contract, or statute). These Rules simply govern the procedure for joining such claims where they have some basis in substantive law.
-
-<p class="case-h1">Indemnification</p>
-
-A right to indemnification allows a defending party to recover the full amount of a judgment against them (and sometimes defense costs) from another person. Indemnification originated as a common law right, based on tort and agency law. The common law right has been augmented (or in some jurisdictions replaced) by statutory and contractual rights to indemnification.
-
-<p class="case-h2">Common Law Indemnification</p>
-
-Common law indemnification applies where a defendant was not actually at fault, but is liable to the plaintiff for another person's conduct, based on their legal status or relationship.
-
-_Example:_ At common law, if an employer was held vicariously liable for harm to a third party caused by an employee, the employer could sue the employee for indemnification. In some states, this common law right to indemnification from employees has been abrogated by judicial opinion or statute.
-
-_Example:_ In some states, if a retailer is subject to strict liability for injuries caused by a defective product it sold, the retailer has a common law right to indemnification by the manufacturer or other party actually responsible for the defect, as long as the retailer was not itself also at fault.
-
-<p class="case-h2">Statutory Indemnification</p>
-
-Indemnification statutes may codify the common law right or impose a duty to indemnify where it would not apply under common law.
-
-_Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code § 2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB).  
-
-_Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code § 145](https://delcode.delaware.gov/title8/c001/sc04/).
-
-<p class="case-h2">Contractual Indemnification</p>
-
-Parties may enter into agreements that shift ultimate responsibility for judgments, without regard to which one is at fault.
-
-_Example:_ Many corporations enter into indemnification agreements with corporate officers and directors to provide indemnification for liability arising out of their corporate roles (as authorized by statute).
-
-_Example:_ Manufacturers of consumer products may agree to indemnify distributors or retailers who face product liability suits. Such agreements may provide for indemnification where the common law right to indemnification does not apply or is not recognized at all under state law.
-
-Liability insurance is a common type of contractual indemnification agreement. Such policies typically provide that the insurance carrier will pay (subject to limits and conditions in the policy) the cost of judgments and the cost of defense for claims covered by the policy. If there there is a dispute as to whether the policy covers the insured party's potential liability, the insured party may join the insurance carrier as a third-party defendant so that the court can resolve the coverage dispute.
-
-<p class="case-h1">Contribution</p>
-
-A right of contribution allows a joint tortfeasor who pays damages beyond their proportionate share of fault (e.g. under joint and several liability) to seek reimbursement from other joint tortfeasors for their proportionate shares. The right of contribution may be governed by common law or statute. You will learn more about joint & several liability, and contribution among joint tortfeasers, in your Torts class.
-
-</div>
-
-
-#### Lehman v. Revolution Portfolio, 166 F.3d 389 (1st Cir. 1999)
-
-<p class="case-h1">SELYA, Circuit Judge</p>
-
-This appeal grows out of a triangular 1987 financial transaction that involved the Farm Street Trust (the Trust), its beneficiaries (Barry Lehman and Stuart A. Roffman), and First Mutual Bank for Savings (the Bank). In the ensuing eleven years, the transaction imploded, litigation commenced, the Bank and Lehman became insolvent, parties came and went, and the case was closed and partially reopened. In the end, only a third-party complaint proved ripe for adjudication. Even then, the district court dismissed two of its three counts, but entered summary judgment on the remaining count. The third-party defendant, Roffman, now appeals. After sorting through the muddled record and the case's serpentine procedural history, we affirm.
-
-<p class="case-h1">I. BACKGROUND</p>
-
-The historical facts are not seriously disputed. On or about October 19, 1987, the Trust, acting through its trustee, executed a promissory note for $2,800,000 in favor of the Bank in order to fund the purchase of property in Dover, Massachusetts. Lehman and Roffman, each of whom enjoyed a 50% beneficial interest in the Trust, personally guaranteed the note, and Lehman proffered two parcels of real estate as additional collateral. In short order, the Trust defaulted on the loan and the Bank foreclosed on Lehman's properties. Lehman responded by suing the Bank seeking restraint or rescission of the imminent sale of his real estate. The gravamen of his suit was a claim that Roffman had fraudulently introduced a sham investor to the Bank in order to gull it into making the loan, and that the Bank, in swallowing this spurious bait hook, line, and sinker, had failed to exercise due diligence.
-
-[_The Bank failed and was placed in receivership. The FDIC, in its role as receiver, replaced the Bank as defendant and asserted a counterclaim against Lehman, as guarantor on the loan, to collect the outstanding balance owed. The FDIC also joined Roffman as a third-party defendant._]
-
-The FDIC's third-party complaint contained three counts. The first two sought indemnification and contribution, respectively, in regard to the claims advanced by Lehman. The third sought judgment against Roffman, _qua_ guarantor, for the outstanding loan balance.
-
-[_Roffman moved to strike the third-party complaint. The trial court denied that motion and Roffman appealed. Meanwhile, Revolution Portfolio LLC ("RP"), to which the FDIC had assigned its interest in the Farm Street Trust debt, replaced the FDIC as the real party in interest._]
-
-<p class="case-h1">II. Discussion</p>
-
-We must answer the question whether the FDIC's deployment of a third-party complaint against Roffman was proper. In this regard, Roffman asserts that the district court should not have entertained the impleader, and that, therefore, the joined claim on the guaranty should fall of its own weight. We review a district court's decision to permit the filing of a third-party complaint under Fed.R.Civ.P. 14(a) for abuse of discretion.
-
-As previously explained, the FDIC impleaded Roffman as a third-party defendant on theories of indemnification and contribution (counts 1 and 2, respectively), maintaining, in essence, that if it were found to be liable to Lehman, then Roffman would in turn be liable to hold it harmless or, at least, contribute to any damages assessed against it. In the same pleading, the FDIC asserted an independent claim for the outstanding loan balance, premised on Roffman's guaranty (count 3). RP (which now stands in the FDIC's shoes) acknowledges that the FDIC could not have brought count 3 as a stand-alone third-party claim under Rule 14(a), but asserts that count 3 was validly joined with counts 1 and 2 under Fed.R.Civ.P. 18(a) (providing for permissive joinder). To parry this thrust, Roffman contends that the FDIC's claims for indemnification and contribution were not viable under state law, and thus, since the use of Rule 14(a) admittedly hinged on the propriety of those claims, the FDIC should not have been allowed to implead him at all.
-
-We conclude, without serious question, that the FDIC was entitled to implead Roffman under Rule 14(a) and that it appropriately joined the guaranty claim under Rule 18(a).
-
-A defendant, acting as a third-party plaintiff, may implead any non-party "who is or _may be_ liable to the third-party plaintiff for all or part of the plaintiff's claim against the third-party plaintiff." Fed.R.Civ.P. 14(a) (emphasis supplied). If the defendant acts within ten days of submitting his answer, he may bring a third party into the suit without leave of court. Otherwise, the court's permission must be obtained. In that event, the determination is left to the informed discretion of the district court, which should allow impleader on any colorable claim of derivative liability that will not unduly delay or otherwise prejudice the ongoing proceedings. Under this liberal standard, a party accused of passive negligence (here, the FDIC) assuredly is entitled to implead the party who allegedly committed the relevant active conduct (here, Roffman) on a theory of indemnification.
-
-The FDIC's third-party claim for contribution against Roffman similarly passes muster because Roffman and the Bank (the FDIC's predecessor in interest) were putative joint tortfeasors (i.e., according to the complaint, Roffman's fraudulent acts combined with the Bank's negligent omissions to create harm). _See_ Mass. Gen. Laws ch. 231B, § 1(a) (1986) (providing a right of contribution among persons who are jointly liable in tort for the same injury).
-
-To be sure, Roffman argues that because Lehman's complaint sought only restraint or rescission of the property sales, and not damages, a third-party claim for contribution should not lie. But this argument gains him no ground. Even though Lehman's complaint did not explicitly seek money damages, that omission did not eliminate the possibility that damages might be awarded to him. As long as damages may be awarded in lieu of rescission, impleader properly may be used to seek contribution toward those potential damages. It follows inexorably that the district court did not err in denying Roffman's motion to strike and allowing the FDIC's Rule 14(a) claims to stand.
-
-Against this backdrop, the court properly assumed jurisdiction over count 3 of the third-party complaint. Rule 18(a) authorizes a third-party plaintiff to "join, either as independent or as alternative claims, as many claims, legal, equitable, or maritime, as the [third-party plaintiff] has against an opposing party." This authorization is subject only to the usual requirements of jurisdiction and venue (none of which are implicated here) and the district court's discretionary power to "direct an appropriate procedure for trying the claims.". Given Rule 18(a)'s broad expanse, misjoinder of claims has become an anachronism in federal civil practice.
-
-In this instance, Roffman signed an unconditional personal guaranty of a loan, and the borrower later defaulted. As a holder in due course of the note, the FDIC had an independent claim for the outstanding balance against Roffman. There is absolutely no reason why the FDIC could not append its independent claim on the guaranty to its other claims against Roffman.
-
-As a fallback position, Roffman suggests that the third-party complaint against him should have been dismissed because the FDIC had a complete defense under 12 U.S.C. § 1823(e) (1994) to the claims brought by Lehman. We do not agree. Even if section 1823(e) offered the FDIC a potentially strong defense against Lehman's claims, the record fails to show that the mere existence of that statute rendered Lehman's complaint a nullity.
-
-There is, moreover, a broader point. A district court must oversee third-party practice with the core purpose of Rule 14(a) in mind: avoiding unnecessary duplication and circuity of action. Requiring a district court to determine the merits of all defenses potentially available to the original defendant as a precondition to allowing that defendant to file a third-party complaint would frustrate this purpose and countervail the efficient allocation of judicial resources. Thus, as long as a third-party action falls within the general contours limned by Rule 14(a), does not contravene customary jurisdictional and venue requirements, and will not work unfair prejudice, a district court should not preclude its prosecution. So here.
-
-
-#### Kirkcaldy v. Richmond County Bd. of Ed., 212 F.R.D. 289 (M.D.N.C. 2002)
-
-<p class="case-h1">BEATY, District Judge.</p>
-
-This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
-
-<p class="case-h1">I. FACTUAL BACKGROUND</p>
-
-Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. § 2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
-
-In his Answer to Kirkcaldy's Complaint, Smith brings a cross-claim against the Board and a third-party complaint against the Superintendent of the Richmond County School System, Larry K. Weatherly ("Weatherly"), and Board members Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, and Carlene Hill, all in their individual and official capacities. Smith's claim against these Defendants is filed pursuant to 42 U.S.C. § 1983 based on the Individual School Defendants and the Board's (together, "School Defendants") alleged violation of Smith's due process rights. It is this Section 1983 claim that the School Defendants now move to dismiss.
-
-In support of his claim, Smith asserts the following alleged facts. On June 20, 2000, Weatherly informed Smith that he was being suspended with pay while Weatherly investigated the allegations of sexual harassment made by Kirkcaldy and another school employee, Sharon Renee Peek ("Peek"). Based upon the results of this investigation, on July 25, 2000, Weatherly changed Smith's suspension with pay to suspension without pay. Weatherly also informed Smith that a hearing before the Board regarding Smith's employment would be held in August of 2000. Weatherly further advised Smith that it would be recommended to the Board members that they terminate Smith from his position.
-
-Prior to the Board hearing, which was held on August 24, 2000, Weatherly delivered to each Board member a copy of all the evidence he intended to present at the hearing against Smith. This evidence included references to polygraph examinations taken by Kirkcaldy and Peek. Smith asserts that this evidence was inadmissible at a school board hearing under North Carolina law. After reviewing the information provided to the Board members, including the references to the polygraph examinations, Myrtle Stogner, one of the Board members, allegedly made the statement to an unidentified individual that the case against Smith was " cut and dried" and that he would be dismissed for the alleged conduct.
-
-At the August 24, 2000 hearing, Smith was allowed to present his evidence. Smith proffered fourteen affidavits from witnesses that rebutted the allegations of harassment made against Smith. Smith also submitted his medical records and his wife's affidavit demonstrating that he was impotent during the time period when the alleged harassment occurred, and therefore would have been physically unable to engage in some of the alleged misconduct. Smith requested a continuance of the hearing in order to obtain additional evidence concerning his impotence, but the Board denied his request.
-
-At the conclusion of the August 24, 2000 hearing, the Board entered an order dismissing Smith from his position as principal. Smith appealed the Board's decision dismissing him to the North Carolina Superior Court, which affirmed the Board's decision. Smith then appealed the North Carolina Superior Court's decision to the North Carolina Court of Appeals. This court affirmed the Superior Court's decision, which upheld the Board's decision to dismiss Smith.
-
-Smith's present cross-claim and third-party complaint filed pursuant to Section 1983 claims that the School Defendants violated his due process rights by denying him a fair hearing prior to his dismissal. In response, the School Defendants have filed the Motion to Dismiss now before the Court, asserting that dismissal of Smith's cross-claim and third-party complaint is proper pursuant to Rule 12(b)(6) for failure to state a claim and Rule 12(b)(1) for lack of subject-matter jurisdiction.
-
-<p class="case-h1">II. DISCUSSION OF DEFENDANTS' MOTION TO DISMISS</p>
-
-In addition to the Board's argument for dismissal of Smith's claim against it, the School Defendants' Motion to Dismiss also requests that the Court dismiss Smith's claim against the Individual School Defendants because Smith's third-party complaint does not satisfy the jurisdictional requirements of the Federal Rules of Civil Procedure. As the Individual School Defendants, unlike the School Board itself, were not parties to Kirkcaldy's original action, Smith's joinder of the Individual School Defendants must meet the requirements of one of the two Rules that allow the joinder of non-parties by a party defendant: Rule 14(a), which governs the impleader of non-parties as third-party defendants, or Rule 13(h), which governs the joinder of non-parties in certain other situations.
-
-As Smith has characterized his claim against the Individual School Defendants as a third-party complaint, the Court will first consider whether Smith's claim satisfies Rule 14(a), the Rule that authorizes the addition of a third-party complaint to an action. Rule 14(a) allows a defendant to assert, as a third-party complaint, a claim against a person who is a non-party if that person is or may be liable to the defendant for part or all of the plaintiff's claims against him. Turning now to Smith's third-party complaint, the Court notes that it nowhere asserts that the Individual School Defendants are liable to him for any damages he might be responsible for due to Kirkcaldy's claims of sexual harassment. Instead, Smith asserts a Section 1983 claim based on the Individual School Defendants' actions regarding Smith's discharge. As Smith's Section 1983 claim is not based on the secondary or derivative liability of the Individual School Defendants, it cannot serve as the basis for a third-party complaint. The Court therefore must conclude that Smith has failed to satisfy Rule 14(a)'s requirements and cannot use this Rule as the basis to join his claim against the Individual School Defendants to Kirkcaldy's action.
-
-In light of the Court's holding that Smith has not satisfied the third-party practice requirements of Rule 14(a), Smith's claim as alleged in his third-party complaint must be dismissed unless the claims are authorized by Rule 13(h). Rule 13(h) allows a cross-defendant, when asserting a cross-claim against another cross-defendant, to join to the cross-claim persons who are not parties to the original action. It is important to underscore, however, that Rule 13(h) imposes as a necessary prerequisite that the cross-defendant first assert a claim against another cross-claim defendant. Smith cannot meet this prerequisite because of the Court's above decision dismissing his cross-claim against the Board. As a result, Smith's Third-Party Complaint against the Individual School Defendants can satisfy neither Rule 14(a) nor Rule 13(h) and therefore must also be dismissed. Accordingly, the Motion to Dismiss for lack of subject matter jurisdiction is GRANTED to the Individual School Defendants as well as to the School Board.
 
 
 ## Review Questions
