@@ -30,8 +30,8 @@ course:
 coursebook:
   title: Civil Procedure
   subtitle: An Open-Source Casebook
-  version: '2.0'
-  date: August 2023
+  version: '3.1'
+  date: September 2024
 
 collections:
   exams:
