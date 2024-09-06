@@ -123,7 +123,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  &nbsp; |  &nbsp; |  &nbsp;
  November 25 | Review: Choice of Law, Pleading, Preclusion, & Summary Judgment | &nbsp;
 &nbsp; |  &nbsp; |  &nbsp; 
- November 26-27 | **Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment** | &nbsp;
+ November 25-26 | **Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment** | &nbsp;
  &nbsp; |  &nbsp; |  &nbsp;
  TBD | **Final Review** | &nbsp;
  TBD | **Final Exam** | &nbsp;
