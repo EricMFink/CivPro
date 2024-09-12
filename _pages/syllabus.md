@@ -86,8 +86,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  September 6 | Permissive Joinder of Claims & Parties | Casebook, Chap. 2, §§ 1.1 & 2.1
  September 9  | Counterclaims | Casebook, Chap. 2, § 1.2 
  September 11 | Crossclaims | Casebook, Chap. 2, § 1.3 
- September 13| Third-Party Joinder | Casebook, Chap. 2, § 2.1
- September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 2.2, 2.3, & 2.4
+ September 13| Third-Party Joinder | Casebook, Chap. 2, § 2.2
+ September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 2.3, 2.4, & 2.5
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Personal Jurisdiction** | Clermont, §§ 4.2, 4.3, 4.4
  September 18 | Due Process and State Power | Casebook, Chap. 3, §§ 1.1 

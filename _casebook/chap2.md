@@ -756,190 +756,6 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 
 [^sullivan-blake1]: (n.1 in opinion)} FedEx also contends that Plaintiffs cannot obtain complete relief without the joinder of the Service Providers because if Plaintiffs cannot prove that FedEx is their joint employer, their FLSA claims against the Service Providers would likely be time barred. This contention is irrelevant to the Court's analysis, however, because the focal point of the inquiry under Rule 19(a)(1)(A) is whether the Court can accord complete relief if Plaintiffs prevail in *this* litigation. Similarly, FedEx's assertion that the Court cannot accord complete relief to FedEx because the indemnification agreements between itself and the Service Providers may lead to future litigation does not compel joinder. Whether the Court can accord complete relief "is determined on the basis of those persons who are already parties, and not as between a party and the absent person whose joinder is sought."
 
-### Intervention
-
-<div class="legal-code">
-
-#### Fed. R. Civ. P. Rule 24 {#rule24}
-
-(a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
-
-> (1) is given an unconditional right to intervene by a federal statute; or
-
-> (2) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
-
-(b) Permissive Intervention.
-
-> (1) In General. On timely motion, the court may permit anyone to intervene who:
-
-> > (A) is given a conditional right to intervene by a federal statute; or
-
-> > (B) has a claim or defense that shares with the main action a common question of law or fact.
-
-> (3) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
-
-</div>
-
-#### Buck v. Gordon, 959 F.3d 219 (6th Cir. 2020)
-
-<p class="case-h1">GRIFFIN, Circuit Judge.</p>
-
-The State of Michigan finds itself in a tug-of-war between faith-based child placement agencies and same-sex couples who wish to foster or adopt children. In an earlier round of litigation, appellants Kristy and Dana Dumont claimed the State violated their First and Fourteenth Amendment rights by allowing faith-based child placement agencies to refuse them service based on their sexual orientation. Michigan settled that suit by agreeing to enforce a policy prohibiting discrimination on the basis of sexual orientation against faith-based child placement agencies. That settlement spawned this litigation. Plaintiff St. Vincent Catholic Charities claims the State violated its First and Fourteenth Amendment rights by directing it to perform its duties in a manner that violates its sincerely held religious beliefs.
-
-This appeal deals not with the merits of the underlying constitutional dispute, but rather with whether the district court erred as a matter of law in denying the Dumonts' motion for intervention as of right or, in the alternative, whether it abused its discretion in denying their motion for permissive intervention. For the reasons explained below, we reverse the district court's order regarding permissive intervention and remand for further proceedings consistent with this opinion.
-
-<p class="case-h1">I.</p>
-
-<p class="case-h2">A.</p>
-
-The Michigan Department of Health and Human Services (MDHHS) is responsible for the care of more than 13,000 children within the state foster-care system due to abandonment or neglect. It has opted to contract out the majority of its fostering and adoption services to private child-placing agencies (CPAs). The State presently licenses and holds contracts with more than 50 private CPAs.
-
-Before becoming eligible as a foster or adoptive parent in Michigan, a person must first obtain a license from the State. Private CPAs play a significant role in the licensing process by performing a home evaluation of the prospective parent(s). The home evaluation is "an exhaustive review of the family's eligibility" to act as foster or adoptive parents and requires the agency to assess "the relationships between all of the adults living in the home." It includes both objective and subjective components and requires the CPA to make a final recommendation on whether or not the State should grant a license.
-
-Some of the State's contracted CPAs are faith-based organizations, including plaintiff St. Vincent Catholic Charities. Affiliated with the Catholic Diocese of Lansing, Michigan, St. Vincent is a Michigan non-profit corporation organized for charitable and religious purposes. It has provided fostering and adoption services for more than 70 years. St. Vincent shares the religious beliefs and teachings of the Roman Catholic Church regarding same-sex marriage. Therefore, it asserts that it "cannot provide a written recommendation to the State evaluating and endorsing a family situation that would conflict with its religious beliefs." It thus refers out home evaluations for same-sex or unmarried couples to other CPAs that do not share its religious beliefs.
-
-Historically, MDHHS permitted St. Vincent to refer out cases that could pose a conflict with the agency's sincerely held religious beliefs. And in 2015, the Michigan Legislature codified this practice, enacting a statute designed to "ensure that faith-based child placing agencies could continue to provide adoption and foster care services" in line with their religious beliefs. It provides that "to the fullest extent permitted by state and federal law, a child placing agency shall not be required to provide any services if those services conflict with, or provide any services under circumstances that conflict with, the child placing agency's sincerely held religious beliefs."
-
-<p class="case-h2">B.</p>
-
-After Michigan enacted the 2015 Law, the Dumonts filed suit in the United States District Court for the Eastern District of Michigan ("the _Dumont_ litigation"). They alleged that they were a same-sex couple interested in fostering and adoption, but that St. Vincent refused to assist them with the licensing process because of their sexual orientation. Based on this alleged discrimination, the Dumonts contended that MDHHS was violating their First and Fourteenth Amendment rights by permitting taxpayer-funded CPAs to use religious criteria to screen foster and adoptive parents.
-
-St. Vincent successfully moved to intervene; indeed, the Dumonts did not oppose it. Both the MDHHS and St. Vincent then moved to dismiss the Dumonts' complaint, with St. Vincent raising its own constitutional rights as affirmative defenses to the Dumonts' claims. The district court denied both motions.
-
-Michigan elected a new governor and a new attorney general in 2018. Thereafter, the State's position in the litigation changed and the State ultimately entered into a settlement agreement with the Dumonts in March 2019. In exchange for the Dumonts dismissing their constitutional claims with prejudice, the MDHHS agreed that "unless prohibited by law or court order," it would consider sexual-orientation discrimination by a faith-based child placement agency as violating the anti-discrimination clause under its existing contracts. St. Vincent was not included in the settlement discussions and is not a party to the agreement.
-
-<p class="case-h2">C.</p>
-
-St. Vincent commenced this lawsuit one month later in the United States District Court for the Western District of Michigan. It claimed that the State's shift in policy violated its First and Fourteenth Amendment rights, along with the Religious Freedom Restoration Act. And it sought to enjoin the defendants from enforcing the State's change in policy by terminating or suspending its contract.
-
-The Dumonts moved to intervene before any defendant filed an answer and requested expedited consideration under the district court's local rules. St. Vincent opposed the Dumonts' motion. Agreeing with St. Vincent, the district court denied the motion. On mandatory intervention, the district court reasoned as follows:
-
-> The proposed intervenors rest their claim for intervention as of right on their interest in maintaining the Settlement Agreement. But that is an insufficient basis to support intervention as of right for at least two reasons. First, Plaintiffs are not asking for any relief directed at the Settlement Agreement itself. They do not seek to interpret its terms. Nor do they seek to invalidate any of its terms. From Plaintiffs' point of view, the Settlement Agreement is beside the point and irrelevant to the constitutional and statutory claims asserted. Second, the State is fully capable of protecting any interest the Dumonts have in the terms of the Settlement Agreement in any event. The State Defendants and the Dumonts are fundamentally aligned at this time in not only their views of the Settlement Agreement, but also their views of the merits (or more accurately, the demerits) of Plaintiffs' claims.
-
-Regarding permissive intervention, the court observed:
-
-> It is possible to imagine a basis for permissive intervention if the interests of the State Defendants and the proposed intervenors diverge; or if the Court grants some or all of the preliminary injunctive relief Plaintiffs seek in a way that potentially affects the Dumonts in some way it does not affect the State Defendants; or if later developments in the case create a basis for defenses or counterclaims — Establishment Clause theories, for example — that may be uniquely available to the Dumonts.
-
-Despite recognizing this common question of law, the district court concluded that the Dumonts and the State were "aligned in all material respects" and that the Dumonts' "unique contribution" could be made as amici, rather than as parties to the suit. Thus, the court denied the Dumonts' motion to intervene without prejudice. The Dumonts then refiled their opposition to the motion for a preliminary injunction as an amicus brief in support of the defendants. They also timely filed this interlocutory appeal of the district court's denial of their motion for intervention.
-
-<p class="case-h2">D.</p>
-
-Shortly after its rulings on the motion to intervene, the district court granted St. Vincent's motion for a preliminary injunction. The State appealed the preliminary injunction and unsuccessfully sought a stay in our Court. It then changed course and moved to dismiss the appeal, which we granted. Back at the district court, St. Vincent moved to stay further proceedings pending the Supreme Court's decision[^Dumont1] in a case involving similar claims, _Fulton v. City of Philadelphia._ The district court granted the motion, reasoning that "_Fulton_ is likely to illuminate and shape the legal standards controlling this case and may be outcome-determinative." Accordingly, the case has been stayed until the Supreme Court resolves _Fulton_.
-
-<p class="case-h1">II.</p>
-
-The only issues presented in this appeal are (1) whether the district court erred as a matter of law in denying the Dumonts intervention as of right, and (2) whether the district court abused its discretion in denying the Dumonts permissive intervention. Because we hold that the Dumonts "are entitled to permissive intervention, we address only those arguments."
-
-Federal Rule of Civil Procedure 24(b)(1) provides that, "on timely motion, the court may permit anyone to intervene who has a claim or defense that shares with the main action a common question of law or fact." In deciding whether to allow a party to intervene, "the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights." Fed. R. Civ. P. 24(b)(3). "So long as the motion for intervention is timely and there is at least one common question of law or fact, the balancing of undue delay, prejudice to the original parties, and _any other relevant factors_ is reviewed for an abuse of discretion."
-
-<p class="case-h2">A.</p>
-
-Because the Dumonts timely moved to intervene,[^Dumont2] we first examine whether they presented a common question of law or fact for resolution by the district court. They did.
-
-St. Vincent maintains that the First and Fourteenth Amendments guarantee it the right to refrain from certifying same-sex couples for adoption. The Dumonts' position is the inverse; they claim that the State may not allow St. Vincent to turn away same-sex couples without violating prospective foster or adoptive parents' First and Fourteenth Amendment rights. There can be only one winner in this clash of constitutional guarantees, so the Dumonts have presented a common question of law that can be resolved by the district court. Even the district court recognized this, indicating that pending unspecified "later developments," the Dumonts could present defenses or counterclaims which were "uniquely available" to them. Specifically, it highlighted the Dumonts' invocation of the Establishment Clause as a potential affirmative defense to St. Vincent's claims.
-
-St. Vincent resists this conclusion by contending that the Dumonts "do not even allege a claim or defense common to this action" and raise only "Michigan's claims or defenses for it." The record says otherwise. The Dumonts have raised Establishment Clause and Equal Protection defenses that have not been asserted by the State.[^Dumont3]
-
-Nor does _Kirsch v. Dean_ support St. Vincent's no-common-ground-of-law position. There we discussed how permissive intervention is not appropriate where "a proposed intervenor submits a filing that 'substantially mirrors the positions advanced' by one of the parties." We then held that the district court did not abuse its discretion by denying an untimely motion for intervention, where the _sole_ basis was the proposed intervenor's desire to have opposing counsel disqualified for an alleged violation of the attorney-client privilege. There is no comparison to be drawn with _Kirsch_—the Dumonts asserted affirmative defenses the State forwent, while the _Kirsch_ intervenors parroted the existing party's positions solely to have opposing counsel disqualified. 
-
-<p class="case-h2">B.</p>
-
-Having determined that the Dumonts' motion was timely and that it presented a common question of law, we turn to the remaining factors in Federal Rule of Civil Procedure 24(b)(3).
-
-We begin with the risk of undue delay or prejudice to the existing parties. But this is precisely where the district court went astray; it made no apparent effort to weigh the benefits of resolving the common question of law presented by the Dumonts against the risk of undue delay or prejudice to the original parties. This failure constitutes an abuse of discretion.
-
-A "district court operates within a 'zone of discretion' when deciding whether to allow intervention under Rule 24(b)." But that discretion has bounds—unless the basis for the decision is obvious from the record, the court must "provide enough of an explanation for its decision to enable us to conduct meaningful review." Here, the district court's departure from Federal Rule of Civil Procedure 24(b)'s "must consider" language leaves us with a "definite and firm conviction that the trial court committed a clear error of judgment" warranting reversal. And this is because the relevant factors weigh substantially in favor of permissive intervention.
-
-Consider the benefits of resolving the legal question presented by the Dumonts in the same action as St. Vincent's claim. The core dispute between the Dumonts and St. Vincent has spawned at least three actions in federal district court, two appeals to our court, and one motion for certification of a question to the Michigan Supreme Court. No case has yet reached a final judgment on the merits. Absent intervention, these numbers are likely to increase. Strong interest in judicial economy and desire to avoid multiplicity of litigation wherever and whenever possible therefore supports permissive intervention.
-
-We also discern no danger of undue delay or prejudice to the existing parties that would exceed the benefits of having both sides of this constitutional dispute litigated in a single action, either now or, more importantly, at the time the Dumonts moved to intervene. Particularly because the case has already been stayed by the district court— on St. Vincent's motion—the Dumonts' intervention will not unduly prejudice St. Vincent. Nor do we find persuasive St. Vincent's speculation about protracted or unduly burdensome discovery if we allow the Dumonts to intervene. The Dumonts and St. Vincent have _already_ engaged in substantial discovery in the _Dumont_ litigation, cutting _against_ a finding of undue delay or prejudice because the same facts are relevant to the case brought by St. Vincent. Moreover, were the Dumonts to abuse discovery after being allowed to intervene, the district court could resolve the dispute as necessary to meet the dictates of Federal Rules of Civil Procedure 26 and 37. 
-
-Two other unique aspects of this case support our decision to reverse the district court's order regarding permissive intervention. First, the district court's decision to deny the motion to intervene without prejudice and to allow its renewal is difficult to square with Federal Rule of Civil Procedure 24(b). Timeliness of the motion is one of the primary factors. It makes little sense then to invite the Dumonts to renew their motion for intervention at some unspecified point in the future, when their motion will be less timely, and the case will have progressed to a point where undue delay or prejudice to the existing parties is more probable. Second, the district court strayed too far from the legal standard set out in Federal Rule of Civil Procedure 24(b) by treating the dispositive issue as whether the Dumonts' and the State defendants' interests were "aligned." To be sure, "we have recognized that identity of interest is one of several 'relevant criteria' under Rule 24(b)." But as explained above, their interests are not completely aligned. Moreover, by analyzing the identity of interests, and _not_ the risk of undue delay or prejudice to the existing parties, which plainly favored the Dumonts, the district court applied the wrong standard.
-
-St. Vincent's remaining arguments are unconvincing. It asserts that because the district court allowed the Dumonts to participate in the litigation as amicus parties, it did not abuse its discretion in denying the motion. But there is more at stake for the Dumonts "than just the opportunity to present argument to the district court." The Dumonts also "desire the ability to seek appellate review." We have already seen this play out, as the Dumonts asserted at oral argument that they would not have abandoned the appeal of the preliminary injunction as the State did. Thus, the Dumonts' participation in the case as amicae does not shift the balance.
-
-Nor do we find persuasive St. Vincent's assertion that permitting the Dumonts to intervene will open the floodgates to all same-sex couples who may wish to intervene. Permissive intervention has always been a discretionary decision, dictated by the particular circumstances of the case. The district court retains broad discretion to exclude additional parties—even parties presenting common questions of law or fact—based on the totality of the circumstances.
-
-District courts are afforded wide latitude to determine whether a party with a common question of law or fact may join a particular suit. But sometimes, a court steps outside its "zone of discretion," and thus abuses its discretion. This is just such a case. The Dumonts filed a timely motion to intervene which raised a common question of law that was not outweighed by any countervailing factors, warranting permissive intervention. We therefore hold only that based on the unique facts and circumstances of this case, the district court abused its discretion by providing a cursory explanation of its denial of permissive intervention, failing to address the relevant legal factors or the unique circumstances of the case, and denying the motion without prejudice to be revisited in the future. Upon remand, "the district court retains broad discretion in setting the precise scope of intervention" going forward.
-
-[^Dumont1]:
-
-  {-} In Fulton, the Court ultimately held that the City violated the 1st Amendment rights of a religious-affiliated foster care agency when, pursuant to a municipal anti-discrimination ordinance, it conditioned renewal of the agency's contract on its agreeing to certify same-sex married couples as foster parents. 141 S.Ct. 1868 (2021).
-
-[^Dumont2]: (n.4 in opinion) There is no dispute that the Dumonts' motion was timely; they filed their motion at the very outset of the suit, before any defendant had filed an answer. (In fact, the motion to intervene was filed more than five months prior to any defendant answering the suit.).
-
-[^Dumont3]: (n.5 in opinion) We also note that when St. Vincent intervened into the _Dumont_ litigation, it was in the exact position the Dumonts are now. In other words, if the Dumonts raise "only Michigan's claims or defenses for it," as St. Vincent suggests, then the same was also true of its position in the prior case.
-
-
-
-
-#### Amador County v. U.S. Dept. of the Interior, 772 F.3d 901 (D.C. Cir. 2014)
-
-<p class="case-h1">SENTELLE, Senior Circuit Judge</p>
-
-In 2005, Amador County, California brought suit against the Department of Interior challenging the Secretary's approval of a gaming compact between the Buena Vista Rancheria of Me-Wuk Indians (the "Tribe") and the State of California. After nearly six-and-a-half years of litigation, the Tribe sought to intervene for the limited purpose of moving to dismiss the amended complaint under Federal Rule of Civil Procedure 19. The district court denied the motion as untimely, and this appeal followed. Because we conclude that the district court did not abuse its discretion, we affirm.
-
-<p class="case-h1">BACKGROUND</p>
-
-The Buena Vista Rancheria of Me-Wuk Indians is a federally recognized Indian tribe that occupies a 67-acre parcel of land located entirely within Amador County, California. In 1999, the Tribe negotiated a gaming compact with the State of California under the Indian Gaming Regulatory Act ("IGRA"), and submitted the compact to the Secretary of the Interior for approval. Under the IGRA, once the Tribe submits a gaming compact to the Secretary, the Secretary can either approve the compact; disapprove the compact, if it violates certain federal laws; or do nothing. If the Secretary does nothing, the compact is deemed approved after forty-five days. In 2000, the Secretary approved the compact. In 2004, the Tribe submitted an amended gaming compact to the Secretary. This time, the Secretary took no action on the amended compact for forty-five days, at which point the compact was deemed approved by operation of law.
-
-In April 2005, Amador County challenged the Secretary's "no-action" approval of the amended compact, arguing that the Tribe's land fails to qualify as "Indian lands"—a statutory requirement for gaming under the IGRA. On July 22, 2005, Interior filed a motion to dismiss the case, arguing that the County's claims were not subject to judicial review under the Administrative Procedure Act ("APA"). Shortly thereafter, the Tribe sought leave to participate in the case as amicus curiae. The Tribe argued that the suit had to be dismissed under Rule 19 of the Federal Rules of Civil Procedure because the Tribe was an indispensable party to the litigation, and the Tribe is protected by sovereign immunity so that the litigation could not proceed. The Tribe also claimed that Interior did not adequately represent the Tribe's interests. The district court denied the Tribe's motion without explanation.
-
-In 2008, while Interior's motion to dismiss was still pending, Amador County filed an amended complaint, and Interior again moved to dismiss. The district court granted Interior's motion, finding that the Secretary's "no action" approval was "unreviewable," as the decision to approve a gaming compact is committed to agency discretion.  Amador County appealed to this court. We reversed.
-
-Following this court's remand, the district court ordered the parties to file a Joint Status Report by November 7, 2011. Three days before the parties filed the Joint Status Report, the Tribe filed its motion to intervene. In June 2013, the district court denied as untimely the Tribe's motion to intervene, noting that the parties' Joint Status Report stated that the case is "ready for oral argument and decision on the merits." The Tribe now appeals the district court's denial of its motion for intervention.
-
-<p class="case-h1">ANALYSIS</p>
-
-Intervention of right as sought by appellant is governed by Federal Rule of Civil Procedure 24. That rule provides:
-
-> (a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
-
-> (1) is given an unconditional right to intervene by a federal statute; or
-
-> (2) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
-
-Under that rule, a district court must grant a motion to intervene if the motion is timely, and the prospective intervenor claims a legally protected interest in the action, and the action threatens to impair that interest, unless that interest is adequately represented by existing parties. At the threshold, however, the motion to intervene must be timely. If the motion is untimely, the explicit language of the rule dictates that "intervention must be denied."
-
-Timeliness "is to be judged in consideration of all the circumstances, especially weighing the factors of time elapsed since the inception of the suit, the purpose for which intervention is sought, the need for intervention as a means of preserving the applicant's rights, and the probability of prejudice to those already parties in the case." We review the district court's denial of intervention for untimeliness under the abuse of discretion standard. A district court abuses its discretion when it applies the wrong legal standard or relies on clearly erroneous findings of fact.
-
-In this case, after setting forth the timeliness test, the district court found that the Tribe's motion for intervention was untimely. The district court found that the Tribe, from the outset of this litigation, both knew that the suit could adversely affect its rights, and questioned the adequacy of the United States' representation. The district court reasoned that regardless of whether it measured the elapsed time from the time when the prospective intervenor "'knew or should have known that any of its rights would be directly affected by the litigation,'" or when the "'potential inadequacy of representation came into existence,'" timeliness weighs against the The district court also considered the Tribe's purpose for intervention, namely to file a Rule 19 motion, and noted that the Tribe's need to intervene to maintain its sovereign immunity was a "significant factor" weighing in favor of allowing intervention. Lastly, the district court found that granting the Tribe's motion will "further delay resolution of the merits to the detriment of the existing parties," since the case was otherwise ready for a decision on the merits. Weighing all these factors, the district court found that the Tribe's motion was untimely. Having considered "all the circumstances," we conclude that the district court did not abuse its discretion.
-
-Nevertheless, the Tribe offers multiple arguments for reversing the judgment. First, the Tribe asserts that the district court "undervalued" the Tribe's purpose for intervention, that is, to seek dismissal of the action on the basis of the Tribe's sovereign immunity. The Tribe, argues that because sovereign immunity is jurisdictional, or at least quasi-jurisdictional, the district court had a "heightened duty" to "weigh heavily" the Tribe's purpose for intervention.
-
-The Tribe's argument fails. We have never held that a district court must give extra weight or special consideration to a sovereign's purpose for intervention. We have held that a decision maker abuses its discretion if it fails to consider a relevant factor. Such is the holding of _Acree,_ where this court reversed a district court's finding of untimeliness because it "failed to weigh the purposes for which the Government sought to intervene." In this case, the district court considered all the relevant factors, including the Tribe's purpose for intervention, and we will not disturb its judgment.
-
-Next, the Tribe argues that the district court abused its discretion by using the wrong date in computing the elapsed time. As the Tribe correctly notes, and as the district court acknowledged, courts measure elapsed time from when the "potential inadequacy of representation comes into existence."The Tribe contends that a conflict of interest did not arise until 2011, when the government, in a separate but related proceeding, acknowledged that a Rule 19 defense was available but refused to assert it because of the United States' interest in seeking a resolution to this case on the merits. Accordingly, the Tribe argues that the district court should have used 2011, instead of 2005, when weighing the elapsed time factor. We disagree.
-
-Nothing changed in 2011 that warrants using that date in computing the elapsed time. In 2005, the Tribe, in the amicus curiae brief it proffered to the district court, argued that it was an indispensable party to the litigation, that the suit should be dismissed under Rule 19, and the government's representation of the Tribe's interests may be inadequate. Thus, at a minimum, the Tribe and the government knew as early as 2005 that a Rule 19 defense was available. Yet the government never asserted this defense, even though it had the opportunity to do so in its 2008 motion to dismiss. That record belies the notion that the Tribe could have expected inadequate representation from the government after, but not before, 2011. Indeed, the Tribe all but admits as much by stating it had "earlier concerns about a potential conflict of interest in the United States' representation."
-
-The Tribe seeks to avoid this conclusion by arguing that it was not until 2011 that its suspicion of inadequate representation became a reality. Yet the Tribe argued in 2005 that "the presence of the United States in this case does not fully protect the Tribe's interests." The record demonstrates that the Tribe knew in 2005 as well that the United States might not adequately represent the Tribe's interest. Therefore, the district court did not abuse its discretion in using 2005 as the relevant date in its elapsed time analysis.
-
-Lastly, the Tribe argues that even if the district court used the correct date in the elapsed time analysis, the district court erred because it treated the elapsed time analysis as determinative. According to the Tribe, the district court conflated the elapsed time with the prejudice analysis by focusing exclusively on the delay the motion for intervention will cause, instead of further analyzing how the delay will prejudice the parties.
-
-As we recently stated, the length of time passed "'is not in itself the determinative test.'" This is because "we do not require timeliness for its own sake." Rather, "the requirement of timeliness is aimed primarily at preventing potential intervenors from unduly disrupting litigation, to the unfair detriment of the existing parties." Accordingly, in assessing timeliness, a district court must weigh whether the intervention will "'_unfairly_ disadvantage the original parties.'"
-
-The district court in this case found that the case was ready for a decision on the merits, and that the Tribe's intervention would delay resolution of the merits. We have previously concluded that the delay caused by a potential intervenor was sufficient to constitute prejudice where a decision on the merits was pending. 
-
-In this case, the County filed the complaint over nine years ago. In November 2011, the County and Interior agreed that the case was "ready for oral argument and decision on the merits." The Tribe's motion for intervention and the subsequent appeal have delayed a decision on the merits for three years. If the Tribe's motion were granted, a resolution of this case would be further delayed as the district court at the very least would need to accept briefing on the Tribe's Rule 19 motion, hear argument, and rule on the motion. On such facts, we cannot say that the district court abused its discretion in finding that the Tribe's intervention would cause prejudicial delay.
-
-Because we conclude that the district court did not abuse its discretion on the threshold question of timeliness, we need not reach the Tribe's argument that the United States does not adequately represent its interest. 
-
-
-<p class="case-h1">RANDOLPH, Senior Circuit Judge, concurring</p>
-
-I agree that the Tribe's motion to intervene pursuant to Rule 24 of the Federal Rules of Civil Procedure was untimely. I write separately to mention another basis for denying the motion.
-
-Under Rule 24(a)(2), the motion to intervene must not only be timely, but also the movant must claim
-
-> an interest relating to the property or transaction that is the subject of the action, and be so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
-
-Fed.R.Civ.P. 24(a)(2).
-
-The Tribe wanted to intervene in order to assert that it was an indispensable party under Rule 19(a). The idea being that the Tribe could then invoke its sovereign immunity and have the court dismiss Amador County's action against the Department of the Interior. In terms of Rule 24(a)(2), the Tribe claimed that the United States did not "adequately represent" the Tribe's "interest"—which the Tribe defined as its sovereign immunity. 
-
-The strategy was clever but it would not have worked. The Tribe's interest in its sovereign immunity was not—in the words of Rule 24(a)(2)—"an interest relating to the property or transaction that is the subject of the action." The very point of the Tribe's motion was to inject sovereign immunity into the case. The Tribe therefore would not have qualified for intervention as of right even if it had timely filed its motion.
-
 ### Interpleader
 
 <div class="legal-code">
@@ -1134,7 +950,188 @@ Because Meyer has not properly brought an interpleader action, she is not entitl
 
 In response to defendants' arguments, Meyer only states that "defendants are simply incorrect when they contend there are not competing claims from diverse parties to the funds proposed to be interpleaded, and are properly restrained from initiating competing claims in any other court." Meyer does not substantively argue how she has properly pleaded an interpleader action, nor does she cite to any case law in support of her motion. Meyer briefly mentions that her counsel cannot disburse the fund without her approval, citing to Rule 1.5 of the Rules of Professional Responsibility; however, any ethical obligations belonging to Meyer's counsel play no role in the court's determination of whether Meyer has properly pleaded an interpleader action. Therefore, the court denies Meyer's motion to transfer funds and restrain defendants.
 
+### Intervention
 
+<div class="legal-code">
+
+#### Fed. R. Civ. P. Rule 24 {#rule24}
+
+(a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
+
+> (1) is given an unconditional right to intervene by a federal statute; or
+
+> (2) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
+
+(b) Permissive Intervention.
+
+> (1) In General. On timely motion, the court may permit anyone to intervene who:
+
+> > (A) is given a conditional right to intervene by a federal statute; or
+
+> > (B) has a claim or defense that shares with the main action a common question of law or fact.
+
+> (3) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights.
+
+</div>
+
+#### Buck v. Gordon, 959 F.3d 219 (6th Cir. 2020)
+
+<p class="case-h1">GRIFFIN, Circuit Judge.</p>
+
+The State of Michigan finds itself in a tug-of-war between faith-based child placement agencies and same-sex couples who wish to foster or adopt children. In an earlier round of litigation, appellants Kristy and Dana Dumont claimed the State violated their First and Fourteenth Amendment rights by allowing faith-based child placement agencies to refuse them service based on their sexual orientation. Michigan settled that suit by agreeing to enforce a policy prohibiting discrimination on the basis of sexual orientation against faith-based child placement agencies. That settlement spawned this litigation. Plaintiff St. Vincent Catholic Charities claims the State violated its First and Fourteenth Amendment rights by directing it to perform its duties in a manner that violates its sincerely held religious beliefs.
+
+This appeal deals not with the merits of the underlying constitutional dispute, but rather with whether the district court erred as a matter of law in denying the Dumonts' motion for intervention as of right or, in the alternative, whether it abused its discretion in denying their motion for permissive intervention. For the reasons explained below, we reverse the district court's order regarding permissive intervention and remand for further proceedings consistent with this opinion.
+
+<p class="case-h1">I.</p>
+
+<p class="case-h2">A.</p>
+
+The Michigan Department of Health and Human Services (MDHHS) is responsible for the care of more than 13,000 children within the state foster-care system due to abandonment or neglect. It has opted to contract out the majority of its fostering and adoption services to private child-placing agencies (CPAs). The State presently licenses and holds contracts with more than 50 private CPAs.
+
+Before becoming eligible as a foster or adoptive parent in Michigan, a person must first obtain a license from the State. Private CPAs play a significant role in the licensing process by performing a home evaluation of the prospective parent(s). The home evaluation is "an exhaustive review of the family's eligibility" to act as foster or adoptive parents and requires the agency to assess "the relationships between all of the adults living in the home." It includes both objective and subjective components and requires the CPA to make a final recommendation on whether or not the State should grant a license.
+
+Some of the State's contracted CPAs are faith-based organizations, including plaintiff St. Vincent Catholic Charities. Affiliated with the Catholic Diocese of Lansing, Michigan, St. Vincent is a Michigan non-profit corporation organized for charitable and religious purposes. It has provided fostering and adoption services for more than 70 years. St. Vincent shares the religious beliefs and teachings of the Roman Catholic Church regarding same-sex marriage. Therefore, it asserts that it "cannot provide a written recommendation to the State evaluating and endorsing a family situation that would conflict with its religious beliefs." It thus refers out home evaluations for same-sex or unmarried couples to other CPAs that do not share its religious beliefs.
+
+Historically, MDHHS permitted St. Vincent to refer out cases that could pose a conflict with the agency's sincerely held religious beliefs. And in 2015, the Michigan Legislature codified this practice, enacting a statute designed to "ensure that faith-based child placing agencies could continue to provide adoption and foster care services" in line with their religious beliefs. It provides that "to the fullest extent permitted by state and federal law, a child placing agency shall not be required to provide any services if those services conflict with, or provide any services under circumstances that conflict with, the child placing agency's sincerely held religious beliefs."
+
+<p class="case-h2">B.</p>
+
+After Michigan enacted the 2015 Law, the Dumonts filed suit in the United States District Court for the Eastern District of Michigan ("the _Dumont_ litigation"). They alleged that they were a same-sex couple interested in fostering and adoption, but that St. Vincent refused to assist them with the licensing process because of their sexual orientation. Based on this alleged discrimination, the Dumonts contended that MDHHS was violating their First and Fourteenth Amendment rights by permitting taxpayer-funded CPAs to use religious criteria to screen foster and adoptive parents.
+
+St. Vincent successfully moved to intervene; indeed, the Dumonts did not oppose it. Both the MDHHS and St. Vincent then moved to dismiss the Dumonts' complaint, with St. Vincent raising its own constitutional rights as affirmative defenses to the Dumonts' claims. The district court denied both motions.
+
+Michigan elected a new governor and a new attorney general in 2018. Thereafter, the State's position in the litigation changed and the State ultimately entered into a settlement agreement with the Dumonts in March 2019. In exchange for the Dumonts dismissing their constitutional claims with prejudice, the MDHHS agreed that "unless prohibited by law or court order," it would consider sexual-orientation discrimination by a faith-based child placement agency as violating the anti-discrimination clause under its existing contracts. St. Vincent was not included in the settlement discussions and is not a party to the agreement.
+
+<p class="case-h2">C.</p>
+
+St. Vincent commenced this lawsuit one month later in the United States District Court for the Western District of Michigan. It claimed that the State's shift in policy violated its First and Fourteenth Amendment rights, along with the Religious Freedom Restoration Act. And it sought to enjoin the defendants from enforcing the State's change in policy by terminating or suspending its contract.
+
+The Dumonts moved to intervene before any defendant filed an answer and requested expedited consideration under the district court's local rules. St. Vincent opposed the Dumonts' motion. Agreeing with St. Vincent, the district court denied the motion. On mandatory intervention, the district court reasoned as follows:
+
+> The proposed intervenors rest their claim for intervention as of right on their interest in maintaining the Settlement Agreement. But that is an insufficient basis to support intervention as of right for at least two reasons. First, Plaintiffs are not asking for any relief directed at the Settlement Agreement itself. They do not seek to interpret its terms. Nor do they seek to invalidate any of its terms. From Plaintiffs' point of view, the Settlement Agreement is beside the point and irrelevant to the constitutional and statutory claims asserted. Second, the State is fully capable of protecting any interest the Dumonts have in the terms of the Settlement Agreement in any event. The State Defendants and the Dumonts are fundamentally aligned at this time in not only their views of the Settlement Agreement, but also their views of the merits (or more accurately, the demerits) of Plaintiffs' claims.
+
+Regarding permissive intervention, the court observed:
+
+> It is possible to imagine a basis for permissive intervention if the interests of the State Defendants and the proposed intervenors diverge; or if the Court grants some or all of the preliminary injunctive relief Plaintiffs seek in a way that potentially affects the Dumonts in some way it does not affect the State Defendants; or if later developments in the case create a basis for defenses or counterclaims — Establishment Clause theories, for example — that may be uniquely available to the Dumonts.
+
+Despite recognizing this common question of law, the district court concluded that the Dumonts and the State were "aligned in all material respects" and that the Dumonts' "unique contribution" could be made as amici, rather than as parties to the suit. Thus, the court denied the Dumonts' motion to intervene without prejudice. The Dumonts then refiled their opposition to the motion for a preliminary injunction as an amicus brief in support of the defendants. They also timely filed this interlocutory appeal of the district court's denial of their motion for intervention.
+
+<p class="case-h2">D.</p>
+
+Shortly after its rulings on the motion to intervene, the district court granted St. Vincent's motion for a preliminary injunction. The State appealed the preliminary injunction and unsuccessfully sought a stay in our Court. It then changed course and moved to dismiss the appeal, which we granted. Back at the district court, St. Vincent moved to stay further proceedings pending the Supreme Court's decision[^Dumont1] in a case involving similar claims, _Fulton v. City of Philadelphia._ The district court granted the motion, reasoning that "_Fulton_ is likely to illuminate and shape the legal standards controlling this case and may be outcome-determinative." Accordingly, the case has been stayed until the Supreme Court resolves _Fulton_.
+
+<p class="case-h1">II.</p>
+
+The only issues presented in this appeal are (1) whether the district court erred as a matter of law in denying the Dumonts intervention as of right, and (2) whether the district court abused its discretion in denying the Dumonts permissive intervention. Because we hold that the Dumonts "are entitled to permissive intervention, we address only those arguments."
+
+Federal Rule of Civil Procedure 24(b)(1) provides that, "on timely motion, the court may permit anyone to intervene who has a claim or defense that shares with the main action a common question of law or fact." In deciding whether to allow a party to intervene, "the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties' rights." Fed. R. Civ. P. 24(b)(3). "So long as the motion for intervention is timely and there is at least one common question of law or fact, the balancing of undue delay, prejudice to the original parties, and _any other relevant factors_ is reviewed for an abuse of discretion."
+
+<p class="case-h2">A.</p>
+
+Because the Dumonts timely moved to intervene,[^Dumont2] we first examine whether they presented a common question of law or fact for resolution by the district court. They did.
+
+St. Vincent maintains that the First and Fourteenth Amendments guarantee it the right to refrain from certifying same-sex couples for adoption. The Dumonts' position is the inverse; they claim that the State may not allow St. Vincent to turn away same-sex couples without violating prospective foster or adoptive parents' First and Fourteenth Amendment rights. There can be only one winner in this clash of constitutional guarantees, so the Dumonts have presented a common question of law that can be resolved by the district court. Even the district court recognized this, indicating that pending unspecified "later developments," the Dumonts could present defenses or counterclaims which were "uniquely available" to them. Specifically, it highlighted the Dumonts' invocation of the Establishment Clause as a potential affirmative defense to St. Vincent's claims.
+
+St. Vincent resists this conclusion by contending that the Dumonts "do not even allege a claim or defense common to this action" and raise only "Michigan's claims or defenses for it." The record says otherwise. The Dumonts have raised Establishment Clause and Equal Protection defenses that have not been asserted by the State.[^Dumont3]
+
+Nor does _Kirsch v. Dean_ support St. Vincent's no-common-ground-of-law position. There we discussed how permissive intervention is not appropriate where "a proposed intervenor submits a filing that 'substantially mirrors the positions advanced' by one of the parties." We then held that the district court did not abuse its discretion by denying an untimely motion for intervention, where the _sole_ basis was the proposed intervenor's desire to have opposing counsel disqualified for an alleged violation of the attorney-client privilege. There is no comparison to be drawn with _Kirsch_—the Dumonts asserted affirmative defenses the State forwent, while the _Kirsch_ intervenors parroted the existing party's positions solely to have opposing counsel disqualified. 
+
+<p class="case-h2">B.</p>
+
+Having determined that the Dumonts' motion was timely and that it presented a common question of law, we turn to the remaining factors in Federal Rule of Civil Procedure 24(b)(3).
+
+We begin with the risk of undue delay or prejudice to the existing parties. But this is precisely where the district court went astray; it made no apparent effort to weigh the benefits of resolving the common question of law presented by the Dumonts against the risk of undue delay or prejudice to the original parties. This failure constitutes an abuse of discretion.
+
+A "district court operates within a 'zone of discretion' when deciding whether to allow intervention under Rule 24(b)." But that discretion has bounds—unless the basis for the decision is obvious from the record, the court must "provide enough of an explanation for its decision to enable us to conduct meaningful review." Here, the district court's departure from Federal Rule of Civil Procedure 24(b)'s "must consider" language leaves us with a "definite and firm conviction that the trial court committed a clear error of judgment" warranting reversal. And this is because the relevant factors weigh substantially in favor of permissive intervention.
+
+Consider the benefits of resolving the legal question presented by the Dumonts in the same action as St. Vincent's claim. The core dispute between the Dumonts and St. Vincent has spawned at least three actions in federal district court, two appeals to our court, and one motion for certification of a question to the Michigan Supreme Court. No case has yet reached a final judgment on the merits. Absent intervention, these numbers are likely to increase. Strong interest in judicial economy and desire to avoid multiplicity of litigation wherever and whenever possible therefore supports permissive intervention.
+
+We also discern no danger of undue delay or prejudice to the existing parties that would exceed the benefits of having both sides of this constitutional dispute litigated in a single action, either now or, more importantly, at the time the Dumonts moved to intervene. Particularly because the case has already been stayed by the district court— on St. Vincent's motion—the Dumonts' intervention will not unduly prejudice St. Vincent. Nor do we find persuasive St. Vincent's speculation about protracted or unduly burdensome discovery if we allow the Dumonts to intervene. The Dumonts and St. Vincent have _already_ engaged in substantial discovery in the _Dumont_ litigation, cutting _against_ a finding of undue delay or prejudice because the same facts are relevant to the case brought by St. Vincent. Moreover, were the Dumonts to abuse discovery after being allowed to intervene, the district court could resolve the dispute as necessary to meet the dictates of Federal Rules of Civil Procedure 26 and 37. 
+
+Two other unique aspects of this case support our decision to reverse the district court's order regarding permissive intervention. First, the district court's decision to deny the motion to intervene without prejudice and to allow its renewal is difficult to square with Federal Rule of Civil Procedure 24(b). Timeliness of the motion is one of the primary factors. It makes little sense then to invite the Dumonts to renew their motion for intervention at some unspecified point in the future, when their motion will be less timely, and the case will have progressed to a point where undue delay or prejudice to the existing parties is more probable. Second, the district court strayed too far from the legal standard set out in Federal Rule of Civil Procedure 24(b) by treating the dispositive issue as whether the Dumonts' and the State defendants' interests were "aligned." To be sure, "we have recognized that identity of interest is one of several 'relevant criteria' under Rule 24(b)." But as explained above, their interests are not completely aligned. Moreover, by analyzing the identity of interests, and _not_ the risk of undue delay or prejudice to the existing parties, which plainly favored the Dumonts, the district court applied the wrong standard.
+
+St. Vincent's remaining arguments are unconvincing. It asserts that because the district court allowed the Dumonts to participate in the litigation as amicus parties, it did not abuse its discretion in denying the motion. But there is more at stake for the Dumonts "than just the opportunity to present argument to the district court." The Dumonts also "desire the ability to seek appellate review." We have already seen this play out, as the Dumonts asserted at oral argument that they would not have abandoned the appeal of the preliminary injunction as the State did. Thus, the Dumonts' participation in the case as amicae does not shift the balance.
+
+Nor do we find persuasive St. Vincent's assertion that permitting the Dumonts to intervene will open the floodgates to all same-sex couples who may wish to intervene. Permissive intervention has always been a discretionary decision, dictated by the particular circumstances of the case. The district court retains broad discretion to exclude additional parties—even parties presenting common questions of law or fact—based on the totality of the circumstances.
+
+District courts are afforded wide latitude to determine whether a party with a common question of law or fact may join a particular suit. But sometimes, a court steps outside its "zone of discretion," and thus abuses its discretion. This is just such a case. The Dumonts filed a timely motion to intervene which raised a common question of law that was not outweighed by any countervailing factors, warranting permissive intervention. We therefore hold only that based on the unique facts and circumstances of this case, the district court abused its discretion by providing a cursory explanation of its denial of permissive intervention, failing to address the relevant legal factors or the unique circumstances of the case, and denying the motion without prejudice to be revisited in the future. Upon remand, "the district court retains broad discretion in setting the precise scope of intervention" going forward.
+
+[^Dumont1]:
+
+  {-} In Fulton, the Court ultimately held that the City violated the 1st Amendment rights of a religious-affiliated foster care agency when, pursuant to a municipal anti-discrimination ordinance, it conditioned renewal of the agency's contract on its agreeing to certify same-sex married couples as foster parents. 141 S.Ct. 1868 (2021).
+
+[^Dumont2]: (n.4 in opinion) There is no dispute that the Dumonts' motion was timely; they filed their motion at the very outset of the suit, before any defendant had filed an answer. (In fact, the motion to intervene was filed more than five months prior to any defendant answering the suit.).
+
+[^Dumont3]: (n.5 in opinion) We also note that when St. Vincent intervened into the _Dumont_ litigation, it was in the exact position the Dumonts are now. In other words, if the Dumonts raise "only Michigan's claims or defenses for it," as St. Vincent suggests, then the same was also true of its position in the prior case.
+
+
+
+
+#### Amador County v. U.S. Dept. of the Interior, 772 F.3d 901 (D.C. Cir. 2014)
+
+<p class="case-h1">SENTELLE, Senior Circuit Judge</p>
+
+In 2005, Amador County, California brought suit against the Department of Interior challenging the Secretary's approval of a gaming compact between the Buena Vista Rancheria of Me-Wuk Indians (the "Tribe") and the State of California. After nearly six-and-a-half years of litigation, the Tribe sought to intervene for the limited purpose of moving to dismiss the amended complaint under Federal Rule of Civil Procedure 19. The district court denied the motion as untimely, and this appeal followed. Because we conclude that the district court did not abuse its discretion, we affirm.
+
+<p class="case-h1">BACKGROUND</p>
+
+The Buena Vista Rancheria of Me-Wuk Indians is a federally recognized Indian tribe that occupies a 67-acre parcel of land located entirely within Amador County, California. In 1999, the Tribe negotiated a gaming compact with the State of California under the Indian Gaming Regulatory Act ("IGRA"), and submitted the compact to the Secretary of the Interior for approval. Under the IGRA, once the Tribe submits a gaming compact to the Secretary, the Secretary can either approve the compact; disapprove the compact, if it violates certain federal laws; or do nothing. If the Secretary does nothing, the compact is deemed approved after forty-five days. In 2000, the Secretary approved the compact. In 2004, the Tribe submitted an amended gaming compact to the Secretary. This time, the Secretary took no action on the amended compact for forty-five days, at which point the compact was deemed approved by operation of law.
+
+In April 2005, Amador County challenged the Secretary's "no-action" approval of the amended compact, arguing that the Tribe's land fails to qualify as "Indian lands"—a statutory requirement for gaming under the IGRA. On July 22, 2005, Interior filed a motion to dismiss the case, arguing that the County's claims were not subject to judicial review under the Administrative Procedure Act ("APA"). Shortly thereafter, the Tribe sought leave to participate in the case as amicus curiae. The Tribe argued that the suit had to be dismissed under Rule 19 of the Federal Rules of Civil Procedure because the Tribe was an indispensable party to the litigation, and the Tribe is protected by sovereign immunity so that the litigation could not proceed. The Tribe also claimed that Interior did not adequately represent the Tribe's interests. The district court denied the Tribe's motion without explanation.
+
+In 2008, while Interior's motion to dismiss was still pending, Amador County filed an amended complaint, and Interior again moved to dismiss. The district court granted Interior's motion, finding that the Secretary's "no action" approval was "unreviewable," as the decision to approve a gaming compact is committed to agency discretion.  Amador County appealed to this court. We reversed.
+
+Following this court's remand, the district court ordered the parties to file a Joint Status Report by November 7, 2011. Three days before the parties filed the Joint Status Report, the Tribe filed its motion to intervene. In June 2013, the district court denied as untimely the Tribe's motion to intervene, noting that the parties' Joint Status Report stated that the case is "ready for oral argument and decision on the merits." The Tribe now appeals the district court's denial of its motion for intervention.
+
+<p class="case-h1">ANALYSIS</p>
+
+Intervention of right as sought by appellant is governed by Federal Rule of Civil Procedure 24. That rule provides:
+
+> (a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
+
+> (1) is given an unconditional right to intervene by a federal statute; or
+
+> (2) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
+
+Under that rule, a district court must grant a motion to intervene if the motion is timely, and the prospective intervenor claims a legally protected interest in the action, and the action threatens to impair that interest, unless that interest is adequately represented by existing parties. At the threshold, however, the motion to intervene must be timely. If the motion is untimely, the explicit language of the rule dictates that "intervention must be denied."
+
+Timeliness "is to be judged in consideration of all the circumstances, especially weighing the factors of time elapsed since the inception of the suit, the purpose for which intervention is sought, the need for intervention as a means of preserving the applicant's rights, and the probability of prejudice to those already parties in the case." We review the district court's denial of intervention for untimeliness under the abuse of discretion standard. A district court abuses its discretion when it applies the wrong legal standard or relies on clearly erroneous findings of fact.
+
+In this case, after setting forth the timeliness test, the district court found that the Tribe's motion for intervention was untimely. The district court found that the Tribe, from the outset of this litigation, both knew that the suit could adversely affect its rights, and questioned the adequacy of the United States' representation. The district court reasoned that regardless of whether it measured the elapsed time from the time when the prospective intervenor "'knew or should have known that any of its rights would be directly affected by the litigation,'" or when the "'potential inadequacy of representation came into existence,'" timeliness weighs against the The district court also considered the Tribe's purpose for intervention, namely to file a Rule 19 motion, and noted that the Tribe's need to intervene to maintain its sovereign immunity was a "significant factor" weighing in favor of allowing intervention. Lastly, the district court found that granting the Tribe's motion will "further delay resolution of the merits to the detriment of the existing parties," since the case was otherwise ready for a decision on the merits. Weighing all these factors, the district court found that the Tribe's motion was untimely. Having considered "all the circumstances," we conclude that the district court did not abuse its discretion.
+
+Nevertheless, the Tribe offers multiple arguments for reversing the judgment. First, the Tribe asserts that the district court "undervalued" the Tribe's purpose for intervention, that is, to seek dismissal of the action on the basis of the Tribe's sovereign immunity. The Tribe, argues that because sovereign immunity is jurisdictional, or at least quasi-jurisdictional, the district court had a "heightened duty" to "weigh heavily" the Tribe's purpose for intervention.
+
+The Tribe's argument fails. We have never held that a district court must give extra weight or special consideration to a sovereign's purpose for intervention. We have held that a decision maker abuses its discretion if it fails to consider a relevant factor. Such is the holding of _Acree,_ where this court reversed a district court's finding of untimeliness because it "failed to weigh the purposes for which the Government sought to intervene." In this case, the district court considered all the relevant factors, including the Tribe's purpose for intervention, and we will not disturb its judgment.
+
+Next, the Tribe argues that the district court abused its discretion by using the wrong date in computing the elapsed time. As the Tribe correctly notes, and as the district court acknowledged, courts measure elapsed time from when the "potential inadequacy of representation comes into existence."The Tribe contends that a conflict of interest did not arise until 2011, when the government, in a separate but related proceeding, acknowledged that a Rule 19 defense was available but refused to assert it because of the United States' interest in seeking a resolution to this case on the merits. Accordingly, the Tribe argues that the district court should have used 2011, instead of 2005, when weighing the elapsed time factor. We disagree.
+
+Nothing changed in 2011 that warrants using that date in computing the elapsed time. In 2005, the Tribe, in the amicus curiae brief it proffered to the district court, argued that it was an indispensable party to the litigation, that the suit should be dismissed under Rule 19, and the government's representation of the Tribe's interests may be inadequate. Thus, at a minimum, the Tribe and the government knew as early as 2005 that a Rule 19 defense was available. Yet the government never asserted this defense, even though it had the opportunity to do so in its 2008 motion to dismiss. That record belies the notion that the Tribe could have expected inadequate representation from the government after, but not before, 2011. Indeed, the Tribe all but admits as much by stating it had "earlier concerns about a potential conflict of interest in the United States' representation."
+
+The Tribe seeks to avoid this conclusion by arguing that it was not until 2011 that its suspicion of inadequate representation became a reality. Yet the Tribe argued in 2005 that "the presence of the United States in this case does not fully protect the Tribe's interests." The record demonstrates that the Tribe knew in 2005 as well that the United States might not adequately represent the Tribe's interest. Therefore, the district court did not abuse its discretion in using 2005 as the relevant date in its elapsed time analysis.
+
+Lastly, the Tribe argues that even if the district court used the correct date in the elapsed time analysis, the district court erred because it treated the elapsed time analysis as determinative. According to the Tribe, the district court conflated the elapsed time with the prejudice analysis by focusing exclusively on the delay the motion for intervention will cause, instead of further analyzing how the delay will prejudice the parties.
+
+As we recently stated, the length of time passed "'is not in itself the determinative test.'" This is because "we do not require timeliness for its own sake." Rather, "the requirement of timeliness is aimed primarily at preventing potential intervenors from unduly disrupting litigation, to the unfair detriment of the existing parties." Accordingly, in assessing timeliness, a district court must weigh whether the intervention will "'_unfairly_ disadvantage the original parties.'"
+
+The district court in this case found that the case was ready for a decision on the merits, and that the Tribe's intervention would delay resolution of the merits. We have previously concluded that the delay caused by a potential intervenor was sufficient to constitute prejudice where a decision on the merits was pending. 
+
+In this case, the County filed the complaint over nine years ago. In November 2011, the County and Interior agreed that the case was "ready for oral argument and decision on the merits." The Tribe's motion for intervention and the subsequent appeal have delayed a decision on the merits for three years. If the Tribe's motion were granted, a resolution of this case would be further delayed as the district court at the very least would need to accept briefing on the Tribe's Rule 19 motion, hear argument, and rule on the motion. On such facts, we cannot say that the district court abused its discretion in finding that the Tribe's intervention would cause prejudicial delay.
+
+Because we conclude that the district court did not abuse its discretion on the threshold question of timeliness, we need not reach the Tribe's argument that the United States does not adequately represent its interest. 
+
+<p class="case-h1">RANDOLPH, Senior Circuit Judge, concurring</p>
+
+I agree that the Tribe's motion to intervene pursuant to Rule 24 of the Federal Rules of Civil Procedure was untimely. I write separately to mention another basis for denying the motion.
+
+Under Rule 24(a)(2), the motion to intervene must not only be timely, but also the movant must claim
+
+> an interest relating to the property or transaction that is the subject of the action, and be so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
+
+Fed.R.Civ.P. 24(a)(2).
+
+The Tribe wanted to intervene in order to assert that it was an indispensable party under Rule 19(a). The idea being that the Tribe could then invoke its sovereign immunity and have the court dismiss Amador County's action against the Department of the Interior. In terms of Rule 24(a)(2), the Tribe claimed that the United States did not "adequately represent" the Tribe's "interest"—which the Tribe defined as its sovereign immunity. 
+
+The strategy was clever but it would not have worked. The Tribe's interest in its sovereign immunity was not—in the words of Rule 24(a)(2)—"an interest relating to the property or transaction that is the subject of the action." The very point of the Tribe's motion was to inject sovereign immunity into the case. The Tribe therefore would not have qualified for intervention as of right even if it had timely filed its motion.
 
 ## Review Questions
 
