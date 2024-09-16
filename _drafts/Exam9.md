@@ -13,6 +13,7 @@ The ACA will hold its inaugural season in the summer of 2024, with eight teams s
 
 The Gate City Googlies, based in Greensboro, North Carolina, are one of the teams in the ACA. In November 2022, the ACA entered into a contract with George Penny to buy Penny's 70 acre farm in Greensboro as a site for the Googlies cricket ground. Last week, Penny filed a suit against the ACA and Wicket in the U.S. District Court for the Middle District of North Carolina. The complaint (see below) alleges that the ACA breached the contract by failing to close on the sale, and seeks to hold Wicket personally liable for the alleged breach.
 
+
 ![Complaint p.1](ACA_Complaint_1.jpg)
 
 ![Complaint p.1](ACA_Complaint_2.jpg)
@@ -20,6 +21,73 @@ The Gate City Googlies, based in Greensboro, North Carolina, are one of the team
 ![Complaint p.1](ACA_Complaint_3.jpg)
 
 ![Complaint p.1](ACA_Complaint_4.jpg)
+
+> {Caption and Statement of Jurisdiction}
+> 
+> **Factual Background**
+> 
+> 5\. Plaintiff George Penny is the owner of a 70 acre parcel of real property known as "Penny's Farm", located in Greensboro, North Carolina.
+> 
+> 6\. In September 2022, Penny received a telephone call from Defendant Walter Wicket, who introduced himself as President and CEO of the American Cricket Association ("ACA"). Wicket explained that the ACA was interested in buying Penny's Farm for commercial development, including a sports field and spectator pavilion.  Between September and November 2022, Penny and Wicket communicated, by telephone and electronic mail, to negotiate terms for the sale of Penny's Farm. 
+> 
+> 7\. On November 15, 2022, Penny and the ACA entered into an Agreement for Purchase and Sale of Land ("Agreement"), under which the ACA was to buy Penny's Farm for $1,500,000. 
+> 
+> 8\. Section 1(a) of the Agreement defines the "Contract Date" as "the date on which the Agreement has been signed by both parties." On November 15, 2022, Wicket signed the Agreement on behalf of the ACA and Penny signed the Agreement on his own behalf.
+> 
+> 9\. Section 1(b) of the Agreement defines the "Closing Date" for the sale as "30 days after the Examination Period ends, upon approval from the city." 
+> 
+> 10\. Section 1(c) of the Agreement defines the “Examination Period” as "the period beginning on the first day after the Contract Date and extending until 90 business days after the Contract Date." Section 1(c) further provides that "Buyer may extend the Examination Period by 30 business days, up to three times, upon payment of an additional $2500, non-refundable, for each extension.”
+> 
+> 11\. Under the terms of the Agreement, the latest possible ending date of the Examination Period, assuming Defendants used and paid for all three extensions, was August 9, 2023 (180 business days from the Closing Date of November 15, 2022) and the latest possible Closing Date (again assuming Defendants used and paid for all three extensions) was September 21, 2023 (30 business days after August 9, 2023). 
+> 
+> 12\. Despite using all three allowable extensions of the Examination Period, Defendants never made any of the required $2500 payments.
+> 
+> 13\. On September 15, 2023, the ACA and Penny entered into an "Amendment to Purchase and Sale Agreement" ("Amendment"). The Amendment modified Section 1(b) of the Agreement to define the Closing Date as "Thirty (30) days after Buyer obtains all Governmental Permits, including but not limited to approval by the City of a Master Site Plan and Building Construction Plans that are required to build the Commercial Development and Sports Field on the property."  
+> 
+> 14\. Upon information and belief, the Amendment was drafted by Defendants or their agent.  At the time of the Amendment, Defendants were represented by a licensed real estate agent, but Penny was not. Upon information and belief, Wicket is experienced in commercial real estate transactions and development. Penny is a farmer and had no prior experience in commercial real estate transactions or the process required for commercial real estate development. 
+> 
+> 15\. Defendants used their superior knowledge of commercial real estate and bargaining power to cause Penny to enter into the Amendment in an unfair and deceptive manner. 
+> 
+> 16\. The Amendment defines the Closing Date in a manner that makes it impossible to determine when the Closing Date will be. Upon information and belief, Defendants used this deliberately vague and ambiguous language to bind Penny indefinitely, without binding Defendants at all. 
+> 
+> 17\. The Amendment is void and unenforceable as a matter of law, because its terms are hopelessly vague and ambiguous, because it was unsupported by additional consideration, and because Defendants used unfair and deceptive means to induce Penny to sign the Amendment. 
+> 
+> 18\. Because the Amendment is void and unenforceable, Defendants were contractually obligated to close on the transaction and pay the agreed-upon purchase price no later than September 21, 2023. 
+> 
+> 19\. Penny has received no communication from Defendants since September 15, 2023. 
+> 
+> 20\. On November 17, 2023, Penny, through his legal counsel, notified Defendants in writing that the Agreement was terminated as a result of the failure to close on the sale within the contractually-allotted time. On November 20, 2023, Defendants' legal counsel responded, stating that Defendants did not consider the Agreement to be terminated and that they intended to require Penny to go through with the sale. 
+> 
+> **Count I**
+> 
+> **Breach of Contract**
+> 
+> 21\. Plaintiff realleges and incorporates the allegations of Paragraphs 1 through 20 as if fully set forth herein.
+> 
+> 22\. The ACA breached the Agreement by failing to close within the time allowed under the Agreement or within a commercially reasonable time under the circumstances. 
+> 
+> 23\. Plaintiff has been damaged as a result of the ACA's material breach of contract. 
+> 
+> **Count II**
+> 
+> **Piercing the Corporate Veil**
+> 
+> 24\. Plaintiff realleges and incorporates the allegations of Paragraphs 1 through 23 as if fully set forth herein.
+> 
+> 25\. Upon information and belief, Wicket operates the ACA as a mere instrumentality or alter ego of himself, exercising complete dominion and control over the ACA. Upon information and belief, Wicket controlled the conduct of the ACA with regard to the acts and omissions described herein to such an extent that the ACA had no separate mind, will, or existence of its own. 
+> 
+> 26\. Wicket's use of his control over the ACA to violate Plaintiff's legal rights was a proximate cause of Plaintiff's damages. 
+> 
+> WHEREFORE, Plaintiff requests that the Court grant the following relief: 
+> 
+> 1\. A judgment against Defendants for breach of contract and an award of damages in an amount exceeding $75,000;
+> 
+> 2\. A judgment piercing the corporate veil and holding Wicket personally liable for the acts and omissions of the ACA. 
+> 
+> 3\. Such other relief as the Court deems necessary and proper. 
+> 
+> {Signature}
+
 
 In response to the complaint, Wicket files a motion under FRCP Rule 12(b)(6) to dismiss the claim seeking to hold him personally liable for the alleged breach of contract. 
 
