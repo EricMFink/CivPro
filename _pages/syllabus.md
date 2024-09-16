@@ -78,54 +78,54 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
  Date | Topic  | Assignment
 --|---|--
- &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **Introduction** | Clermont, Chapter 1
+ &nbsp; |  | 
+ &nbsp; | <strong>1: Introduction</strong> | Clermont, Chapter 1
  September 4 | The Judicial System and the Litigation Process | Casebook, Chapter 1
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp;  | **Parties and Claims** | Clermont, Chapter 6
+ &nbsp; |  | 
+ &nbsp;| <strong>2: Parties and Claims</strong> | Clermont, Chapter 6
  September 6 | Permissive Joinder of Claims & Parties | Casebook, Chap. 2, §§ 1.1 & 2.1
  September 9  | Counterclaims | Casebook, Chap. 2, § 1.2 
  September 11 | Crossclaims | Casebook, Chap. 2, § 1.3 
  September 13| Third-Party Joinder | Casebook, Chap. 2, § 2.2
  September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 2.3, 2.4, & 2.5
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Personal Jurisdiction** | Clermont, §§ 4.2, 4.3, 4.4
+ &nbsp; |  | 
+ &nbsp; | <strong>3: Personal Jurisdiction</strong> | Clermont, §§ 4.2, 4.3, 4.4
  September 18 | Due Process and State Power | Casebook, Chap. 3, §§ 1.1 
  September 20 & 23 | Minimum Contacts | Casebook, Chap. 3, § 1.2
  September 25 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Subject Matter Jurisdiction** | Clermont, § 4.1
+ &nbsp; |  | 
+ &nbsp; | <strong>4: Subject Matter Jurisdiction</strong> | Clermont, § 4.1
  September 27 & 30 | Standing; Federal Question Jurisdiction | Casebook, Chap. 4, §§ 1 & 2
  October 2 & 7 | Diversity Jurisdiction | Casebook, Chap. 4, § 3
  October 9 & 11 | Supplemental Jurisdiction | Casebook, Chap. 4, § 4
  October 14 | Removal | Casebook, Chap. 4, § 5
-&nbsp; |  &nbsp; |  &nbsp;
- October 16 | Review: Joinder, Personal Jurisdiction, & Subject Matter Jurisdiction | &nbsp;
- &nbsp; |  &nbsp; |  &nbsp;
- October 16-17 | **Quiz 1: Joinder, Personal Jurisdictgion, & Subject Matter Jurisdiction** | &nbsp;
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Choice of Law in Federal Court** | Clermont, Chapter 3
+ &nbsp; |  | 
+ October 16 | Review: Joinder, Personal Jurisdiction, & Subject Matter Jurisdiction | 
+ &nbsp; |  | 
+ October 16-17 | <strong>Quiz 1: Joinder, Personal Jurisdictgion, & Subject Matter Jurisdiction</strong> | 
+ &nbsp; |  | 
+ &nbsp; | <strong>5: Choice of Law in Federal Court</strong> | Clermont, Chapter 3
  October 21 & 23 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1.1
  October 25 & 28 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 1.2
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Pleading** | Clermont, § 2.2(A)
+ &nbsp; |  | 
+ &nbsp; | <strong>6: Pleading</strong> | Clermont, § 2.2(A)
  October 30 & November 1 | Notice Pleading & Complaints | Casebook, Chap. 6, §§ 1 & 2
  November 4 | Answers and Defenses | Casebook, Chap. 6, § 3
  November 6 | Amendments | Casebook, Chap. 6, § 4
  November 8 | Truthfulness and Good Faith | Casebook, Chap. 6, § 5
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Preclusion** | Clermont, Chapter 5
+ &nbsp; |  | 
+ &nbsp; | <strong>7: Preclusion</strong> | Clermont, Chapter 5
  November 11 & 13 | Claim Preclusion | Casebook, Chap. 7, §§ 1 & 2
  November 15 & 18 | Issue Preclusion | Casebook, Chap. 7, § 3
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Summary Judgment** | Clermont, § 2.2(B), (C), & (E)(2)
+ &nbsp; |  | 
+ &nbsp; | <strong>8: Summary Judgment</strong> | Clermont, § 2.2(B), (C), & (E)(2)
  November 20 & 22| Standard & Burden of Production | Casebook, Chap. 8
- &nbsp; |  &nbsp; |  &nbsp;
- November 25 | Review: Choice of Law, Pleading, Preclusion, & Summary Judgment | &nbsp;
-&nbsp; |  &nbsp; |  &nbsp; 
- November 25-26 | **Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment** | &nbsp;
- &nbsp; |  &nbsp; |  &nbsp;
- TBD | **Final Review** | &nbsp;
- TBD | **Final Exam** | &nbsp;
+ &nbsp; |  | 
+ November 25 | Review: Choice of Law, Pleading, Preclusion, & Summary Judgment | 
+ &nbsp; |  | 
+ November 25-26 | <strong>Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment</strong> | 
+ &nbsp; |  | 
+ TBD | <strong>Final Review</strong> | &nbsp;
+ TBD | <strong>Final Exam</strong> | &nbsp;
 
 _Note: This class will not meet on October 4 and 18_
