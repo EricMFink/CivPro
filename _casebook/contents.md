@@ -14,9 +14,9 @@ permalink: /casebook/index.html
 
 [Chapter 2: Joining Parties & Claims]({{ site.baseurl }}/casebook/chap2) 
 
-[Chapter 3: Subject Matter Jurisdiction]({{ site.baseurl }}/casebook/chap3) 
+[Chapter 3: Personal Jurisdiction]({{ site.baseurl }}/casebook/chap3) 
 
-[Chapter 4: Personal Jurisdiction]({{ site.baseurl }}/casebook/chap4) 
+[Chapter 4: Subject Matter Jurisdiction]({{ site.baseurl }}/casebook/chap4) 
 
 [Chapter 5: Governing Law]({{ site.baseurl }}/casebook/chap5)
 
