@@ -133,7 +133,7 @@ Appellant having rendered itself amenable to suit upon obligations arising out o
 
 _International Shoe_ extended the reach of personal jurisdiction over out-of-state parties. As a result, the exercise of jurisdiction no longer requires personal service on the defendant while they are present in the state.
 
-Service of the complaint and summons is still required to satisfy the notice aspect of due process. However, the Federal Rules of Civil Procedure, adopted in the same year that the Court decided _International Shoe_, also relaxed that requirement, permitting service by various alternate means and giving defendants an incentive to waive formal service if they receive actual notice. [Fed.R.Civ.P. Rule 4](https://www.law.cornell.edu/rules/frcp/rule_4).
+Service of the complaint and summons is still required to satisfy the notice aspect of due process. However, the Federal Rules of Civil Procedure (adopted in 1938) relaxed that requirement, permitting service by various alternate means and giving defendants an incentive to waive formal service if they receive actual notice. [Fed.R.Civ.P. Rule 4](https://www.law.cornell.edu/rules/frcp/rule_4).
 
 The requirements of personal jurisdiction and service of process are analogous to an electrical circuit. Minimum contacts between the defendant and the forum state are the wiring. Service of process is the switch. The court cannot exercise power over the defendant unless the wiring is connected (personal jurisdiction) and the switch is turned on (service of process).
 

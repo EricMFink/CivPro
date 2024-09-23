@@ -2,7 +2,7 @@ url: https://www.emfink.net
 baseurl: /CivPro
 title: Civil Procedure
 
-last_updated: 17 September 2024  # leave blank if you don't want to display last updated
+last_updated: 23 September 2024  # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -30,7 +30,7 @@ course:
 coursebook:
   title: Civil Procedure
   subtitle: An Open-Source Casebook
-  version: '3.2'
+  version: '3.3'
   date: September 2024
 
 collections:
