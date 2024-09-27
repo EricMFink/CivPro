@@ -200,9 +200,6 @@ There was no diversity of citizenship and it is not and cannot be suggested that
 
 The application of this rule to the case at bar is decisive against the jurisdiction of the Circuit Court.
 
-
-*** 
-
 <div class="comment">
 
 #### Note on _Mottley_
