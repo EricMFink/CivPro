@@ -74,9 +74,9 @@ Plaintiffs seek to permanently enjoin North Carolina Attorney General, Josh Stei
 
 Before the court are cross-motions for summary judgment filed by Plaintiffs and Defendants. 
 
-<p class="case-h1">I. Background</p>
+<p class="case-h1">I. Background</p>
 
-<p class="case-h2">A. Facts</p>
+<p class="case-h2">A. Facts</p>
 
 On June 3, 2015, over then-Governor Patrick McCrory's veto, the North Carolina General Assembly passed the North Carolina Property Protection Act ("Property Protection Act" or "Act"). The Act amended current law that provides a civil remedy for interference with certain property rights by creating a civil cause of action for the owner or operator of a premises as follows:
 
@@ -100,7 +100,7 @@ Any party who prevails in an action brought under the Act can recover equitable 
 
 Plaintiffs are eight organizations who either "engage in employment-based undercover investigations to document and expose animal abuse" or "use information from whistleblowers and investigators in their advocacy" (id. at 7). PETA says it has identified animal testing laboratories at the University of North Carolina-Chapel Hill that it would like to investigate through the use of an undercover investigator, but it has refrained from doing so out of fear and the "threat of exemplary damages and other civil penalties under the Act." Similarly, ALDF says it is prepared to conduct undercover investigations at state-owned facilities in North Carolina, but those preparations were "thwarted when the Act passed." Both PETA and ALDF represent that if the Act were held unconstitutional, they would resume their undercover investigations. The remaining Plaintiffs have each indicated that the Act's effect on PETA and ALDF has negatively impacted the mission and goals of their organizations. Plaintiffs charge that the Act was passed specifically to ward off undercover investigations of facilities and farms in which animal testing or processing takes place. By creating a strong disincentive for PETA and ALDF to conduct undercover investigations, the remaining Plaintiffs claim, the Act has obstructed their information stream and prevents them from publishing photographs and reports that are central to their missions.
 
-<p class="case-h2">B. Procedural History</p>
+<p class="case-h2">B. Procedural History</p>
 
 Raising both facial and as-applied challenges, Plaintiffs claim the Act stifles their ability to investigate North Carolina employers for illegal or unethical conduct and restricts the flow of information those investigations provide, in violation of the First and Fourteenth Amendments to the United States Constitution and provisions of the North Carolina Constitution. Defendants moved to dismiss the amended complaint on three grounds: Eleventh Amendment State sovereign immunity, standing, and on the merits. In a memorandum opinion, this court found that Plaintiffs failed to allege sufficient facts to demonstrate standing and granted Defendants' motion to dismiss. 
 
@@ -108,23 +108,23 @@ Plaintiffs appealed this court's judgment, and the Fourth Circuit held that Plai
 
 [On remand, the parties filed cross-motions for summary judgment on various grounds, including whether the plaintiffs could establish standing based on the evidence produced in discovery.]
 
-<p class="case-h1">II. Analysis</p>
+<p class="case-h1">II. Analysis</p>
 
 Defendants first renew their challenge to this court's subject matter jurisdiction. Plaintiffs assert that the court has subject matter jurisdiction under 28 U.S.C. §§ 1331 and 1343.
 
-<p class="case-h2">A. Standing</p>
+<p class="case-h2">A. Standing</p>
 
 Plaintiffs, relying on the Fourth Circuit's prior opinion in this case, contend that they have set out sufficient facts, supported by affidavits, to establish standing. Defendants disagree. 
 
 Article III of the United States Constitution limits the jurisdiction of federal courts to deciding cases or controversies. To satisfy this case-or-controversy requirement, a plaintiff must establish that its claim meets three requirements of Article III standing:
 
-> (1) An injury-in-fact (i.e., a concrete and particularized invasion of a legally protected interest); (2) causation (i.e., a fairly traceable connection between the alleged injury in fact and the alleged conduct of the defendant); and (3) redressability (i.e., it is likely and not merely speculative that the plaintiff's injury will be remedied by the relief plaintiff seeks in bringing suit).
+> (1\) An injury-in-fact (i.e., a concrete and particularized invasion of a legally protected interest); (2) causation (i.e., a fairly traceable connection between the alleged injury in fact and the alleged conduct of the defendant); and (3) redressability (i.e., it is likely and not merely speculative that the plaintiff's injury will be remedied by the relief plaintiff seeks in bringing suit).
 
 "Each element of standing must be supported in the same way as any other matter on which the plaintiff bears the burden of proof, i.e., with the manner and degree of evidence required at the successive stages of the litigation." At the summary judgment stage, a plaintiff must "set forth by affidavit or other evidence specific facts, which for purposes of the summary judgment motion will be taken to be true." 
 
 Plaintiffs have met this burden, having set forth by affidavit, the veracity of which has not been challenged, specific facts which, taken as true, establish Article III standing.
 
-<p class="case-h3">1. Injury-in-Fact</p>
+<p class="case-h3">1. Injury-in-Fact</p>
 
 Defendants contend that Plaintiffs' basis for a chill on the exercise of their rights is "objectively unreasonable based on the record" and that their fears are "purely hypothetical, speculative, and conjectural, and do not rise to an injury-in-fact." Plaintiffs argue that following the Fourth Circuit's ruling, to show injury-in-fact they must merely establish that they have conducted undercover investigations in the past to uncover unethical or illegal treatment of animals and disseminate that information and that they are prepared to proceed with further investigations but are chilled from doing so because they fear liability under the Act.
 
