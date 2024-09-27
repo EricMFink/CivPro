@@ -272,8 +272,6 @@ Accordingly, _Merrell Dow_ should be read in its entirety as treating the absenc
 
 As already indicated, however, a comparable analysis yields a different jurisdictional conclusion in this case. Although Congress also indicated ambivalence in this case by providing no private right of action to Grable, it is the rare state quiet title action that involves contested issues of federal law. Consequently, jurisdiction over actions like Grable's would not materially affect, or threaten to affect, the normal currents of litigation. Given the absence of threatening structural consequences and the clear interest the Government, its buyers, and its delinquents have in the availability of a federal forum, there is no good reason to shirk from federal jurisdiction over the dispositive and contested federal issue at the heart of the state-law title claim.
 
-***
-
 <div class="comment">
 
 #### Note: Understanding Grable
@@ -465,9 +463,6 @@ The court also found that "the fact that she was registered to vote in Californi
 Applying the facts of the present case to the controlling principles of law, the court finds that Plaintiff was domiciled in North Carolina both at the time the lawsuit was instituted and at the time Defendant removed the case to this court.
 
 Therefore, absent complete diversity of citizenship between Plaintiff and Defendants, the court is without jurisdiction and must dismiss the case.
-
-
-***
 
 <div class="comment">
 
@@ -808,8 +803,6 @@ In _Williams,_ the court offered a rationale for the continuing applicability of
 Even if the Court could exercise supplemental jurisdiction over a permissive counterclaim, the Court may decline to do so under certain circumstances. 28 U.S.C. § 1367(c). Among those circumstances are where the "claim substantially predominates over the claims over which the court has original jurisdiction" and where, "in exceptional circumstances, there are other compelling reasons for declining jurisdiction." Here, the more fact-intensive breach of contract counterclaim, which may involve analysis of whether Exeter following state law requirements for repossession and resale, is likely to substantially predominate over the TCPA claim centered on whether Ginwright consented to receive telephone calls from Exeter on his cellular phone.
 
 Moreover, public policy concerns support declining jurisdiction. Federal consumer protection statutes seek to protect consumers from unscrupulous practices "regardless of whether a valid debt actually exists." In the context of TILA, the Fourth Circuit has cautioned that "to let the lender use the federal proceedings as an opportunity to pursue private claims against the borrower would impede expeditious enforcement of the federal penalty and involve the district courts in debt collection matters having no federal significance." This same concern applies here. Accordingly, having concluded that Exeter's counterclaim would substantially predominate over the TCPA claim, the Court, even if authorized to exercise supplemental jurisdiction over that counterclaim, would decline to do so.
-
-*** 
 
 <div class="comment">
 
