@@ -142,7 +142,7 @@ At this stage of the litigation, Plaintiffs cannot rely on "mere allegations" bu
 
 Plaintiffs have set out specific facts to establish an injury in fact.
 
-<p class="case-h3">2. Causation and Redressability</p>
+<p class="case-h3">2. Causation and Redressability</p>
 
 Defendants argue that Plaintiffs "have not presented, nor can they, any evidence showing that the Defendants have threatened any kind of action against Plaintiffs or that they are likely to enforce the Act against them." Plaintiffs argue that in the interlocutory appeal the Fourth Circuit found that "these Defendants must either initiate or prosecute a suit, making Plaintiffs' chill traceable to and redressable against Defendants." 
 
