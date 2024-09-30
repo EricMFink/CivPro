@@ -236,9 +236,9 @@ Five years later, Grable brought a quiet title action in state court,[^Grable2] 
 
   {-} "A quiet title action is a special legal proceeding to determine ownership of real property.  A party with a claim of ownership to land can file an action to quiet title, which serves as a sort of lawsuit against anyone and everyone else who has a claim to the land.  If the owner prevails in the quiet title action, no further challenges to the title can be brought." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quiet_title_action).
 
-Darue removed the case to Federal District Court as presenting a federal question, because the claim of title depended on the interpretation of the notice statute in the federal tax law. The District Court declined to remand the case at Grable's behest after finding that the "claim does pose a 'significant question of federal law," and ruling that Grable's lack of a federal right of action to enforce its claim against Darue did not bar the exercise of federal jurisdiction. On the merits, the court granted summary judgment to Darue, holding that although § 6335 by its terms required personal service, substantial compliance with the statute was enough.
+Darue removed the case to Federal District Court as presenting a federal question, because the claim of title depended on the interpretation of the notice statute in the federal tax law. The District Court declined to remand the case at Grable's behest after finding that the "claim does pose a significant question of federal law," and ruling that Grable's lack of a federal right of action to enforce its claim against Darue did not bar the exercise of federal jurisdiction. On the merits, the court granted summary judgment to Darue, holding that although § 6335 by its terms required personal service, substantial compliance with the statute was enough.
 
-The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether [_Merrell Dow Pharmaceuticals Inc. v. Thompson_](https://scholar.google.com/scholar_case?case=7074576791413054261), 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction.We now affirm.
+The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether [_Merrell Dow Pharmaceuticals Inc. v. Thompson_](https://scholar.google.com/scholar_case?case=7074576791413054261), 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction. We now affirm.
 
 <p class="case-h1">II</p>
 
@@ -266,7 +266,7 @@ This case warrants federal jurisdiction. Grable's state complaint must specify "
 
 _Merrell Dow Pharmaceuticals Inc. v. Thompson_, 478 U. S. 804 (1986), on which Grable rests its position, is not to the contrary. _Merrell Dow_ considered a state tort claim resting in part on the allegation that the defendant drug company had violated a federal misbranding prohibition, and was thus presumptively negligent under Ohio law. The Court assumed that federal law would have to be applied to resolve the claim, but after closely examining the strength of the federal interest at stake and the implications of opening the federal forum, held federal jurisdiction unavailable. Congress had not provided a private federal cause of action for violation of the federal branding requirement, and the Court found "it would flout, or at least undermine, congressional intent to conclude that federal courts might nevertheless exercise federal-question jurisdiction and provide remedies for violations of that federal statute solely because the violation is said to be a 'proximate cause' under state law."
 
-Because federal law provides for no quiet title action that could be brought against Darue, Grable argues that there can be no federal jurisdiction here, stressing some broad language in _Merrell Dow_ that on its face supports Grable's position. But an opinion is to be read as a whole, and _Merrell Dow_ cannot be read whole as overturning decades of precedent, as it would have done by effectively adopting the Holmes dissent in _Smith, and converting a federal cause of action from a sufficient condition for federal-question jurisdiction into a necessary one.
+Because federal law provides for no quiet title action that could be brought against Darue, Grable argues that there can be no federal jurisdiction here, stressing some broad language in _Merrell Dow_ that on its face supports Grable's position. But an opinion is to be read as a whole, and _Merrell Dow_ cannot be read whole as overturning decades of precedent, as it would have done by effectively adopting the Holmes dissent in _Smith_, and converting a federal cause of action from a sufficient condition for federal-question jurisdiction into a necessary one.
 
 Accordingly, _Merrell Dow_ should be read in its entirety as treating the absence of a federal private right of action as evidence relevant to, but not dispositive of, the "sensitive judgments about congressional intent" that § 1331 requires. The absence of any federal cause of action affected _Merrell Dow's_ result two ways. The Court saw the fact as worth some consideration in the assessment of substantiality. But its primary importance emerged when the Court treated the combination of no federal cause of action and no preemption of state remedies for misbranding as an important clue to Congress's conception of the scope of jurisdiction to be exercised under § 1331. The Court saw the missing cause of action not as a missing federal door key, always required, but as a missing welcome mat, required in the circumstances, when exercising federal jurisdiction over a state misbranding action would have attracted a horde of original filings and removal cases raising other state claims with embedded federal issues. For if the federal labeling standard without a federal cause of action could get a state claim into federal court, so could any other federal standard without a federal cause of action. And that would have meant a tremendous number of cases.
 
@@ -280,7 +280,7 @@ In _Grable_, the Supreme Court sought to clarify when a state-law claim with an 
 
 But the _Grable_ standard is an exception to the Holmes "creation test". Even though state law creates the plaintiff's cause of action (which, for Holmes, would mean the claim did not "arise under" federal law), the presence of a federal issue as an element of the claim may nonetheless confer federal jurisdiction under §1331.
 
-<p class="case-h1">Rule</p>
+##### Rule
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
 
@@ -288,15 +288,15 @@ A state-law claim raises a federal question, sufficient to confer jurisdiction u
 2. The federal issue is _actually disputed,_ and
 3. There is a _substantial federal interest_ at stake.
 
-_Essential Federal Issue_
+###### Essential Federal Issue
 
 The federal issue is "essential" where the plaintiff's "right to relief depends upon the construction or application of the Constitution or laws of the United States." _Smith v. Kansas City Title & Trust Co._ (US 1921). This requirement will generally be satisfied where the plaintiff relies on federal law to establish a right, interest, or duty at issue in the case.
 
-_Federal Issue Is Actually Disputed_
+###### Federal Issue Is Actually Disputed
 
 If there is no dispute between the parties over the federal issue as it arises in the case, there is no need for the court to resolve the issue and thus no reason to confer federal subject matter jurisdiction based on that issue.
 
-_Substantial Federal Interest_
+###### Substantial Federal Interest
 
 In assessing whether there is a "substantial federal interest", the Supreme Court has considered these factors:
 
@@ -304,9 +304,9 @@ In assessing whether there is a "substantial federal interest", the Supreme Cour
 2. Whether allowing a federal forum for private litigants would undermine a federal statutory enforcement scheme
 3. Whether providing a federal forum would upset the balance between the state and federal judicial systems
 
-<p class="case-h1">Illustrations</p>
+##### Illustrations
 
-<p class="case-h2">Federal Issue</p>
+###### Federal Issue
 
 _Essential: Grable_
 
@@ -316,7 +316,7 @@ _Essential: Grable_
   - Grable argued that failure to satisfy the federal statutory notice requirement rendered the sale of the property to Darue invalid.
   - Darue argued that, since Grable received actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, Darue's purchase of the property was valid.
 - Grable's right to relief thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void). And this issue was actually in dispute between the parties.
-- The real focus of the suit was Grable's right under federal law not to have it's property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
+- The real focus of the suit was Grable's right under federal law not to have its property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
 
 _Not Essential: Merrell Dow_
 
@@ -335,7 +335,7 @@ _Not Essential: Gunn v. Minton_
 - As in Merrell Dow, the suit wasn't really about Minton's rights under federal law.
   - The patent law issue arose only as a benchmark for establishing whether Gunn suffered an injury as a result of negligent legal representation.
 
-<p class="case-h2">Federal Interest</p>
+###### Federal Interest
 
 _Substantial: Grable_
 
