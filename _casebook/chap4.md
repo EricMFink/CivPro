@@ -74,9 +74,9 @@ Plaintiffs seek to permanently enjoin North Carolina Attorney General, Josh Stei
 
 Before the court are cross-motions for summary judgment filed by Plaintiffs and Defendants. 
 
-<p class="case-h1">I. Background</p>
+<p class="case-h1">I. Background</p>
 
-<p class="case-h2">A. Facts</p>
+<p class="case-h2">A. Facts</p>
 
 On June 3, 2015, over then-Governor Patrick McCrory's veto, the North Carolina General Assembly passed the North Carolina Property Protection Act ("Property Protection Act" or "Act"). The Act amended current law that provides a civil remedy for interference with certain property rights by creating a civil cause of action for the owner or operator of a premises as follows:
 
@@ -100,7 +100,7 @@ Any party who prevails in an action brought under the Act can recover equitable 
 
 Plaintiffs are eight organizations who either "engage in employment-based undercover investigations to document and expose animal abuse" or "use information from whistleblowers and investigators in their advocacy" (id. at 7). PETA says it has identified animal testing laboratories at the University of North Carolina-Chapel Hill that it would like to investigate through the use of an undercover investigator, but it has refrained from doing so out of fear and the "threat of exemplary damages and other civil penalties under the Act." Similarly, ALDF says it is prepared to conduct undercover investigations at state-owned facilities in North Carolina, but those preparations were "thwarted when the Act passed." Both PETA and ALDF represent that if the Act were held unconstitutional, they would resume their undercover investigations. The remaining Plaintiffs have each indicated that the Act's effect on PETA and ALDF has negatively impacted the mission and goals of their organizations. Plaintiffs charge that the Act was passed specifically to ward off undercover investigations of facilities and farms in which animal testing or processing takes place. By creating a strong disincentive for PETA and ALDF to conduct undercover investigations, the remaining Plaintiffs claim, the Act has obstructed their information stream and prevents them from publishing photographs and reports that are central to their missions.
 
-<p class="case-h2">B. Procedural History</p>
+<p class="case-h2">B. Procedural History</p>
 
 Raising both facial and as-applied challenges, Plaintiffs claim the Act stifles their ability to investigate North Carolina employers for illegal or unethical conduct and restricts the flow of information those investigations provide, in violation of the First and Fourteenth Amendments to the United States Constitution and provisions of the North Carolina Constitution. Defendants moved to dismiss the amended complaint on three grounds: Eleventh Amendment State sovereign immunity, standing, and on the merits. In a memorandum opinion, this court found that Plaintiffs failed to allege sufficient facts to demonstrate standing and granted Defendants' motion to dismiss. 
 
@@ -108,23 +108,23 @@ Plaintiffs appealed this court's judgment, and the Fourth Circuit held that Plai
 
 [On remand, the parties filed cross-motions for summary judgment on various grounds, including whether the plaintiffs could establish standing based on the evidence produced in discovery.]
 
-<p class="case-h1">II. Analysis</p>
+<p class="case-h1">II. Analysis</p>
 
 Defendants first renew their challenge to this court's subject matter jurisdiction. Plaintiffs assert that the court has subject matter jurisdiction under 28 U.S.C. §§ 1331 and 1343.
 
-<p class="case-h2">A. Standing</p>
+<p class="case-h2">A. Standing</p>
 
 Plaintiffs, relying on the Fourth Circuit's prior opinion in this case, contend that they have set out sufficient facts, supported by affidavits, to establish standing. Defendants disagree. 
 
 Article III of the United States Constitution limits the jurisdiction of federal courts to deciding cases or controversies. To satisfy this case-or-controversy requirement, a plaintiff must establish that its claim meets three requirements of Article III standing:
 
-> (1) An injury-in-fact (i.e., a concrete and particularized invasion of a legally protected interest); (2) causation (i.e., a fairly traceable connection between the alleged injury in fact and the alleged conduct of the defendant); and (3) redressability (i.e., it is likely and not merely speculative that the plaintiff's injury will be remedied by the relief plaintiff seeks in bringing suit).
+> (1\) An injury-in-fact (i.e., a concrete and particularized invasion of a legally protected interest); (2) causation (i.e., a fairly traceable connection between the alleged injury in fact and the alleged conduct of the defendant); and (3) redressability (i.e., it is likely and not merely speculative that the plaintiff's injury will be remedied by the relief plaintiff seeks in bringing suit).
 
 "Each element of standing must be supported in the same way as any other matter on which the plaintiff bears the burden of proof, i.e., with the manner and degree of evidence required at the successive stages of the litigation." At the summary judgment stage, a plaintiff must "set forth by affidavit or other evidence specific facts, which for purposes of the summary judgment motion will be taken to be true." 
 
 Plaintiffs have met this burden, having set forth by affidavit, the veracity of which has not been challenged, specific facts which, taken as true, establish Article III standing.
 
-<p class="case-h3">1. Injury-in-Fact</p>
+<p class="case-h3">1. Injury-in-Fact</p>
 
 Defendants contend that Plaintiffs' basis for a chill on the exercise of their rights is "objectively unreasonable based on the record" and that their fears are "purely hypothetical, speculative, and conjectural, and do not rise to an injury-in-fact." Plaintiffs argue that following the Fourth Circuit's ruling, to show injury-in-fact they must merely establish that they have conducted undercover investigations in the past to uncover unethical or illegal treatment of animals and disseminate that information and that they are prepared to proceed with further investigations but are chilled from doing so because they fear liability under the Act.
 
@@ -142,7 +142,7 @@ At this stage of the litigation, Plaintiffs cannot rely on "mere allegations" bu
 
 Plaintiffs have set out specific facts to establish an injury in fact.
 
-<p class="case-h3">2. Causation and Redressability</p>
+<p class="case-h3">2. Causation and Redressability</p>
 
 Defendants argue that Plaintiffs "have not presented, nor can they, any evidence showing that the Defendants have threatened any kind of action against Plaintiffs or that they are likely to enforce the Act against them." Plaintiffs argue that in the interlocutory appeal the Fourth Circuit found that "these Defendants must either initiate or prosecute a suit, making Plaintiffs' chill traceable to and redressable against Defendants." 
 
@@ -200,9 +200,6 @@ There was no diversity of citizenship and it is not and cannot be suggested that
 
 The application of this rule to the case at bar is decisive against the jurisdiction of the Circuit Court.
 
-
-*** 
-
 <div class="comment">
 
 #### Note on _Mottley_
@@ -239,9 +236,9 @@ Five years later, Grable brought a quiet title action in state court,[^Grable2] 
 
   {-} "A quiet title action is a special legal proceeding to determine ownership of real property.  A party with a claim of ownership to land can file an action to quiet title, which serves as a sort of lawsuit against anyone and everyone else who has a claim to the land.  If the owner prevails in the quiet title action, no further challenges to the title can be brought." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quiet_title_action).
 
-Darue removed the case to Federal District Court as presenting a federal question, because the claim of title depended on the interpretation of the notice statute in the federal tax law. The District Court declined to remand the case at Grable's behest after finding that the "claim does pose a 'significant question of federal law," and ruling that Grable's lack of a federal right of action to enforce its claim against Darue did not bar the exercise of federal jurisdiction. On the merits, the court granted summary judgment to Darue, holding that although § 6335 by its terms required personal service, substantial compliance with the statute was enough.
+Darue removed the case to Federal District Court as presenting a federal question, because the claim of title depended on the interpretation of the notice statute in the federal tax law. The District Court declined to remand the case at Grable's behest after finding that the "claim does pose a significant question of federal law," and ruling that Grable's lack of a federal right of action to enforce its claim against Darue did not bar the exercise of federal jurisdiction. On the merits, the court granted summary judgment to Darue, holding that although § 6335 by its terms required personal service, substantial compliance with the statute was enough.
 
-The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether [_Merrell Dow Pharmaceuticals Inc. v. Thompson_](https://scholar.google.com/scholar_case?case=7074576791413054261), 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction.We now affirm.
+The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether [_Merrell Dow Pharmaceuticals Inc. v. Thompson_](https://scholar.google.com/scholar_case?case=7074576791413054261), 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction. We now affirm.
 
 <p class="case-h1">II</p>
 
@@ -269,13 +266,11 @@ This case warrants federal jurisdiction. Grable's state complaint must specify "
 
 _Merrell Dow Pharmaceuticals Inc. v. Thompson_, 478 U. S. 804 (1986), on which Grable rests its position, is not to the contrary. _Merrell Dow_ considered a state tort claim resting in part on the allegation that the defendant drug company had violated a federal misbranding prohibition, and was thus presumptively negligent under Ohio law. The Court assumed that federal law would have to be applied to resolve the claim, but after closely examining the strength of the federal interest at stake and the implications of opening the federal forum, held federal jurisdiction unavailable. Congress had not provided a private federal cause of action for violation of the federal branding requirement, and the Court found "it would flout, or at least undermine, congressional intent to conclude that federal courts might nevertheless exercise federal-question jurisdiction and provide remedies for violations of that federal statute solely because the violation is said to be a 'proximate cause' under state law."
 
-Because federal law provides for no quiet title action that could be brought against Darue, Grable argues that there can be no federal jurisdiction here, stressing some broad language in _Merrell Dow_ that on its face supports Grable's position. But an opinion is to be read as a whole, and _Merrell Dow_ cannot be read whole as overturning decades of precedent, as it would have done by effectively adopting the Holmes dissent in _Smith, and converting a federal cause of action from a sufficient condition for federal-question jurisdiction into a necessary one.
+Because federal law provides for no quiet title action that could be brought against Darue, Grable argues that there can be no federal jurisdiction here, stressing some broad language in _Merrell Dow_ that on its face supports Grable's position. But an opinion is to be read as a whole, and _Merrell Dow_ cannot be read whole as overturning decades of precedent, as it would have done by effectively adopting the Holmes dissent in _Smith_, and converting a federal cause of action from a sufficient condition for federal-question jurisdiction into a necessary one.
 
 Accordingly, _Merrell Dow_ should be read in its entirety as treating the absence of a federal private right of action as evidence relevant to, but not dispositive of, the "sensitive judgments about congressional intent" that § 1331 requires. The absence of any federal cause of action affected _Merrell Dow's_ result two ways. The Court saw the fact as worth some consideration in the assessment of substantiality. But its primary importance emerged when the Court treated the combination of no federal cause of action and no preemption of state remedies for misbranding as an important clue to Congress's conception of the scope of jurisdiction to be exercised under § 1331. The Court saw the missing cause of action not as a missing federal door key, always required, but as a missing welcome mat, required in the circumstances, when exercising federal jurisdiction over a state misbranding action would have attracted a horde of original filings and removal cases raising other state claims with embedded federal issues. For if the federal labeling standard without a federal cause of action could get a state claim into federal court, so could any other federal standard without a federal cause of action. And that would have meant a tremendous number of cases.
 
 As already indicated, however, a comparable analysis yields a different jurisdictional conclusion in this case. Although Congress also indicated ambivalence in this case by providing no private right of action to Grable, it is the rare state quiet title action that involves contested issues of federal law. Consequently, jurisdiction over actions like Grable's would not materially affect, or threaten to affect, the normal currents of litigation. Given the absence of threatening structural consequences and the clear interest the Government, its buyers, and its delinquents have in the availability of a federal forum, there is no good reason to shirk from federal jurisdiction over the dispositive and contested federal issue at the heart of the state-law title claim.
-
-***
 
 <div class="comment">
 
@@ -285,7 +280,7 @@ In _Grable_, the Supreme Court sought to clarify when a state-law claim with an 
 
 But the _Grable_ standard is an exception to the Holmes "creation test". Even though state law creates the plaintiff's cause of action (which, for Holmes, would mean the claim did not "arise under" federal law), the presence of a federal issue as an element of the claim may nonetheless confer federal jurisdiction under §1331.
 
-<p class="case-h1">Rule</p>
+##### Rule
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
 
@@ -293,15 +288,15 @@ A state-law claim raises a federal question, sufficient to confer jurisdiction u
 2. The federal issue is _actually disputed,_ and
 3. There is a _substantial federal interest_ at stake.
 
-_Essential Federal Issue_
+###### Essential Federal Issue
 
 The federal issue is "essential" where the plaintiff's "right to relief depends upon the construction or application of the Constitution or laws of the United States." _Smith v. Kansas City Title & Trust Co._ (US 1921). This requirement will generally be satisfied where the plaintiff relies on federal law to establish a right, interest, or duty at issue in the case.
 
-_Federal Issue Is Actually Disputed_
+###### Federal Issue Is Actually Disputed
 
 If there is no dispute between the parties over the federal issue as it arises in the case, there is no need for the court to resolve the issue and thus no reason to confer federal subject matter jurisdiction based on that issue.
 
-_Substantial Federal Interest_
+###### Substantial Federal Interest
 
 In assessing whether there is a "substantial federal interest", the Supreme Court has considered these factors:
 
@@ -309,9 +304,9 @@ In assessing whether there is a "substantial federal interest", the Supreme Cour
 2. Whether allowing a federal forum for private litigants would undermine a federal statutory enforcement scheme
 3. Whether providing a federal forum would upset the balance between the state and federal judicial systems
 
-<p class="case-h1">Illustrations</p>
+##### Illustrations
 
-<p class="case-h2">Federal Issue</p>
+###### Federal Issue
 
 _Essential: Grable_
 
@@ -321,7 +316,7 @@ _Essential: Grable_
   - Grable argued that failure to satisfy the federal statutory notice requirement rendered the sale of the property to Darue invalid.
   - Darue argued that, since Grable received actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, Darue's purchase of the property was valid.
 - Grable's right to relief thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void). And this issue was actually in dispute between the parties.
-- The real focus of the suit was Grable's right under federal law not to have it's property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
+- The real focus of the suit was Grable's right under federal law not to have its property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
 
 _Not Essential: Merrell Dow_
 
@@ -340,7 +335,7 @@ _Not Essential: Gunn v. Minton_
 - As in Merrell Dow, the suit wasn't really about Minton's rights under federal law.
   - The patent law issue arose only as a benchmark for establishing whether Gunn suffered an injury as a result of negligent legal representation.
 
-<p class="case-h2">Federal Interest</p>
+###### Federal Interest
 
 _Substantial: Grable_
 
@@ -468,9 +463,6 @@ The court also found that "the fact that she was registered to vote in Californi
 Applying the facts of the present case to the controlling principles of law, the court finds that Plaintiff was domiciled in North Carolina both at the time the lawsuit was instituted and at the time Defendant removed the case to this court.
 
 Therefore, absent complete diversity of citizenship between Plaintiff and Defendants, the court is without jurisdiction and must dismiss the case.
-
-
-***
 
 <div class="comment">
 
@@ -811,8 +803,6 @@ In _Williams,_ the court offered a rationale for the continuing applicability of
 Even if the Court could exercise supplemental jurisdiction over a permissive counterclaim, the Court may decline to do so under certain circumstances. 28 U.S.C. § 1367(c). Among those circumstances are where the "claim substantially predominates over the claims over which the court has original jurisdiction" and where, "in exceptional circumstances, there are other compelling reasons for declining jurisdiction." Here, the more fact-intensive breach of contract counterclaim, which may involve analysis of whether Exeter following state law requirements for repossession and resale, is likely to substantially predominate over the TCPA claim centered on whether Ginwright consented to receive telephone calls from Exeter on his cellular phone.
 
 Moreover, public policy concerns support declining jurisdiction. Federal consumer protection statutes seek to protect consumers from unscrupulous practices "regardless of whether a valid debt actually exists." In the context of TILA, the Fourth Circuit has cautioned that "to let the lender use the federal proceedings as an opportunity to pursue private claims against the borrower would impede expeditious enforcement of the federal penalty and involve the district courts in debt collection matters having no federal significance." This same concern applies here. Accordingly, having concluded that Exeter's counterclaim would substantially predominate over the TCPA claim, the Court, even if authorized to exercise supplemental jurisdiction over that counterclaim, would decline to do so.
-
-*** 
 
 <div class="comment">
 
