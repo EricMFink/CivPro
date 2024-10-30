@@ -6,7 +6,6 @@ title: Personal Jurisdiction
 # Personal Jurisdiction
 
 ## Constitutional Limits: Due Process 
-
 <div class="legal-code">
 
 #### U.S. Constitution 
