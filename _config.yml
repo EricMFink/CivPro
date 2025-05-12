@@ -17,12 +17,16 @@ author:
   web: emfink.net/ElonLaw
 
 ta:
-  name: John Bailey
-  email: jbailey34@elon.edu
+  name: Davi Thornton
+  email: dthornton2@elon.edu
+
+ta2:
+  name: NAME
+  email: EMAIL@elon.edu
 
 course:
   subject: Civil Procedure 
-  term: Fall 2024
+  term: Fall 2025
   room: Room 207 
   meets: "Monday, Wednesday, & Friday 1:30–3:15 pm"
   repository: CivPro
