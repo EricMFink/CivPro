@@ -1,5 +1,5 @@
 ---
-date: Fall 2024
+date: Fall 2025
 layout: syllabus
 title: Syllabus
 permalink: /syllabus/
@@ -11,11 +11,13 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-term: 'Fall 2024'
+term: 'Fall 2025'
 days: 'Monday, Wednesday, & Friday 1:30–3:15 pm'
 room: 'Room 207'
-ta: John Bailey
-ta-email: jbailey34@elon.edu
+ta: Davi Thornton 
+ta-email: dthornton2@elon.edu
+ta2: TA Name 
+ta2-email: name@elon.edu
 
 syllabus: true
 
@@ -33,26 +35,28 @@ In this course, you will learn about the procedures for civil suits. Topics to b
 
 This course is intended to prepare you for legal practice by developing the knowledge and skill required to recognize and analyze procedural issues in civil litigation, advise clients on those issues and the available options, and draft pleadings and motions.
 
-## Required Materials
+## Course Materials
 
 ### Required
 
-_Casebook:_ [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.3.0 2024). Available on the course website: [emfink.net/CivPro]({{ site.baseurl }}).
+[Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.4.0 2025). Available on the course website: [emfink.net/CivPro]({{ site.baseurl }}).
+
+[Click & Learn Civil Procedure](https://cap-press.com/books/isbn/9781611633849/Click-and-Learn-Civil-Procedure) (Carolina Academic Press).
 
 ### Suggested
 
-_Hornbook:_ Kevin M. Clermont, _Principles of Civil Procedure_ (6th ed. 2021). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). 
+Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 6th ed. 2021). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). This hornbook provides concise overviews of the topics covered in the course. 
 
-_Study Aid:_ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (9th ed.) or _The Glannon Guide to Civil Procedure_ (5th ed.). 
+Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.) or _The Glannon Guide to Civil Procedure_ (Aspen 5th ed.). These are two popular study aids for Civil Procedure, presenting similar content in different formats. 
 
 ## Policies
 
 ### Grading
 
-Your final grade for the term will be based on two interim quizzes (10% each) and a final exam (80%):
+Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- There will be two quizzes (open-book/open-notes), consisting of multiple-choice questions. You will take the quizzes online outside of class, during the dates indicated in the course schedule. The quizzes are intended to help you assess your understanding of the material and identify topics for further review.
-- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (Dec. 2-9; date & time TBA). 
+- You will complete the assigned Click & Learn lessons outside of class; you may do so at your own pace, as long as you complete all of the assigned lessons before the date of the Final Exam. These are intended to help you review & assess your understanding of the topics covered. You may redo them as many times as you like, and your grade will be based on your highest scores for each assigned lesson. 
+- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). 
 
 ### Attendance
 
@@ -62,7 +66,7 @@ Elon Law School has adopted the following attendance policy for all courses:
 >  
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation. 
+You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation.
 
 ### Disability Accommodations
 
@@ -72,15 +76,14 @@ For disability accommodation requests, contact Monica Isbell, [misbell@elon.edu]
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations.
 
-\pagebreak
-
 ## Schedule & Assignments
 
  Date | Topic  | Assignment
 --|---|--
  &nbsp; |  | 
- &nbsp; | <strong>1: Introduction</strong> | Clermont, Chapter 1
+ &nbsp; | <strong>1: Introduction</strong> | Clermont, Chapter 1[^clermont1]
  September 4 | The Judicial System and the Litigation Process | Casebook, Chapter 1
+ &nbsp; | Intro Review |  Click & Learn
  &nbsp; |  | 
  &nbsp;| <strong>2: Parties and Claims</strong> | Clermont, Chapter 6
  September 6 | Permissive Joinder of Claims & Parties | Casebook, Chap. 2, §§ 1.1 & 2.1
@@ -88,11 +91,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  September 11 | Crossclaims | Casebook, Chap. 2, § 1.3 
  September 13| Third-Party Joinder | Casebook, Chap. 2, § 2.2
  September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 2.3, 2.4, & 2.5
+ &nbsp; | Joinder Review |  Click & Learn 
  &nbsp; |  | 
  &nbsp; | <strong>3: Personal Jurisdiction</strong> | Clermont, §§ 4.2, 4.3, 4.4
  September 18 | Due Process and State Power | Casebook, Chap. 3, §§ 1.1 
  September 20 & 23 | Minimum Contacts | Casebook, Chap. 3, § 1.2
  September 25 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
+ &nbsp; | Personal Jurisdiction Review |  Click & Learn 
  &nbsp; |  | 
  &nbsp; | <strong>4: Subject Matter Jurisdiction</strong> | Clermont, § 4.1
  September 27 & 30 | Standing; Federal Question Jurisdiction | Casebook, Chap. 4, §§ 1 & 2
@@ -100,32 +105,34 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  October 9 & 11 | Supplemental Jurisdiction | Casebook, Chap. 4, § 4
  October 14 | Removal | Casebook, Chap. 4, § 5
  &nbsp; |  | 
- October 16 | Review: Joinder, Personal Jurisdiction, & Subject Matter Jurisdiction | 
- &nbsp; |  | 
- October 16-17 | <strong>Quiz 1: Joinder, Personal Jurisdictgion, & Subject Matter Jurisdiction</strong> | 
+ &nbsp; | Subject Matter Jurisdiction Review |  Click & Learn 
  &nbsp; |  | 
  &nbsp; | <strong>5: Choice of Law in Federal Court</strong> | Clermont, Chapter 3
  October 21 & 23 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1.1
  October 25 & 28 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 1.2
+ DATE | Choice of State Law| Casebook, Chap. 5, § 2
+ &nbsp; | Choice of Law Review  |  Click & Learn 
  &nbsp; |  | 
  &nbsp; | <strong>6: Pleading</strong> | Clermont, § 2.2(A)
  October 30 & November 1 | Notice Pleading & Complaints | Casebook, Chap. 6, §§ 1 & 2
  November 4 | Answers and Defenses | Casebook, Chap. 6, § 3
  November 6 | Amendments | Casebook, Chap. 6, § 4
  November 8 | Truthfulness and Good Faith | Casebook, Chap. 6, § 5
+ &nbsp; | Pleadings Review |  Click & Learn 
  &nbsp; |  | 
  &nbsp; | <strong>7: Preclusion</strong> | Clermont, Chapter 5
  November 11 & 13 | Claim Preclusion | Casebook, Chap. 7, §§ 1 & 2
  November 15 & 18 | Issue Preclusion | Casebook, Chap. 7, § 3
+ &nbsp; | Preclusion Review |  Click & Learn 
  &nbsp; |  | 
  &nbsp; | <strong>8: Summary Judgment</strong> | Clermont, § 2.2(B), (C), & (E)(2)
  November 20 & 22| Standard & Burden of Production | Casebook, Chap. 8
  &nbsp; |  | 
- November 25 | Review: Choice of Law, Pleading, Preclusion, & Summary Judgment | 
- &nbsp; |  | 
- November 25-26 | <strong>Quiz 2: Choice of Law, Pleading, Preclusion, & Summary Judgment</strong> | 
+ &nbsp; | Summary Judgment Review |  Click & Learn 
  &nbsp; |  | 
  TBD | <strong>Final Review</strong> | &nbsp;
  TBD | <strong>Final Exam</strong> | &nbsp;
 
 _Note: This class will not meet on October 4 and 18_
+
+[^clermont1]: Relevant sections from the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 

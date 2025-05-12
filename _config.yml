@@ -21,8 +21,8 @@ ta:
   email: dthornton2@elon.edu
 
 ta2:
-  name: NAME
-  email: EMAIL@elon.edu
+  name: TA Name
+  email: name@elon.edu
 
 course:
   subject: Civil Procedure 
