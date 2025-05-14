@@ -81,11 +81,11 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  Date | Topic  | Assignment
 --|---|--
  &nbsp; |  | 
- &nbsp; | <strong>1: Introduction</strong> | Clermont, Chapter 1[^clermont1]
+ &nbsp; | <b>1: Introduction</b> | Clermont, Chapter 1
  September 4 | The Judicial System and the Litigation Process | Casebook, Chapter 1
  &nbsp; | Intro Review |  Click & Learn
  &nbsp; |  | 
- &nbsp;| <strong>2: Parties and Claims</strong> | Clermont, Chapter 6
+ &nbsp;| <b>2: Parties and Claims</b> | Clermont, Chapter 6
  September 6 | Permissive Joinder of Claims & Parties | Casebook, Chap. 2, §§ 1.1 & 2.1
  September 9  | Counterclaims | Casebook, Chap. 2, § 1.2 
  September 11 | Crossclaims | Casebook, Chap. 2, § 1.3 
@@ -93,13 +93,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 2.3, 2.4, & 2.5
  &nbsp; | Joinder Review |  Click & Learn 
  &nbsp; |  | 
- &nbsp; | <strong>3: Personal Jurisdiction</strong> | Clermont, §§ 4.2, 4.3, 4.4
+ &nbsp; | <b>3: Personal Jurisdiction</b> | Clermont, §§ 4.2, 4.3, 4.4
  September 18 | Due Process and State Power | Casebook, Chap. 3, §§ 1.1 
  September 20 & 23 | Minimum Contacts | Casebook, Chap. 3, § 1.2
  September 25 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
  &nbsp; | Personal Jurisdiction Review |  Click & Learn 
  &nbsp; |  | 
- &nbsp; | <strong>4: Subject Matter Jurisdiction</strong> | Clermont, § 4.1
+ &nbsp; | <b>4: Subject Matter Jurisdiction</b> | Clermont, § 4.1
  September 27 & 30 | Standing; Federal Question Jurisdiction | Casebook, Chap. 4, §§ 1 & 2
  October 2 & 7 | Diversity Jurisdiction | Casebook, Chap. 4, § 3
  October 9 & 11 | Supplemental Jurisdiction | Casebook, Chap. 4, § 4
@@ -107,32 +107,30 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  &nbsp; |  | 
  &nbsp; | Subject Matter Jurisdiction Review |  Click & Learn 
  &nbsp; |  | 
- &nbsp; | <strong>5: Choice of Law in Federal Court</strong> | Clermont, Chapter 3
+ &nbsp; | <b>5: Choice of Law in Federal Court</b> | Clermont, Chapter 3
  October 21 & 23 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1.1
  October 25 & 28 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 1.2
  DATE | Choice of State Law| Casebook, Chap. 5, § 2
  &nbsp; | Choice of Law Review  |  Click & Learn 
  &nbsp; |  | 
- &nbsp; | <strong>6: Pleading</strong> | Clermont, § 2.2(A)
+ &nbsp; | <b>6: Pleading</b> | Clermont, § 2.2(A)
  October 30 & November 1 | Notice Pleading & Complaints | Casebook, Chap. 6, §§ 1 & 2
  November 4 | Answers and Defenses | Casebook, Chap. 6, § 3
  November 6 | Amendments | Casebook, Chap. 6, § 4
  November 8 | Truthfulness and Good Faith | Casebook, Chap. 6, § 5
  &nbsp; | Pleadings Review |  Click & Learn 
  &nbsp; |  | 
- &nbsp; | <strong>7: Preclusion</strong> | Clermont, Chapter 5
+ &nbsp; | <b>7: Preclusion</b> | Clermont, Chapter 5
  November 11 & 13 | Claim Preclusion | Casebook, Chap. 7, §§ 1 & 2
  November 15 & 18 | Issue Preclusion | Casebook, Chap. 7, § 3
  &nbsp; | Preclusion Review |  Click & Learn 
  &nbsp; |  | 
- &nbsp; | <strong>8: Summary Judgment</strong> | Clermont, § 2.2(B), (C), & (E)(2)
+ &nbsp; | <b>8: Summary Judgment</b> | Clermont, § 2.2(B), (C), & (E)(2)
  November 20 & 22| Standard & Burden of Production | Casebook, Chap. 8
  &nbsp; |  | 
  &nbsp; | Summary Judgment Review |  Click & Learn 
  &nbsp; |  | 
- TBD | <strong>Final Review</strong> | &nbsp;
- TBD | <strong>Final Exam</strong> | &nbsp;
+ TBD | <b>Final Review</b> | &nbsp;
+ TBD | <b>Final Exam</b> | &nbsp;
 
-_Note: This class will not meet on October 4 and 18_
-
-[^clermont1]: Relevant sections from the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
+**Note:** Relevant sections from the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
