@@ -1,5 +1,4 @@
 ---
-date: Fall 2025
 layout: syllabus
 title: Syllabus
 permalink: /syllabus/
@@ -64,72 +63,80 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 > The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
 >  
-> In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
+> In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the [Office of Student Life](https://www.elon.edu/u/law/students/).
 
 You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation.
 
 ### Disability Accommodations
 
-For disability accommodation requests, contact Monica Isbell, [misbell@elon.edu](mailto:misbell@elon.edu), [Director of Disability Resources](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/).
+For disability accommodation requests, contact the [Elon Disability Services Office](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/homepage/graduate-student-resources/).
 
 ### Honor Code
 
-The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations.
+The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
 ## Schedule & Assignments
 
- Date | Topic  | Assignment
+ **Date** | **Topic**  | **Assignment**
 --|---|--
- &nbsp; |  | 
- &nbsp; | **1: Introduction** | Clermont, Chapter 1
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp; | **1: Introduction** | &nbsp;
+ &nbsp; | Overview | Clermont, Chapter 1
  September 4 | The Judicial System and the Litigation Process | Casebook, Chapter 1
  &nbsp; | Intro Review |  Click & Learn
- &nbsp; |  | 
- &nbsp;| **2: Parties and Claims** | Clermont, Chapter 6
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp;| **2: Parties and Claims** | &nbsp;
+ &nbsp; | Overview | Clermont, Chapter 6
  September 6 | Permissive Joinder of Claims & Parties | Casebook, Chap. 2, §§ 1.1 & 2.1
  September 9  | Counterclaims | Casebook, Chap. 2, § 1.2 
  September 11 | Crossclaims | Casebook, Chap. 2, § 1.3 
  September 13| Third-Party Joinder | Casebook, Chap. 2, § 2.2
  September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 2.3, 2.4, & 2.5
  &nbsp; | Joinder Review |  Click & Learn 
- &nbsp; |  | 
- &nbsp; | **3: Personal Jurisdiction** | Clermont, §§ 4.2, 4.3, 4.4
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp; | **3: Personal Jurisdiction** | &nbsp;
+ &nbsp; | Overview | Clermont, §§ 4.2, 4.3, 4.4
  September 18 | Due Process and State Power | Casebook, Chap. 3, §§ 1.1 
  September 20 & 23 | Minimum Contacts | Casebook, Chap. 3, § 1.2
  September 25 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
  &nbsp; | Personal Jurisdiction Review |  Click & Learn 
- &nbsp; |  | 
- &nbsp; | **4: Subject Matter Jurisdiction** | Clermont, § 4.1
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp; | **4: Subject Matter Jurisdiction** | &nbsp;
+ &nbsp; | Overview | Clermont, § 4.1
  September 27 & 30 | Standing; Federal Question Jurisdiction | Casebook, Chap. 4, §§ 1 & 2
  October 2 & 7 | Diversity Jurisdiction | Casebook, Chap. 4, § 3
  October 9 & 11 | Supplemental Jurisdiction | Casebook, Chap. 4, § 4
  October 14 | Removal | Casebook, Chap. 4, § 5
- &nbsp; |  | 
  &nbsp; | Subject Matter Jurisdiction Review |  Click & Learn 
- &nbsp; |  | 
- &nbsp; | **5: Choice of Law in Federal Court** | Clermont, Chapter 3
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp; | **5: Choice of Governing Law** | &nbsp;
+ &nbsp; | Overview | Clermont, Chapter 3
  October 21 & 23 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1.1
  October 25 & 28 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 1.2
  DATE | Choice of State Law| Casebook, Chap. 5, § 2
  &nbsp; | Choice of Law Review  |  Click & Learn 
- &nbsp; |  | 
- &nbsp; | **6: Pleading** | Clermont, § 2.2(A)
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp; | **6: Pleading** | &nbsp;
+ &nbsp; | Overview | Clermont, § 2.2(A)
  October 30 & November 1 | Notice Pleading & Complaints | Casebook, Chap. 6, §§ 1 & 2
  November 4 | Answers and Defenses | Casebook, Chap. 6, § 3
  November 6 | Amendments | Casebook, Chap. 6, § 4
  November 8 | Truthfulness and Good Faith | Casebook, Chap. 6, § 5
  &nbsp; | Pleadings Review |  Click & Learn 
- &nbsp; |  | 
- &nbsp; | **7: Preclusion** | Clermont, Chapter 5
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp; | **7: Preclusion** | &nbsp;
+ &nbsp; | Overview | Clermont, Chapter 5
  November 11 & 13 | Claim Preclusion | Casebook, Chap. 7, §§ 1 & 2
  November 15 & 18 | Issue Preclusion | Casebook, Chap. 7, § 3
  &nbsp; | Preclusion Review |  Click & Learn 
- &nbsp; |  | 
- &nbsp; | **8: Summary Judgment** | Clermont, § 2.2(B), (C), & (E)(2)
- November 20 & 22| Standard & Burden of Production | Casebook, Chap. 8
- &nbsp; |  | 
+ &nbsp; | &nbsp; | &nbsp;
+ &nbsp; | **8: Summary Judgment** | &nbsp;
+ &nbsp; | Overview | Clermont, § 2.2(B), (C), & (E)(2)
+ November 20 | Standard | Casebook, Chap. 8, § 1
+ November 20 | Burden of Production | Casebook, Chap. 8, § 2
+ &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Summary Judgment Review |  Click & Learn 
- &nbsp; |  | 
+ &nbsp; | &nbsp; | &nbsp;
  TBD | **Final Review** | &nbsp;
  TBD | **Final Exam** | &nbsp;
 
