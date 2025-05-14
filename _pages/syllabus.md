@@ -16,8 +16,8 @@ days: 'Monday, Wednesday, & Friday 1:30–3:15 pm'
 room: 'Room 207'
 ta: Davi Thornton 
 ta-email: dthornton2@elon.edu
-ta2: TA Name 
-ta2-email: name@elon.edu
+ta2: Kristian Ellis
+ta2-email: kellis12@elon.edu
 
 syllabus: true
 

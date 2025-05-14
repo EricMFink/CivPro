@@ -2,7 +2,7 @@ url: https://www.emfink.net
 baseurl: /CivPro
 title: Civil Procedure
 
-last_updated: 12 May 2025  # leave blank if you don't want to display last updated
+last_updated: 14 May 2025  # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -21,8 +21,8 @@ ta:
   email: dthornton2@elon.edu
 
 ta2:
-  name: TA Name
-  email: name@elon.edu
+  name: Kristian Ellis
+  email: kellis12@elon.edu
 
 course:
   subject: Civil Procedure 
