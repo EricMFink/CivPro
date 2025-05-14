@@ -133,4 +133,4 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  TBD | **Final Review** | &nbsp;
  TBD | **Final Exam** | &nbsp;
 
-**Note:** Relevant sections from the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
+##### **Note:** Relevant sections from the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
