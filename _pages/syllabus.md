@@ -80,7 +80,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
  Date | Topic  | Assignment
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | <b>1: Introduction</b> | &nbsp;
+ &nbsp; | **1: Introduction** | &nbsp;
  &nbsp; | Overview | Clermont, Chapter 1
  September 4 | The Judicial System and the Litigation Process | Casebook, Chapter 1
  &nbsp; | Intro Review |  Click & Learn
