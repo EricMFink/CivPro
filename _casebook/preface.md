@@ -8,6 +8,9 @@ epigraph-source: Bleak House
 
 ---
 
+<p class="page-title">{{ page.title }}</p>
+<p class="page-subtitle">{{ page.subtitle }}</p>
+
 {% include epigraph.html %}
 
 # Preface
