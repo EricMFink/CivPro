@@ -14,7 +14,9 @@ epigraph-source: Bleak House
 
 {% include epigraph.html %}
 
-<h1 class="preface">Preface</h1>
+<div class="preface">
+
+# Preface
 
 This book presents material for use in a first-year law school Civil Procedure course. Topics covered include the scope of a lawsuit (Party & Claim Joinder), selection of an appropriate forum (Personal & Subject Matter Jurisdiction), presentation of claims and defenses (Pleadings), choice of applicable law (the _Erie_ doctrine & the Rules Enabling Act), disposition without a trial (Summary Judgment), and the effect of judgments on future litigation (Claim & Issue Preclusion).
 
@@ -42,6 +44,8 @@ Links to cross-referenced pages or external online material are indicated by red
 <p class="case-h2">PDF Version</p>
 
 A PDF version is available for downloading from the [Table of Contents]({{ site.baseurl }}/casebook) page. The PDF file includes embedded links as described above. 
+
+</div>
 
 <div class="colophon">
 
