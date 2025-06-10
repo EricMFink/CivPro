@@ -14,6 +14,8 @@ epigraph-source: Bleak House
 
 {% include epigraph.html %}
 
+<hr>
+
 <div class="preface">
 
 # Preface
