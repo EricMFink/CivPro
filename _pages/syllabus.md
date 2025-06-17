@@ -40,11 +40,11 @@ This course is intended to prepare you for legal practice by developing the know
 
 [Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.4.0 2025). Available on the course website: [emfink.net/CivPro]({{ site.baseurl }}).
 
-[Click & Learn Civil Procedure](https://cap-press.com/books/isbn/9781611633849/Click-and-Learn-Civil-Procedure) (Carolina Academic Press).
+[Click & Learn Civil Procedure](https://cap-press.com/books/isbn/9781611633849/Click-and-Learn-Civil-Procedure) (Carolina Academic Press). 
 
 ### Suggested
 
-Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 6th ed. 2021). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). This hornbook provides concise overviews of the topics covered in the course. 
+Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). This hornbook provides concise overviews of the topics covered in the course. 
 
 Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.) or _The Glannon Guide to Civil Procedure_ (Aspen 5th ed.). These are two popular study aids for Civil Procedure, presenting similar content in different formats. 
 
@@ -54,8 +54,8 @@ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.)
 
 Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- You will complete the assigned Click & Learn lessons outside of class; you may do so at your own pace, as long as you complete all of the assigned lessons before the date of the Final Exam. These are intended to help you review & assess your understanding of the topics covered. You may redo them as many times as you like, and your grade will be based on your highest scores for each assigned lesson. 
-- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). 
+- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the Click & Learn assignments for each unit of the course. You may complete these at your own pace, as long as you complete them all before the date of the Final Exam. You may redo them as many times as you like; your grade will be based on your highest score for each assigned lesson. 
+- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample essay questions (with model answers) from past years are posted on the [course website](https://www.emfink.net/CivPro/exams/). 
 
 ### Attendance
 
@@ -80,60 +80,56 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
  **Date** | **Topic**  | **Assignment**
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **1: Introduction** | &nbsp;
- &nbsp; | Overview | Clermont, Chapter 1
- September 4 | The Judicial System and the Litigation Process | Casebook, Chapter 1
- &nbsp; | Intro Review |  Click & Learn
+ &nbsp; | **1: Introduction** | Clermont Chaps. 1 & 2
+ September 3 | The Judicial System and the Litigation Process | Casebook Chap. 1
  &nbsp; | &nbsp; | &nbsp;
- &nbsp;| **2: Parties and Claims** | &nbsp;
- &nbsp; | Overview | Clermont, Chapter 6
- September 6 | Permissive Joinder of Claims & Parties | Casebook, Chap. 2, §§ 1.1 & 2.1
- September 9  | Counterclaims | Casebook, Chap. 2, § 1.2 
- September 11 | Crossclaims | Casebook, Chap. 2, § 1.3 
- September 13| Third-Party Joinder | Casebook, Chap. 2, § 2.2
- September 16 | Required Parties, Intervention, & Interpleader | Casebook, Chap. 2, §§ 2.3, 2.4, & 2.5
+ &nbsp;| **2: Parties and Claims** | Clermont Chap. 6
+ September 5 & 7 | Permissive Joinder of Claims & Parties | Casebook Chap. 2, § 1
+ September 10 & 12  | Counterclaims | Casebook Chap. 2, § 2.1
+ September 15 | Crossclaims | Casebook Chap. 2, § 2.2 
+ September 17| Third-Party Defendants | Casebook Chap. 2, § 3.1
+ September 19 & 22 | Required Parties, Interpleader, & Intervention | Casebook Chap. 2, §§ 3.2-3.4
+ &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Joinder Review |  Click & Learn 
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **3: Personal Jurisdiction** | &nbsp;
- &nbsp; | Overview | Clermont, §§ 4.2, 4.3, 4.4
- September 18 | Due Process and State Power | Casebook, Chap. 3, §§ 1.1 
- September 20 & 23 | Minimum Contacts | Casebook, Chap. 3, § 1.2
- September 25 | General Jurisdiction, Consent, & Long-Arm Statutes| Casebook, Chap. 3, §§ 1.3, 1.4, & 2 
+ &nbsp; | **3: Personal Jurisdiction** | Clermont Chap. 4, §§ 4.2-4.4
+ September 26 | Due Process and State Power | Casebook Chap. 3, §§ 1.1 
+ September 29 & October 1 | Minimum Contacts | Casebook Chap. 3, § 1.2
+ October 3 | General Jurisdiction, Consent, & Long-Arm Statutes | Casebook Chap. 3, §§ 1.3, 1.4, & 2 
+ &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Personal Jurisdiction Review |  Click & Learn 
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **4: Subject Matter Jurisdiction** | &nbsp;
- &nbsp; | Overview | Clermont, § 4.1
- September 27 & 30 | Standing; Federal Question Jurisdiction | Casebook, Chap. 4, §§ 1 & 2
- October 2 & 7 | Diversity Jurisdiction | Casebook, Chap. 4, § 3
- October 9 & 11 | Supplemental Jurisdiction | Casebook, Chap. 4, § 4
- October 14 | Removal | Casebook, Chap. 4, § 5
+ &nbsp; | **4: Subject Matter Jurisdiction** | Clermont Chap. 4, § 4.1
+ October 6 | Federal Question Jurisdiction | Casebook Chap. 4, §§ 1 & 2
+ October 8 & 13 | Diversity Jurisdiction | Casebook Chap. 4, § 3
+ October 15 & 17 | Supplemental Jurisdiction | Casebook Chap. 4, § 4
+ October 20 | Removal | Casebook Chap. 4, § 5
+ &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Subject Matter Jurisdiction Review |  Click & Learn 
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **5: Choice of Governing Law** | &nbsp;
- &nbsp; | Overview | Clermont, Chapter 3
- October 21 & 23 | Rules of Decision Act & _Erie_ | Casebook, Chap. 5, § 1.1
- October 25 & 28 | Rules Enabling Act & _Hanna_ | Casebook, Chap. 5, §§ 1.2
- DATE | Choice of State Law| Casebook, Chap. 5, § 2
+ &nbsp; | **5: Choice of Governing Law** | Clermont Chap. 3
+ October 22 & 24 | Rules of Decision Act & _Erie_ | Casebook Chap. 5, § 1.1
+ October 27 & 29 | Rules Enabling Act & _Hanna_ | Casebook Chap. 5, §§ 1.2
+ &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Choice of Law Review  |  Click & Learn 
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **6: Pleading** | &nbsp;
- &nbsp; | Overview | Clermont, § 2.2(A)
- October 30 & November 1 | Notice Pleading & Complaints | Casebook, Chap. 6, §§ 1 & 2
- November 4 | Answers and Defenses | Casebook, Chap. 6, § 3
- November 6 | Amendments | Casebook, Chap. 6, § 4
- November 8 | Truthfulness and Good Faith | Casebook, Chap. 6, § 5
+ &nbsp; | **6: Pleading** | Clermont Chap. 2, § 2.2(A)
+ October 31 & November 3 | Notice Pleading & Complaints | Casebook Chap. 6, §§ 1 & 2
+ November 5 | Answers and Defenses | Casebook Chap. 6, § 3
+ November 7 | Amendments | Casebook Chap. 6, § 4
+ November 10 | Truthfulness and Good Faith | Casebook Chap. 6, § 5
+ &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Pleadings Review |  Click & Learn 
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **7: Preclusion** | &nbsp;
- &nbsp; | Overview | Clermont, Chapter 5
- November 11 & 13 | Claim Preclusion | Casebook, Chap. 7, §§ 1 & 2
- November 15 & 18 | Issue Preclusion | Casebook, Chap. 7, § 3
+ &nbsp; | **7: Preclusion** | Clermont Chap. 5
+ November 12 & 14 | Claim Preclusion | Casebook Chap. 7, §§ 1 & 2
+ November 17 & 19 | Issue Preclusion | Casebook Chap. 7, § 3
+ &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Preclusion Review |  Click & Learn 
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **8: Summary Judgment** | &nbsp;
- &nbsp; | Overview | Clermont, § 2.2(B), (C), & (E)(2)
- November 20 | Standard | Casebook, Chap. 8, § 1
- November 20 | Burden of Production | Casebook, Chap. 8, § 2
+ &nbsp; | **8: Summary Judgment** | Clermont Chap. 2, §§ 2.2(B), (C), & (E)(2)
+ November 21 | Standard | Casebook Chap. 8, § 1
+ November 24 | Burden of Production | Casebook Chap. 8, § 2
  &nbsp; | &nbsp; | &nbsp;
  &nbsp; | Summary Judgment Review |  Click & Learn 
  &nbsp; | &nbsp; | &nbsp;
@@ -141,3 +137,5 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
  TBD | **Final Exam** | &nbsp;
 
 ##### **Note:** Relevant sections from the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
+
+##### This class will not meet on September 24 and October 10. 

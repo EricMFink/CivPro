@@ -1,13 +1,11 @@
 ---
 layout: casebook
-title: Choice of Governing Law 
+title: Choice of Governing Law in Federal Court
 ---
 
-# Choice of Governing Law 
+# Choice of Governing Law in Federal Court
 
-## State or Federal Law in Diversity Cases
-
-### The Rules of Decision Act
+## The Rules of Decision Act
 
 <div class="legal-code">
 
@@ -262,7 +260,7 @@ We think that in the circumstances of this case the federal court should not fol
 
 _Third_. We have discussed the problem upon the assumption that the outcome of the litigation may be substantially affected by whether the issue of immunity is decided by a judge or a jury. But clearly there is not present here the certainty that a different result would follow, or even the strong possibility that this would be the case. There are factors present here which might reduce that possibility. The trial judge in the federal system has powers denied the judges of many States to comment on the weight of evidence and credibility of witnesses, and discretion to grant a new trial if the verdict appears to him to be against the weight of the evidence. We do not think the likelihood of a different result is so strong as to require the federal practice of jury determination of disputed factual issues to yield to the state rule in the interest of uniformity of outcome.
 
-### The Rules Enabling Act
+## The Rules Enabling Act
 
 <div class="legal-code">
 
@@ -461,7 +459,9 @@ Here, the fact that the Minnesota procedural law setting forth how to bring a mo
 Accordingly, the Court will apply the Rule 15 standard in determining whether to grant Plaintiffs' motion to amend to add a claim for punitive damages based on the allegations in the proposed amended complaint.
 
 
-### Erie-Hanna Diagram 
+## Chapter Review 
+
+### Analyzing Choice of Law Under Erie and Hanna
 
 ![Erie-Hanna Analysis]({{ site.baseurl }}/assets/casebook/img/Erie-Hanna.png)
 
