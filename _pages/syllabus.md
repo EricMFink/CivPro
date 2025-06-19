@@ -79,42 +79,42 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
  **Date** | **Topic**  | **Assignment**
 --|---|--
- &nbsp; | **1.** **Introduction** | Clermont Chaps. 1 & 2; Click & Learn 
+ &nbsp; | **1. Introduction** | Clermont Chaps. 1 & 2; Click & Learn 
  September 3 | The Judicial System and the Litigation Process | Casebook Chap. 1
  &nbsp; | &nbsp; | &nbsp;
- &nbsp;| **2.** **Parties and Claims** | Clermont Chap. 6; Click & Learn 
+ &nbsp;| **2. Parties and Claims** | Clermont Chap. 6; Click & Learn 
  September 5 & 7 | Permissive Joinder of Claims & Parties | Casebook Chap. 2, § 1
  September 10 & 12  | Counterclaims | Casebook Chap. 2, § 2.1
  September 15 | Crossclaims | Casebook Chap. 2, § 2.2 
  September 17| Third-Party Defendants | Casebook Chap. 2, § 3.1
  September 19 & 22 | Required Parties, Interpleader, & Intervention | Casebook Chap. 2, §§ 3.2-3.4
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **3.** **Personal Jurisdiction** | Clermont Chap. 4, §§ 4.2-4.4; Click & Learn 
+ &nbsp; | **3. Personal Jurisdiction** | Clermont Chap. 4, §§ 4.2-4.4; Click & Learn 
  September 26 | Due Process and State Power | Casebook Chap. 3, §§ 1.1 
  September 29 & October 1 | Minimum Contacts | Casebook Chap. 3, § 1.2
  October 3 | General Jurisdiction, Consent, & Long-Arm Statutes | Casebook Chap. 3, §§ 1.3, 1.4, & 2 
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **4.** **Subject Matter Jurisdiction** | Clermont Chap. 4, § 4.1; Click & Learn 
+ &nbsp; | **4. Subject Matter Jurisdiction** | Clermont Chap. 4, § 4.1; Click & Learn 
  October 6 | Federal Question Jurisdiction | Casebook Chap. 4, §§ 1 & 2
  October 8 & 13 | Diversity Jurisdiction | Casebook Chap. 4, § 3
  October 15 & 17 | Supplemental Jurisdiction | Casebook Chap. 4, § 4
  October 20 | Removal | Casebook Chap. 4, § 5
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **5.** **Choice of Governing Law** | Clermont Chap. 3; Click & Learn 
+ &nbsp; | **5. Choice of Governing Law** | Clermont Chap. 3; Click & Learn 
  October 22 & 24 | Rules of Decision Act & _Erie_ | Casebook Chap. 5, § 1.1
  October 27 & 29 | Rules Enabling Act & _Hanna_ | Casebook Chap. 5, §§ 1.2
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **6.** **Pleading** | Clermont Chap. 2, § 2.2(A); Click & Learn 
+ &nbsp; | **6. Pleading** | Clermont Chap. 2, § 2.2(A); Click & Learn 
  October 31 & November 3 | Notice Pleading & Complaints | Casebook Chap. 6, §§ 1 & 2
  November 5 | Answers and Defenses | Casebook Chap. 6, § 3
  November 7 | Amendments | Casebook Chap. 6, § 4
  November 10 | Truthfulness and Good Faith | Casebook Chap. 6, § 5
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **7.** **Preclusion** | Clermont Chap. 5; Click & Learn 
+ &nbsp; | **7. Preclusion** | Clermont Chap. 5; Click & Learn 
  November 12 & 14 | Claim Preclusion | Casebook Chap. 7, §§ 1 & 2
  November 17 & 19 | Issue Preclusion | Casebook Chap. 7, § 3
  &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **8.** **Summary Judgment** | Clermont Chap. 2, §§ 2.2(B), (C), & (E)(2); Click & Learn 
+ &nbsp; | **8. Summary Judgment** | Clermont Chap. 2, §§ 2.2(B), (C), & (E)(2); Click & Learn 
  November 21 | Standard | Casebook Chap. 8, § 1
  November 24 | Burden of Production | Casebook Chap. 8, § 2
  &nbsp; | &nbsp; | &nbsp;
@@ -124,5 +124,4 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 ##### Notes: 
 
 - Relevant sections from the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to get an overview before reading the Casebook assignments. 
-- Click & Learn assignments are listed with their corresponding course units. 
 - This class will not meet on September 24 and October 10. 
