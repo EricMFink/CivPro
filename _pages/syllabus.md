@@ -197,8 +197,8 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 | TBD           | Final Exam                         |                         |
 +---------------+------------------------------------+-------------------------+
 
-##### Notes: 
+##### Readings from the Clermont hornbook are optional, but you may find them helpful to get an overview of the topics covered. 
 
-- Readings from the Clermont hornbook are optional, but you may find them helpful to get an overview of the topics covered. 
-- Click & Learn will display a Due Date for the required lessons in each Unit. These will count toward your final grade. Click & Learn lessons with no due date indicated are not required. 
-- This class will not meet on Sept. 24 and Oct. 10. 
+##### Click & Learn will display a Due Date for the required lessons in each Unit. These will count toward your final grade. Click & Learn lessons with no due date indicated are not required. 
+
+##### This class will not meet on Sept. 24 and Oct. 10. 
