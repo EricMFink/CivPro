@@ -754,6 +754,200 @@ Based on the foregoing, FedEx's Motion will be denied. An appropriate Order will
 
 [^sullivan-blake1]: (n.1 in opinion)} FedEx also contends that Plaintiffs cannot obtain complete relief without the joinder of the Service Providers because if Plaintiffs cannot prove that FedEx is their joint employer, their FLSA claims against the Service Providers would likely be time barred. This contention is irrelevant to the Court's analysis, however, because the focal point of the inquiry under Rule 19(a)(1)(A) is whether the Court can accord complete relief if Plaintiffs prevail in *this* litigation. Similarly, FedEx's assertion that the Court cannot accord complete relief to FedEx because the indemnification agreements between itself and the Service Providers may lead to future litigation does not compel joinder. Whether the Court can accord complete relief "is determined on the basis of those persons who are already parties, and not as between a party and the absent person whose joinder is sought."
 
+### Interpleader
+
+<div class="legal-code">
+
+#### Fed. R. Civ. P. Rule 22 {#rule22}
+
+(a) Grounds.
+
+> (1) By a Plaintiff. Persons with claims that may expose a plaintiff to double or multiple liability may be joined as defendants and required to interplead. Joinder for interpleader is proper even though:
+
+> > (A) the claims of the several claimants, or the titles on which their claims depend, lack a common origin or are adverse and independent rather than identical; or
+
+> > (B) the plaintiff denies liability in whole or in part to any or all of the claimants.
+
+> (2) By a Defendant. A defendant exposed to similar liability may seek interpleader through a crossclaim or counterclaim.
+
+(b) Relation to Other Rules and Statutes. This rule supplements---and does not limit---the joinder of parties allowed by Rule 20. The remedy this rule provides is in addition to---and does not supersede or limit---the remedy provided by 28 U.S.C. §§1335, 1397, and 2361. An action under those statutes must be conducted under these rules.
+
+</div>
+
+<div class="legal-code">
+
+#### 28 U.S.C. § 1335
+
+(a) The district courts shall have original jurisdiction of any civil action of interpleader or in the nature of interpleader filed by any person, firm, or corporation, association, or society having in his or its custody or possession money or property of the value of $500 or more, or having issued a note, bond, certificate, policy of insurance, or other instrument of value or amount of $500 or more, or providing for the delivery or payment or the loan of money or property of such amount or value, or being under any obligation written or unwritten to the amount of $500 or more, if
+
+> (1) Two or more adverse claimants, of diverse citizenship as defined in subsection (a) or (d) of section 1332 of this title, are claiming or may claim to be entitled to such money or property, or to any one or more of the benefits arising by virtue of any note, bond, certificate, policy or other instrument, or arising by virtue of any such obligation; and if (2) the plaintiff has deposited such money or property or has paid the amount of or the loan or other value of such instrument or the amount due under such obligation into the registry of the court, there to abide the judgment of the court, or has given bond payable to the clerk of the court in such amount and with such surety as the court or judge may deem proper, conditioned upon the compliance by the plaintiff with the future order or judgment of the court with respect to the subject matter of the controversy.
+
+(b) Such an action may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.
+
+</div>
+
+<div class="comment">
+
+#### Rule and Statutory Interpleader
+
+Rule 22 and 28 U.S.C. § 1335 provide two alternate ways of bringing an interpleader suit. Both involve the same type of dispute, where one party (the interpleader plaintiff) has possession of money or property in which two or more other parties (the interpleader defendants) assert adverse claims of ownership or other legal interest.
+
+But there are some procedural differences between rule interpleader and statutory interpleader (see Fig. 2.3). An interpleader plaintiff may proceed under either Rule 22 or § 1335, provided they meet the applicable jurisdictional and other requirements.
+
+<table>
+<tbody>
+<tr>
+<th style="width:20%" coli="1" rowspan="1"></th>
+<th style="width:40%" coli="1" rowspan="1">Rule 22</th>
+<th style="width:40%" coli="1" rowspan="1">28 U.S.C. § 1335</th>
+</tr>
+<tr>
+<td coli="1" rowspan="1">Diversity Jurisdiction</td>
+<td coli="1" rowspan="1">Normal standard 
+<ul>
+<li>Complete diversity between plaintiff (stakeholder) and defendants (claimants);</li>
+<li>Sum or value greater than $75,000</li>
+</ul>
+</td>
+<td coli="1" rowspan="1">Relaxed standard 
+<ul>
+<li>Minimal diversity among defendants (claimants);</li>
+<li>plaintiff’s citizenship doesn’t matterSum or value of $500 or more</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td coli="1" rowspan="1">Personal Jurisdiction</td>
+<td coli="1" rowspan="1">Normal standard 
+<ul>
+<li>Minimum contacts with forum state</li>
+</ul>
+</td>
+<td coli="1" rowspan="1">Relaxed standard 
+<ul>
+<li>Minimum contacts with the U.S.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td coli="1" rowspan="1">Service of Process</td>
+<td coli="1" rowspan="1">Normal standard under Rule 4(k)</td>
+<td coli="1" rowspan="1">Relaxed standard under 28 U.S.C. § 2361
+<ul>
+<li>Nationwide service authorized</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td coli="1" rowspan="1">Venue</td>
+<td coli="1" rowspan="1">Normal standard under 28 U.S.C. § 1391</td>
+<td coli="1" rowspan="1">Relaxed standard under 28 U.S.C. § 1397
+<ul>
+<li>Any judicial district where any claimant resides</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td coli="1" rowspan="1">Deposit Funds or Property with the Court</td>
+<td coli="1" rowspan="1">Not required</td>
+<td coli="1" rowspan="1">Required</td>
+</tr>
+<tr>
+<td coli="1" rowspan="1">Enjoining Other Actions Affecting Funds or Property</td>
+<td coli="1" rowspan="1">Subject to restrictions under FRCP Rule 65 &amp; 28 U.S.C. § 2283 (Anti-Injunction Act)</td>
+<td coli="1" rowspan="1">Authorized by 28 U.S.C. § 2361</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+#### Deutsch v. Schoelkopf, No. 3:16-CV-05561-RBL (W.D. Wash. 2016)
+
+<p class="case-h1">LEIGHTON, District Judge</p>
+
+This matter is before the Court on Defendants' Motion to Dismiss Plaintiff Deutsch's Interpleader Action. Deutsch is currently in possession of a valuable sculpture and seeks equitable relief to determine ownership of the artwork. Defendants seek dismissal claiming an Interpleader Action is improper because the complaint fails to name two or more adverse claimants and this Court does not otherwise have jurisdiction.
+
+<p class="case-h1">Background</p>
+
+Deutsch seeks to interplead a sculpture[^Deutsch1]---_Industrial Forms_ (aka _Auto Tower_)---by well known American artist John Storrs. She received the sculpture from the estate of her father who previously owned an art gallery in New York City. The ownership history of sculpture, while somewhat circuitous, is relevant to the motion.
+
+[^Deutsch1]:
+  {-} The sculpture was one of several related pieces by Storrs, two of which are in the [National Gallery of Art](https://www.nga.gov/collection/art-object-page.140328.html). 
+  
+In the late 1970s,[^Deutsch2] John Storrs' estate (represented by his daughter, Monique Storrs Booz) consigned _Industrial Forms_{% marginfigure "auto-tower" "https://www.emfink.net/CivPro/assets/casebook/img/AutoTower.jpg" "_Auto Tower, Industrial Forms_, John Storrs (ca. 1922)" %} to the Robert Schoelkopf Gallery in New York City. The Schoelkopf Gallery maintained a long-term business relationship with the Storrs estate through this period, selling several of the artist's works.
+
+[^Deutsch2]:
+  {-} “late 1970s” appears to be a clerical error. [The Complaint]({{ site.baseurl }}/assets/casebook/Deutsch-complaint.pdf) indicates that the consignment was made in 1969.
+
+In the summer of 1977, the Schoelkopf Gallery sent a letter to Monique Storrs Booz informing her that _Industrial Forms_ had been stolen. Schoelkpf enclosed payment for $2,250, the amount she would have received had the sculpture been sold (list price minus gallery commission). Records submitted to the Smithsonian Archives of American Art for preservation by the Schoelkopf Gallery show _Industrial Forms_ labeled as "stolen." In 1991, Robert Schoelkopf passed away, the Schoelkopf Gallery closed, and Andrew Schoelkopf---Robert's son---assumed control of the Gallery's outstanding art interests.
+
+Deutsch's father owned the Sid Deutsch Gallery in New York City. He passed away in 2006. Deutsch inherited the sculpture from her father's estate and returned to Washington with it. Several years later, Deutsch contacted Valerie Carberry in an attempt to value and sell the sculpture. Carberry is a partner at the Richard Gray Gallery in Chicago that manages art for the Storrs estate. Carberry notified Michelle Storrs Booz, the last remaining heir of the Storrs estate, of Deutsch's sale inquiry. The pair concluded the sculpture went missing from the Schoelkopf Gallery and that Andrew Schoelkopf was the true owner by virtue of Robert's 1977 payment to Monique Storrs Booz.
+
+In October 2015, Carberry wrote a letter to Deutsch on behalf of the Storrs Estate explaining that the sculpture had been previously been stolen and the Storrs Bozz family wished to restore it to the proper owners. Andrew sent Deutsch a letter confirming that Storrs Booz and Carberry agreed that he owns _Industrial Forms,_ and to make arrangements for its retrieval. Deutsch then brought this interpleader against the named defendants to resolve what she claims are competing interests. Deutsch claims she is the rightful owner of _Industrial Forms_ because there is not conclusive proof that it was stolen.
+
+<p class="case-h1">Discussion</p>
+
+<p class="case-h2">A. Standard of Review</p>
+
+Interpleader is a procedure authorized by 28 U.S.C. §§ 1335 and Federal Rule of Civil Procedure 22 that allows a party holding property to join in a single suit two or more defendant-claimants asserting mutually exclusive claims to the property. The main purpose of interpleader is to protect the stakeholder from the expenses of multiple lawsuits and from having to contend with inconsistent or multiple determinations of liability. While rule and statutory interpleader have different requirements for subject matter jurisdiction, venue, process service, invoking either type requires meeting certain criteria.
+
+First, multiple adverse claims or potential adverse claims must be made to that same property. Additionally, the plaintiff stakeholder must have a reasonable fear of multiple liability. The stakeholder is not required to determine the validity of the competing claims or wait to be actually sued by one or more of the claimants. However, the stakeholder must have "a good faith belief that there are or may be colorable competing claims to the stake," based on "a real and reasonable belief."
+
+An interpleader action proceeds in two stages. In the first stage, a court evaluates whether interpleader is proper based on the facts of the case, including determining whether the stakeholder actually faces or could face multiple adverse claims. If interpleader is not properly invoked, the action is dismissed. If (and only if) an interpleader is determined to be proper does a court move to the second stage to determine the merits of the adverse claims.
+
+During the first phase, the party seeking interpleader bears the burden of demonstrating she is or may be subject to adverse claims. Adverse claims or potentially adverse claims exist when at least two defendants lay claim to the property held by the stakeholder. Sustaining an interpleader based on potential claims requires a "real and reasonable belief" that the interpleaded parties could have a colorable claim to the stake.
+
+<p class="case-h2">B. Deutsch has not shown sufficient adverse claims to invoke interpleader.</p>
+
+Deutsch's interpleader action necessarily depends on her claim that all of the named defendants possess adverse claims to the sculpture. But only Andrew Schoelkopf claims any interest in _Industrial Forms_---the other defendants all agree that Andrew is the only legitimate claimant, and each affirmatively renounces any claim. This leaves Andrew as the only _actual_ claimant to the sculpture. Deutsch cannot maintain her interpleader action based on current adverse claims.
+
+Without presently adverse claims to the sculpture, the next issue is whether Deutsch can establish potentially adverse claimants. The potential claimants with a reasonable claim to the sculpture have submitted declarations to this Court. Michelle Storrs Booz, the Schoelkopf family, and Valerie Carberry reflect the parties known to have a potentially colorable claim to the sculpture that could be potentially adverse to Deutsch. Following John Storrs Booz's 2005 death, his sister, Michelle Storrs Booz is the sole John Storrs heir with any remaining interest in the sculpture according to her declaration. She renounced any claim to the sculpture on behalf of her father's estate. Andrew, Jane, and Robert J. Schoelkopf---Robert Schoelkopf's heirs--- all agree that Andrew is the only family member with a claim to the sculpture. Jane and Robert J. explicitly renounce any claim to the sculpture. Additionally, Valerie Carberry, the Chicago-based art dealer from the Richard Gray Gallery, makes no claim to the sculpture.
+
+Michelle Storrs Booz is the sole remaining heir of Storr's artwork. She has renounced any interest in the sculpture, and that precludes any potential future claim from the Storr's family. Similarly, Jane and Robert J.'s disavowal precludes any potential future claim from the Schoelkopfs. Carberry and the Gray Gallery renounce any future claim to the statute. Therefore, Deutsch cannot sustain the interpleader action based on potential adverse claimants.
+
+In an effort to save her interpleader claim in the face of overwhelming evidence that there is only one actual or potential claimant, Deutsch next argues interpleader is proper based on alleged adversity at the time she filed this complaint. Once interpleader jurisdiction has been _properly established_ it will continue even if the original claimants are no longer adverse. As emphasized above, jurisdiction must first be properly established before it will continue in absence of adverse parties. Here, no adverse claims are present at the outset, therefore there is no jurisdiction. Deutsch filed her initial complaint on June 24, 2016. On May 17, 2016, Andrew Schoelkopf notified her in writing that the Storrs estate agreed he was the legitimate owner of the sculpture. At the outset of this action defendants all submitted declarations attesting to the lack of adversity before the court ruled on the existence of interpleader jurisdiction. Therefore, Deutsch cannot maintain her interpleader claim based on perceived adversity at the outset of her claim.
+
+Therefore, defendants' motion is GRANTED and plaintiff's complaint and request for deposit is DISMISSED without prejudice.
+
+#### Meyer v. Anderson, No. 2:19-cv-640-DCN (D.S.C. May 14, 2019)
+
+<p class="case-h1">NORTON, District Judge</p>
+
+<p class="case-h1">I. Background</p>
+
+Defendants formed an attorney-client relationship with Meyer in 2014. Anderson is an attorney who own and operates JAA. Without providing any additional context beyond her relationship with defendants, Meyer generally alleges that defendants "chose to invent, and chose to publicize, false and derogatory information about Meyer, falsely purporting to claim intimate knowledge of Meyer to do so." Defendants allegedly did so without Meyer's permission and "without a proper investigation." Meyer explicitly states that the allegedly false information is not repeated in the complaint, but that defendants' statements containing the false information were made under oath and in public documents. Meyer then alleges that in 2017, she was publicly attacked based on the false information spread by defendants. Meyer does not allege in what way she was publicly attacked or by whom. When Meyer realized that the source of the information was defendants, she alleged asked defendants about their conduct, and defendants denied making any false or derogatory statements about Meyer. Meyer "responded to Anderson's blatant lying by confronting him about having lied to her" and sought more information from him about the statements, but defendants did not respond to Meyer. Meyer alleges that as a result of defendants' spreading false information about her, Meyer was forced to "compromise her cases at a deep discount rather than run the risk of trying her cases" when allegedly defendants had previously believed that Meyer's cases "were each seven figure cases."
+
+Meyer brought claims against defendants for breach of fiduciary duty and professional negligence and against JAA for aiding and abetting breach of fiduciary duty. Meyer also brought an interpleader claim against defendants. Pursuant to the interpleader claim, Meyer filed a motion to deposit funds and restrain defendants.
+
+<p class="case-h1">II. Discussion</p>
+
+<p class="case-h2">A. Motion to Deposit Funds and Restrain Defendants</p>
+
+According to Meyer, defendants are claiming a fee interest in Meyer's personal litigation to which they are not entitled based on the conduct alleged in this case. Meyer's current counsel holds in his trust account the fee to which defendants claim interest, and Meyer wants the court to hold these funds and prevent their distribution to defendants until this case is resolved. As such, Meyer asks the court to enter an order (1) authorizing the clerk of court to accept the contested funds that will be under control of the court pending the court's determination of the parties' rights and obligations pursuant to 28 U.S.C. § 1335, and (2) restraining defendants from instituting any proceeding affecting the funds involved in this suit pursuant to 28 U.S.C. § 2361.
+
+Defendants provide further context to Meyer's request in their response. They explain that when Meyer hired defendants to represent her, the parties entered into a contingency fee agreement. During Meyer's litigation, one of JAA's former attorneys, Gregg Meyers ("Meyers"), left JAA, and Meyer independently retained him as her counsel. Meyers is also Meyer's counsel in this case. Pursuant to Minnesota and South Carolina settlement agreements, defendants and Meyers allegedly agreed to equally split any fees earned during the representation of Meyer. However, Meyer has only paid legal fees to Meyers and not to defendants. Defendants argue that Meyer is simply seeking to avoid paying defendants and is not entitled to her requested interpleader relief because this is not a proper interpleader action. Specifically, they argue that this is not a proper interpleader action because: (1) there is no risk of inconsistent judgments or multiple litigation over the funds; (2) there are not two or more diverse, adverse claimants to the funds; and (3) Meyer is not in control of the funds. Defendants also argue that Meyer is not entitled to the injunctive relief under § 2361 because she has not brought a proper interpleader action.
+
+"Interpleader is a procedural device that allows a disinterested stakeholder to bring a single action joining two or more adverse claimants to a single fund." It "is an equitable remedy designed to protect the stakeholder from multiple, inconsistent judgments and to relieve it of the obligation of determining which claimant is entitled to the fund." Interpleaders are used when multiple parties claim stake in a single fund, and the party in control of the fund asks the court to retain control of the fund while the court determines which party is entitled to the fund.
+
+There are two types of interpleader: statutory and rule-based. A statutory interpleader exists pursuant to 28 U.S.C. § 1335, which provides that:
+
+> (a) The district courts shall have original jurisdiction of any civil action of interpleader or in the nature of interpleader filed by any person, firm, or corporation, association, or society having in his or its custody or possession money or property of the value of $500 or more if
+> 
+> > (1) Two or more adverse claimants, of diverse citizenship as defined in subsection (a) or (d) of section 1332 of this title, are claiming or may claim to be entitled to such money or property; and if (2) the plaintiff has deposited such money or property into the registry of the court, there to abide the judgment of the court, conditioned upon the compliance by the plaintiff with the future order or judgment of the court with respect to the subject matter of the controversy.
+> 
+> (b) Such an action may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.
+
+Rule 22 of the Federal Rules of Civil Procedure also allows interpleader, permitting "persons with claims that may expose a plaintiff to double or multiple liability" to "be joined as defendants and required to interplead." Rule 22 goes on to clarify that "joinder for interpleader is proper even though the claims of several claimants lack common origin or are adverse." Here, Meyer seeks to establish an interpleader action under both § 1335 and Rule 22. The statute and Rule 22 "differ in jurisdictional requirements but not in substance." Therefore, the substantive requirements for interpleader, namely, a risk of multiple or inconsistent judgments and adverse claimants, are the same under § 1335 and Rule 22.
+
+The factual scenario presented in this case is not one that meets the requirements of an interpleader. First, Meyer is not at risk for multiple or inconsistent judgments. The only parties claiming right to Meyer's funds are defendants. The only other party involved in this dispute who could be entitled to the funds is Meyer's current counsel, Meyers, but Meyer clarified that her counsel has no claim to the funds. Therefore, either defendants are entitled to the funds or they are not, leaving no opportunity for multiple or inconsistent judgments. Moreover, there are not multiple, adverse parties that are claiming a right to Meyer's funds. While Meyer has technically named multiple defendants here, Anderson is the owner of JAA. Therefore, Anderson and JAA are not adverse parties.
+
+In addition, a statutory interpleader also requires that the multiple, adverse claimants are diverse. Here, the two named defendants are Anderson and JAA. Even if they were adverse parties, both parties are citizens of Minnesota; therefore, they are not diverse. In conclusion, Meyer has not pleaded a proper interpleader action under § 1335 or Rule 22.
+
+Because Meyer has not properly brought an interpleader action, she is not entitled to an order that restrains defendants from bringing an action related to the funds. In an interpleader action, a district court may "enter its order restraining claimants from instituting or prosecuting any proceeding in any State or United States court affecting the property in the interpleader action until further order of the court." 28 U.S.C. § 2361. Because this action is not a proper interpleader action, the court cannot grant this relief.
+
+In response to defendants' arguments, Meyer only states that "defendants are simply incorrect when they contend there are not competing claims from diverse parties to the funds proposed to be interpleaded, and are properly restrained from initiating competing claims in any other court." Meyer does not substantively argue how she has properly pleaded an interpleader action, nor does she cite to any case law in support of her motion. Meyer briefly mentions that her counsel cannot disburse the fund without her approval, citing to Rule 1.5 of the Rules of Professional Responsibility; however, any ethical obligations belonging to Meyer's counsel play no role in the court's determination of whether Meyer has properly pleaded an interpleader action. Therefore, the court denies Meyer's motion to transfer funds and restrain defendants.
+
 ### Intervention
 
 <div class="legal-code">
