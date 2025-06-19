@@ -77,7 +77,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ## Schedule & Assignments
 
- Date | Topic  | Assignment
+ **Date** | **Topic**  | **Assignment**
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
  &nbsp; | **1: Introduction** | Clermont Chaps. 1 & 2; Click & Learn 
