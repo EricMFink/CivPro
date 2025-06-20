@@ -4,6 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 
 course: Civil Procedure
+repo: CivPro
 author: Eric M. Fink
 affiliation: Elon Law School
 email: efink@elon.edu
@@ -38,7 +39,7 @@ This course is intended to prepare you for legal practice by developing the know
 
 ### Required
 
-[Civil Procedure: An Open-Source Casebook]({{ site.baseurl }}/casebook) (v.4.0 2025). Available on the course website: [emfink.net/CivPro]({{ site.baseurl }}).
+[Civil Procedure: An Open-Source Casebook](https://emfink.net/casebook) (v.4.0 2025). Available on the course website.
 
 [Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 325-138-0701. 
 
