@@ -55,7 +55,7 @@ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.)
 
 Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the Click & Learn assignments for each part of the course. You may complete these at your own pace, as long as you complete them all before the date of the Final Exam. You may redo them as many times as you like  your grade will be based on your highest score for each assigned lesson. 
+- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons within each unit are indicated in Click & Learn by a due date of December 1. Subject to that deadline, you may complete the lessons at your own pace. You may redo them as many times as you like; your grade will be based on your highest score for each lesson. 
 - The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample essay questions (with model answers) from past years are posted on the [course website](https://www.emfink.net/CivPro/exams/). 
 
 ### Attendance
@@ -75,6 +75,8 @@ For disability accommodation requests, contact the [Elon Disability Services Off
 ### Honor Code
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
+
+\newpage 
 
 ## Schedule & Assignments
 
@@ -132,6 +134,6 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 _Note:_ This class will not meet on Sept. 24 and Oct. 10. 
 
-[^clermont1]: Readings from the Clermont hornbook are optional, but you may find them helpful to get an overview of the topics covered. 
+[^clermont1]: Readings from the Clermont hornbook are optional. You may find them helpful to get an overview of the topics covered. 
 
-[^click1]: Click & Learn will display a Due Date for the required lessons in each Unit. These will count toward your final grade. Click & Learn lessons with no due date indicated are not required.
+[^click1]: Required lessons in each Click & Learn unit are indicated by a due date of December 1. Lessons without a due date are not required and will not count toward your final grade. 
