@@ -55,7 +55,7 @@ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.)
 
 Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons within each unit are indicated in Click & Learn by a due date of December 1. Subject to that deadline, you may complete the lessons at your own pace. You may redo them as many times as you like; your grade will be based on your highest score for each lesson. 
+- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each Click & Learn unit are indicated by a due date of December 1.[^syllabus1] Subject to that due date, you may complete the Click & Learn lessons at your own pace and may redo them as many times as you like. Your grade will be based on your highest score for each lesson. 
 - The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample essay questions (with model answers) from past years are posted on the [course website](https://www.emfink.net/CivPro/exams/). 
 
 ### Attendance
@@ -82,8 +82,8 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 | **Date** | **Topic** | **Assignment** |
 | -- | --- | -- |
-|   | **1. Introduction** | Clermont ch. 1 & 2[^clermont1] |
-|   | Click & Learn | Basic Skills & Fundamentals[^click1] | 
+|   | **1. Introduction** | Clermont ch. 1 & 2 |
+|   | Click & Learn | Basic Skills & Fundamentals | 
 | Sept. 3 | The Judicial System & the Litigation Process | Casebook ch. 1 |
 |   |   |   |
 |   | **2. Parties and Claims** | Clermont ch. 6 |
@@ -132,8 +132,9 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 | TBD | Final Review |   |
 | TBD | Final Exam |   |
 
-_Note:_ This class will not meet on Sept. 24 and Oct. 10. 
+##### Notes:
 
-[^clermont1]: Readings from the Clermont hornbook are optional. You may find them helpful to get an overview of the topics covered. 
+- Readings from the Clermont hornbook are optional. You may find them helpful to get an overview of the topics covered. 
+- This class will not meet on Sept. 24 and Oct. 10. 
 
-[^click1]: Required lessons in each Click & Learn unit are indicated by a due date of December 1. Lessons without a due date are not required and will not count toward your final grade. 
+[^syllabus1]: Lessons without a due date are not required and will not count toward your final grade.
