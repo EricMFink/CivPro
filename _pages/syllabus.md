@@ -39,7 +39,7 @@ This course is intended to prepare you for legal practice by developing the know
 
 ### Required
 
-[Civil Procedure: An Open-Source Casebook](https://emfink.net/casebook) (v.4.0 2025). Available on the course website.
+[Civil Procedure: An Open-Source Casebook](https://emfink.net/CivPro/casebook) (v.4.0 2025). Available on the course website.
 
 [Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 325-138-0701. 
 
