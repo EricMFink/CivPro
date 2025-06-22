@@ -55,8 +55,8 @@ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.)
 
 Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each Click & Learn unit are indicated by a due date of December 1.[^syllabus1] Subject to that due date, you may complete the Click & Learn lessons at your own pace and may redo them as many times as you like. Your grade will be based on your highest score for each lesson. 
-- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample essay questions (with model answers) from past years are posted on the [course website](https://www.emfink.net/CivPro/exams/). 
+- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each Click & Learn unit are indicated by a due date of December 1.[^syllabus1] You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by the December 1 due date. Your grade will be based on your highest score for each lesson. 
+- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample questions from past exams are posted on the [course website](https://www.emfink.net/CivPro/exams/). 
 
 ### Attendance
 
