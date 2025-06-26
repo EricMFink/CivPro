@@ -572,7 +572,7 @@ HANWJH availed itself of the Illinois market in offering and shipping a product 
 
 <div class="comment">
 
-#### Note on Specific Jurisdiction in Suits Arising Under Federal Law
+#### Note on Specific Jurisdiction Based on a Federal Statute
 
 The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, 'federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons.'" Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... 'authorized by a federal statute.'"
 
