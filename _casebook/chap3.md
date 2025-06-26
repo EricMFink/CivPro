@@ -554,7 +554,7 @@ HANWJH does not contend in its briefing that this litigation is unrelated to its
 
 HANWJH's listing of its product on Amazon.com and its sale of the product to counsel are certainly related sufficiently to the harm of likelihood of confusion. A vendor violates the Lanham Act when it lists for sale infringing products. It does not matter that counsel for NBA Properties purchased the goods, as actual confusion is not necessary. The likelihood of confusion, the basis for the suit, is sufficiently related to HANWJH's act of selling the infringing product to Illinois, the basis for personal jurisdiction, that due process is not offended.
 
-<p class="case-h3">C. Traditional Notions of Fair Play & Substantial Justice</p>
+<p class="case-h3">C. Traditional Notions of Fair Play & Substantial Justice</h3>
 
 We now examine whether subjecting HANWJH to jurisdiction in Illinois offends our traditional notions of fair play and substantial justice. Once purposeful minimum contacts are established, we look at other factors to determine whether asserting jurisdiction would comport with fair play and substantial justice. Thus, courts may evaluate:
 
@@ -582,23 +582,23 @@ In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organ
 
 **18 U.S. Code § 2334 - Jurisdiction and venue**
 
-(e) Consent of Certain Parties to Personal Jurisdiction.—
-
-> (1) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
-
-> > (A) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
-
-> > > (i) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
-
-> > > (ii) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
-
-> > (B) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
-
-> > > (i) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
-
-> > > (ii) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
-
-> > > (iii) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
+> (e) Consent of Certain Parties to Personal Jurisdiction.—
+> 
+> > (1) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+> 
+> > > (A) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
+> 
+> > > > (i) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
+> 
+> > > > (ii) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
+> 
+> > > (B) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
+> 
+> > > > (i) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
+> 
+> > > > (ii) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
+> 
+> > > > (iii) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
  
 </div>
 
