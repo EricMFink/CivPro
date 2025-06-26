@@ -278,104 +278,6 @@ The conclusion I draw is that constitutional concepts of fairness no longer requ
 
 I confess that I am somewhat puzzled why the plaintiffs in this litigation are so insistent that the regional distributor and the retail dealer, the petitioners here, who handled the ill-fated Audi automobile involved in this litigation, be named defendants. It would appear that the manufacturer and the importer, whose subjectability to Oklahoma jurisdiction is not challenged before this Court, ought not to be judgment-proof. It may, of course, ultimately amount to a contest between insurance companies that, once begun, is not easily brought to a termination. Having made this much of an observation, I pursue it no further.
 
-#### Keeton v. Hustler Magazine, Inc., 465 US 770 (1984) 
-
-<p class="case-h1">Justice REHNQUIST delivered the opinion of the Court.</p>
-
-Petitioner Kathy Keeton sued respondent Hustler Magazine, Inc., and other defendants in the United States District Court for the District of New Hampshire, alleging jurisdiction over her libel complaint by reason of diversity of citizenship. The District Court dismissed her suit because it believed that the Due Process Clause of the Fourteenth Amendment to the United States Constitution forbade the application of New Hampshire's long-arm statute in order to acquire personal jurisdiction over respondent. The Court of Appeals for the First Circuit affirmed, summarizing its concerns with the statement that "the New Hampshire tail is too small to wag so large an out-of-state dog." We granted certiorari, and we now reverse.
-
-Petitioner Keeton is a resident of New York. Her only connection with New Hampshire is the circulation there of copies of a magazine that she assists in producing. The magazine bears petitioner's name in several places crediting her with editorial and other work. Respondent Hustler Magazine, Inc., is an Ohio corporation, with its principal place of business in California. Respondent's contacts with New Hampshire consist of the sale of some 10,000 to 15,000 copies of Hustler Magazine in that State each month. Petitioner claims to have been libeled in five separate issues of respondent's magazine published between September 1975 and May 1976.[^d763465f]
-
-[^d763465f]: (n.1 in opinion) Initially, petitioner brought suit for libel and invasion of privacy in Ohio, where the magazine was published. Her libel claim, however, was dismissed as barred by the Ohio statute of limitations, and her invasion-of-privacy claim was dismissed as barred by the New York statute of limitations, which the Ohio court considered to be 'migratory.' Petitioner then filed the present action in October 1980.
-
-The Court of Appeals, in its opinion affirming the District Court's dismissal of petitioner's complaint, held that petitioner's lack of contacts with New Hampshire rendered the State's interest in redressing the tort of libel to petitioner too attenuated for an assertion of personal jurisdiction over respondent. The Court of Appeals observed that the "single publication rule" ordinarily applicable in multistate libel cases would require it to award petitioner "damages caused in _all_ states" should she prevail in her suit, even though the bulk of petitioner's alleged injuries had been sustained outside New Hampshire. The court also stressed New Hampshire's unusually long (6-year) limitations period for libel actions. New Hampshire was the only State where petitioner's suit would not have been time-barred when it was filed. Under these circumstances, the Court of Appeals concluded that it would be "unfair" to assert jurisdiction over respondent. New Hampshire has a minimal interest in applying its unusual statute of limitations to, and awarding damages for, injuries to a nonresident occurring outside the State, particularly since petitioner suffered such a small proportion of her total claimed injury within the State.
-
-We conclude that the Court of Appeals erred when it affirmed the dismissal of petitioner's suit for lack of personal jurisdiction. Respondent's regular circulation of magazines in the forum State is sufficient to support an assertion of jurisdiction in a libel action based on the contents of the magazine. This is so even if New Hampshire courts would apply the so-called "single publication rule" to enable petitioner to recover in the New Hampshire action her damages from "publications" of the alleged libel throughout the United States.
-
-The District Court found that "the general course of conduct in circulating magazines throughout the state was purposefully directed at New Hampshire, and inevitably affected persons in the state." Such regular monthly sales of thousands of magazines cannot by any stretch of the imagination be characterized as random, isolated, or fortuitous. It is, therefore, unquestionable that New Hampshire jurisdiction over a complaint based on those contacts would ordinarily satisfy the requirement of the Due Process Clause that a State's assertion of personal jurisdiction over a nonresident defendant be predicated on "minimum contacts" between the defendant and the State. And, as the Court of Appeals acknowledged, New Hampshire has adopted a "long-arm" statute authorizing service of process on nonresident corporations whenever permitted by the Due Process Clause. Thus, all the requisites for personal jurisdiction over Hustler Magazine, Inc., in New Hampshire are present.
-
-We think that the three concerns advanced by the Court of Appeals, whether considered singly or together, are not sufficiently weighty to merit a different result. The "single publication rule," New Hampshire's unusually long statute of limitations, and plaintiff's lack of contacts with the forum State do not defeat jurisdiction otherwise proper under both New Hampshire law and the Due Process Clause.
-
-In judging minimum contacts, a court properly focuses on "the relationship among the defendant, the forum, and the litigation." Thus, it is certainly relevant to the jurisdictional inquiry that petitioner is _seeking_ to recover damages suffered in all States in this one suit. The contacts between respondent and the forum must be judged in the light of that claim, rather than a claim only for damages sustained in New Hampshire. That is, the contacts between respondent and New Hampshire must be such that it is "fair" to compel respondent to defend a multistate lawsuit in New Hampshire seeking nationwide damages for all copies of the five issues in question, even though only a small portion of those copies were distributed in New Hampshire.
-
-The Court of Appeals expressed the view that New Hampshire's "interest" in asserting jurisdiction over plaintiff's multistate claim was minimal. We agree that the "fairness" of haling respondent into a New Hampshire court depends to some extent on whether respondent's activities relating to New Hampshire are such as to give that State a legitimate interest in holding respondent answerable on a claim related to those activities. But insofar as the State's "interest" in adjudicating the dispute is a part of the Fourteenth Amendment due process equation, as a surrogate for some of the factors already mentioned, we think the interest is sufficient.
-
-The Court of Appeals acknowledged that petitioner was suing, at least in part, for damages suffered in New Hampshire. And it is beyond dispute that New Hampshire has a significant interest in redressing injuries that actually occur within the State.
-
-This interest extends to libel actions brought by nonresidents. False statements of fact harm both the subject of the falsehood _and_ the readers of the statement. New Hampshire may rightly employ its libel laws to discourage the deception of its citizens.
-
-New Hampshire may also extend its concern to the injury that in-state libel causes within New Hampshire to a nonresident. The tort of libel is generally held to occur wherever the offending material is circulated. The reputation of the libel victim may suffer harm even in a State in which he has hitherto been anonymous. The communication of the libel may create a negative reputation among the residents of a jurisdiction where the plaintiff's previous reputation was, however small, at least unblemished.
-
-New Hampshire has clearly expressed its interest in protecting such persons from libel, as well as in safeguarding its populace from falsehoods. Its criminal defamation statute bears no restriction to libels of which residents are the victim. Moreover, in 1971 New Hampshire specifically deleted from its long-arm statute the requirement that a tort be committed "against a resident of New Hampshire."
-
-New Hampshire also has a substantial interest in cooperating with other States, through the "single publication rule," to provide a forum for efficiently litigating all issues and damages claims arising out of a libel in a unitary proceeding. This rule reduces the potential serious drain of libel cases on judicial resources. It also serves to protect defendants from harassment resulting from multiple suits. In sum, the combination of New Hampshire's interest in redressing injuries that occur within the State and its interest in cooperating with other States in the application of the "single publication rule" demonstrates the propriety of requiring respondent to answer to a multistate libel action in New Hampshire.
-
-The Court of Appeals also thought that there was an element of due process "unfairness" arising from the fact that the statutes of limitations in every jurisdiction except New Hampshire had run on the plaintiff's claim in this case. Strictly speaking, however, any potential unfairness in applying New Hampshire's statute of limitations to all aspects of this nationwide suit has nothing to do with the jurisdiction of the court to adjudicate the claims. The question of the applicability of New Hampshire's statute of limitations to claims for out-of-state damages presents itself in the course of litigation only after jurisdiction over respondent is established, and we do not think that such choice-of-law concerns should complicate or distort the jurisdictional inquiry.
-
-The chance duration of statutes of limitations in nonforum jurisdictions has nothing to do with the contacts among respondent, New Hampshire, and this multistate libel action. Whether Ohio's limitations period is six months or six years does not alter the jurisdictional calculus in New Hampshire. Petitioner's successful search for a State with a lengthy statute of limitations is no different from the litigation strategy of countless plaintiffs who seek a forum with favorable substantive or procedural rules or sympathetic local populations. Certainly Hustler Magazine, Inc., which chose to enter the New Hampshire market, can be charged with knowledge of its laws and no doubt would have claimed the benefit of them if it had a complaint against a subscriber, distributor, or other commercial partner.
-
-Finally, implicit in the Court of Appeals' analysis of New Hampshire's interest is an emphasis on the extremely limited contacts of the _plaintiff_ with New Hampshire. But we have not to date required a plaintiff to have "minimum contacts" with the forum State before permitting that State to assert personal jurisdiction over a nonresident defendant. On the contrary, we have upheld the assertion of jurisdiction where such contacts were entirely lacking. Respondent is carrying on a "part of its general business" in New Hampshire, and that is sufficient to support jurisdiction when the cause of action arises out of the very activity being conducted, in part, in New Hampshire.
-
-The plaintiff's residence is not, of course, completely irrelevant to the jurisdictional inquiry. As noted, that inquiry focuses on the relations among the defendant, the forum, and the litigation. Plaintiff's residence may well play an important role in determining the propriety of entertaining a suit against the defendant in the forum. That is, plaintiff's residence in the forum may, because of defendant's relationship with the plaintiff, enhance defendant's contacts with the forum. Plaintiff's residence may be the focus of the activities of the defendant out of which the suit arises. But plaintiff's residence in the forum State is not a separate requirement, and lack of residence will not defeat jurisdiction established on the basis of defendant's contacts.
-
-It is undoubtedly true that the bulk of the harm done to petitioner occurred outside New Hampshire. But that will be true in almost every libel action brought somewhere other than the plaintiff's domicile. There is no justification for restricting libel actions to the plaintiff's home forum. The victim of a libel, like the victim of any other tort, may choose to bring suit in any forum with which the defendant has "certain minimum contacts such that the maintenance of the suit does not offend 'traditional notions of fair play and substantial justice."
-
-Where, as in this case, respondent Hustler Magazine, Inc., has continuously and deliberately exploited the New Hampshire market, it must reasonably anticipate being haled into court there in a libel action based on the contents of its magazine. And, since respondent can be charged with knowledge of the "single publication rule," it must anticipate that such a suit will seek nationwide damages. Respondent produces a national publication aimed at a nationwide audience. There is no unfairness in calling it to answer for the contents of that publication wherever a substantial number of copies are regularly sold and distributed.
-
-<div class="comment">
-
-#### Note on _Keeton_
-
-This news story provides some background about Keeton's suit.
-
-> **Keeton's Reputation An Issue In Defamation Suit**
-> 
-> Michael Morkrzycki, Aug. 6, 1986
-> 
-> CONCORD N.H. (AP) – Lawyers for a Penthouse magazine executive today closed their defamation suit against Hustler magazine and publisher Larry Flynt by reading a deposition in which Flynt scoffed at libel laws.
->
-> ″I didn't care then and I don't care now,″ he said in the 1984 depostion taken in another case.
->
-> Flynt is being sued by Kathy Keeton for $1.6 million, who alleges that her reputation was libeled by material printed in Hustler.
->
-> The lawyer questioning Flynt in 1984 asked him if he realized he could injure people or cause people mental anguish worse than physical pain by what he published in Hustler.
->
-> ″You (are) right and you're all going to be on your knees before we finish here,″ Flynt replied.
->
-> After reading the deposition into the record, Keeton's lawyers rested their case.
->
-> Judge Edward Northup told the jurors to keep in mind the deposition was taken two years ago in a different case.
->
-> In earlier testimony, Hustler magazine's lawyers tried to paint Keeton as someone whose reputation cannot be libeled.
->
-> During the second day of trial in her lawsuit, Keeton's chief lawyer tried instead to present her as an immigrant from South Africa who worked her way to the top of the American publishing industry.
->
-> Norman Roy Grutman, one of Keeton's four lawyers at the U.S. District Court trial, closed his questioning of her Tuesday by noting that she was among prominent immigrants invited to tape 30-second television spots this year for the Statue of Liberty centennial.
->
-> Grutman also portrayed Penthouse and its publisher, Robert Guccione - Keeton's common-law husband - as winners of numerous awards and honors. He read a lengthy list of notables who have written for the magazine or been interviewed in it.
->
-> But earlier, Hustler lawyers showed the four-woman, two-man jury blowups of color photographs of a bare-breasted Keeton performing a striptease at a London nightclub. The photos were published in Penthouse in 1966, when the magazine was distributed only in the United Kingdom.
->
-> Keeton also acknowledged that she was a pioneer of what she called ″exotic dancing″ - involving stripping to a bikini - in South Africa 25 years ago.
->
-> Under questioning from Hustler lawyer Dort Bigg, Keeton testified that for the first 14 of the 20 years she has lived with Guccione, he was married to someone else.
->
-> Keeton concluded her testimony Tuesday afternoon.
->
-> A Penthouse vice chairman and president of Omni magazine, Keeton charges she was libeled by a centerfold pictorial of a nude woman - not Keeton - published in the September 1975 Hustler with a headline, ″Kathy Keeton - who says you're over the hill at 50?″ Keeton testified she was not close to 50 years old at the time.
->
-> Keeton also charges she was libeled by a cartoon in the May 1976 Hustler issue suggesting that Guccione had infected her with gonorrhea. Keeton said she never has had venereal disease.
->
-> Keeton said she was not offended by anything that ever has appeared in Penthouse or Viva. She said the same applied to Guccione's sexually explicit movie ″Caligula.″
->
-> Bigg also asked Keeton about a remark she made during an appearance with Flynt on NBC's ″Tomorrow″ show with Tom Snyder in 1975, saying that she would have liked to appear nude in the pages of Penthouse.
->
-> ″I would have loved to have my picture taken by Bob Guccione,″ Keeton said. ″He's the most wonderful photographer in the world. It would have been a privilege.″
-
-Larry Flynt's colorful life and encounters with the law are the subject of a movie, [The People vs. Larry Flynt](https://milosforman.com/en/movies/the-people-versus-larry-flynt) (1996), by acclaimed director Miloš Forman. The movie stars Woody Harrelson as Flynt, Courtney Love as Flynt's wife and co-publisher Althea Leasure, and Edward Norton as Flynt's lawyer Alan Isaacman. NYU law professor Burt Neuborne plays the role of Roy Grutman, longtime attorney for Robert Guccione, who also represented the Rev. Jerry Falwell in a suit against Flynt over a scurrilous parody ad that appeared in Hustler. See [Hustler Magazine, Inc. v. Falwell](https://bit.ly/3iHkxrS), 485 U.S. 46 (1988)
-
-</div>
-
 #### Ford Motor Co. v. Mont. Eighth Judicial Dist. Ct., 141 S.Ct. 1017 (2021) 
 
 <p class="case-h1">Justice KAGAN delivered the opinion of the Court.</p>
@@ -580,21 +482,7 @@ NBA Properties sought and received a temporary restraining order and preliminary
 
 HANWJH next moved to dismiss and to lift the injunction, arguing that the court lacked personal jurisdiction over it because it did not expressly aim any conduct at Illinois. It contended that it lacked any connections with Illinois other than the "sham" transaction initiated by NBA Properties. First, it argued that operating a website alone is not enough to establish that it has expressly aimed its commercial activity at Illinois. Second, it submitted that a single transaction initiated by the plaintiff cannot constitute a sufficient basis for jurisdiction. Third, it reasoned that, even if exercising jurisdiction over it were otherwise appropriate, doing so would offend the traditional notions of fair play and substantial justice because Illinois had very little interest in resolving the matter, the burden on HANWJH for defending the litigation in Illinois would be great, and Illinois courts provided no "efficiencies in resolving this matter."
 
-The district court denied HANWJH's motion to dismiss and simultaneously entered a default. In its memorandum opinion, the district court set forth a three-part standard for analyzing specific personal jurisdiction:
-
-> First, the defendant must have "minimum contacts with the forum state." To determine whether the defendant has such contacts, the court must ask whether "the defendant should reasonably anticipate being haled into court in the forum State, because the defendant has purposefully availed itself of the privilege of conducting activities there." Second, the plaintiff's claims must "arise out of" the defendant's contacts with the forum. Third, and finally, maintenance of the suit must not "offend traditional notions of fair play and substantial justice."
-
-The court concluded that these requirements were met as to HANWJH.
-
-The district court acknowledged that "specific personal jurisdiction over an online retailer is not established merely because the retailer's website is available in the forum" but rather it is necessary that the retailer "'stand ready and willing to do business with' residents of the forum and then 'knowingly do ... business with' those residents." This test was satisfied, in the district court's view, by the fact that HANWJH "admitted that it both offered to ship and in fact shipped products to Illinois." Relying on our opinions in _Curry v. Revolution Laboratories, LLC,_ 949 F.3d 385 (7th Cir. 2020) and _Illinois v. Hemi Group LLC,_ 622 F.3d 754 (7th Cir. 2010), the district court observed that "minimum contacts can be formed even though a defendant 'sold its products only online through its website and third-party websites'" in situations where the defendant "(1) included the forum in the 'ship-to' options from which the customer had to choose; (2) sent a customer an email confirming a shipping address in the forum; and (3) shipped product to an address in the forum." The district court did not view the lack of a confirmation email as dispositive and held that jurisdiction was proper over HANWJH.
-
-The district court then rejected HANWJH's arguments that _be2 LLC v. Ivanov,_ 642 F.3d 555 (7th Cir. 2011) and _Advanced Tactical Ordnance Systems, LLC v. Real Action Paintball, Inc.,_ 751 F.3d 796 (7th Cir. 2014), required the action to be dismissed for lack of personal jurisdiction. The district court determined these cases to be materially distinguishable because neither involved sales of infringing products to the forum state. The district court also rejected HANWJH's contention that our opinion in _Hemi,_ should not apply. HANWJH had urged that "because the transactions in Illinois in this case were exclusively the product of 'entrapment and enticement' by Plaintiffs, _Hemi_ should not apply." The district court disagreed.
-
-> _Hemi_'s reasoning is on point. In that case, the defendant had a website that offered Illinois as a "ship-to" forum and in fact shipped products to Illinois. As this Court sees things, _Hemi_ did not impose any bar to evidence generated from a plaintiff's pretextual purchase of an infringing product; and Defendant does not offer any authority establishing such a rule. In the absence of contrary authority, the Court finds that Plaintiffs' reasons for purchasing the allegedly infringing material provided by products is not relevant to the personal jurisdiction analysis.
-
-Finally, the district court also rejected HANWJH's contention that "exercising personal jurisdiction would 'offend traditional notions of fair play and substantial justice.'" It explained that HANWJH had offered no support for this argument. It added that it was hardly unfair to subject HANWJH to jurisdiction because HANWJH "willingly shipped an allegedly infringing product to this forum."
-
-Following the entry of the default, the district court ordered that any objections to the motion for default judgment be filed no later than July 26, 2021. On July 26, HANWJH appealed the denial of the motion to dismiss. After we ordered supplemental briefing on the issue of appellate jurisdiction, HANWJH voluntarily dismissed its appeal. Because HANWJH did not object to the motion for default judgment, the district court then entered a final judgment on September 20, 2021. HANWJH timely appealed that order.
+The district court denied HANWJH's motion to dismiss and simultaneously entered a default. 
 
 <p class="case-h1">II</p>
 
@@ -604,7 +492,7 @@ We review a district court's determination of personal jurisdiction de novo. We 
 
 <p class="case-2">B.</p>
 
-We now turn to the issue of specific personal jurisdiction. "In a case involving federal question jurisdiction, 'a federal court has personal jurisdiction over the defendant if either federal law or the law of the state in which the court sits authorizes service of process to that defendant.'""Because the Lanham Act does not have a special federal rule for personal jurisdiction, ... we look to the law of the forum for the governing rule." The Illinois long-arm statute provides that "a court may also exercise jurisdiction on any other basis now or hereafter permitted by the Illinois Constitution and the Constitution of the United States." 
+"In a case involving federal question jurisdiction, 'a federal court has personal jurisdiction over the defendant if either federal law or the law of the state in which the court sits authorizes service of process to that defendant.'""Because the Lanham Act does not have a special federal rule for personal jurisdiction, ... we look to the law of the forum for the governing rule." The Illinois long-arm statute provides that "a court may also exercise jurisdiction on any other basis now or hereafter permitted by the Illinois Constitution and the Constitution of the United States." 
 
 "The Due Process Clause protects an individual's liberty interest in not being subject to the binding judgments of a forum with which he has established no meaningful 'contacts, ties, or relations.'" To be subject to specific personal jurisdiction in a forum state, the defendant must have "purposefully directed" its activities to the forum state, and the litigation must relate to those activities.
 
@@ -624,7 +512,7 @@ Then in _Hemi,_ we affirmed the district court's holding that Internet sales to 
 
 We also have held jurisdiction proper where a defendant's website offered the forum state as a "ship-to" option, the defendant sent a follow-up email confirming orders and shipping addresses, and the defendant sold and shipped products to over 700 residents in the forum. These contacts were sufficient, we explained, because "there is no per se requirement that the defendant especially target the forum in its business activity; it is sufficient that the defendant reasonably could foresee that its product would be sold in the forum." If the defendant exploits the forum market, it is subject to the jurisdiction of the forum. In _Curry_ we explained that allowing customers to order products from a website to the forum, and then carrying out that order, can form the basis of personal jurisdiction. 
 
-In _Matlin v. Spin Master Corp.,_ 921 F.3d 701 (7th Cir. 2019), however, we encountered a case that, when all circumstances were considered, exceeded established constitutional limitations on personal jurisdiction. In that case, two inventors sued their former company in Illinois (and its assignee) for royalties from their products. The defendants moved to dismiss under Rule 12(b)(2). In response, the inventors' "counsel submitted an online purchase receipt from the defendants' website and a declaration stating that he purchased and received a single patented product in Illinois." We distinguished _Hemi_ and found jurisdiction lacking for three key reasons:
+In _Matlin v. Spin Master Corp._, however, we encountered a case that, when all circumstances were considered, exceeded established constitutional limitations on personal jurisdiction. In that case, two inventors sued their former company in Illinois (and its assignee) for royalties from their products. The defendants moved to dismiss under Rule 12(b)(2). In response, the inventors' "counsel submitted an online purchase receipt from the defendants' website and a declaration stating that he purchased and received a single patented product in Illinois." We distinguished _Hemi_ and found jurisdiction lacking for three key reasons:
 
 > The first is the scale of contact with Illinois.... This case involved a single incident conjured up by the plaintiffs' attorney for the exclusive purpose of establishing personal jurisdiction over the defendants.
 
@@ -642,7 +530,7 @@ As a reminder, our focus is on the contacts that the defendant itself created wi
 
 <p class="case-h2">A. Purposeful Direction</p>
 
-First, we must analyze HANWJH's activity to determine whether it purposefully directed conduct at Illinois. HANWJH has no physical presence in Illinois. "Our cases make clear, however, that physical presence is not necessary for a defendant to have sufficient minimum contacts with a forum state." As in _Curry,_ we again find _Hemi_ particularly instructive. Recall that in _Hemi,_ a single agent of the plaintiff purchased over 300 packs of illegal cigarettes from the defendant cigarette retailer. 622 F.3d at 755. The sales to the plaintiff's agents supported a finding of personal jurisdiction because the retailer both maintained commercial websites from which one could order goods to Illinois and because it then "knowingly did do business with Illinois residents."
+First, we must analyze HANWJH's activity to determine whether it purposefully directed conduct at Illinois. HANWJH has no physical presence in Illinois. "Our cases make clear, however, that physical presence is not necessary for a defendant to have sufficient minimum contacts with a forum state." As in _Curry,_ we again find _Hemi_ particularly instructive. Recall that in _Hemi,_ a single agent of the plaintiff purchased over 300 packs of illegal cigarettes from the defendant cigarette retailer. The sales to the plaintiff's agents supported a finding of personal jurisdiction because the retailer both maintained commercial websites from which one could order goods to Illinois and because it then "knowingly did do business with Illinois residents."
 
 _Curry_ and _Hemi_ make clear that this case does not require us to break new ground. In _Curry,_ the defendant's actions could be fairly "described as purposefully" directed where it "created an interactive website and explicitly provided that Illinois residents could purchase its products through that website," "arranged for the sale of its products through third-party websites," "sent written confirmation to the Illinois customers acknowledging their sale and including their Illinois shipping address," and then, "shipped the product to its customers who were in Illinois." 
 
@@ -681,6 +569,54 @@ In _Curry,_ we held that there was no unfairness in making a seller defend a sui
 <p class="case-h1">CONCLUSION</p>
 
 HANWJH availed itself of the Illinois market in offering and shipping a product to the forum. Because of this purposeful direction, and because these contacts are related to the suit, it is subject to jurisdiction in Illinois. We affirm the judgment of the district court.
+
+<div class="comment">
+
+#### Note on Specific Jurisdiction in Suits Arising Under Federal Law
+
+The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, 'federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons.'" Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... 'authorized by a federal statute.'"
+
+In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organization under the "Promoting Security and Justice for Victims of Terrorism Act" (PSJVTA), a federal statute that authorizes suits in federal court by "Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs ...." 18 U.S. Code § 2333. The PSJVTA also authorizes the exercise of personal jurisdiction over the PLO and the Palestinian Authority based on construtive consent: 
+
+<div class="legal-code">
+
+**18 U.S. Code § 2334 - Jurisdiction and venue**
+
+(e) Consent of Certain Parties to Personal Jurisdiction.—
+
+> (1) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+
+> > (A) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
+
+> > > (i) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
+
+> > > (ii) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
+
+> > (B) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
+
+> > > (i) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
+
+> > > (ii) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
+
+> > > (iii) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
+ 
+</div>
+
+After reviewing the foundations of the 14th Amendmendment due process limits on personal jurisdiction, the majority concluded: 
+
+> Given the distinct territorial reach of the Federal Government's sovereign power, it makes little sense to mechanically import the limitations that the Fourteenth Amendment imposes on the authority of _state_ courts, which is restricted consonant with the States' more constrained sovereign spheres.
+>
+> Accordingly, to the extent that the Due Process Clauses of the Fourteenth and Fifth Amendments both implicitly limit the jurisdictional authority of courts, they do so with respect to the distinct sovereignties from which those courts derive their authority. Because the State and Federal Governments occupy categorically different sovereign spheres, we decline to import the Fourteenth Amendment minimum contacts standard into the Fifth Amendment. Rather, the Due Process Clause of the Fifth Amendment necessarily permits a more flexible jurisdictional inquiry commensurate with the Federal Government's broader sovereign authority.
+>
+> \* \* \* 
+> 
+> Although we hold today that the Fifth Amendment does not impose the same jurisdictional limitations as the Fourteenth, we do not purport to delineate the outer bounds of the Federal Government's power, consistent with due process, to hale foreign defendants into U. S. courts.
+> 
+> \* \* \*
+> 
+> The PSJVTA reasonably ties the assertion of federal jurisdiction over the PLO and PA to conduct that involves the United States and implicates sensitive foreign policy matters within the prerogative of the political branches. We hold that the statute's provision for personal jurisdiction comports with the Due Process Clause of the Fifth Amendment.
+>
+> </div>
 
 ### General Jurisdiction
 

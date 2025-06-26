@@ -5,17 +5,13 @@ title: Pleading
 
 # Pleading
 
-## Notice Pleading under the FRCP
+## Pleading Under the FRCP
 
 <div class="legal-code">
 
 #### Fed. R. Civ. P. Rule 3 {#rule3}
 
 A civil action is commenced by filing a complaint with the court.
-
-</div>
-
-<div class="legal-code">
 
 #### Fed. R. Civ. P. Rule 7 {#rule7}
 
@@ -49,25 +45,11 @@ A civil action is commenced by filing a complaint with the court.
 
 </div>
 
+## Form of Pleading
+
 <div class="legal-code">
 
-#### Fed. R. Civ. P. Rule 8 {#rule8}
-
-(a) Claim for Relief. A pleading that states a claim for relief must contain:
-
-> > (1) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
-
-> > (2) a short and plain statement of the claim showing that the pleader is entitled to relief; and
-
-> > (3) a demand for the relief sought, which may include relief in the alternative or different types of relief.
-
-(b) Defenses; Admissions and Denials.
-
-> > (1) _In General._ In responding to a pleading, a party must:
-
-> > > (A) state in short and plain terms its defenses to each claim asserted against it; and
-
-> > > (B) admit or deny the allegations asserted against it by an opposing party.
+#### Fed. R. Civ. P. Rule 8 {#rule8d-e}
 
 (d) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.
 
@@ -79,9 +61,94 @@ A civil action is commenced by filing a complaint with the court.
 
 (e) Construing Pleadings. Pleadings must be construed so as to do justice.
 
+#### Fed. R. Civ. P. Rule 10 {#rule10}
+
+(a) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
+
+(b) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
+
+(c) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
+
+#### Fed. R. Civ. P. Rule 12 {#rule12e-f}
+
+(e) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
+
+(f) Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
+
+> (1) on its own; or
+
+> (2) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
+
 </div>
 
+#### Doe v. Clinton County, No. 1:25-cv-368 (W.D. Mich. 28 April, 2025)
+
+<p class="case-h1">Order Striking Complaint</h1>
+
+Each page of plaintiff's complaint appears on an e-filing which is dominated by a larghe multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers".[^dragonlawyers1] Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertient, or scanalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
+
+[^dragonlawyers1]: 
+  {-} See Fig. 1 below.
+
+**IT IS ORDERED** that plaintiff's complaint is **STRICKEN**. Plaintiff is directed to file an amended complaint, containing the same allegations as the original complaint, without the cartoon dragon by no later than May 5, 2025. 
+
+**IT IS FURTHER ORDERED** that plaintiff shall not file any other documents with the cartoon dragon or other inappropriate content. 
+
+![Fig. 1]({{ site.baseurl }}/assets/casebook/img/DragonComplaint.jpg)
+
+#### Smith v. Safemarine Corp., 749 F.Supp.3d 687 (M.D. La. 2024)
+
+<p class="case-h1">SHELLY D. DICK, CHIEF DISTRICT JUDGE.</h1>
+
+<p class="case-h1">I. BACKGROUND</h1>
+
+[Plaintiff sued multiple defendants---including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")---in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris in the Missippi River. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each Defendants' role in the accident and the basis for liability against each.]
+
+<p class="case-h1">II. LAW AND ANALYSIS</h1>
+
+<p class="case-h2">A. Legal Standards</h2>
+
+The United States Supreme Court [has] set forth the basic criteria necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss:[^safemarine1] "While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations, a plaintiff's obligation to provide the grounds of his entitlement to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." A complaint is also insufficient if it merely "tenders 'naked assertions' devoid of 'further factual enhancement.'" However, "a claim has facial plausibility when the plaintiff pleads the factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In order to satisfy the plausibility standard, the plaintiff must show "more than a sheer possibility that a defendant has acted unlawfully." "Furthermore, while the court must accept well-pleaded facts as true, it will not 'strain to find inferences favorable to the plaintiff.'" On a motion to dismiss, courts "are not bound to accept as true a legal conclusion couched as a factual allegation." 
+
+[^safemarine1]: 
+  {-} See § 3.2 Claims for Relief.
+
+Rule 12(e) provides that a motion for more definite statement may be filed when "a pleading to which a responsive pleading is permitted is so vague or ambiguous that a party cannot reasonably be required to frame a responsive pleading." The standard for evaluating a motion for more definite statement is whether the complaint "is so excessively vague and ambiguous as to be unintelligible and as to prejudice the defendant seriously in attempting to answer it." Such motions are disfavored and granted sparingly. However, in the words of the Supreme Court, "if a pleading fails to specify the allegations in a manner that provides sufficient notice," then a Rule 12(e) motion may be appropriate. A party may not use a Rule 12(e) motion as a substitute for discovery; however, "if details are necessary in order to make a vague complaint intelligible, the fact that the details also are subject to the discovery process should not preclude their production under Rule 12(e)." 
+
+As other courts have noted, "the line between Rule 12(b)(6) and Rule 12(e)'s pleading standards is a blurry one." Regarding the relationship between the two, it has been observed that "an implausible claim may well be stated intelligibly enough to enable the framing of a response, and a plausible claim, which would survive a Rule 12(b)(6) motion, may be pleaded vaguely enough to make response impossible, which would make it vulnerable to a Rule 12(e) motion." 
+
+<p class="case-h2">B. Plaintiff's Allegations</h2>
+
+In separate paragraphs, Plaintiff's Petition for Damages[^safemarine2] identifies and introduces each Defendant by name and corporate status, as well as their addresses and agents for service of process. Apart from the singular introductory paragraphs, there is no additional information in the Petition regarding ARTCO or ADM. As to the other moving Defendants, Plaintiff additionally alleges that Riverside and Phoenix Bulk, "either individually, collectively, or in combination ... owned, operated, assumed contractual responsibility, or otherwise exercised significant control over the M/V EVA PARIS and/or its shipment of bulk concrete, to which Plaintiff was assigned and aboard which Plaintiff was injured." 
+
+[^safemarine2]:
+  {-} Plaintiff originally filed his suit in Louisiana state court, where "Petition for Damages" is the term used for a civil complaint. The case was removed to federal court based on diversity of citizenship. 
+
+The Petition goes on to provide that Plaintiff "lost his balance after stepping in a pile of concrete that had been spilled during unlading of the Vessel's cargo and not properly cleaned," as a result of which Plaintiff "fell multiple feet from the deck of the ship into the Mississippi River, and nearly drowned but-for a coworker pulling him out of the water." Plaintiff then provides a list of eighteen theories of liability without explaining which Defendant may be liable for which theory, and on what grounds. Similarly, Plaintiff alleges that "Defendants owed Plaintiff a duty consistent with the foregoing, and Defendants' various acts and omissions which proximately caused Plaintiff to encounter the hazardous condition aboard the Vessel consisted of a breach of said duties." Plaintiff does not provide any detail regarding these "various acts or omissions" allegedly committed by the Defendants or what duties each Defendant breached as a result.
+
+The Court finds that it is entirely unclear from a reading of the Petition what role each Defendant allegedly played in the incident or how each may be liable to Plaintiff. The Petition does not outline the connection between the few factual allegations and the legal theories and fails to specify which theories apply to which Defendants.
+
+"If the pleading is impermissibly vague, the court may act under Rule 12(b)(6) or Rule 12(e), whichever is appropriate, without regard to how the motion is denominated." Under the present circumstances, the Court finds Defendants' motions for a more definite statement meritorious under Rule 12(e) because the primary grievance of all the moving Defendants is that the Petition is simply too vague.
+
+The Supreme Court has stated that Rule 12(e) motions are "inextricably linked to Rule 8(a)'s simplified notice pleading standard." Accordingly, "when evaluating a motion for more definite statement, the Court must assess the complaint in light of the minimal pleading requirements of Rule 8." Rule 8 provides, in pertinent part: "A pleading that states a claim for relief must contain ... a short and plain statement of the claim showing that the pleader is entitled to relief." The allegations must "give the defendant fair notice of what the plaintiff's claim is and the grounds upon which it rests." This pleading standard "does not require 'detailed factual allegations,' but it demands more than an unadorned, the-defendant-unlawfully-harmed-me accusation." 
+
+Here, the Petition lacks any factual allegations regarding the subject incident other than a brief description of Plaintiff's fall and injuries. As to ADM and ARTCO, the Petition contains no information whatsoever regarding their roles in or relationship to the incident. As to Phoenix Bulk and Riverside, Plaintiff broadly alleges that they, "either individually, collectively, or in combination ... owned, operated, assumed contractual responsibility, or otherwise exercised significant control over" the Vessel or its shipment of concrete. Other than a bare list of generic theories of liability and conclusory statements, such as "Defendants acted with flagrant and malicious disregard of Plaintiff's health and safety," the Petition does not convey with adequate specificity or clarity how the Defendants are responsible for Plaintiff's alleged injuries. As Phoenix Bulk argues, "because Plaintiff has failed to actually allege any specific facts with respect to Phoenix Bulk, Phoenix Bulk cannot discern exactly what claim Plaintiff files against it or why Phoenix Bulk should be liable in the first instance." The same is true for each moving Defendant.
+
+The Court finds that Plaintiff's Petition lacks sufficient specificity to give the moving Defendants adequate notice of grounds upon which the claims are premised. Accordingly, because the Petition is "so vague or ambiguous that the Defendants cannot reasonably prepare a response," the Court finds the Rule 12(e) motion of each Defendant should be granted.
+
+## Claims for Relief
+
 <div class="legal-code">
+
+#### Fed. R. Civ. P. Rule 8 {#rule8a}
+
+(a) Claim for Relief. A pleading that states a claim for relief must contain:
+
+> > (1) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
+
+> > (2) a short and plain statement of the claim showing that the pleader is entitled to relief; and
+
+> > (3) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
 #### Fed. R. Civ. P. Rule 9 {#rule9}
 
@@ -107,20 +174,6 @@ A civil action is commenced by filing a complaint with the court.
 
 </div>
 
-<div class="legal-code">
-
-#### Fed. R. Civ. P. Rule 10 {#rule10}
-
-(a) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
-
-(b) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
-
-(c) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
-
-</div>
-
-## Claims for Relief
-
 <div class="comment">
 
 Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a short and plain statement of the claim showing that the pleader is entitled to relief". This requirement applies to any party (whether in the position of plaintiff or defendant)[^claims1] who asserts a claim, counterclaim, crossclaim, or third-party claim.
@@ -128,7 +181,10 @@ Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a
 [^claims1]:
   {-} The rules governing counterclaims, crossclaims, and third-party claims are covered in Chapter 4 (Joinder).
 
-A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) with a motion to dismiss for "failure to state a claim upon which relief can be granted". Fed. R. Civ. P. Rule 12(b)(6). A claim may be dismissed on this basis for either factual or legal insufficiency:
+A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) with a motion to dismiss for "failure to state a claim upon which relief can be granted". Fed. R. Civ. P. Rule 12(b)(6).[^claims2] A claim may be dismissed on this basis for either factual or legal insufficiency:
+
+[^claims2]:
+  {-} See § 4 Responsive Pleadings. 
 
 - A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
 
@@ -146,9 +202,9 @@ In _Twombly_, the plaintiffs alleged that four telecommunications companies had 
 
 The Court held that the allegations in the complaint were insufficient to state a claim under § 1 of the Sherman Act, which requires proof of a "contract, combination, or conspiracy, in restraint of trade or commerce". 
 
-> \[A\] plaintiff's obligation to provide the "grounds" of his "entitlement to relief" requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do. Factual allegations must be enough to raise a right to relief above the speculative level, on the assumption that all the allegations in the complaint are true (even if doubtful in fact).
+> A plaintiff's obligation to provide the "grounds" of his "entitlement to relief" requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do. Factual allegations must be enough to raise a right to relief above the speculative level, on the assumption that all the allegations in the complaint are true (even if doubtful in fact).
 > 
-> \[A\]n allegation of parallel conduct and a bare assertion of conspiracy will not suffice [to state a claim under Sherman Act § 1]. Without more, parallel conduct does not suggest conspiracy, and a conclusory allegation of agreement at some unidentified point does not supply facts adequate to show illegality. Hence, when allegations of parallel conduct are set out in order to make a § 1 claim, they must be placed in a context that raises a suggestion of a preceding agreement, not merely parallel conduct that could just as well be independent action." 
+> An allegation of parallel conduct and a bare assertion of conspiracy will not suffice [to state a claim under Sherman Act § 1]. Without more, parallel conduct does not suggest conspiracy, and a conclusory allegation of agreement at some unidentified point does not supply facts adequate to show illegality. Hence, when allegations of parallel conduct are set out in order to make a § 1 claim, they must be placed in a context that raises a suggestion of a preceding agreement, not merely parallel conduct that could just as well be independent action." 
  
 To assess whether the inference of an agreement was plausible, the majority considered "an obvious alternative explanation": While the alleged parallel conduct was "consistent with conspiracy," it was, in the majority's view, "as much in line with a wide swath of rational and competitive business strategy unilaterally prompted by common perceptions of the market." Finding that "the plaintiffs here have not nudged their claims across the line from conceivable to plausible," the majority concluded that "their complaint must be dismissed."
 
@@ -190,125 +246,135 @@ Applying that standard to Iqbal's complaint, the majority concluded that the all
 
 </div>
 
+#### Williams v. Mitchell, 122 F.4th 85 (4th Cir. 2024)
 
-#### Intercollegiate Women's Lacrosse Coaches Association v. Corrigan Sports Enterprises, Inc., 546 F.Supp.3d 440 (M.D.N.C. 2021)
+<p class="case-h1">GREGORY, Circuit Judge:</h1>
 
-<p class="case-h1">THOMAS D. SCHROEDER, Chief District Judge</p>
+This case, now before us after the district court's grant of motions to dismiss based on the insufficiency of the pleadings, involves a series of interactions between Plaintiff Brandon Williams and Norfolk, Virginia, police officers. Officer John D. McClanahan first falsely charged Williams with misdemeanor trespassing. He then perjured himself at trial to obtain a conviction. On appeal, Williams exposed McClanahan's perjury through a recording he had taken of the incident, and the state appellate court ordered the charge dismissed. Two weeks later, Norfolk police officers, including McClanahan, responded to an accident in which Williams had been hit by a speeding drunk driver. They recognized him immediately as "the guy that gave McClanahan a ration of shit." The officers allegedly falsified information on the accident report with the intent of depriving Williams of his property right to sue the other driver.
 
-This is a dispute over the unwinding of a relationship between the parties related to sponsorship of high school lacrosse tournaments nationwide following the impact of the novel coronavirus in 2020. Before the court is the motion of Plaintiff Intercollegiate Women's Lacrosse Coaches Association ("IWLCA") to dismiss all counterclaims against it pursuant to Federal Rule of Civil Procedure 12(b)(6). Defendants Corrigan Sports Enterprises, Inc. ("CSE") and Richard Lee Corrigan, Jr. filed a response in opposition, and IWLCA filed a reply. For the reasons set forth below, the motion will be granted in part and denied in part.
+Williams brought a claim of retaliation for the exercise of his First and Sixth Amendment rights against the police officers. He also brought a conspiracy claim and two Virginia state law claims for intentional infliction of emotional distress ("IIED"), among others. The district court granted the officers' motions to dismiss Williams' retaliation claim, holding that he failed to plead an adverse action, and granted their motions as to his conspiracy claim upon finding that he failed to plead a constitutional violation. The court dismissed without prejudice Williams' state law IIED claims by declining to exercise supplemental jurisdiction.
 
-<p class="case-h1">I. Background</p>
+Considering the facts as pled, Williams has adequately alleged that the officers' intentional misrepresentation on the accident report would likely deter him from recording police activity and defending himself at trial in the future. Therefore, we reverse the district court's dismissal of his retaliation claim. Having thus found a plausible constitutional violation at this stage, we vacate the court's dismissal of his conspiracy claim and remand the claim for reconsideration consistent with this opinion. Finally, we vacate the court's dismissal of Williams' IIED claims, which are also remanded for consideration consistent with this opinion.
 
-<p class="case-h2">A. Factual Background</p>
+<p class="case-h1">I.</h1>
 
-The facts as outlined in CSE's counterclaims, which are taken as true for the purposes of the present motion, show the following:
+The following facts were alleged in Williams' Second Amended Complaint. In January 2020, Brandon Williams was detained by Norfolk, Virginia, police officer John D. McClanahan on a misdemeanor trespassing charge. Williams recorded his interaction with McClanahan. At trial on the trespassing charge, McClanahan testified falsely and Williams was convicted. Williams appealed his conviction and used his recording to show that McClanahan had lied under oath. The appeals court heard Williams' argument and dismissed the charges against him on September 15, 2020, recognizing that he never should have been prosecuted. 
 
-CSE is an event hosting company that is experienced in organizing, promoting, and operating sporting events across the country, including lacrosse tournament events. Corrigan is CSE's founder and president. IWLCA is a professional association whose membership is comprised of college lacrosse coaches within the National Collegiate Athletic Association ("NCAA") and the National Association of Intercollegiate Athletics ("NAIA").
+On September 30, 2020, Williams was seriously injured in a car accident in Norfolk, Virginia. Williams was operating his vehicle carefully when he was hit by Rex Aman, who was driving over seventy-five miles per hour and swerving outside his lane. When various Norfolk police officers including McClanahan arrived at the scene to investigate the accident, they pointed at and talked about Williams. Officer Rodney Van Faussien said, while pointing to Williams, "this is the guy that gave McClanahan a ration of shit," referring to Williams' defense of his trespassing charge. Aman's blood alcohol level was .30—well above the legal limit—and the officers learned of Aman's high speed from eyewitnesses. 
 
-In or around July 2009, CSE entered into discussions with Gothard Lane, the then-Executive Director of IWLCA, regarding a potential partnership to hold high school women's lacrosse tournaments. As part of these discussions, CSE and Lane agreed that IWLCA would sponsor the tournaments while CSE would organize, promote, plan, and operate them. 
+Despite information from eyewitnesses, a debris field showing a high-impact accident, and Aman's blood alcohol level, police officers falsely stated on the accident report that Aman was driving the speed limit, had not been drinking, and that his car had suffered a steering defect. This was allegedly done with the intent to deny Williams his rights by minimizing the accident and deflecting blame from Aman. 
 
-Following these discussions and initial negotiations, CSE presented IWLCA with a proposal for CSE to organize and host the Presidents Cup in Naples, Florida in 2010 and 2011 — with an option for 2012 — and the Capital Cup outside of Washington, D.C. in 2011, 2012, and 2013. In exchange, IWLCA would sponsor and promote the tournaments to its member coaches. IWLCA accepted the proposal, and the organizations agreed to split the net profits of the tournaments 50-50. 
+<p class="case-h1">II.</h1>
 
-In November 2013, CSE and IWLCA executed a contract ("the 2013 contract") to formalize the terms for the organization, promotion, and hosting of several high school women's lacrosse tournaments, including the Champions Cup from 2013 to 2015; the Capital Cup from 2013 to 2016; the Western Cup from 2013 to 2015; and the Presidents Cup from 2013 to 2015. Per the contract, CSE's responsibilities included, among other items, organizing, processing, and executing the registration of all teams; advertising and marketing the tournaments using the IWLCA logo; creating and maintaining a website for the tournaments; and hosting and administering the tournaments, including securing event locations and equipment, staffing officials, researching insurance, facilitating sponsorships and vendors, collecting fees, paying tournament expenses, and accounting for all revenues and expenses for each tournament. In exchange, IWLCA agreed to promote the tournaments to college coaches, to facilitate the establishment of sponsorships for and vendors at the tournaments, to timely communicate with CSE, and to grant CSE the exclusive right to organize and host the tournaments. The contract further indicated that where circumstances may require the cancellation of any tournament, "IWLCA and CSE shall decide together to cancel a Tournament."
+As for his retaliation claim, Williams alleged in the operative complaint that "by recording McClanahan during his arrest on the trespassing charge, and by pointing out that McClanahan had lied during his testimony on the charge, Williams was exercising his First Amendment rights." He continued that "by insisting on a trial of the trespassing charge and by challenging the testimony of McClanahan, Williams was exercising his Sixth Amendment rights." Williams claimed that Defendants "intentionally retaliated against him for the exercise of his rights by misrepresenting facts on the accident report ... because they realized that he was the person who 'gave McClanahan a ration of shit,'" and they "did so with the intent to deprive Williams of his property right to bring a claim for the injuries from the accident by trying to minimize the accident and deflect blame from Aman." As a result of Defendants' actions, "Williams has suffered both physical and emotional injuries which have included sleep disturbance, actual physical pain, and a significant exacerbation of post-traumatic stress disorder." 
 
-In April 2014, CSE and IWLCA executed an addendum to the 2013 contract ("the 2014 addendum") that extended the terms of the 2013 contract to the 2016 Champions, Capital, Western, and Presidents Cups and added the 2014 through 2016 New England Cups to the agreement. In April 2017, the parties executed a second addendum ("the 2017 addendum") that extended the terms of the 2013 contract to the New England, Champions, Midwest, Capital, and Presidents Cups for 2017 and 2018.
+Regarding conspiracy, Williams alleged that "Defendants acted jointly and in concert for the purposes of denying Williams his constitutional rights." 
 
-In 2017, IWLCA issued a Request for Proposals ("RFP") for the 2018, 2019, and 2020 tournaments, to which CSE responded. IWLCA accepted CSE's proposal, but the parties did not execute a new contract or addendum for these tournaments.
+Williams also brought two IIED claims, one related to McClanahan's perjury, and the second related to the Defendants' conduct at the accident scene. He alleged that both incidents have caused him physical and emotional injuries. ims.
 
-In 2018, Lane stepped down as Executive Director of IWLCA. That same year, Samantha Ekstrand, IWLCA's counsel and leading business executive, informed CSE that IWLCA wanted to negotiate a new long-term contract and make significant changes. In response, CSE prepared a draft proposal and sent it to Ekstrand. However, Ekstrand denied the proposal, allegedly without input or review of the IWLCA Board, and the parties did not execute a new contractual agreement.
+<p class="case-h1">III.</h1>
 
-In December 2018, IWLCA began to more closely monitor the expenses associated with the tournaments and hired an outside firm to inspect CSE's accounting records. Although the outside firm found no irregularities, Ekstrand allegedly informed the IWLCA Board that CSE was taking advantage of IWLCA and that certain fees were improper.
+We review a district court's dismissal under Rule 12(b)(6) _de novo_ and view the complaint in the light most favorable to the plaintiff, accepting as true all well-pleaded allegations. 
 
-The 2019 tournaments were conducted without a written agreement between the parties but performed "in accordance with the terms of the 2013 Contract and subsequent amendments and the course of performance and terms under which they had operated for several years."
+<p class="case-h1">IV.</h1>
 
-Shortly after the 2019 tournaments, in August 2019, CSE opened registration for the 2020 tournaments. As part of the registration process, registrants were required to submit a clearly identified, non-refundable deposit.
+Before us on appeal is the district court's dismissal of Williams' retaliation, conspiracy, and IIED claims, which will each be addressed in turn.
 
-On April 18, 2020, IWLCA publicly announced, without any input from CSE, that it had decided to cancel the 2020 tournaments and that it had "directed" CSE to issue refunds to all registered teams. By that time, over 1,100 teams had registered or were waitlisted for the tournaments and CSE had incurred significant expenses in planning the tournaments.
+<p class="case-h2">A.</h2>
 
-Rather than cancelling the tournaments, CSE announced that IWLCA had decided to withdraw its sponsorship and official involvement in the tournaments, but that CSE would continue to host the tournaments to the extent possible in light of COVID-19 restrictions. CSE further gave registrants who could not participate in the tournament for which they had registered the option of transferring their registration to another 2020 tournament, requesting a deferment of their registration to a 2021 tournament, or requesting a partial refund, less their non-refundable deposit.
+A plaintiff seeking to recover for First and Sixth Amendment retaliation must allege that (1) he engaged in protected activity, (2) the defendant took some action that adversely affected his constitutional rights, and (3) there was a causal relationship between his protected activity and the defendant's conduct. We begin by addressing the first and third elements, which are straightforwardly satisfied.
 
-In the months following the April 2020 announcements, IWLCA allegedly began to actively lobby its member coaches not to attend CSE's tournaments or collaborate with CSE in any way. IWLCA also allegedly began interfering with CSE's relations with sponsors, local municipalities, and tourism boards. Finally, IWLCA allegedly contacted players, teams, and coaches to discourage them from attending CSE tournaments and made false statements indicating that "CSE runs low quality tournaments," "CSE's president, Lee Corrigan, is dishonest," "participants would not receive the experience at CSE tournaments" that they were promised, and "there would not be many, if any, college coaches/recruiters in attendance."
+As for the first element, it is uncontested that Williams engaged in protected First Amendment activity when he recorded his initial interaction with McClanahan. "Creating and disseminating information is protected speech under the First Amendment," including "[r]ecording police encounters." It is also undisputed that Williams engaged in protected Sixth Amendment activity by demanding a trial on the trespassing charge and challenging McClanahan's testimony at trial. The right to a trial and to confront one's witnesses are constitutionally protected rights under the Sixth Amendment. 
 
-Between July and November 2020, CSE hosted five high school women's lacrosse tournaments with COVID-19 protocols in place. Ultimately, though, the number of teams in attendance was significantly lower than prior years.
+Williams has also adequately pled the third element. For a causal relationship, a plaintiff must show "at the very least[] that the defendant was aware of plaintiff's engaging in protected activity," and "some degree of temporal proximity." Here, Williams has sufficiently alleged that the Defendants were aware of his First and Sixth Amendment activity: Van Faussien pointed at Williams and stated to fellow officers, "this is the guy that gave McClanahan a ration of shit." And as for temporal proximity, the accident occurred on September 30, 2020, only fifteen days after the appeals court dismissed the charges against Williams following his presentation of evidence showing that McClanahan had lied at trial.
 
-<p class="case-h2">B. Procedural History</p>
+Finally, although the second element requires closer analysis, we also find that Williams adequately alleged that Defendants' retaliatory action adversely affected his First and Sixth Amendment rights. To satisfy this element, a plaintiff must show that a defendant's conduct resulted in more than a _de minimis_ inconvenience to the exercise of the plaintiff's rights; rather, it must chill the exercise of such rights such that it would likely deter "a person of ordinary firmness" from exercise in the future. While the defendant's conduct must chill the exercise of a constitutional right, the conduct need not constitute a constitutional violation in itself. This element requires a "fact intensive inquiry that focuses on the status of the speaker, the status of the retaliator, the relationship between the speaker and the retaliator, and the nature of the retaliatory acts." "Context matters," as "the significance of any given act of retaliation will often depend upon the particular circumstances.
 
-On May 6, 2020, IWLCA filed this action in a North Carolina state court seeking declaratory, monetary, and injunctive relief. Defendants timely removed the lawsuit to this court and moved to dismiss for lack of jurisdiction. IWLCA subsequently filed an amended complaint, and the motion to dismiss for lack of jurisdiction was denied.
+According to Williams, the officers' adverse action was their intentional misrepresentation of facts on the accident report. In assessing whether this action would chill the exercise of his First and Sixth Amendment rights as pled, we consider the relative statuses of Williams and the officers: Here, there is a significant power imbalance in Williams' relationship with the police, as he is a Black man who had recently exposed an officer's perjury. We must also account for the additional context. The police had previously lied to charge and convict Williams with misdemeanor trespassing, and then at the accident scene, the officers allegedly pointed at him, talked about him, and lied again with the intent of depriving him of his rights, despite his being severely injured and traumatized in the immediate aftermath of a high-speed crash. Finally, we must also consider the nature of the retaliatory acts. The adverse action here is not the mere misrepresentation of facts on an accident report. It is the officers' _intentional_ misrepresentation—the falsity of the report plus the animus motivating it.
 
-Defendants also filed a motion to dismiss pursuant to Rule 12(b)(6), which this court granted in part and denied in part on December 4, 2020. Defendants then filed their answer, affirmative defenses, and counterclaims in response to IWLCA's amended complaint. Defendants allege five counterclaims against IWLCA: (1) breach of contract; (2) tortious interference with contract; (3) tortious interference with prospective economic advantage; (4) unfair competition; and (5) violations of the North Carolina Unfair and Deceptive Trade Practices Act ("UDTPA"). IWLCA now moves to dismiss all counterclaims pursuant to Federal Rule of Civil Procedure 12(b)(6). Defendants oppose the motion, which is fully briefed and ready for resolution.
+That the police would purposefully falsify an accident report as payback for Williams proving his innocence is egregious, and particularly so where the officers sought to deprive Williams of a potential claim against a drunk driver where Williams was clearly not at fault. This demonstrates the extreme lengths these officers were willing to go to punish Williams for exercising his constitutional rights. These circumstances would be enough to deter a person of ordinary firmness from exercising their First and Sixth Amendment rights again in the future.
 
-<p class="case-h1">II. Analysis</p>
+Contrary to Defendants' contentions, the fact that Williams was able to pursue and settle a civil lawsuit against Aman does not doom his retaliation claim. His claim stems from the officers' misrepresentation of information in an intentional attempt to interfere with Williams' rights, which is exactly the kind of government conduct that would chill someone from exercising their constitutional rights in the future; it does not matter that such attempted interference may have failed. Likewise, Williams' success in defending against his trespassing charge does not counsel a different outcome, as it was this defense that led to law enforcement's deliberate attempt to deprive him of his property rights. As Williams' counsel articulated at oral argument, given how the officers' animus came to bear, "a reasonable person in that situation is going to think twice: Do I want to endure that again ... just to challenge a simple misdemeanor trespassing charge?" It is at least plausible that Williams would be hesitant to record later police encounters or demand a trial knowing that it could result in future—and perhaps more grievous—police misrepresentations with the express purpose of causing him harm.
 
-<p class="case-h2">A. Standard of Review</p>
+The accident report's inadmissibility in a civil lawsuit does not change this analysis. The report is indicative of how police officers would likely testify at trial, and could also be used to refresh an officer's recollection or for impeachment purposes. But beyond that, the fact that the police would eschew their duties and lie with the intent of depriving Williams of his rights—regardless of whether the officers' falsification actually impeded any civil lawsuit against Aman— is materially adverse.
 
-Federal Rule of Civil Procedure 8(a)(2) provides that a pleading must contain "a short and plain statement of the claim showing that the pleader is entitled to relief." Fed. R. Civ. P. (8)(a)(2). Under Federal Rule of Civil Procedure 12(b)(6), a complaint — or as is the case here, a counterclaim — must contain "sufficient factual matter ... to 'state a claim to relief that is plausible on its face.'" A claim is plausible "when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In considering a Rule 12(b)(6) motion, a court "must accept as true all of the factual allegations," and all reasonable inferences must be drawn in the complainant's favor. "Rule 12(b)(6) protects against meritless litigation by requiring sufficient factual allegation 'to raise a right to relief above the speculative level' so as to 'nudge the claims across the line from conceivable to plausible.'" A counterclaim is judged by the same standard and "must 'state a plausible claim for relief' that permits the court to infer more than the mere possibility of misconduct based upon 'its judicial experience and common sense.'" Thus, mere legal conclusions are not accepted as true, and "threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice."
+Viewed in the light most favorable to Williams and at this stage of the proceedings, law enforcement's intentional misrepresentation would likely deter a person of ordinary firmness from recording police activity, challenging an officer's testimony, and vigorously defending oneself at trial in the future.
 
-In ruling on a motion to dismiss, courts may consider documents attached to either the counterclaims or the motion to dismiss without converting the motion into one for summary judgment so long as the documents are integral to the counterclaims and authentic.
+Williams has thus alleged a First and Sixth Amendment retaliation claim sufficient to survive a motion to dismiss, and the district court's opinion granting Defendants' motions on this claim must be reversed.
 
-<p class="case-h2">B. Breach of Contract</p>
+<p class="case-h2">B.</h2>
 
-Defendants first bring a counterclaim for breach of contract against IWLCA. Under North Carolina law, the essential elements for a breach of contract claim are the existence of a valid contract and a breach of its terms. A valid contract requires an agreement based on a meeting of the minds and sufficient consideration. As such, in order to state a claim for breach of contract, Defendants must first show that the parties had an enforceable agreement.
+To state a claim for civil conspiracy under 42 U.S.C. §1983, a plaintiff must allege that defendants "acted jointly in concert and that some overt act was done in furtherance of the conspiracy which resulted in [his] deprivation of a constitutional right."
 
-Defendants argue that the 2013 contract governed the execution of the 2020 tournaments and that IWLCA breached its terms. In response, IWLCA argues that [...] the 2013 contract did not govern the parties' relationship because it expired prior to the 2020 tournaments and was not otherwise extended to the 2020 tournaments. Defendants respond that [...] although the parties did not extend the 2013 contract to the 2020 tournaments by any written agreement, the parties established a contract implied in fact through their continued adherence to the terms of the 2013 contract in relation to the 2020 tournaments.
+The district court's analysis on this claim "began, and ended," with whether Defendants' alleged conduct resulted in a violation of Williams' constitutional rights. The court only considered potential constitutional violations under the Fifth and Fourteenth Amendments as well as a constitutional right to access the courts. But retaliation can be the constitutional violation for such a conspiracy claim, and counsel for Defendants Mitchell, Stone, and Van Faussien admitted at oral argument that reversal on the retaliation claim would necessitate remand on the conspiracy claim.
 
-A contract implied in fact "arises where the intention of the parties is not expressed, but an agreement in fact, creating an obligation, is implied or presumed from their acts, or, as it has been otherwise stated, where there are circumstances which, according to the ordinary course of dealing and the common understanding of men, show a mutual intent to contract." Such a contract may be found where "a contract lapses but the parties continued to act as if they are performing under a contract," and neither party "clearly and manifestly indicates, through words or ... conduct, that it no longer wishes to continue to be bound" by the terms of the lapsed agreement. In evaluating a contract implied in fact on a 12(b)(6) motion, "whether mutual assent is established and whether a contract was intended between parties are questions for the trier of fact."
+Having found that Williams has adequately alleged the deprivation of a constitutional right—that being his claim of First and Sixth Amendment retaliation— Williams' conspiracy claim should be remanded to the district court for reconsideration.
 
-Here, Defendants argue that the parties' continued adherence to the terms of the 2013 contract in planning the 2020 tournaments sufficiently establishes a contract implied in fact. IWLCA argues in response that its decision not to execute an addendum that extended the 2013 contract to the 2020 tournaments establishes its intent not to be bound by the terms of that contract. 
+<p class="case-h1">V.</h1>
 
-Reviewing the pleadings in light of the 2013 contract, the court finds that Defendants have plausibly alleged that the 2020 tournaments were governed by the 2013 contract. It is undisputed that the parties did not execute a consolidated contractual agreement for the 2018, 2019, and 2020 tournaments. Defendants' pleadings allege that both parties adhered to the terms of the 2013 contract in planning and executing the 2018 and 2019 tournaments. Further, there is some evidence that the parties — at least initially — adhered to the terms of the 2013 contract in planning the 2020 tournaments. Although IWLCA contends that the failure to execute an addendum to the 2013 contract for the 2018-20 tournaments shows an intent not to be bound, the parties' continued partnership in planning women's high school lacrosse tournaments in line with the terms of that contract from 2018 to the start of 2020 — as alleged by Defendants — plausibly alleges a contract implied in fact such that the 2020 tournaments could be governed by the terms of the 2013 contract. Ultimately, whether the parties intended as much depends on the development of the record and at this stage raises a question of fact. At the present stage, the pleadings are sufficient to allege a contract implied in fact based on the material terms of the 2013 contract.
+For the foregoing reasons, we reverse the district court's dismissal of Williams' retaliation claim. We vacate the court's dismissal of Williams' conspiracy and IIED claims and remand those claims for reconsideration consistent with this opinion.
 
-Because Defendants have plausibly alleged a contract implied in fact, it must next be determined whether they have sufficiently alleged a breach of that agreement. Defendants claim that IWLCA has breached the agreement by unilaterally announcing the cancellation of the 2020 tournaments; by actively discouraging registered teams, players, and coaches from attending the 2020 tournaments; and by failing to promote the 2020 tournaments to its member coaches. Defendants support these allegations with specific facts. For example, Defendants allege that IWLCA unilaterally decided and announced the cancellation of the 2020 tournaments in April 2020 at the outset of the coronavirus pandemic. They further point to specific efforts made by IWLCA to discourage its coaches from affiliating with CSE and the significant drop in attendance for the 2020 tournaments compared to years prior.[^IWLC1] Meanwhile, the 2013 contract requires that IWLCA "promote the Tournaments to college coaches with the goal of increasing attendance and participation," and specifically states that should a "condition exist that poses substantial risk to the safety and well being of Tournament participants and attendees, the IWLCA and CSE shall decide together to cancel a Tournament." The allegations made by Defendants are sufficient, at the present stage, to plead a plausible breach of the parties' agreement. Accordingly, IWLCA's motion to dismiss Defendants' counterclaim for breach of contract will be denied.
+#### Johnson v. Cricket Council USA, Inc., 658 F.Supp.3d 276 (E.D.N.C. 2023)
 
-[^IWLC1]: (n.4 in opinion) To the extent that IWLCA argues that Defendants ignore the "obvious alternative explanation" for decreased attendance and participation in the 2020 tournaments — namely, the COVID-19 pandemic — it raises a fact question that the court is constrained not to consider at the motion to the dismiss stage. For this reason, the court does not address this argument here.
+<p class="case-h1">JAMES C. DEVER III, United States District Judge.</p>
 
-<p class="case-h2">C. Tortious Interference with Contract</p>
+<p class="case-h1">I.</p>
 
-Defendants next bring a claim of tortious interference with contract. Defendants contend that IWLCA tortiously interfered with contracts between Defendants and players, teams, and coaches registered for the 2020 tournaments. IWLCA argues that this claim should be dismissed because Defendants failed to adequately plead the cause of action in several respects; specifically, that Defendants failed to adequately allege that IWLCA induced any specific third party to breach its contract, that any specific third party actually breached its contract, that Defendants actually maintained contracts with the third parties, or that any third party would have performed under its contract but for IWLCA's conduct. Defendants respond that IWLCA has mischaracterized their pleadings. 
+On April 13, 2021, Johnson and Cricket Council USA, Inc. entered into a real property contract (the "Agreement") for the purchase and sale of 69.94 acres of land in Fayetteville, North Carolina for $1,259,460.00. The Agreement defined the "Contract Date" as the date when the "Agreement had been fully executed by both Buyer and Seller." Thus, the contract date was April 13, 2021. The Agreement defined the "Examination Period" as "the period beginning on the first day after the Contract Date and extending through 5:00 pm (based upon time at the locale of the Property) on 90 business days from the contract date." The Agreement stated that "Buyer may extend the Examination Period up to three 30 day extensions, upon each extension buyer will deposit an additional $2,500 non refundable." And the Agreement noted that "TIME IS OF THE ESSENCE AS TO THE EXAMINATION PERIOD." The Agreement defined the "Closing Date" as 30 days after the end of the Examination Period upon approval from the city. The Agreement did not define "approval from the city," and the Closing Date section did not include a "time is of the essence" provision.
 
-To state a claim for tortious interference with contract, a complainant must show the following: (1) the existence of a valid contract between the complainant and a third person which confers upon the complainant a contractual right against a third person; (2) the opposing party knew of the contract; (3) the opposing party intentionally induced the third person not to perform the contract; (4) the opposing party acted without justification in doing so; (5) and actual damage resulted to the complainant. A complainant need not allege that the party's actions caused an actual breach of the agreement, but that the party wrongfully interfered with the complainant's rights under the contract.
+In October 2021, defendants prepared an Amendment (the "Amendment") to the Agreement, and their agents presented the Agreement to Johnson. When Johnson received the Amendment, he was not represented by an agent or attorney. The Amendment redefined the Closing Date to be "on or before the day which is Thirty (30) days after Buyer obtains all Governmental and Municipal Permits including but not limited to Master Site Plan and Building Construction Plans that are required to build Multifamily Units including Commercial Development and Sports Fields on the Subject Land."
 
-Here, Defendants allege that IWLCA was aware that CSE entered into registration contracts with teams, players, and coaches for the 2020 tournaments and that IWLCA interfered with these contracts by "contacting ... players, teams, and coaches and discouraging them from partnering with CSE and/or attending CSE tournaments" and encouraging registrants to withdraw from the 2020 tournaments. In so doing, IWLCA allegedly made false and disparaging statements regarding the quality of CSE's tournaments and the expected attendance of college coaches and recruiters at those tournaments. As a result of these statements — which were allegedly made with "no justification" and were attributable to IWLCA's "personal animus" against CSE and Corrigan — "certain of the statement recipients" broke their contracts with CSE by failing to attend the 2020 tournaments, which ultimately had historically low participation rates compared to prior years.
+According to Johnson, on November 15, 2021, he executed the Amendment but the Amendment was dated October 28, 2021. Johnson alleges that the Amendment is unenforceable for various reasons, including a lack of consideration, the closing date is so vague and ambiguous as to render it meaningless, the Agreement is not binding on defendants, and because defendants failed to properly exercise the three 30-day extensions under the Agreement.
 
-Although IWLCA contends that Defendants have failed to allege sufficient facts to plausibly state this claim, Defendants have in fact made certain specific factual allegations in support of their claim. In particular, Defendants have alleged that IWLCA representatives wrongfully contacted parties registered for the 2020 tournaments and made specific false statements to them in order to induce them not to attend the 2020 tournaments in violation of their registration agreements. Defendants further allege that at least some recipients ultimately did not attend as a result and that Defendants suffered damages due to the decreased participation numbers and resulting decreased revenues. While Defendants do not specifically identify the IWLCA representatives or registered parties involved, a high level of specificity is not required to state this claim. "At this stage of the proceeding, a complainant is not burdened with the task of proving its claim; a complainant need only allege facts which make its claim plausible." While far from robust, Defendants' allegations are sufficient to survive dismissal. Defendants' ultimate task of providing specific evidence in support of these claims will await further demonstration.
+Defendants respond that Cricket Council USA, Inc. extended the examination period three times before seeking to amend the Agreement. According to defendants, the extensions continued the examination period until Thursday, November 18, 2021. Moreover, 30 days from the end of that examination period was Saturday, December 18, 2021, which was then extended until the next business day, Monday, December 20, 2021. Defendants also contend that when Cricket Council USA, Inc. signed the Amendment, Cricket Council USA, Inc. paid $7,500.00 in nonrefundable extension funds in escrow to Johnson. On January 23, 2023, Johnson notified defendants that he was terminating the Agreement.
 
-To the extent IWLCA argues that Defendants' claim should be dismissed because Defendants did not allege that any specific registrant actually breached its agreement, this argument fails. It is not necessary for a party to plead an actual breach of an agreement to state a claim for tortious interference with contract; all that must be pleaded is wrongful interference. Defendants have sufficiently alleged such interference here, such that dismissal is inappropriate. For this same reason, IWLCA's argument that Defendants have failed to plead "but for" causation fails. In light of IWLCA's prior involvement in the tournaments as a sponsor and its relationship with its member coaches, these allegations are plausible. Defendants have also adequately alleged damages as a result of IWLCA's alleged wrongful interference such that the claim survives.
+<p class="case-h1">II.</p>
 
-Finally, IWLCA's argument that Defendants did not maintain the registration contracts, but rather that IWLCA did, fails. Defendants specifically allege that CSE, not IWLCA, entered into the contracts with registrants. Although CSE did so in line with its agreement with IWLCA, this alone does not support IWLCA's contention that CSE did not maintain these contracts. As such, IWLCA's suggestion that its actions were privileged as it was an insider to the relevant contracts fails. Taken collectively, Defendants' allegations are sufficient to state a claim for tortious interference with contract to survive dismissal. To be sure, IWLCA sees the legal relationship differently, but resolution of these competing claims must await the development of the factual record.
+To withstand a Rule 12(b)(6) motion, a pleading "must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face." In considering the motion, the court must construe the facts and reasonable inferences "in the light most favorable to the non-moving party." A court need not accept as true a complaint's legal conclusions, "unwarranted inferences, unreasonable conclusions, or arguments." Rather, a plaintiff's factual allegations must "nudge  his claims," beyond the realm of "mere possibility" into "plausibility."
 
-For all these reasons, IWLCA's motion to dismiss Defendants' tortious interference of contract claim will be denied.
+When evaluating a motion to dismiss, a court considers the pleadings and any materials "attached or incorporated into the complaint." A court may also consider a document submitted by a moving party if it is "integral to the complaint and there is no dispute about the document's authenticity." Additionally, a court may take judicial notice of public records without converting the motion to dismiss into a motion for summary judgment. 
 
-<p class="case-h2">D. Tortious Interference with Prospective Economic Advantage</p>
+As for Johnson's breach of contract claim against Cricket Council USA, Inc., Johnson must plausibly allege "the existence of a contract between plaintiff and defendant, the specific provisions breached, the facts constituting the breach, and the amount of damages resulting to plaintiff from such breach." Johnson alleges that Cricket Council USA, Inc. breached the Agreement by "(1) failing to pay the additional earnest money deposits required to extend the original Examination Period; (2) failing to close within the time allowed thereby, or within a commercially reasonable time under the circumstances; and (3) such other acts and omissions as may be shown at trial." 
 
-Defendants next bring a claim for tortious interference with prospective economic advantage. Defendants allege that IWLCA interfered with CSE's plans to hold high school women's lacrosse tournaments in 2021 by encouraging teams, players, and coaches not to attend these events and by making false statements regarding the safety and effectiveness of the tournaments for college recruitment. IWLCA argues that this claim must be dismissed because Defendants' allegations fail in multiple respects; namely, that Defendants failed (1) to identify a particular prospective contract with a particular third party with which IWLCA allegedly interfered, (2) to allege that IWLCA was aware of any prospective contract, (3) to allege that any such inference was intentional, and (4) to allege that any particular contract was not consummated. IWLCA further argues that the claim must be dismissed because it is based only on Defendants' expectation of continuing business relationships. In response, Defendants contest IWLCA's characterization of their pleadings as vague and further contend that they had more than a mere expectancy of contracting with teams, players, and coaches for the 2021 tournaments.
+As for Johnson's allegations about earnest money deposits, Johnson plausibly alleges that Cricket Council USA, Inc. did not properly pay to extend the examination period of the Agreement. Specifically, Johnson alleges that the Agreement required Cricket Council USA, Inc. to pay Johnson $2,500 before each 30-day extension of the examination period. See id. Johnson also alleges that the Agreement required a $2,500 payment as consideration for the extension and that Cricket Council USA, Inc. did not make the necessary $2,500 payment for any extension of the examination period. Johnson has plausibly alleged a breach of contract claim against Cricket Council USA, Inc.
 
-A claim for tortious interference with prospective economic advantage arises when a party interferes with a business relationship "by maliciously inducing a person not to enter into a contract with a third person, which he would have entered into but for the interference, ... if damage proximately ensues, when this interference is done not in the legitimate exercise of the interfering person's rights." A complainant's "mere expectation of a continuing business relationship is insufficient to establish such a claim." Rather, a complainant must allege that "a contract would have resulted but for defendant's malicious intervention." Conclusory indications that a contract would have been formed but for a party's conduct, without more, are not sufficient to state a claim for relief. 
+As for Johnson's allegations that Cricket Council USA, Inc. failed to close in a reasonable time, absent a "time is of the essence" clause, the parties to a real property purchase agreement are allowed a "reasonable time after the date set for closing to complete performance." The Amendment states that Cricket Council USA, Inc. had 30 days to close after obtaining the necessary permits and approvals. On January 23, 2023, when Johnson purported to terminate the Agreement, defendants argue that Cricket Council USA, Inc. had not obtained the necessary permits. Johnson, however, alleges that he had heard nothing from defendants about their efforts toward closing, did not know if Cricket Council USA, Inc. obtained any permits, and more than a year had passed between signing the Amendment and terminating the Agreement. The parties dispute whether defendants told Johnson that Cricket Council USA, Inc. would continue to honor the Agreement and whether defendants would soon close. Johnson has plausibly alleged that Cricket Council USA, Inc. failed to close in a reasonable time.
 
-Courts have acknowledged that North Carolina law "is not crystal clear" on the level of specificity required to state a claim for tortious interference with prospective economic advantage. Several courts have concluded that pleadings which do not identify specific customers or specific prospective contracts are insufficient to survive dismissal. 
+As for Johnson's UDTPA[^CricketCouncil1] claim against the defendants, a plaintiff must plausibly allege: (1) an unfair or deceptive act or practice, (2) in or affecting commerce, and (3) which proximately caused injury to the plaintiff. "Whether an act or practice is an unfair or deceptive practice ... is a question of law for the court."
 
-Here, the court need not determine whether Defendants have adequately pleaded sufficient facts for many of the particulars of this claim, which is at best dubious because Defendants fail to identify any particular contract or any particular team, player, or coach that was so dissuaded. The claim fails for another reason — namely, that it is based on the "mere expectation of a continuing business relationship." Defendants indicate that "teams, players, and coaches that historically attended CSE's recruiting tournaments" have failed to register for the 2021 tournaments "as they had for several years prior." Beyond the historic attendance of these unspecified teams, players, and coaches, Defendants provide no basis for their conclusion that contracts for the 2021 tournaments would have resulted but for IWLCA's conduct. Defendants' expectation of a continuing business relationship with these third parties alone is not sufficient to state a claim for tortious interference with prospective economic advantage. As such, IWLCA's motion to dismiss this claim will be granted.
+[^CricketCouncil1]:
+  {-} The NC Unfair & Deceptive Trade Practices Act, [N.C. Gen. Stat. § 75-1.1](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_75.html). 
+  
 
-<p class="case-h2">E. Violations of the UDTPA and Unfair Competition</p>
+A "mere breach of contract, even if intentional, is not an unfair or deceptive act under the UDTPA." North Carolina law "does not permit a party to transmute a breach of contract claim into a ... UDTPA claim ... because awarding punitive or treble damages would destroy the parties' bargain." If substantial aggravating circumstances accompany a breach of contract, then those circumstances can create an UDTPA claim. Generally, such aggravating circumstances include some element of deception, such as forged documents, lies, or fraudulent inducements. 
 
-Lastly, Defendants bring claims for violations of the UDTPA and common law unfair competition. Defendants base these causes of action on their underlying claims for breach of contract and tortious interference with contract and prospective economic advantage. In response, IWLCA argues that a breach of contract alone cannot support either claim. Further, it argues that Defendants have failed to make any specific allegations that would support these claims.
+Johnson alleges that defendants had superior bargaining power, that Johnson had no experience with real estate, that defendants caused Johnson to "enter into the Amendment in an unfair and deceptive manner," and that defendants disguised their intentions during contract negotiations. Johnson also alleges upon information and belief that defendants
 
-The standard for violations of the UDTPA and common law unfair competition are not "appreciably different." The tort of common law unfair competition is recognized in North Carolina "as an offense committed in the context of competition between business rivals." "The gravamen of unfair competition is the protection of a business from misappropriation of its commercial advantage earned through organization, skill, labor, and money." UDTPA violations require a plaintiff to show that (1) the defendant committed an unfair or deceptive act or practice (2) that was in or affecting commerce and (3) proximately caused injury. "An act or practice is unfair 'if it is immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers,' and is deceptive 'if it has the capacity or tendency to deceive.'" "The determination of whether an act or practice is an unfair or deceptive practice that violates the UDTPA is a question of law for the court."
+> made false representations to Plaintiff or concealed material facts from Plaintiff concerning: (1) their true intentions with regard to Plaintiff's property; (2) their true intentions with regard to whether they would actually close on the purchase of Plaintiff's property; (3) their acts and omissions concerning moving forward with obtaining Government and Municipal Permits and Construction Plans concerning the Subject Property; (4) their ability to close on the Subject Property; and, (5) such other acts and omissions as may be shown at trial.
 
-Defendants explicitly base these causes of action on their underlying breach of contract and tortious interference claims. Although Defendants' tortious interference with prospective economic advantage claim has been dismissed, Defendants have sufficiently alleged claims for breach of contract and tortious interference with contract. The court must therefore consider the sufficiency of each to support an unfair competition claim.
+Johnson's allegations are conclusory and do not plausibly allege a UDTPA claim.[^CricketCouncil2]  Thus, the court dismisses Johnson's UDTPA claim.
 
-Tortious interference with contract claims may support unfair competition claims. Here, Defendants have alleged that IWLCA interfered with CSE's contracts with tournament attendees and that in doing so, IWLCA made false and disparaging statements about the 2020 tournaments. Further, Defendants allege that IWLCA's actions caused certain individuals not to attend the tournaments, breaking their contracts and causing harm to CSE in the form of lost revenues and decreased tournament participation. At this early stage, these allegations are sufficient to state a plausible claim for unfair competition predicated on IWLCA's tortious interference with contract.
+[^CricketCouncil2]:
+  {-} The court does not explain why it regards the allegations as "conclusory" or why they "do not plausibly allege a UDTPA claim." Can you discern the court's rationale? 
 
-To the extent Defendants base their unfair competition claims on IWLCA's breach of contract, a higher standard must be met as North Carolina courts "differentiate between contract and deceptive trade practice claims, and relegate claims regarding the existence of an agreement, the terms contained in an agreement, and the interpretation of an agreement to the arena of contract law." A "mere breach of contract, even if intentional," is not sufficient to sustain a claim under the UDTPA. Instead, a showing of "substantial aggravating circumstances" is required. "The type of conduct that has been found sufficient to constitute a substantial aggravating factor has generally involved forged documents, lies, and fraudulent inducements." However, statements that amount to "mere puffing, guesses, or assertions of opinions" as opposed to "representations of material facts" are not sufficient. Further, "where the only acts alleged are themselves a breach of the contract between the parties, they will not support a UDTPA claim."
+As for Johnson's request to pierce the corporate veil,[^CricketCouncil3] the court must assess whether Johnson plausibly alleges sufficient facts that would, if believed, tend to establish the required elements to pierce the corporate veil under North Carolina's "instrumentality rule." In order to prevail under the instrumentality rule, the aggrieved party must establish three elements: "(1) stockholders' control of the corporation amounts to 'complete domination' with respect to the transaction at issue; (2) stockholders' use of this control to commit a wrong ...; and (3) this wrong or breach of duty must be the proximate cause of the injury."
 
-Accordingly, for Defendants' breach of contract claim to support these claims, the breach must be accompanied by "substantial aggravating circumstances." Defendants contend that certain of IWLCA's actions — specifically discouraging teams, players, and coaches from attending the 2020 tournaments, disparaging CSE and Corrigan to coaches and attendees, and spreading misinformation about the tournaments while using the COVID-19 pandemic as pretext for severing their partnership — constitute such circumstances. However, these activities are themselves alleged to be breaches of the parties' contract and therefore cannot support a separate UDTPA claim. Further, at least some of the alleged behavior, such as IWLCA's statements regarding the quality of CSE's tournaments and the trustworthiness of Corrigan, do not appear to be misrepresentations of fact but rather statements of opinion regarding a competing organization. As such, these allegations are insufficient to show "aggravating circumstances" that elevate the breach of contract claim to one of unfair competition. Accordingly, to the extent Defendants base their unfair competition claims on IWLCA's breach of contract, IWLCA's motion to dismiss those claims will be granted and those claims will be dismissed.
+[^CricketCouncil3]:
+  {-} "Piercing the corporate veil refers to a special instance where the court holds the shareholder or director of a corporation personally liable for the corporation’s debts." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/piercing_the_corporate_veil). In this case, the plaintiff was seeking to hold Mohammed Qureshi, the CEO and Board Chair of Cricket Council USA, personally liable for the alleged breach of contract. 
 
+Defendants contend that Johnson fails to plausibly allege these required elements. Johnson responds that he has sufficiently pled facts for the court to pierce Cricket Council USA, Inc.'s corporate veil. 
 
-## Answers and Defenses
+In _Fischer_, the North Carolina Court of Appeals cited numerous factual allegations in the plaintiff's complaint that sufficiently pled a claim to pierce the corporate veil under the instrumentality rule's "control" element. To name a few, the plaintiff [in _Fischer_] cited specific asset transfers used to subvert the corporate form, noted that the owner failed to file annual reports with the Secretary of State and otherwise comply with corporate formalities, and alleged that the actions of the owner left the corporation in question insolvent. The North Carolina Court of Appeals noted that these allegations addressed three of the four elements of control: "inadequate capitalization," "noncompliance with corporate formalities," and "complete domination and control of the corporation so that it has no independent identity."
+
+Although the analysis of the control element does not depend on the presence or absence of any particular factor, Johnson's sole reliance on the factual allegations that Qureshi is the "sole or dominant owner of Cricket Council," "is the President of Cricket Council," and "exercises complete dominion and control over Cricket Council" does not suffice. Without more facts indicating "complete domination, not only of finances, but of policy and business practices ... so that the corporate entity ... had ... no separate mind, will or existence of its own," Johnson's allegations are conclusory and do not plausibly support piercing the corporate veil. Because Johnson's allegations fail under the first "control" element of the instrumentality rule, the court need not address if the breach of contract claim is within the "wrongs" contemplated by the second element or address proximate cause. Thus, the court dismisses Johnson's request to pierce the corporate veil.
+
+## Responsive Pleadings
 
 <div class="legal-code">
 
 #### Fed. R. Civ. P. Rule 8 {#rule8b}
 
-(b) Defenses; Admissions and Denials.
+(b) Defenses; Admissions and Denials.
 
 > (1) In General. In responding to a pleading, a party must:
 
@@ -330,69 +396,45 @@ Accordingly, for Defendants' breach of contract claim to support these claims, t
 	
 > (1) In General. In responding to a pleading, a party must affirmatively state any avoidance or affirmative defense, including:
 
-> > - accord and satisfaction; 
+> > • accord and satisfaction; 
   
-> > - arbitration and award;
+> > • arbitration and award;
 
-> > - assumption of risk;
+> > • assumption of risk;
 
-> > - contributory negligence;
+> > • contributory negligence;
 
-> > - duress;
+> > • duress;
 
-> > - estoppel;
+> > • estoppel;
 
-> > - failure of consideration;
+> > • failure of consideration;
 
-> > - fraud;
+> > • fraud;
 
-> > - illegality;
+> > • illegality;
 
-> > - injury by fellow servant;
+> > • injury by fellow servant;
 
-> > - laches;
+> > • laches;
 
-> > - license;
+> > • license;
 
-> > - payment;
+> > • payment;
 
-> > - release;
+> > • release;
 
-> > - res judicata;
+> > • res judicata;
 
-> > - statute of frauds;
+> > • statute of frauds;
 
-> > - statute of limitations; and
+> > • statute of limitations; and
 
-> > - waiver.
+> > • waiver.
   
 > (2) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
 
-</div>
-
-<div class="legal-code">
-
-#### Fed. R. Civ. P. Rule 12 {#rule12}
-
-(a) Time to Serve a Responsive Pleading.
-
-> (1) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
-
-> > (A) A defendant must serve an answer:
-
-> > > (i) within 21 days after being served with the summons and complaint; or
-
-> > > (ii) if it has timely waived service under Rule 4(d), within 60 days after the request for a waiver was sent, or within 90 days after it was sent to the defendant outside any judicial district of the United States.
-
-> > (B) A party must serve an answer to a counterclaim or crossclaim within 21 days after being served with the pleading that states the counterclaim or crossclaim.
-
-> > (C) A party must serve a reply to an answer within 21 days after being served with an order to reply, unless the order specifies a different time.
-
-> (4) Effect of a Motion. Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
-
-> > (A) if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
-
-> > (B) if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
+#### Fed. R. Civ. P. Rule 12 {#rule12b}
 
 (b) How to Present Defenses. Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
 
@@ -412,51 +454,9 @@ Accordingly, for Defendants' breach of contract claim to support these claims, t
 
 A motion asserting any of these defenses must be made before pleading if a responsive pleading is allowed. If a pleading sets out a claim for relief that does not require a responsive pleading, an opposing party may assert at trial any defense to that claim. No defense or objection is waived by joining it with one or more other defenses or objections in a responsive pleading or in a motion.
 
-(c) Motion for Judgment on the Pleadings. After the pleadings are closed—but early enough not to delay trial—a party may move for judgment on the pleadings.
-
-(d) Result of Presenting Matters Outside the Pleadings. If, on a motion under Rule 12(b)(6) or 12(c), matters outside the pleadings are presented to and not excluded by the court, the motion must be treated as one for summary judgment under Rule 56. All parties must be given a reasonable opportunity to present all the material that is pertinent to the motion.
-
-(e) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
-
-(f) Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
-
-> (1) on its own; or
-
-> (2) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
-
-(g) Joining Motions.
-
-> (1) Right to Join. A motion under this rule may be joined with any other motion allowed by this rule.
-
-> (2) Limitation on Further Motions. Except as provided in Rule 12(h)(2) or 
-
-> (3) a party that makes a motion under this rule must not make another motion under this rule raising a defense or objection that was available to the party but omitted from its earlier motion.
-
-(h) Waiving and Preserving Certain Defenses.
-
-> (1) When Some Are Waived. A party waives any defense listed in Rule 12(b)(2)–(5) by:
-
-> > (A) omitting it from a motion in the circumstances described in Rule 12(g)(2); or
-
-> > (B) failing to either:
-
-> > > (i) make it by motion under this rule; or
-
-> > > (ii) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course.
-
-> (2) When to Raise Others. Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
-
-> > (A) in any pleading allowed or ordered under Rule 7(a);
-
-> > (B) by a motion under Rule 12(c); or
-
-> > (C) at trial.
-
-> (3) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
-
-(i) Hearing Before Trial. If a party so moves, any defense listed in Rule 12(b)(1)–(7)—whether made in a pleading or by motion—and a motion under Rule 12(c) must be heard and decided before trial unless the court orders a deferral until trial.
-
 </div>
+
+### Denials & Affirmative Defenses
 
 #### Reis Robotics, USA, Inc. v. Concept Industries, Inc., 462 F.Supp.2d 897 (N.D. Ill. 2006)
 
@@ -506,7 +506,7 @@ We turn first to Reis's motion to strike and dismiss various portions of Concept
 
 Federal Rule of Civil Procedure 12(f) permits the Court to strike "any insufficient defense or any redundant, immaterial, impertinent or scandalous matter." Fed.R.Civ.P. 12(f). Motions to strike are generally disfavored because of their potential to delay proceedings. Nonetheless, a motion to strike can be a useful means of removing "unnecessary clutter" from a case, which will in effect expedite the proceedings. 
 
-Affirmative defenses are pleadings and, as such, are subject to all the same pleading requirements applicable to complaints. Thus, affirmative defenses must set forth a "short and plain statement" of the basis for the defense. Fed. R.Civ.P. 8(a). Even under the liberal notice pleading standards of the Federal Rules, an affirmative defense must include either direct or inferential allegations as to all elements of the defense asserted. "\[B\]are bones conclusory allegations" are not sufficient.
+Affirmative defenses are pleadings and, as such, are subject to all the same pleading requirements applicable to complaints. Thus, affirmative defenses must set forth a "short and plain statement" of the basis for the defense. Fed. R.Civ.P. 8(a). Even under the liberal notice pleading standards of the Federal Rules, an affirmative defense must include either direct or inferential allegations as to all elements of the defense asserted. "Bare bones conclusory allegations" are not sufficient.
 
 This Court applies a three-part test for examining the sufficiency of an affirmative defense. First, we determine whether the matter is appropriately pled as an affirmative defense Second, we determine whether the defense is adequately pled under Federal Rules of Civil Procedure 8 and 9. _Id._ Third, we evaluate the sufficiency of the defense pursuant to a standard identical to Federal Rule of Civil Procedure 12(b)(6). Before granting a motion to strike an affirmative defense, the Court must be convinced that there are no unresolved questions of fact, that any questions of law are clear, and that under no set of circumstances could the defense succeed. Additionally, in a case premised on diversity jurisdiction, "the legal and factual sufficiency of an affirmative defense is examined with reference to state law." With these principles in mind, we turn to the specific arguments raised in the motion.
 
@@ -522,7 +522,7 @@ As its third affirmative defense, Concept alleges: "Reis's payment claims for th
 
 As its fourth affirmative defense, Concept alleges: "Reis's claims are subsumed by Concept's right of set-off and/or recoupment. Alternatively, the amount of Concept's claims against Reis exceeds the amount of Reis's claim against Concept." Reis argues that the affirmative defense is nothing more than a recapitulation of Concept's denial of the amount of damages claimed to be owed in the complaint. In its response brief, Concept fails to offer any analysis refuting Reis's argument. The Court agrees that this affirmative defense appears to be simply a restatement of the denials contained in Concept's answer, which is improper. However, to the extent Concept intended to raise some affirmative matter here, the Court will give Concept an opportunity to replead. The fourth affirmative defense is therefore stricken without prejudice.
 
-Concept's fifth affirmative defense states: "Reis's claims are barred or limited by laches, waiver, estoppel, unclean hands, or similar legal or equitable doctrines." Laches, waiver, estoppel, and unclean hands are equitable defenses that must be pled with the specific elements required to establish the defense. Merely stringing together a long list of legal defenses is insufficient to satisfy Rule 8(a). "It is unacceptable for a party's attorney simply to mouth \[affirmative defenses\] in formula-like fashion ('laches,' 'estoppel,' 'statute of limitations' or what have you), for that does not do the job of apprising opposing counsel and this Court of the predicate for the claimed defense — which after all is the goal of notice pleading." This is precisely what Concept has done here. Indeed, in asserting "similar legal or equitable doctrines," Concept fails to put Reis on notice as to even the legal bases for its defenses. Thus, the Court strikes Concept's fifth affirmative defense without prejudice.
+Concept's fifth affirmative defense states: "Reis's claims are barred or limited by laches, waiver, estoppel, unclean hands, or similar legal or equitable doctrines." Laches, waiver, estoppel, and unclean hands are equitable defenses that must be pled with the specific elements required to establish the defense. Merely stringing together a long list of legal defenses is insufficient to satisfy Rule 8(a). "It is unacceptable for a party's attorney simply to mouth affirmative defenses in formula-like fashion ('laches,' 'estoppel,' 'statute of limitations' or what have you), for that does not do the job of apprising opposing counsel and this Court of the predicate for the claimed defense — which after all is the goal of notice pleading." This is precisely what Concept has done here. Indeed, in asserting "similar legal or equitable doctrines," Concept fails to put Reis on notice as to even the legal bases for its defenses. Thus, the Court strikes Concept's fifth affirmative defense without prejudice.
 
 Concept's sixth affirmative defense states: "Concept reserves the right to add additional affirmative defenses as they become known through discovery." This is not a proper affirmative defense. If at some later point in the litigation Concept believes that the addition of another affirmative defense is warranted, it may seek leave to amend its pleadings pursuant to Rule 15(a); such a request will be judged by the appropriate standards, including the limitations set forth in Rule 12(b) and (h). Accordingly, Concept's sixth affirmative defense is stricken with prejudice.
 
@@ -538,8 +538,63 @@ Similarly, Reis argues that Paragraphs 15, 16, 20 each contain language that doe
 
 Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a general matter, Illinois follows the "American rule," such that attorneys fees and costs are ordinarily not awarded to the prevailing party unless authorized by statute or provided for by contract. Concept responds that it is merely attempting to preserve its ability to obtain fees should it later be determined that it is entitled to do so. At this early stage of the litigation, the Court cannot determine as a definitive matter that fees and costs are wholly unavailable to Concept. Thus, the Court declines to strike the request for attorneys fees and costs.
 
+### Timing, Waiver, & Preservation of Defenses 
 
+<div class="legal-code">
 
+#### Fed. R. Civ. P. Rule 12 {#rule12a-g-h}
+
+(a) Time to Serve a Responsive Pleading.
+
+> (1) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
+
+> > (A) A defendant must serve an answer:
+
+> > > (i) within 21 days after being served with the summons and complaint; or
+
+> > > (ii) if it has timely waived service under Rule 4(d), within 60 days after the request for a waiver was sent, or within 90 days after it was sent to the defendant outside any judicial district of the United States.
+
+> > (B) A party must serve an answer to a counterclaim or crossclaim within 21 days after being served with the pleading that states the counterclaim or crossclaim.
+
+> > (C) A party must serve a reply to an answer within 21 days after being served with an order to reply, unless the order specifies a different time.
+
+> (4) Effect of a Motion. Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
+
+> > (A) if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
+
+> > (B) if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
+
+(g) Joining Motions.
+
+> (1) Right to Join. A motion under this rule may be joined with any other motion allowed by this rule.
+
+> (2) Limitation on Further Motions. Except as provided in Rule 12(h)(2) or 
+
+> (3) a party that makes a motion under this rule must not make another motion under this rule raising a defense or objection that was available to the party but omitted from its earlier motion.
+
+(h) Waiving and Preserving Certain Defenses.
+
+> (1) When Some Are Waived. A party waives any defense listed in Rule 12(b)(2)–(5) by:
+
+> > (A) omitting it from a motion in the circumstances described in Rule 12(g)(2); or
+
+> > (B) failing to either:
+
+> > > (i) make it by motion under this rule; or
+
+> > > (ii) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course.
+
+> (2) When to Raise Others. Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
+
+> > (A) in any pleading allowed or ordered under Rule 7(a);
+
+> > (B) by a motion under Rule 12(c); or
+
+> > (C) at trial.
+
+> (3) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
+
+</div>
 
 ## Amendments
 
@@ -627,17 +682,17 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 > Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions sic, when, in fact:
 > > 
-> > - Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
+> > • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
 > > 
-> > - Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
+> > • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
 > > 
-> > - Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
+> > • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
 > > 
-> > - Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
+> > • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
 > > 
-> > - Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
+> > • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
 > > 
-> > - Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
+> > • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
@@ -960,7 +1015,7 @@ We have recognized that maintaining a legal position to a court is only sanction
 
 In its Sanctions Order, the court maintained, with respect to Ms. Hunter, that "plaintiffs' standing to file suit was challenged based on a binding arbitration clause in the Earthgrains CBA. Plaintiffs' response to this gateway issue rested on a tenuous, if not preposterous, reading of the CBA and applicable law." The court was correct that the legal position it found frivolous — that a collective bargaining agreement ("CBA") arbitration clause must contain specific language to mandate arbitration of a federal discrimination claim — had been rejected by us four years earlier in _Austin v. Owens-Brockway Glass Container, Inc._ However, our reasoning in _Austin,_ as of April 22, 1998 (when the Show Cause Order issued), stood alone on one side of a circuit split. Six of our sister circuits (the Second, Sixth, Seventh, Eighth, Tenth, and Eleventh) had taken the legal position contrary to _Austin_ on whether a CBA could waive an individual employee's statutory cause of action. In point of fact, and consistent with the foregoing, none of our sister circuits, as of April 1998, had agreed with the position we took in _Austin.
 
-The circuit split evidenced by these decisions concerned whether collective bargaining agreements containing general language required arbitration of individuals' statutory claims, such as those arising under the ADEA and Title VII. The disagreement of the circuits on this issue resulted from varying interpretations of the Court's decisions in _Alexander v. Gardner-Denver Company_, and _Gilmer v. Interstate/Johnson Lane Corp._[^hunter16] This Court, in _Austin,_ had deemed _Gilmer_ to be the controlling authority, while the other circuits chose the alternate route, finding the Court's decision in _Alexander_ to control.
+The circuit split evidenced by these decisions concerned whether collective bargaining agreements containing general language required arbitration of individuals' statutory claims, such as those arising under the ADEA and Title VII. The disagreement of the circuits on this issue resulted from varying interpretations of the Court's decisions in _Alexander v. Gardner-Denver Company_, and _Gilmer v. Interstate/Johnson Lane Corp.[^hunter16] This Court, in _Austin,_ had deemed _Gilmer_ to be the controlling authority, while the other circuits chose the alternate route, finding the Court's decision in _Alexander_ to control.
 
 In opposition to Earthgrains' summary judgment motion, Ms. Hunter repeatedly relied upon the Supreme Court's decision in _Alexander_ (failing, however, to rely on the decisions of the six circuits that had followed _Alexander_). She further sought to align her case against Earthgrains with _Alexander_ by discussing the generality of the applicable clause of the Earthgrains CBA, which included the agreement not to "illegally discriminate." She contended that this provision was not sufficiently specific to require her clients to arbitrate.
 
