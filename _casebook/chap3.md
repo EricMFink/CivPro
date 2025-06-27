@@ -602,7 +602,8 @@ In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organ
  
 </div>
 
-[^fuld1]: The Court in _Fuld_ declined to address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."
+[^fuld1]: 
+  {-} The Court in _Fuld_ declined to address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."
 
 After reviewing the foundations of the 14th Amendmendment due process limits on personal jurisdiction, the Court concluded: 
 
