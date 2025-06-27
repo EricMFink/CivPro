@@ -76,7 +76,7 @@ For disability accommodation requests, contact the [Elon Disability Services Off
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
-\newpage 
+
 
 ## Schedule & Assignments
 
@@ -91,8 +91,8 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 | Sept. 5 & 7 | Permissive Joinder of Claims & Parties | Casebook ch. 2, § 1 |
 | Sept. 10 & 12 | Counterclaims | Casebook ch. 2, § 2.1 |
 | Sept. 15 | Crossclaims | Casebook ch. 2, § 2.2 |
-| Sept. 17 | Third-Party Defendants | Casebook ch. 2, § 3.1 |
-| Sept. 19 & 22 | Required Parties & Intervention | Casebook ch. 2, §§ 3.2 & 3.3 |
+| Sept. 17 & 19 | Third-Party Defendants | Casebook ch. 2, § 3.1 |
+| Sept. 22 | Required Parties & Intervention | Casebook ch. 2, §§ 3.2 & 3.3 |
 |   |   |   |
 |   | **3. Personal Jurisdiction** | Clermont ch. 4, §§ 4.2-4.4 |
 |   | Click & Learn | Unit 1 | 
@@ -111,23 +111,22 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 |   | Click & Learn | Unit 9 | 
 | Oct. 22 & 24 | Rules of Decision Act & _Erie_ | Casebook ch. 5, § 1.1 |
 | Oct. 27 & 29 | Rules Enabling Act & _Hanna_ | Casebook ch. 5, § 1.2 |
-|   |   |   |
+|   |   |   | 
 |   | **6. Pleading** | Clermont ch. 2, § 2.2(A) |
-|   | Click & Learn | Unit 5 | 
-| Oct. 31 & Nov. 3 | Complaints | Casebook ch. 6, §§ 1 & 2 |
-| Nov. 5 | Answers and Defenses | Casebook ch. 6, § 3 |
-| Nov. 7 | Amendments | Casebook ch. 6, § 4 |
-| Nov. 10 | Truthfulness and Good Faith | Casebook ch. 6, § 5 |
+|   | Click & Learn | Unit 5 |
+| Oct. 31 & Nov. 3 | Notice Pleading & Complaints | Casebook ch. 6, §§ 1, 2, & 3 |
+| Nov. 5 & 7 | Answers and Defenses | Casebook ch. 6, § 4 |
+| Nov. 10 | Amendments | Casebook ch. 6, § 5 |
+| Nov. 12 | Truthfulness and Good Faith | Casebook ch. 6, § 6 |
 |   |   |   |
 |   | **7. Preclusion** | Clermont ch. 5 |
 |   | Click & Learn | Unit 10 (part 1 only) | 
-| Nov. 12 & 14 | Claim Preclusion | Casebook ch. 7, §§ 1 & 2 |
-| Nov. 17 & 19 | Issue Preclusion | Casebook ch. 7, § 3 |
+| Nov. 14 & 17 | Claim Preclusion | Casebook ch. 7, §§ 1 & 2 |
+| Nov. 19 & 21 | Issue Preclusion | Casebook ch. 7, § 3 |
 |   |   |   |
 |   | **8. Summary Judgment** | Clermont ch. 2, § 2.2 |
 |   | Click & Learn | Unit 8 (part 1, sec. III only) | 
-| Nov. 21 | Standard | Casebook ch. 8, § 1 |
-| Nov. 24 | Burden of Production | Casebook ch. 8, § 2 |
+| Nov. 24 | Standard & Burden of Production | Casebook ch. 8 |
 |   |   |   |
 | TBD | Final Review |   |
 | TBD | Final Exam |   |

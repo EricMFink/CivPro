@@ -45,7 +45,7 @@ A civil action is commenced by filing a complaint with the court.
 
 </div>
 
-## Form of Pleading
+## Form of Pleadings
 
 <div class="legal-code">
 
