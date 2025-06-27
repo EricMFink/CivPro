@@ -105,7 +105,7 @@ Each page of plaintiff's complaint appears on an e-filing which is dominated by 
 
 <p class="case-h1">I. BACKGROUND</h1>
 
-[Plaintiff sued multiple defendants---including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")---in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris in the Missippi River. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each Defendants' role in the accident and the basis for liability against each.]
+[Plaintiff sued multiple defendants---including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")---in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each defendants' role in the accident and the basis for liability.]
 
 <p class="case-h1">II. LAW AND ANALYSIS</h1>
 
@@ -114,7 +114,7 @@ Each page of plaintiff's complaint appears on an e-filing which is dominated by 
 The United States Supreme Court [has] set forth the basic criteria necessary for a complaint to survive a Rule 12(b)(6) motion to dismiss:[^safemarine1] "While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations, a plaintiff's obligation to provide the grounds of his entitlement to relief requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do." A complaint is also insufficient if it merely "tenders 'naked assertions' devoid of 'further factual enhancement.'" However, "a claim has facial plausibility when the plaintiff pleads the factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged." In order to satisfy the plausibility standard, the plaintiff must show "more than a sheer possibility that a defendant has acted unlawfully." "Furthermore, while the court must accept well-pleaded facts as true, it will not 'strain to find inferences favorable to the plaintiff.'" On a motion to dismiss, courts "are not bound to accept as true a legal conclusion couched as a factual allegation." 
 
 [^safemarine1]: 
-  {-} See § 3.2 Claims for Relief.
+  {-} See § 3 Claims for Relief.
 
 Rule 12(e) provides that a motion for more definite statement may be filed when "a pleading to which a responsive pleading is permitted is so vague or ambiguous that a party cannot reasonably be required to frame a responsive pleading." The standard for evaluating a motion for more definite statement is whether the complaint "is so excessively vague and ambiguous as to be unintelligible and as to prejudice the defendant seriously in attempting to answer it." Such motions are disfavored and granted sparingly. However, in the words of the Supreme Court, "if a pleading fails to specify the allegations in a manner that provides sufficient notice," then a Rule 12(e) motion may be appropriate. A party may not use a Rule 12(e) motion as a substitute for discovery; however, "if details are necessary in order to make a vague complaint intelligible, the fact that the details also are subject to the discovery process should not preclude their production under Rule 12(e)." 
 
@@ -147,11 +147,11 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 (a) Claim for Relief. A pleading that states a claim for relief must contain:
 
-> > (1) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
+> (1) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
 
-> > (2) a short and plain statement of the claim showing that the pleader is entitled to relief; and
+> (2) a short and plain statement of the claim showing that the pleader is entitled to relief; and
 
-> > (3) a demand for the relief sought, which may include relief in the alternative or different types of relief.
+> (3) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
 #### Fed. R. Civ. P. Rule 9 {#rule9}
 
@@ -177,7 +177,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 </div>
 
-<div class="comment">
+#### Assessing the Sufficiency of a Claim
 
 Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a short and plain statement of the claim showing that the pleader is entitled to relief". This requirement applies to any party (whether in the position of plaintiff or defendant)[^claims1] who asserts a claim, counterclaim, crossclaim, or third-party claim.
 
@@ -197,7 +197,7 @@ In _Conley v. Gibson_, 355 U.S. 41 (1957), the Supreme Court interpreted Rule 8(
 
 A half-century later, a pair of Supreme Court decisions jettisoned the _Conley_ "no set of facts" standard and adopted a more demanding approach. 
 
-**Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)**
+<p class="case-h2">1. Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)</p>
 
 In _Twombly_, the plaintiffs alleged that four telecommunications companies had "engaged in a contract, combination or conspiracy to prevent competitive entry in their respective local telephone and/or high speed internet services markets by, among other things, agreeing not to compete with one another and to stifle attempts by others to compete with them and otherwise allocating customers and markets to one another in violation of Section 1 of the Sherman Antitrust Act, [15 U.S.C. § 1](https://www.law.cornell.edu/uscode/text/15/1)" In support of that claim, the complaint alleged that the defendants "engaged in parallel conduct" to restrict competition, including "making unfair agreements with [competing providers] for access to [the defendants'] networks, providing inferior connections to the networks, overcharging, and billing in ways designed to sabotage the [competing providers'] relations with their own customers." The complaint also alleged that the defendants agreed to refrain from competing with one another, by not pursuing business opportunities in markets already serviced by other defendants. 
 
@@ -211,7 +211,7 @@ The Court held that the allegations in the complaint were insufficient to state 
  
 To assess whether the inference of an agreement was plausible, the majority considered "an obvious alternative explanation": While the alleged parallel conduct was "consistent with conspiracy," it was, in the majority's view, "as much in line with a wide swath of rational and competitive business strategy unilaterally prompted by common perceptions of the market." Finding that "the plaintiffs here have not nudged their claims across the line from conceivable to plausible," the majority concluded that "their complaint must be dismissed."
 
-**Ashcroft v. Iqbal, 556 U.S. 662 (2009)**
+<p class="case-h2">2. Ashcroft v. Iqbal, 556 U.S. 662 (2009)</p>
 
 Javaid Iqbal sued various federal government officials, including former Attorney General John Ashcroft and FBI Director Robert Mueller, over his arrest and detention as a "a person 'of high interest' to the September 11 investigation". Iqbal, a citizen of Pakistan and a Muslim, alleged that Ashcroft and Mueller "adopted an unconstitutional policy that subjected him to harsh conditions of confinement on account of his race, religion, or national origin." 
 
@@ -246,8 +246,6 @@ Applying that standard to Iqbal's complaint, the majority concluded that the all
 > But even if the complaint's well-pleaded facts give rise to a plausible inference that respondent's arrest was the result of unconstitutional discrimination, that inference alone would not entitle respondent to relief. It is important to recall that respondent's complaint challenges neither the constitutionality of his arrest nor his initial detention. Respondent's constitutional claims against petitioners rest solely on their ostensible "policy of holding post-September-11th detainees" in the [maximum security special housing unit] once they were categorized as "of high interest." To prevail on that theory, the complaint must contain facts plausibly showing that petitioners purposefully adopted a policy of classifying post-September-11 detainees as "of high interest" because of their race, religion, or national origin.
 
 > This the complaint fails to do. Though respondent alleges that various other defendants, who are not before us, may have labeled him a person "of high interest" for impermissible reasons, his only factual allegation against petitioners accuses them of adopting a policy approving "restrictive conditions of confinement" for post-September-11 detainees until they were "'cleared' by the FBI." Accepting the truth of that allegation, the complaint does not show, or even intimate, that petitioners purposefully housed detainees in the ADMAX SHU due to their race, religion, or national origin. All it plausibly suggests is that the Nation's top law enforcement officers, in the aftermath of a devastating terrorist attack, sought to keep suspected terrorists in the most secure conditions available until the suspects could be cleared of terrorist activity. Respondent does not argue, nor can he, that such a motive would violate petitioners' constitutional obligations. He would need to allege more by way of factual content to "nudge" his claim of purposeful discrimination "across the line from conceivable to plausible." 
-
-</div>
 
 #### Williams v. Mitchell, 122 F.4th 85 (4th Cir. 2024)
 
