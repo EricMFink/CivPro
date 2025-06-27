@@ -576,13 +576,13 @@ HANWJH availed itself of the Illinois market in offering and shipping a product 
 
 The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, 'federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons.'" Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... 'authorized by a federal statute.'"
 
-In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organization under the "Promoting Security and Justice for Victims of Terrorism Act" (PSJVTA), a federal statute that authorizes suits in federal court by "Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs ...." 18 U.S. Code § 2333. The PSJVTA also authorizes the exercise of personal jurisdiction over the PLO and the Palestinian Authority based on construtive consent: 
+In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organization under the "Promoting Security and Justice for Victims of Terrorism Act" (PSJVTA), a federal statute that authorizes suits in federal court by "Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs ...." 18 U.S. Code § 2333. The PSJVTA also authorizes the exercise of personal jurisdiction over the PLO and the Palestinian Authority based on certain activity: 
 
 > _18 U.S. Code § 2334 - Jurisdiction and venue_
 
 <div class="legal-code">
 
-> (e) Consent of Certain Parties to Personal Jurisdiction.—
+> (e) Consent[^fuld1] of Certain Parties to Personal Jurisdiction.—
 > 
 > > (1) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
 > 
@@ -601,6 +601,8 @@ In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organ
 > > > > (iii) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
  
 </div>
+
+[^fuld1]: The Court in _Fuld_ declined to address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."
 
 After reviewing the foundations of the 14th Amendmendment due process limits on personal jurisdiction, the Court concluded: 
 
