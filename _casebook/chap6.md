@@ -85,7 +85,7 @@ A civil action is commenced by filing a complaint with the court.
 
 <p class="case-h1">Order Striking Complaint</h1>
 
-Each page of plaintiff's complaint appears on an e-filing which is dominated by a larghe multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers".[^dragonlawyers1] Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertient, or scanalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
+Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers".[^dragonlawyers1] Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
 
 [^dragonlawyers1]: 
   {-} See Fig. 1 below.
