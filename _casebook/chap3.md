@@ -578,9 +578,9 @@ The Supreme Court recently addressed the issue of whether the due process limits
 
 In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organization under the "Promoting Security and Justice for Victims of Terrorism Act" (PSJVTA), a federal statute that authorizes suits in federal court by "Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs ...." 18 U.S. Code § 2333. The PSJVTA also authorizes the exercise of personal jurisdiction over the PLO and the Palestinian Authority based on certain activity: 
 
-> _18 U.S. Code § 2334 - Jurisdiction and venue_
-
 <div class="legal-code">
+
+> _18 U.S. Code § 2334 - Jurisdiction and venue_
 
 > (e) Consent[^fuld1] of Certain Parties to Personal Jurisdiction.—
 > 
