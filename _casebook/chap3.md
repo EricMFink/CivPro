@@ -80,7 +80,7 @@ It follows from the views expressed that the personal judgment recovered in the 
 
 <div class="comment">
 
-#### Note on _Pennoyer_ 
+#### Note: _Pennoyer_'s Backstory 
 
 The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossesson of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonencyclopedia.org/articles/exclusion_laws/).
 
@@ -128,7 +128,7 @@ Appellant having rendered itself amenable to suit upon obligations arising out o
 
 <div class="comment">
 
-#### Note on _International Shoe_ 
+#### Note: _International Shoe_, the FRCP, & Service of Process
 
 _International Shoe_ extended the reach of personal jurisdiction over out-of-state parties. As a result, the exercise of jurisdiction no longer requires personal service on the defendant while they are present in the state.
 
@@ -572,15 +572,15 @@ HANWJH availed itself of the Illinois market in offering and shipping a product 
 
 <div class="comment">
 
-#### Note on Specific Jurisdiction Based on a Federal Statute
+#### Note: Specific Jurisdiction Based on a Federal Statute
 
 The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, 'federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons.'" Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... 'authorized by a federal statute.'"
 
 In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organization under the "Promoting Security and Justice for Victims of Terrorism Act" (PSJVTA), a federal statute that authorizes suits in federal court by "Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs ...." 18 U.S. Code § 2333. The PSJVTA also authorizes the exercise of personal jurisdiction over the PLO and the Palestinian Authority based on construtive consent: 
 
-<div class="legal-code">
+> _18 U.S. Code § 2334 - Jurisdiction and venue_
 
-**18 U.S. Code § 2334 - Jurisdiction and venue**
+<div class="legal-code">
 
 > (e) Consent of Certain Parties to Personal Jurisdiction.—
 > 
@@ -602,21 +602,17 @@ In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organ
  
 </div>
 
-After reviewing the foundations of the 14th Amendmendment due process limits on personal jurisdiction, the majority concluded: 
+After reviewing the foundations of the 14th Amendmendment due process limits on personal jurisdiction, the Court concluded: 
 
 > Given the distinct territorial reach of the Federal Government's sovereign power, it makes little sense to mechanically import the limitations that the Fourteenth Amendment imposes on the authority of _state_ courts, which is restricted consonant with the States' more constrained sovereign spheres.
 >
 > Accordingly, to the extent that the Due Process Clauses of the Fourteenth and Fifth Amendments both implicitly limit the jurisdictional authority of courts, they do so with respect to the distinct sovereignties from which those courts derive their authority. Because the State and Federal Governments occupy categorically different sovereign spheres, we decline to import the Fourteenth Amendment minimum contacts standard into the Fifth Amendment. Rather, the Due Process Clause of the Fifth Amendment necessarily permits a more flexible jurisdictional inquiry commensurate with the Federal Government's broader sovereign authority.
->
-> \* \* \* 
-> 
-> Although we hold today that the Fifth Amendment does not impose the same jurisdictional limitations as the Fourteenth, we do not purport to delineate the outer bounds of the Federal Government's power, consistent with due process, to hale foreign defendants into U. S. courts.
-> 
-> \* \* \*
-> 
-> The PSJVTA reasonably ties the assertion of federal jurisdiction over the PLO and PA to conduct that involves the United States and implicates sensitive foreign policy matters within the prerogative of the political branches. We hold that the statute's provision for personal jurisdiction comports with the Due Process Clause of the Fifth Amendment.
->
-> </div>
+
+The Court declined "to delineate the outer bounds of the Federal Government's power, consistent with due process, to hale foreign defendants into U.S. courts." Instead, it held that the PSJVTA's "provision for personal jurisdiction comports with the Due Process Clause of the Fifth Amendment", because it "reasonably ties the assertion of federal jurisdiction over the PLO and PA to conduct that involves the United States and implicates sensitive foreign policy matters within the prerogative of the political branches". 
+
+In a concurring opinion, Justice Thomas, joined in part by Justice Gorsuch, agreed "that the Fourteenth Amendment's 'minimum contacts standard' does not apply to the Fifth Amendment's Due Process Clause" and that the jurisdictional provisions of the PSJVTA satisfy the 5th Amendment. However, they argued that "the Fifth Amendment's Due Process Clause imposes no limits on the Federal Government's power to extend federal jurisdiction beyond the Nation's borders."
+
+</div>
 
 ### General Jurisdiction
 

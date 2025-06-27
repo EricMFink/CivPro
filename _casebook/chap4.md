@@ -57,7 +57,7 @@ The application of this rule to the case at bar is decisive against the jurisdic
 
 <div class="comment">
 
-#### Note on _Mottley_
+#### Note: Postscript to _Mottley_
 
 On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. _Louisville & Nashville R. Co. v. Mottley_, 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
 
