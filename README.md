@@ -1,5 +1,9 @@
 # Civil Procedure
 
-## An Open-Source Casebook 
+## Prof. Eric M. Fink
 
-Prepared by Eric M. Fink, Elon University School of Law
+### Elon University School of Law
+
+Course website and casebook
+
+
