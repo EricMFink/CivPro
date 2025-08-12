@@ -55,7 +55,7 @@ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.)
 
 Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- The Click & Learn lessons are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each Click & Learn unit are indicated by a due date of December 1.[^syllabus1] You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by the December 1 due date. Your grade will be based on your highest score for each lesson. 
+- The Click & Learn assignments are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each unit are indicated by a due date of December 1.[^syllabus1] You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by December 1. Your grade will be based on your highest score for each lesson. 
 - The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample questions from past exams are posted on the [course website](https://www.emfink.net/CivPro/exams/). 
 
 ### Attendance
@@ -76,9 +76,11 @@ For disability accommodation requests, contact the [Elon Disability Services Off
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
-
+\newpage
 
 ## Schedule & Assignments
+
+> Readings from the Clermont hornbook are optional. You may find them helpful to get an overview of the topics covered.
 
 | **Date** | **Topic** | **Assignment** |
 | -- | --- | -- |
@@ -128,12 +130,9 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 |   | Click & Learn | Unit 8 (part 1, sec. III only) | 
 | Nov. 24 | Standard & Burden of Production | Casebook ch. 8 |
 |   |   |   |
-| TBD | Final Review |   |
-| TBD | Final Exam |   |
+| TBA| Final Review |   |
+| Dec. 8 | Final Exam |   |
 
-##### Notes:
-
-- Readings from the Clermont hornbook are optional. You may find them helpful to get an overview of the topics covered. 
-- This class will not meet on Sept. 24 and Oct. 10. 
+##### Note: This class will not meet on Sept. 24 and Oct. 10. 
 
 [^syllabus1]: Lessons without a due date are not required and will not count toward your final grade.
