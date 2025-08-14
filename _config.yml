@@ -35,15 +35,12 @@ course:
 coursebook:
   title: Civil Procedure
   subtitle: An Open-Source Casebook
-  version: '4.0'
+  version: '4.1'
   date: August 2025
 
 collections:
   exams:
     output: true
-  casebook:
-    output: true
-    permalink: /:collection/:name
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

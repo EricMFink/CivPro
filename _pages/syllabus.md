@@ -90,24 +90,24 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 |   |   |   |
 |   | **2. Parties and Claims** | Clermont ch. 6 |
 |   | Click & Learn | Unit 6 | 
-| Sept. 5 & 7 | Permissive Joinder of Claims & Parties | Casebook ch. 2, § 1 |
-| Sept. 10 & 12 | Counterclaims | Casebook ch. 2, § 2.1 |
-| Sept. 15 | Crossclaims | Casebook ch. 2, § 2.2 |
-| Sept. 17 & 19 | Third-Party Defendants | Casebook ch. 2, § 3.1 |
-| Sept. 22 | Required Parties & Intervention | Casebook ch. 2, §§ 3.2 & 3.3 |
+| Sept. 5 & 7 | Permissive Joinder of Claims & Parties | Casebook ch. 2, §§ 2.1.1 & 2.1.2 |
+| Sept. 10 & 12 | Counterclaims | Casebook ch. 2, § 2.1.3 |
+| Sept. 15 | Crossclaims | Casebook ch. 2, § 2.1.4 |
+| Sept. 17 & 19 | Third-Party Defendants | Casebook ch. 2, § 2.2.1 |
+| Sept. 22 | Required Parties & Intervention | Casebook ch. 2, §§ 2.2.2 & 2.2.3 |
 |   |   |   |
 |   | **3. Personal Jurisdiction** | Clermont ch. 4, §§ 4.2-4.4 |
 |   | Click & Learn | Unit 1 | 
-| Sept. 26 | Due Process and State Power | Casebook ch. 3, § 1.1 |
-| Sept. 29 & Oct. 1 | Minimum Contacts | Casebook ch. 3, § 1.2 |
-| Oct. 3 | General Jurisdiction, Consent, & Long-Arm Statutes | Casebook ch. 3, §§ 1.3, 1.4, & 2|
+| Sept. 26 | Due Process and State Power | Casebook ch. 3, § 3.1.1 |
+| Sept. 29 & Oct. 1 | Specific Jurisdiction | Casebook ch. 3, § 3.1.2 |
+| Oct. 3 | General Jurisdiction, Consent, & Long-Arm Statutes | Casebook ch. 3, §§ 3.1.3, 3.1.4, & 3.2|
 |   |   |   |
-|   | **4. Subject Matter Jurisdiction** | Clermont ch. 4,§ 4.1 |
+|   | **4. Subject Matter Jurisdiction** | Clermont ch. 4, § 4.1 |
 |   | Click & Learn | Unit 3 | 
-| Oct. 6 | Federal Question Jurisdiction | Casebook ch. 4, §§ 1 & 2 |
-| Oct. 8 & 13 | Diversity Jurisdiction | Casebook ch. 4, § 3 |
-| Oct. 15 & 17 | Supplemental Jurisdiction | Casebook ch. 4, § 4 |
-| Oct. 20 | Removal | Casebook ch. 4, § 5 |
+| Oct. 6 | Federal Question Jurisdiction | Casebook ch. 4, § 4.1 |
+| Oct. 8 & 13 | Diversity Jurisdiction | Casebook ch. 4, § 4.2 |
+| Oct. 15 & 17 | Supplemental Jurisdiction | Casebook ch. 4, § 4.3 |
+| Oct. 20 | Removal | Casebook ch. 4, § 4.4 |
 |   |   |   |
 |   | **5. Choice of Governing Law** | Clermont ch. 3 |
 |   | Click & Learn | Unit 9 | 
@@ -116,15 +116,15 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 |   |   |   | 
 |   | **6. Pleading** | Clermont ch. 2, § 2.2(A) |
 |   | Click & Learn | Unit 5 |
-| Oct. 31 & Nov. 3 | Notice Pleading & Complaints | Casebook ch. 6, §§ 1, 2, & 3 |
-| Nov. 5 & 7 | Answers and Defenses | Casebook ch. 6, § 4 |
+| Oct. 31 & Nov. 3 | Notice Pleading & Complaints | Casebook ch. 6, §§ 6.1, 6.2, & 6.3 |
+| Nov. 5 & 7 | Answers and Defenses | Casebook ch. 6, § 6.4 |
 | Nov. 10 | Amendments | Casebook ch. 6, § 5 |
-| Nov. 12 | Truthfulness and Good Faith | Casebook ch. 6, § 6 |
+| Nov. 12 | Truthfulness and Good Faith | Casebook ch. 6, § 6.5 |
 |   |   |   |
 |   | **7. Preclusion** | Clermont ch. 5 |
 |   | Click & Learn | Unit 10 (part 1 only) | 
-| Nov. 14 & 17 | Claim Preclusion | Casebook ch. 7, §§ 1 & 2 |
-| Nov. 19 & 21 | Issue Preclusion | Casebook ch. 7, § 3 |
+| Nov. 14 & 17 | General Principles & Claim Preclusion | Casebook ch. 7, §§ 7.1 & 7.2 |
+| Nov. 19 & 21 | Issue Preclusion | Casebook ch. 7, § 7.3 |
 |   |   |   |
 |   | **8. Summary Judgment** | Clermont ch. 2, § 2.2 |
 |   | Click & Learn | Unit 8 (part 1, sec. III only) | 
