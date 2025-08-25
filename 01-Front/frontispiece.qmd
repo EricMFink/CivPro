@@ -1,0 +1,5 @@
+::: {.frontispiece}
+
+![Hans Holbein the Younger, _Der Richter_. [Print by Hans Lützelburger](https://www.metmuseum.org/art/collection/search/365196) (ca. 1526)](../img/holbein-advocate.jpg)
+
+:::
