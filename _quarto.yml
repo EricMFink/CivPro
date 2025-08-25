@@ -46,7 +46,7 @@ website:
               - text: Federal Judicial Districts & Appellate Circuits 
                 href: img/fed-courts-map.png
               - text: Stages of a Civil Suit 
-                href: video/civil-action-timeline.png
+                href: img/civil-action-timeline.png
               - text: Nothing Runs Like a Deere
                 href: video/lawnmower.qmd
             - section: Joinder
