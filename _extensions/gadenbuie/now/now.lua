@@ -74,7 +74,7 @@ local function last_modified_linux(file)
     return nil
   end
 
-  local mod_time_pattern = "(%d+)-(%d+)-(%d+) (%d+):(%d+):(%d+)"
+  local mod_time_pattern = "(%d+)- (%d+)- (%d+) (%d+):(%d+):(%d+)"
   local year, month, day, hour, min, sec = mod_time_str:match(mod_time_pattern)
   if not (year and month and day and hour and min and sec) then
     quarto.log.error(
@@ -101,7 +101,7 @@ local function parse_modified_date(meta)
   local dt = pandoc.utils.stringify(meta.modified)
 
   -- Parsing the date string
-  local year, month, day = dt:match("(%d%d%d%d)-(%d%d)-(%d%d)")
+  local year, month, day = dt:match("(%d%d%d%d)- (%d%d)- (%d%d)")
   if not (year and month and day) then
     quarto.log.error("Invalid `modified` date format. Please use the format 'YYYY-MM-DD HH:MM:SS'")
     return nil

@@ -22,7 +22,7 @@ website:
       - icon: file-pdf
         menu: 
           - text: "Casebook PDF"
-            href: PRCasebook.pdf
+            href: CivProCasebook.pdf
       - icon: github
         menu:
           - text: Report an issue
@@ -131,8 +131,6 @@ website:
         contents: 
           - section: Front Matter
             contents:
-            - text: Cover
-              href: 01-Front/cover.qmd
             - text: Frontispiece
               href: 01-Front/frontispiece.qmd
             - text: Title Page
@@ -154,6 +152,7 @@ website:
             - 02-Main/chap8.qmd
           - section: "Back Matter"
             contents:
+            - 03-Back/references.qmd
             - 03-Back/ack.qmd
             - 03-Back/colophon.qmd
 

@@ -14,27 +14,27 @@
 
 ##### {{< var meets >}}
 
-##### [{{< var repo-name >}}]({{< var repo-url >}})
+###### [{{< var repo-name >}}]({{< var repo-url >}})
 
 #### Professor
 
 ##### {{< var author >}}
 
-##### [{{< var email >}}](mailto:{{< var email >}})
-
 ##### {{< var phone >}}
 
-##### Office hours: [calendly.com/emfink]({{< var appointments >}})
+###### [{{< var email >}}](mailto:{{< var email >}})
+
+##### Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
 
 #### Teaching Assistants {.unnumbered}
 
 ##### {{< var ta >}}
 
-##### [{{< var ta-email >}}](mailto:{{< var ta-email >}})
+###### [{{< var ta-email >}}](mailto:{{< var ta-email >}})
 
 ##### {{< var ta2 >}}
 
-##### [{{< var ta2-email >}}](mailto:{{< var ta2-email >}})
+###### [{{< var ta2-email >}}](mailto:{{< var ta2-email >}})
 
 ## Description {.unnumbered}
 
@@ -46,7 +46,7 @@ This course is intended to prepare you for legal practice by developing the know
 
 ### Required
 
-Civil Procedure: An Open-Source Casebook (v.4.1 2025). Available on the course website: [emfink.net/CivPro](https://www.emfink.net/CivPro/).
+Civil Procedure: An Open-Source Casebook (v.4.1 2025). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/CivPro/)]{.mono-font}.
 
 [Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 325-138-0701. 
 
@@ -92,7 +92,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ### 1\. Foundations of Civil Procedure
 
-_Casebook:_ chap. 1; _Clermont:_ chap. 1 & 2[^syllabus3] 
+_Casebook:_ [chap. 1](https://www.emfink.net/CivPro/02-Main/chap1.html); _Clermont:_ chap. 1 & 2[^syllabus3] 
 
 _Click & Learn_: Basic Skills & Fundamentals
 
