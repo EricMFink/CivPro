@@ -1,6 +1,6 @@
 # Syllabus {.unnumbered}
 
-[{{< bi download >}}](PRsyllabus.pdf "Download Syllabus")
+[{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
 
 ::: {.syllabus}
 
@@ -92,7 +92,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ### 1\. Foundations of Civil Procedure
 
-_Casebook:_ [chap. 1](https://www.emfink.net/CivPro/02-Main/chap1.html); _Clermont:_ chap. 1 & 2[^syllabus3] 
+_Casebook:_ chap. 1; _Clermont:_ chap. 1 & 2[^syllabus3] 
 
 _Click & Learn_: Basic Skills & Fundamentals
 
