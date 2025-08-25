@@ -548,6 +548,37 @@
     ]
   },
   {
+    "objectID": "video/lawnmower.html",
+    "href": "video/lawnmower.html",
+    "title": "Nothing Runs Like a Deere",
+    "section": "",
+    "text": "Nothing Runs Like a Deere"
+  },
+  {
+    "objectID": "03-Back/colophon.html",
+    "href": "03-Back/colophon.html",
+    "title": "Colophon",
+    "section": "",
+    "text": "Colophon\nDesigned and produced by Eric M. Fink, Associate Professor of Law, Elon University School of Law, Greensboro, North Carolina.\nSet in Literata and Adelle Sans by Veronika Burian & José Scaglione, and LFT Etica Mono by Leftloft.\nProduced in Quarto. Source code available on GitHub. Hosted on GitHub Pages.",
+    "crumbs": [
+      "Casebook",
+      "Back Matter",
+      "Colophon"
+    ]
+  },
+  {
+    "objectID": "03-Back/ack.html",
+    "href": "03-Back/ack.html",
+    "title": "Acknowledgements",
+    "section": "",
+    "text": "Acknowledgements\nMany thanks to my students in Civil Procedure at Elon Law School for their feedback on previous versions of this casebook and their patience with typographical errors & formatting glitches.",
+    "crumbs": [
+      "Casebook",
+      "Back Matter",
+      "Acknowledgements"
+    ]
+  },
+  {
     "objectID": "03-Back/references.html",
     "href": "03-Back/references.html",
     "title": "Sources",
@@ -567,30 +598,6 @@
     "title": "Sources",
     "section": "",
     "text": "Administrative Office of the U.S. Courts, Understanding the Federal Courts, (n.d.)\nMatthew Butterick, Typography for Lawyers 2nd (2015)\nWilliam R Casto, The Erie Doctrine and the Structure of Constitutional Revolutions, 62 Tulane Law Review 907 (1987)\nCharles Dickens, Bleak House (1853)\nWilliam Felstiner, Richard Abel & Austin Sarat, The Emergence and Transformation of Disputes: Naming, Blaming, Claiming…, 15 Law & Society Review 631 (1980)\nBrian L Frye, The Ballad of Harry James Tompkins, 52 Akron Law Review 531 (2018)\nOliver Wendell Holmes, The Common Law (1881)\nE. Polk Johnson, A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities (1912),\nFranz Kafka, Before the Law, (1915)\nThomas S. Kuhn & Ian Hacking, The Structure of Scientific Revolutions: 50th Anniversary Edition (2012)\nDavid Marcus, The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of Law Reform, 44 Georgia Law Review 433 (2009)\nJack Metzler, Cleaning Up Quotations, 18 The Journal of Appellate Practice and Process 143 (2017)\nWendy Perdue, Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and Pennoyer Reconsidered, 62 Washington Law Review 479 (1987)\nGeorge Rutherglen, International Shoe and the Legacy of Legal Realism, 2001 The Supreme Court Review 347 (2001)\nLogan Everett Sawyer III, Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence and the Road to International Shoe, 10 George Mason Law Review 59 (2001)"
-  },
-  {
-    "objectID": "03-Back/ack.html",
-    "href": "03-Back/ack.html",
-    "title": "Acknowledgements",
-    "section": "",
-    "text": "Acknowledgements\nMany thanks to my students in Civil Procedure at Elon Law School for their feedback on previous versions of this casebook and their patience with typographical errors & formatting glitches.",
-    "crumbs": [
-      "Casebook",
-      "Back Matter",
-      "Acknowledgements"
-    ]
-  },
-  {
-    "objectID": "03-Back/colophon.html",
-    "href": "03-Back/colophon.html",
-    "title": "Colophon",
-    "section": "",
-    "text": "Colophon\nDesigned and produced by Eric M. Fink, Associate Professor of Law, Elon University School of Law, Greensboro, North Carolina.\nSet in Literata and Adelle Sans by Veronika Burian & José Scaglione, and LFT Etica Mono by Leftloft.\nProduced in Quarto. Source code available on GitHub. Hosted on GitHub Pages.",
-    "crumbs": [
-      "Casebook",
-      "Back Matter",
-      "Colophon"
-    ]
   },
   {
     "objectID": "exams/exam6.html",
@@ -967,9 +974,9 @@
   {
     "objectID": "01-Front/license.html",
     "href": "01-Front/license.html",
-    "title": "License",
+    "title": "Civil Procedure",
     "section": "",
-    "text": "License\n   \nAll original content is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 International License\nEric M. Fink\nAssociate Professor of Law\nElon University School of Law\nGreensboro, North Carolina 27408\nemfink.net/ElonLaw\nSource Code: github.com/EricMFink/CivProCasebook\nVersion 4.1, August 2025",
+    "text": "All original content is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 International License\nEric M. Fink\nAssociate Professor of Law\nElon University School of Law\nGreensboro, North Carolina 27408\nemfink.net/ElonLaw\nSource Code: github.com/EricMFink/CivProCasebook\nVersion 4.1, August 2025",
     "crumbs": [
       "Casebook",
       "Front Matter",
@@ -979,9 +986,9 @@
   {
     "objectID": "01-Front/epigraph.html",
     "href": "01-Front/epigraph.html",
-    "title": "Epigraph",
+    "title": "Civil Procedure",
     "section": "",
-    "text": "Epigraph\n\nJarndyce and Jarndyce drones on. This scarecrow of a suit has, in course of time, become so complicated that no man alive knows what it means. The parties to it understand it least, but it has been observed that no two Chancery lawyers can talk about it for five minutes without coming to a total disagreement as to all the premises. Innumerable children have been born into the cause; innumerable young people have married into it; innumerable old people have died out of it. Scores of persons have deliriously found themselves made parties in Jarndyce and Jarndyce without knowing how or why; whole families have inherited legendary hatreds with the suit. The little plaintiff or defendant who was promised a new rocking-horse when Jarndyce and Jarndyce should be settled has grown up, possessed himself of a real horse, and trotted away into the other world. Fair wards of court have faded into mothers and grandmothers; a long procession of Chancellors has come in and gone out; the legion of bills in the suit have been transformed into mere bills of mortality; there are not three Jarndyces left upon the earth perhaps since old Tom Jarndyce in despair blew his brains out at a coffee-house in Chancery Lane; but Jarndyce and Jarndyce still drags its dreary length before the court, perennially hopeless.\n\n Charles Dickens, Bleak House",
+    "text": "Jarndyce and Jarndyce drones on. This scarecrow of a suit has, in course of time, become so complicated that no man alive knows what it means. The parties to it understand it least, but it has been observed that no two Chancery lawyers can talk about it for five minutes without coming to a total disagreement as to all the premises. Innumerable children have been born into the cause; innumerable young people have married into it; innumerable old people have died out of it. Scores of persons have deliriously found themselves made parties in Jarndyce and Jarndyce without knowing how or why; whole families have inherited legendary hatreds with the suit. The little plaintiff or defendant who was promised a new rocking-horse when Jarndyce and Jarndyce should be settled has grown up, possessed himself of a real horse, and trotted away into the other world. Fair wards of court have faded into mothers and grandmothers; a long procession of Chancellors has come in and gone out; the legion of bills in the suit have been transformed into mere bills of mortality; there are not three Jarndyces left upon the earth perhaps since old Tom Jarndyce in despair blew his brains out at a coffee-house in Chancery Lane; but Jarndyce and Jarndyce still drags its dreary length before the court, perennially hopeless.\n\n Charles Dickens, Bleak House",
     "crumbs": [
       "Casebook",
       "Front Matter",
