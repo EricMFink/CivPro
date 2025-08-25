@@ -46,7 +46,7 @@ website:
               - text: Federal Judicial Districts & Appellate Circuits 
                 href: img/fed-courts-map.png
               - text: Stages of a Civil Suit 
-                href: visuals/civil-action-timeline.png
+                href: video/civil-action-timeline.png
               - text: Nothing Runs Like a Deere
                 href: img/lawnmower
             - section: Joinder
@@ -90,7 +90,7 @@ website:
             - section: Pleadings 
               contents:
               - text: Complaint for Negligence 
-                href: img/sample-complaint.pdf
+                href: img/complaint-for-negligence.pdf
               - text: Comic Complaint 
                 href: img/criss-a-less-complaint.pdf
               - text: Neither Short Nor Plain 

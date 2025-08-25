@@ -1,7 +1,7 @@
 
 ::: {.titlepage}
 
-# Professional Responsibility  {.unnumbered}
+# Civil Procedure  {.unnumbered}
 ## An Open-Source Casebook {.unnumbered}
 ### Eric M. Fink  {.unnumbered}
 #### Elon Law School  {.unnumbered}
