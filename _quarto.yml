@@ -48,7 +48,7 @@ website:
               - text: Stages of a Civil Suit 
                 href: img/civil-action-timeline.png
               - text: Nothing Runs Like a Deere
-                href: https://www.youtube.com/watch?v=iI2A8bQv2xA
+                href: video/lawnmower.qmd
             - section: Joinder
               contents:
               - text: Third Party Claims 
