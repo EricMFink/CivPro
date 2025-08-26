@@ -29,7 +29,7 @@ website:
             href:  https://github.com/EricMFink/CivPro/issues/new
           - text: View source code
             href:  https://github.com/EricMFink/CivPro
-    collapse-level: 1
+    collapse-level: 2
     contents: 
       - href: index.qmd
         text: Home
@@ -48,7 +48,7 @@ website:
               - text: Stages of a Civil Suit 
                 href: img/civil-action-timeline.png
               - text: Nothing Runs Like a Deere
-                href: video/lawnmower.qmd
+                href: https://www.youtube.com/watch?v=iI2A8bQv2xA
             - section: Joinder
               contents:
               - text: Third Party Claims 
@@ -90,11 +90,11 @@ website:
             - section: Pleadings 
               contents:
               - text: Complaint for Negligence 
-                href: img/complaint-for-negligence.pdf
+                href: exhibits/complaint-for-negligence.pdf
               - text: Comic Complaint 
-                href: img/criss-a-less-complaint.pdf
+                href: exhibits/criss-a-less-complaint.pdf
               - text: Neither Short Nor Plain 
-                href: img/blount-complaint.pdf
+                href: exhibits/blount-complaint.pdf
               - text: Amending as a Matter of Course 
                 href: img/rule15a1.png
               - text: Amending to Change Party 
@@ -106,7 +106,7 @@ website:
             - section: Summary Judgment
               contents:
               - text: Motion for Summary Judgment 
-                href: img/mavericks-msj.pdf
+                href: exhibits/mavericks-msj.pdf
         - section: "Practice Exam Questions"
           contents: 
             - text: Pleadings Question
