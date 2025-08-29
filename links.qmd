@@ -1,9 +1,4 @@
----
-layout: page
-title: Links
-permalink: /links/
-
----
+# Links {.unnumbered}
 
 ## Study Aids {.unnumbered}
 

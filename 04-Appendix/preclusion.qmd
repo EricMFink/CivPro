@@ -1,0 +1,3 @@
+# Preclusion {.unnumbered}
+
+![Claim & Issue Preclusion](../img/preclusion.png)

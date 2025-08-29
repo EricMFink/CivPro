@@ -1,10 +1,8 @@
-# Syllabus {.unnumbered}
+# Civil Procedure {.unnumbered}
 
 [{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
 
 ::: {.syllabus}
-
-##### {{< var subject >}}
 
 ##### {{< var institution >}}
 

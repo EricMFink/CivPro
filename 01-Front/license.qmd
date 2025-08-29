@@ -1,4 +1,10 @@
+---
+toc: false
+---
+
 ::: {.license}
+
+# License {.unnumbered}
 
 [{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}]{.license-i}
 

@@ -1,8 +1,12 @@
 project:
-  type: website
+  type: book
 
-website:
+book:
   title: "Civil Procedure"
+  subtitle: Elon Law School
+  author: Prof. Eric M. Fink
+  date-format: MMMM YYYY
+  license: "CC BY NC SA"
   page-navigation: true
   page-footer:
       center: 
@@ -29,132 +33,51 @@ website:
             href:  https://github.com/EricMFink/CivPro/issues/new
           - text: View source code
             href:  https://github.com/EricMFink/CivPro
-    collapse-level: 2
-    contents: 
-      - href: index.qmd
-        text: Home
-      - href: syllabus.qmd
-        text: Syllabus
-      - href: links.qmd
-        text: Links
-      - section: Class Materials
-        contents: 
-        - section: Visuals
-          contents:
-            - section: Civil Litigation
-              contents:
-              - text: Federal Judicial Districts & Appellate Circuits 
-                href: img/fed-courts-map.png
-              - text: Stages of a Civil Suit 
-                href: img/civil-action-timeline.png
-              - text: Nothing Runs Like a Deere
-                href: video/lawnmower.qmd
-            - section: Joinder
-              contents:
-              - text: Third Party Claims 
-                href: img/rule14.png
-              - text: Indemnification & Contribution 
-                href: img/indemnification-contribution.png
-              - text: Lehman v. Revolution Portfolio 
-                href: img/lehman-rule14.png
-              - text: Claypool v. Gottlieb & Driftwood 
-                href: img/claypool.png
-            - section: Personal Jurisdiction
-              contents:
-              - text: Personal Jurisdiction Analysis 
-                href: img/personal-jurisdiction.png
-              - text: World Wide Volkswagen 
-                href: img/volkswagen.png
-              - text: Hanson v. Denkla 
-                href: img/hanson.png
-              - text: Asahi Metal 
-                href: img/asahi.png
-              - text: Mrs. Potter's Heirs 
-                href: img/potter.png
-            - section: Subject Matter Jurisdiction
-              contents:
-              - text: Subject Matter Jurisdiction & Joinder 
-                href: img/smj-joinder.png
-              - text: Supplemental Jurisdiction 
-                href: img/1367.png
-              - text: "Supplemental Jurisdiction: Claims by Co-Palintiffs "
-                href: img/1367b-co-plaintiffs.png
-              - text: "Supplemental Jurisdiction: Claims against Co-Defendants"
-                href: img/1367b-co-defendants.png
-              - text: "Supplemental Jurisdiction: Counterclaims" 
-                href: img/1367-counterclaims.png
-            - section: Choice of Law 
-              contents:
-              - text: Erie-Hanna Analysis 
-                href: img/erie-hanna.png
-            - section: Pleadings 
-              contents:
-              - text: Complaint for Negligence 
-                href: exhibits/complaint-for-negligence.pdf
-              - text: Comic Complaint 
-                href: exhibits/criss-a-less-complaint.pdf
-              - text: Neither Short Nor Plain 
-                href: exhibits/blount-complaint.pdf
-              - text: Amending as a Matter of Course 
-                href: img/rule15a1.png
-              - text: Amending to Change Party 
-                href: img/rule15c1C.png
-            - section: Preclusion 
-              contents:
-              - text: Claim & Issue Preclusion 
-                href: img/preclusion.png
-            - section: Summary Judgment
-              contents:
-              - text: Motion for Summary Judgment 
-                href: exhibits/mavericks-msj.pdf
-        - section: "Practice Exam Questions"
-          contents: 
-            - text: Pleadings Question
-              href: exams/exam1.qmd
-            - text: Joinder & Subject Matter Jurisdiction Question
-              href: exams/exam2.qmd
-            - text: Jurisdiction Question
-              href: exams/exam3.qmd
-            - text: Joinder & Jurisdiction Question
-              href: exams/exam4.qmd
-            - text: Personal Jurisdiction Question
-              href: exams/exam5.qmd
-            - text: Pleadings & Preclusion Question
-              href: exams/exam6.qmd
-            - text: Joinder & Subject Matter Jurisdiction Question
-              href: exams/exam7.qmd
-            - text: Erie Doctrine Question
-              href: exams/exam8.qmd
-            - text: Pleadings Question
-              href: exams/exam9.qmd
-      - section: "Casebook"
-        contents: 
-          - section: Front Matter
-            contents:
-            - text: Frontispiece
-              href: 01-Front/frontispiece.qmd
-            - text: Title Page
-              href: 01-Front/title-page.qmd
-            - text: License
-              href: 01-Front/license.qmd
-            - text: Epigraph
-              href: 01-Front/epigraph.qmd
-            - 01-Front/preface.qmd
-          - section: "Chapters"
-            contents:
-            - 02-Main/chap1.qmd
-            - 02-Main/chap2.qmd
-            - 02-Main/chap3.qmd
-            - 02-Main/chap4.qmd
-            - 02-Main/chap5.qmd
-            - 02-Main/chap6.qmd
-            - 02-Main/chap7.qmd
-            - 02-Main/chap8.qmd
-          - section: "Back Matter"
-            contents:
-            - 03-Back/references.qmd
-            - 03-Back/ack.qmd
-            - 03-Back/colophon.qmd
+    collapse-level: 1
+  chapters: 
+    - text: Home
+      href: index.qmd
+    - text: Syllabus
+      href: syllabus.qmd
+    - part: Casebook
+      chapters:
+      - 01-Front/frontispiece.qmd
+      - 01-Front/license.qmd
+      - 01-Front/epigraph.qmd
+      - 01-Front/preface.qmd
+      - 02-Main/chap1.qmd
+      - 02-Main/chap2.qmd
+      - 02-Main/chap3.qmd
+      - 02-Main/chap4.qmd
+      - 02-Main/chap5.qmd
+      - 02-Main/chap6.qmd
+      - 02-Main/chap7.qmd
+      - 02-Main/chap8.qmd
+      - 03-Back/references.qmd
+      - 03-Back/ack.qmd
+      - 03-Back/colophon.qmd
+    - part: Visuals
+      chapters: 
+      - 04-Appendix/civil-litigation.qmd
+      - 04-Appendix/joinder.qmd
+      - 04-Appendix/personal-jurisdiction.qmd
+      - 04-Appendix/subject-matter-jurisdiction.qmd
+      - 04-Appendix/choice-of-law.qmd
+      - 04-Appendix/pleadings.qmd
+      - 04-Appendix/preclusion.qmd
+      - 04-Appendix/summary-judgment.qmd
+    - part: Practice Exam Questions
+      chapters: 
+        - 04-Appendix/exam1.qmd
+        - 04-Appendix/exam2.qmd
+        - 04-Appendix/exam3.qmd
+        - 04-Appendix/exam4.qmd
+        - 04-Appendix/exam5.qmd
+        - 04-Appendix/exam6.qmd
+        - 04-Appendix/exam7.qmd
+        - 04-Appendix/exam8.qmd
+        - 04-Appendix/exam9.qmd
+    - links.qmd
 
 format:
   html:

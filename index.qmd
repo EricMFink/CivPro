@@ -1,16 +1,11 @@
 ---
 toc: false
 ---
-::: {.home}
 
-## Civil Procedure {.unnumbered}
+::: {.content-hidden unless-format="revealjs"}
+# Home {.unnumbered}
+:::
 
-### Elon University School of Law {.unnumbered .unlisted}
-
-#### Prof. Fink 
-
-##### Fall 2025
 
 ![](img/cover.png)
 
-:::
