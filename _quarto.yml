@@ -4,7 +4,7 @@ project:
 book:
   title: "Civil Procedure"
   subtitle: Elon Law School
-  author: Prof. Eric M. Fink
+  author: Eric M. Fink
   date-format: MMMM YYYY
   license: "CC BY NC SA"
   page-navigation: true
