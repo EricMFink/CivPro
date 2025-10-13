@@ -375,7 +375,7 @@ FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to h
 
 These provisions refer to claims for _indemnification_ and _contribution_. They arise where a party to a suit (D1) seeks to hold someone else (D2) responsible for all (indemnification) or part (contribution) of the amount of a judgment against D1 in favor of another party (P1).
 
-![Indemnification and Contribution](../img/Indemnification_Contribution.png){width=66%}
+![Indemnification and Contribution](../img/indemnification-contribution.png){width=66%}
 
 D2 may already be a party to the lawsuit (i.e. P1 has joined D2 as a co-defendant under Rule 20), in which case D2 would assert a crossclaim for indemnification or contribution under Rule 13(g). Or D2 may not yet be a party, in which case D1 would join D2 as a third-party defendant and assert a claim for indemnification or contribution under Rule 14(a).
 
@@ -663,4 +663,4 @@ For each of the following additional claims, explain whether joinder is proper u
 
 7. A claim by Baroni against Driftwood for failure to pay Baroni in accordance with the contract that Driftwood signed. 
 
-![Parties & Claims in Claypool v. Gottlieb](../img/JoinderProblem.png){width=75%}
+![Parties & Claims in Claypool v. Gottlieb](../img/Claypool.png){width=75%}
