@@ -8,9 +8,12 @@
 
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
 
-### Note: "The Laws of the Several States"
 
-The Rules of Decision Act applies to cases in which federal courts hear claims that arise under state law, i.e. under diversity jurisdiction. Federal courts must apply "the laws of the several states" as the "rules of decision" in such cases. By "rules of decision", the statute means the substantive legal rules governing the claims, i.e. rules that define the rights, duties, and liabilities of the parties. But what does the statute mean by "laws of the several states"?
+::: {.callout-note}
+
+**"The Laws of the Several States"**: The Rules of Decision Act applies to cases in which federal courts hear claims that arise under state law, i.e. under diversity jurisdiction. Federal courts must apply "the laws of the several states" as the "rules of decision" in such cases. By "rules of decision", the statute means the substantive legal rules governing the claims, i.e. rules that define the rights, duties, and liabilities of the parties. But what does the statute mean by "laws of the several states"?
+
+:::
 
 ### Swift v. Tyson (U.S. 1842) 
 
@@ -36,7 +39,7 @@ _Non erit alia lex Romæ, alia Athenis ... :_ "There will not be different laws 
 
 It becomes necessary for us, therefore, upon the present occasion to express our own opinion of the true result of the commercial law upon the question now before us. And we have no hesitation in saying, that a pre-existing debt does constitute a valuable consideration in the sense of the general rule already stated, as applicable to negotiable instruments. Assuming it to be true, (which, however, may well admit of some doubt from the generality of the language,) that the holder of a negotiable instrument is unaffected with the equities between the antecedent parties, of which he has no notice, only where he receives it in the usual course of trade and business for a valuable consideration, before it becomes due; we are prepared to say, that receiving it in payment of, or as security for a pre-existing debt, is according to the known usual course of trade and business.
 
-### Note: _Swift_ and Its Discontents
+### _Swift_ and Its Discontents
 
 Justice Story's opinion quotes the Roman statesman and philosopher Cicero for the proposition that the common law cannot differ from state to state. The cited passage[^6f7b] summarizes the natural law paradigm:
 
@@ -130,11 +133,11 @@ _Fourth_. The defendant contended that by the common law of Pennsylvania as decl
 
 ::: {.callout-note}
 
-**Postscript to _Erie_.** On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018).
+**Postscript to _Erie_.** On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident, including photos of Tompkins before and after his unfortunate encounter with the train, _see_ Frye (2018).
 
 :::
 
-### Note: Substance and Procedure under _Erie_
+### Substance and Procedure under _Erie_
 
 The underlying issue in _Erie_ was one of substantive law: the standard of care that the Railroad owed Tompkins. In a concurring opinion, Justice Reed suggested that on matters of procedure, federal courts were not bound to follow state law:
 

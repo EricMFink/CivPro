@@ -93,6 +93,7 @@ format:
     number-depth: 2
     toc-location: left
     toc-depth: 3
+    callout-icon: false
     include-in-header:
     - text: |
         <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">

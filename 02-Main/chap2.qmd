@@ -360,7 +360,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 (b\) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
 
-### Note: Contribution & Indemnification
+### Contribution & Indemnification
 
 FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them:
 

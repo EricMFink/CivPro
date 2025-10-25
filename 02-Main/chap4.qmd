@@ -32,15 +32,18 @@ There was no diversity of citizenship and it is not and cannot be suggested that
 
 The application of this rule to the case at bar is decisive against the jurisdiction of the Circuit Court.
 
-### Note: Postscript to _Mottley_
 
-On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. _Louisville & Nashville R. Co. v. Mottley_, 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
+::: {.callout-note}
+
+**Postscript to _Mottley_**: On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. _Louisville & Nashville R. Co. v. Mottley_, 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
 
 > Whether, without enforcing the contract in suit, the defendants in error may, by some form of proceeding against the railroad company, recover or restore the rights they had when the railroad collision occurred is a question not before us, and we express no opinion on it.
 
 However, there is no record of anything further transpiring in the case.
 
 Apart from the case for which he is remembered today, Erasmus Mottley was apparently "a prominent and influential business man" and unsuccessful candidate for public office. E. Polk Johnson (1912): 819-20.
+
+:::
 
 ### Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg. (U.S. 2005) 
 
@@ -82,7 +85,7 @@ Accordingly, _Merrell Dow_ should be read in its entirety as treating the absenc
 
 As already indicated, however, a comparable analysis yields a different jurisdictional conclusion in this case. Although Congress also indicated ambivalence in this case by providing no private right of action to Grable, it is the rare state quiet title action that involves contested issues of federal law. Consequently, jurisdiction over actions like Grable's would not materially affect, or threaten to affect, the normal currents of litigation. Given the absence of threatening structural consequences and the clear interest the Government, its buyers, and its delinquents have in the availability of a federal forum, there is no good reason to shirk from federal jurisdiction over the dispositive and contested federal issue at the heart of the state-law title claim.
 
-### Note: Understanding Grable
+### Understanding Grable
 
 In _Grable_, the Supreme Court sought to clarify when a state-law claim with an "essential federal element" falls within the jurisdiction granted under §1331. This is not really an exception to the "well-pleaded complaint" rule in _Mottley_. Under the _Grable_ standard, the federal question must still arise on the face of the complaint, i.e. as one of the elements of the plaintiff's claim, not a defense.
 
@@ -180,6 +183,12 @@ The judicial power shall extend to all cases;--between citizens of different sta
 
 (e\) The word "States", as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
+::: {.callout-note}
+
+**Exception to Diversity Jurisdiction**: Federal courts will not assert diversity jurisdiction over certain types of action, even if the requirements under § 1332 are satisfied. These include domestic relations suits (i.e. "cases involving the issuance of a divorce, alimony, or child custody decree"), _Ankenbrandt v. Richards_, 504 U.S. 689 (1992), and probate matters (i.e. cases involving "the probate or annulment of a will and the administration of a decedent's estate" as well as "dispos[al] of property that is in the custody of a state probate court"), _Marshall v. Marshall_, 547 U.S. 293, 311–12 (2006). 
+
+:::
+
 ### Hanks v Coan (M.D.N.C. 1999) 
 
 This matter comes before the court on Defendant Frances Coan's motion to dismiss Plaintiff's complaint and Defendant John Coan, III's, motion to dismiss, pursuant to Fed.R.Civ.P. 12(b)(1), for lack of subject matter jurisdiction. For the reasons discussed herein, the court will grant Defendants' motions to dismiss.
@@ -226,7 +235,7 @@ Applying the facts of the present case to the controlling principles of law, the
 
 Therefore, absent complete diversity of citizenship between Plaintiff and Defendants, the court is without jurisdiction and must dismiss the case.
 
-### Note: Citizenship of Organizational Parties
+### Citizenship of Organizational Parties
 
 Under the diversity jurisdiction statute, a corporation is a citizen of both the state or country in which it is incorporated and the state or country where it has its principal place of business. 28 U.S.C. §1332(c)(1). In _Hertz Corp. v. Friend_, 559 US 77 (2010), the Supreme Court held that a corporation's "principal place of business" is "the place where the corporation's high level officers direct, control, and coordinate the corporation's activities." Under this "nerve center" test, the principal place of business "will typically be found at a corporation's headquarters."
 
@@ -498,7 +507,7 @@ Even if the Court could exercise supplemental jurisdiction over a permissive cou
 
 Moreover, public policy concerns support declining jurisdiction. Federal consumer protection statutes seek to protect consumers from unscrupulous practices "regardless of whether a valid debt actually exists." In the context of TILA, the Fourth Circuit has cautioned that "to let the lender use the federal proceedings as an opportunity to pursue private claims against the borrower would impede expeditious enforcement of the federal penalty and involve the district courts in debt collection matters having no federal significance." This same concern applies here. Accordingly, having concluded that Exeter's counterclaim would substantially predominate over the TCPA claim, the Court, even if authorized to exercise supplemental jurisdiction over that counterclaim, would decline to do so.
 
-### Note: Supplemental Jurisdiction & Counterclaims 
+### Supplemental Jurisdiction & Counterclaims 
 
 As the _Jones_ and _Ginwright_ cases illustrate, the consensus among the federal courts is that compulsory counterclaims always satisfy the "same case or controversy" requirement for supplemental jurisdiction. However, there is some disagreement regarding the exercise of supplemental jurisdiction over permissive counterclaims. 
 
@@ -586,11 +595,11 @@ Sometimes a plaintiff will file a suit in state court, even though a federal cou
 
 (d\) A civil action in any State court arising under section 40302 of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
 
-### Note on § 1445 
+::: {.callout-note}
 
-Interestingly, of the four types of action that are not removable, three involve suits arising under federal statutes. 45 U.S.C. §56; 49 U.S.C. §11706(d)(1); 34 U.S.C, §12361(e)(3). Those statutes expressly allow suits to be brought in either federal or state court. But, if the plaintiff sues in state court, the defendant may not remove, even though the federal court would have original jurisdiction under §1331.
+Of the four types of action that are not removable, three involve suits arising under federal statutes. § 1445(a) (suits under the Federal Employers' Liability Act, 45 U.S.C.§ 51 et seq.); § 1445(b) (against rail and motor carriers for loss or damage to property under 49 U.S.C. §§  11706 & 14706); § 1445(d) (suits under the Violence Against Women Act, § 40302). Those statutes expressly allow suits to be brought in either federal or state court. But, if the plaintiff sues in state court, the defendant may not remove, even though the federal court would have original jurisdiction under §1331. In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down section 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to establish a federal cause of action for victims of crimes of violence motivated by gender. Consequently, § 1445(d) is now moot. 
 
-In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down section 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to establish a federal cause of action for victims of crimes of violence motivated by gender. Consequently, § 1445(d) is now moot. 
+::: 
 
 ### 28 U.S.C. § 1447
 

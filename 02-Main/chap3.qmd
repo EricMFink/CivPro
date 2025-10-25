@@ -48,11 +48,15 @@ It is true that, in a strict sense, a proceeding in rem is one taken directly ag
 
 It follows from the views expressed that the personal judgment recovered in the State court of Oregon against the plaintiff herein, then a non-resident of the State, was without any validity, and did not authorize a sale of the property in controversy. 
 
-### Note: _Pennoyer_'s Backstory 
+***
 
-The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossession of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonencyclopedia.org/articles/exclusion_laws/).
+::: {.callout-note}
+
+**_Pennoyer_'s Backstory**: The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossession of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonencyclopedia.org/articles/exclusion_laws/).
 
 [John H. Mitchell](https://www.oregonencyclopedia.org/articles/mitchell_john_hipple_1835_1905_) and [Sylvester Pennoyer](https://www.oregonencyclopedia.org/articles/pennoyer_sylvester_1831_1902_/) were significant and colorful political figures in Oregon. Marcus Neff's widow was later a party to another suit involving the same property, once again turning on a dispute with a lawyer for payment of his fees. [Wells v. Neff](../exhibits/Wells-Neff-1886.pdf), 14 Or. 66 (1886). For further background on _Pennoyer v. Neff_ and a discussion of its significance for modern personal jurisdiction doctrine, see Perdue (1987).
+
+:::
 
 ### International Shoe Co. v. Washington (U.S. 1945) 
 
@@ -88,7 +92,7 @@ We are likewise unable to conclude that the service of the process within the st
 
 Appellant having rendered itself amenable to suit upon obligations arising out of the activities of its salesmen in Washington, the state may maintain the present suit _in personam_ to collect the tax laid upon the exercise of the privilege of employing appellant's salesmen within the state. For Washington has made one of those activities, which taken together establish appellant's "presence" there for purposes of suit, the taxable event by which the state brings appellant within the reach of its taxing power. The state thus has constitutional power to lay the tax and to subject appellant to a suit to recover it. The activities which establish its "presence" subject it alike to taxation by the state and to suit to recover the tax.
 
-### Note: _International Shoe_, the FRCP, & Service of Process
+### _International Shoe_, the FRCP, & Service of Process
 
 ![International Shoe Co. building, St. Louis](../img/IntlShoeBldg2.jpg){width=66%}
 
@@ -502,7 +506,7 @@ HANWJH reminds us that it is a foreign party with only one documented sale to th
 
 In _Curry,_ we held that there was no unfairness in making a seller defend a suit in a state where it structured its business to "easily serve the state's consumers." "There is no unfairness in requiring a defendant to defend a lawsuit in the courts of the state where, through the very activity giving rise to the suit, it continues to gain so much." NBA Properties may have its principal places of business elsewhere, but it nevertheless has an interest in ensuring that its trademark is protected against confusion in the Illinois market. Illinois no doubt has an interest in protecting its consumers from purchasing fraudulent merchandise. Finally, HANWJH alleges no unusual burden in defending the suit in Illinois.
 
-### Note: Specific Jurisdiction Based on a Federal Statute
+### Specific Jurisdiction Based on a Federal Statute
 
 The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons." Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... authorized by a federal statute."
 

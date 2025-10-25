@@ -632,10 +632,15 @@ footer.footer .nav-footer, #quarto-header > nav {
 	color: #191919;
 	padding: 4px 6px;
 }
-
+.callout p {
+	font-family: "Adelle Sans";
+	font-size: .9rem;
+	fon
+}
 hr {
 	width: 50%;
-	margin: 
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* 404 PAGE */

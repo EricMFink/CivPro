@@ -32,6 +32,7 @@ format:
     pdfcreator: LaTeX via pandoc
     colorlinks: true
     urlstyle: tt
+	callout-icon: false
     keep-tex: true
     output-file: CivProCasebook
 filters:
@@ -2502,11 +2503,11 @@ Sometimes a plaintiff will file a suit in state court, even though a federal cou
 
 (d\) A civil action in any State court arising under section 40302 of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
 
-### Note on § 1445 
+::: {.callout-note}
 
-Interestingly, of the four types of action that are not removable, three involve suits arising under federal statutes. 45 U.S.C. §56; 49 U.S.C. §11706(d)(1); 34 U.S.C, §12361(e)(3). Those statutes expressly allow suits to be brought in either federal or state court. But, if the plaintiff sues in state court, the defendant may not remove, even though the federal court would have original jurisdiction under §1331.
+Of the four types of action that are not removable, three involve suits arising under federal statutes. § 1445(a) (suits under the Federal Employers' Liability Act, 45 U.S.C.§ 51 et seq.); § 1445(b) (against rail and motor carriers for loss or damage to property under 49 U.S.C. §§  11706 & 14706); § 1445(d) (suits under the Violence Against Women Act, § 40302). Those statutes expressly allow suits to be brought in either federal or state court. But, if the plaintiff sues in state court, the defendant may not remove, even though the federal court would have original jurisdiction under §1331. In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down section 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to establish a federal cause of action for victims of crimes of violence motivated by gender. Consequently, § 1445(d) is now moot. 
 
-In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down section 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to establish a federal cause of action for victims of crimes of violence motivated by gender. Consequently, § 1445(d) is now moot. 
+::: 
 
 ### 28 U.S.C. § 1447
 
