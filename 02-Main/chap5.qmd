@@ -128,9 +128,11 @@ _Fourth_. The defendant contended that by the common law of Pennsylvania as decl
 
 ***
 
+::: {.callout-note}
+
 **Postscript to _Erie_.** On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018).
 
-***
+:::
 
 ### Note: Substance and Procedure under _Erie_
 
