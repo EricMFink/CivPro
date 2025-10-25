@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.23">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,15 +34,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../04-Appendix/exam1.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-1fe81d0376b2c50856e68e651e390326.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-c42e5ec770c9dfde308a18eeec1c84f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-1e20ad44f75e5f149600bdbb7c6c02b9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -103,9 +102,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
-      <a href="../index.html" class="sidebar-logo-link">
-      </a>
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Civil Procedure</a> 
         <div class="sidebar-tools-main tools-wide">
@@ -457,7 +454,7 @@ ul.task-list li input[type="checkbox"] {
 <li>A claim under New York’s Unfair or Deceptive Acts and Practices (UDAP) law. {% marginnote “margin-note-id” “A real statute” %}</li>
 </ul>
 <p>The federal CCPA allows a credit card holder to sue any person (including a corporation) who makes or assists another in making an unauthorized charge against the plaintiff’s credit card. A successful plaintiff may recover damages equal to the amount of unauthorized credit card charges or $5000, whichever is greater.</p>
-<p>The NY UDAP statute allows suits against a business for unfair or deceptive acts or practices. The statute’s definition of “unfair or deceptive acts or practices” includes, but is not limited to, acts or practices that violate state or federal consumer protection laws. A succesful plaintiff may recover three-times the amount of actual loss caused by the defendant’s wrongful conduct.</p>
+<p>The NY UDAP statute allows suits against a business for unfair or deceptive acts or practices. The statute’s definition of “unfair or deceptive acts or practices” includes, but is not limited to, acts or practices that violate state or federal consumer protection laws. A successful plaintiff may recover three-times the amount of actual loss caused by the defendant’s wrongful conduct.</p>
 <p>In this case, the most Parker may recover is $5300 ($5000 for the federal CCPA claim, plus $300 for the NY state UDAP claim). The two defendants would be jointly and severally liable for that amount (i.e.&nbsp;if both defendants are found liable, Parker could collect the full amount from either defendant, or part from each).</p>
 <p>Parker bring his suit in the U.S. District Court for the Southern District of New York.{% sidenote “sidenote-id” “Assume that the court has personal jurisdiction over both defendants and do not discuss that issue.” %}</p>
 <ol type="1">
@@ -569,14 +566,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -939,7 +935,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Last updated: 2025-10-20 17:51:30
+ Last updated: 2025-10-25 15:03:49
   </li>  
 </ul>
     </div>
