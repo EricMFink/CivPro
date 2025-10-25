@@ -67,8 +67,8 @@ Your final grade for the term will be based on the assigned Click & Learn lesson
 
 Elon Law School has adopted the following attendance policy for all courses:
 
-> The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences  imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class  and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
->  
+> The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
+> 
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the [Office of Student Life](https://www.elon.edu/u/law/students/).
 
 You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation.
@@ -99,15 +99,15 @@ _Casebook:_ chap. 2; _Clermont:_ chap. 6
 
 _Click & Learn_: Unit 6 
 
-**Sept. 5 & 8:** Permissive Joinder of Claims & Parties, _Casebook_:  §§ 2.1 & 2.2 
+**Sept. 5 & 8:** Permissive Joinder of Claims & Parties, _Casebook_: §§ 2.1 & 2.2 
 
-**Sept. 10 & 12:** Counterclaims, _Casebook_:  § 2.3 
+**Sept. 10 & 12:** Counterclaims, _Casebook_: § 2.3 
 
-**Sept. 15:** Crossclaims, _Casebook_:  § 2.4 
+**Sept. 15:** Crossclaims, _Casebook_: § 2.4 
 
-**Sept. 17 & 19:** Third-Party Defendants & Claims, _Casebook_:  § 2.5 
+**Sept. 17 & 19:** Third-Party Defendants & Claims, _Casebook_: § 2.5 
 
-**Sept. 22:** Required Parties, _Casebook_:  chap. 2: § 2.6 
+**Sept. 22:** Required Parties, _Casebook_: chap. 2: § 2.6 
 
 ### 3\. Personal Jurisdiction
 
@@ -115,11 +115,11 @@ _Casebook:_ chap. 3; _Clermont:_ chap. 4: §§ 4.2-4.4
 
 _Click & Learn_: Unit 1 
 
-**Sept. 26:** Due Process and State Power, _Casebook_:  § 3.1 
+**Sept. 26:** Due Process and State Power, _Casebook_: § 3.1 
 
-**Sept. 29 & Oct. 1:** Specific Jurisdiction, _Casebook_:  § 3.2 
+**Sept. 29 & Oct. 1:** Specific Jurisdiction, _Casebook_: § 3.2 
 
-**Oct. 3:** General Jurisdiction, Consent, & Long-Arm Statutes, _Casebook_:  §§ 3.3-3.5
+**Oct. 3:** General Jurisdiction, Consent, & Long-Arm Statutes, _Casebook_: §§ 3.3-3.5
 
 ### 4\. Subject Matter Jurisdiction
 
@@ -127,13 +127,13 @@ _Casebook:_ chap. 4; _Clermont:_ chap. 4: § 4.1
 
 _Click & Learn_: Unit 3 
 
-**Oct. 6:** Federal Question Jurisdiction, _Casebook_:  § 4.1 
+**Oct. 6:** Federal Question Jurisdiction, _Casebook_: § 4.1 
 
-**Oct. 8 & 13:** Diversity Jurisdiction, _Casebook_:  § 4.2 
+**Oct. 8 & 13:** Diversity Jurisdiction, _Casebook_: § 4.2 
 
-**Oct. 15 & 17:** Supplemental Jurisdiction, _Casebook_:  § 4.3 
+**Oct. 15 & 17:** Supplemental Jurisdiction, _Casebook_: § 4.3 
 
-**Oct. 20:** Removal, _Casebook_:  § 4.4 
+**Oct. 20:** Removal, _Casebook_: § 4.4 
 
 ### 5\. Choice of Governing Law
 
@@ -141,9 +141,9 @@ _Casebook:_ chap. 5; _Clermont:_ chap. 3
 
 _Click & Learn_: Unit 9 
 
-**Oct. 22 & 24:** Rules of Decision Act & Erie, _Casebook_:  § 5.1 
+**Oct. 22 & 24:** Rules of Decision Act & Erie, _Casebook_: § 5.1 
 
-**Oct. 27 & 29:** Rules Enabling Act & Hanna, _Casebook_:  § 5.2 & 5.3 
+**Oct. 27 & 29:** Rules Enabling Act & Hanna, _Casebook_: § 5.2 & 5.3 
 
 ### 6\. Pleading
 
@@ -151,13 +151,13 @@ _Casebook:_ chap. 6; _Clermont:_ chap. 2: § 2.2(A)
 
 _Click & Learn_: Unit 5 
 
-**Oct. 31:** Nov. 3 & 5: Pleading & Claims for Relief, _Casebook_:  §§ 6.1 & 6.2 
+**Oct. 31:** Nov. 3 & 5: Pleading & Claims for Relief, _Casebook_: §§ 6.1 & 6.2 
 
-**Nov. 7:** Responsive Pleading, _Casebook_:  § 6.3 
+**Nov. 7:** Responsive Pleading, _Casebook_: § 6.3 
 
-**Nov. 10:** Amendmended Pleadings, _Casebook_:  § 6.4 
+**Nov. 10:** Amended Pleadings, _Casebook_: § 6.4 
 
-**Nov. 12:** Truthfulness and Good Faith, _Casebook_:  § 6.5 
+**Nov. 12:** Truthfulness and Good Faith, _Casebook_: § 6.5 
 
 ### 7\. Preclusion
 
@@ -165,9 +165,9 @@ _Casebook:_ chap. 7; _Clermont:_ chap. 5
 
 _Click & Learn_: Unit 10 (part 1 only) 
 
-**Nov. 14 & 17:** General Principles & Claim Preclusion, _Casebook_:  §§ 7.1 & 7.2 
+**Nov. 14 & 17:** General Principles & Claim Preclusion, _Casebook_: §§ 7.1 & 7.2 
 
-**Nov. 19 & 21:** Issue Preclusion, _Casebook_:  § 7.3 
+**Nov. 19 & 21:** Issue Preclusion, _Casebook_: § 7.3 
 
 ### 8\. Summary Judgment
 
@@ -175,7 +175,7 @@ _Casebook:_ chap. 8; _Clermont:_ chap. 2: § 2.2
 
 _Click & Learn_: Unit 8 (part 1: sec. III only) 
 
-**Nov. 24:** Standard & Burden of Production, _Casebook_:  §§ 8.1 & 8.2 
+**Nov. 24:** Standard & Burden of Production, _Casebook_: §§ 8.1 & 8.2 
 
 ---
 

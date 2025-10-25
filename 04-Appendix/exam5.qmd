@@ -14,7 +14,7 @@ Under the "minimum contacts" standard for personal jurisdiction over a non-resid
 
 The defendant's contacts are based on the defendant’s own voluntary acts directed at the forum state. These may include the defendant’s activity within the forum state itself, or the defendant’s acts outside the forum state by which the defendant purposefully availed itself of the legal, economic, or other benefits or protections of the forum state.
 
-In contrast, independent acts by the plaintiff or others will not establish contacts by the defendant. The mere forseeability that the plaintiff or someone else might independently take actions leading to a cause of action arising in another state is not enough to subject the defendant to jurisdiction in that state. 
+In contrast, independent acts by the plaintiff or others will not establish contacts by the defendant. The mere foreseeability that the plaintiff or someone else might independently take actions leading to a cause of action arising in another state is not enough to subject the defendant to jurisdiction in that state. 
  
 If the minimum contacts requirement is satisfied, the defendant then has the burden to show that the exercise of jurisdiction would be unreasonable based on these factors: (1) any special burden on the defendant (beyond the ordinary burden of having to defend a case in another state), (2) the plaintiff’s interest in litigating the matter in the forum state, (3) the forum state’s interest in the litigation, (4) the judicial system’s interest in efficient resolution of disputes, and (5) the competing policy interests of other states (or foreign jurisdictions). 
 

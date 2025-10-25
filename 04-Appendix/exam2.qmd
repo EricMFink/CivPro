@@ -17,7 +17,7 @@ Parker sues the Bugle and Jameson, asserting two claims against each defendant:
 
 The federal CCPA allows a credit card holder to sue any person (including a corporation) who makes or assists another in making an unauthorized charge against the plaintiff's credit card. A successful plaintiff may recover damages equal to the amount of unauthorized credit card charges or $5000, whichever is greater. 
 
-The NY UDAP statute allows suits against a business for unfair or deceptive acts or practices. The statute's definition of "unfair or deceptive acts or practices" includes, but is not limited to, acts or practices that violate state or federal consumer protection laws. A succesful plaintiff may recover three-times the amount of actual loss caused by the defendant’s wrongful conduct. 
+The NY UDAP statute allows suits against a business for unfair or deceptive acts or practices. The statute's definition of "unfair or deceptive acts or practices" includes, but is not limited to, acts or practices that violate state or federal consumer protection laws. A successful plaintiff may recover three-times the amount of actual loss caused by the defendant’s wrongful conduct. 
 
 In this case, the most Parker may recover is $5300 ($5000 for the federal CCPA claim, plus $300 for the NY state UDAP claim). The two defendants would be jointly and severally liable for that amount (i.e. if both defendants are found liable, Parker could collect the full amount from either defendant, or part from each).
 
