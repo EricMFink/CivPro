@@ -584,7 +584,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: block;
 }
 
-/* SPANS */
+/* SPANS & SPECIAL ELEMENTS*/
 .theme-color {
 	color: #800000;
 }
@@ -631,6 +631,10 @@ footer.footer .nav-footer, #quarto-header > nav {
 	font-size: 80%;
 	color: #191919;
 	padding: 4px 6px;
+}
+
+hr {
+	width: 50%;
 }
 
 /* 404 PAGE */
