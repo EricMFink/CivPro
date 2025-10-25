@@ -1,4 +1,4 @@
-—
+---
 title: "Civil Procedure"
 author: "Eric M. Fink"
 version: "4.3"
@@ -34,7 +34,7 @@ format:
     urlstyle: tt
     keep-tex: true
     output-file: CivProCasebook
-—
+---
 
 # Foundations of Civil Procedure 
 
@@ -2612,17 +2612,7 @@ _Southern Pacific Co. v. Jensen_, 244 U.S. 205 (1917) (Holmes, J. dissenting):
 
 > The common law is not a brooding omnipresence in the sky but the articulate voice of some sovereign or quasi-sovereign that can be identified; although some decisions with which I have disagreed seem to me to have forgotten the fact. It always is the law of some State.
 
-_Kuhn v. Fairmont Coal Co._, 215 US 349, 370-372 (1910) (Holmes, J., dissenting):
-
-> I admit that plenty of language can be found in the earlier cases to support the present decision. That is not surprising in view of the uncertainty and vacillation of the theory upon which _Swift v. Tyson_, and the later extensions of its doctrine have proceeded. But I suppose it will be admitted on the other side that even the independent jurisdiction of the Circuit Courts of the United States is a jurisdiction only to declare the law, at least in a case like the present, and only to declare the law of the State. It is not an authority to make it. _Swift v. Tyson_ was justified on the ground that that was all that the state courts did. But as has been pointed out by a recent accomplished and able writer, that fiction had to be abandoned and was abandoned when this court came to decide the municipal bond cases, beginning with _Gelpcke v. Dubuque_. In those cases the court recognized the fact that decisions of state courts of last resort make law for the State. The principle is that a change of judicial decision after a contract has been made on the faith of an earlier one the other way is a change of the law.
-> 
-> The cases of the class to which I refer have not stood on the ground that this court agreed with the first decision, but on the ground that the state decision made the law for the State, and therefore should be given only a prospective operation when contracts had been entered into under the law as earlier declared. In various instances this court has changed its decision or rendered different decisions on similar facts arising in different States in order to conform to what is recognized as the local law.
-> 
-> Whether _Swift v. Tyson_ can be reconciled with _Gelpcke v. Dubuque_, I do not care to enquire. I assume both cases to represent settled doctrines, whether reconcilable or not. But the moment you leave those principles which it is desirable to make uniform throughout the United States and which the decisions of this court tend to make uniform, obviously it is most undesirable for the courts of the United States to appear as interjecting an occasional arbitrary exception to a rule that in every other case prevails. I never yet have heard a statement of any reason justifying the power, and I find it hard to imagine one. I know of no authority in this court to say that in general state decisions shall make law only for the future. Judicial decisions have had retrospective operation for near a thousand years. It is said that we must exercise our independent judgment — but as to what? Surely as to the law of the States. Whence does that law issue? Certainly not from us. But it does issue and has been recognized by this court as issuing from the state courts as well as from the state legislatures. When we know what the source of the law has said that it shall be, our authority is at an end. The law of a State does not become something outside of the state court and independent of it by being called the common law. Whatever it is called it is the law as declared by the state judges and nothing else.
-> 
-> If, as I believe, my reasoning is correct, it justifies our stopping when we come to a kind of case that by nature and necessity is peculiarly local, and one as to which the latest intimations and indeed decisions of this court are wholly in accord with what I think to be sound law. To administer a different law is "to introduce into the jurisprudence of the State of Illinois the discordant elements of a substantial right which is protected in one set of courts and denied in the other, with no superior to decide which is right." It is admitted that we are bound by a settled course of decisions, irrespective of contract, because they make the law. I see no reason why we are less bound by a single one.
-
-_Black & White Taxicab Co. v. Brown & Yellow Taxicab Co._, 279 U.S. 518, 532-536 (1928) (Holmes, J., dissenting):
+Holmes sharply criticized the _Swift_ approach to the Rules of Decision Act on positivist grounds in _Black & White Taxicab Co. v. Brown & Yellow Taxicab Co._, 279 U.S. 518, 532-536 (1928) (Holmes, J., dissenting):
 
 > This is a suit brought by The Brown and Yellow Taxicab and Transfer Company, as plaintiff, to prevent The Black and White Taxicab and Transfer Company, from interfering with the carrying out of a contract between the plaintiff and the other defendant, The Louisville and Nashville Railroad Company. The Circuit Court of Appeals, affirming a decree of the District Court, granted an injunction and upheld this contract. It expressly recognized that the decisions of the Kentucky Courts held that in Kentucky a railroad company could not grant such rights, but this being a 'question of general law' it went its own way regardless of the Courts of this State.
 > 
@@ -2686,9 +2676,13 @@ The fallacy underlying the rule declared in _Swift v. Tyson_ is made clear by Mr
 
 Thus the doctrine of _Swift v. Tyson_, is, as Mr. Justice Holmes said, "an unconstitutional assumption of powers by courts of the United States which no lapse of time or respectable array of opinion should make us hesitate to correct." In disapproving that doctrine we do not hold unconstitutional §34 of the Federal Judiciary Act of 1789 or any other Act of Congress. We merely declare that in applying the doctrine this Court and the lower courts have invaded rights which in our opinion are reserved by the Constitution to the several States.
 
-_Fourth_.[On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018)]{.aside} The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
+_Fourth_. The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
 
-### Note: Substance and Procedure under _Erie_
+### Note: Postscript to _Erie_
+
+On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018).
+
+### Substance and Procedure under _Erie_
 
 The underlying issue in _Erie_ was one of substantive law: the standard of care that the Railroad owed Tompkins. In a concurring opinion, Justice Reed suggested that on matters of procedure, federal courts were not bound to follow state law:
 
@@ -2876,17 +2870,17 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 > Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions [sic], when, in fact:
 > 
-> • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
+> > • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
 > 
-> • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
+> > • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
 > 
-> • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
+> > • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
 > 
-> • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
+> > • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
 >  
-> • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
+> > • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
 >  
-> • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
+> > • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
@@ -3298,9 +3292,9 @@ Johnson alleges that defendants had superior bargaining power, that Johnson had 
 
 > made false representations to Plaintiff or concealed material facts from Plaintiff concerning: (1) their true intentions with regard to Plaintiff's property; (2) their true intentions with regard to whether they would actually close on the purchase of Plaintiff's property; (3) their acts and omissions concerning moving forward with obtaining Government and Municipal Permits and Construction Plans concerning the Subject Property; (4) their ability to close on the Subject Property; and, (5) such other acts and omissions as may be shown at trial.
 
-[The court does not explain why it regards the allegations as "conclusory" or why they "do not plausibly allege a UDTPA claim." Can you discern the court's rationale?]{.aside} Johnson's allegations are conclusory and do not plausibly allege a UDTPA claim. Thus, the court dismisses Johnson's UDTPA claim.
+Johnson's allegations are conclusory and do not plausibly allege a UDTPA claim. Thus, the court dismisses Johnson's UDTPA claim.
 
-["Piercing the corporate veil refers to a special instance where the court holds the shareholder or director of a corporation personally liable for the corporation’s debts." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/piercing_the_corporate_veil). In this case, the plaintiff was seeking to hold Mohammed Qureshi, the CEO and Board Chair of Cricket Council USA, personally liable for the alleged breach of contract.]{.aside} As for Johnson's request to pierce the corporate veil, the court must assess whether Johnson plausibly alleges sufficient facts that would, if believed, tend to establish the required elements to pierce the corporate veil under North Carolina's "instrumentality rule." In order to prevail under the instrumentality rule, the aggrieved party must establish three elements: "(1) stockholders' control of the corporation amounts to 'complete domination' with respect to the transaction at issue; (2) stockholders' use of this control to commit a wrong ...; and (3) this wrong or breach of duty must be the proximate cause of the injury."
+As for Johnson's request to pierce the corporate veil, the court must assess whether Johnson plausibly alleges sufficient facts that would, if believed, tend to establish the required elements to pierce the corporate veil under North Carolina's "instrumentality rule."["Piercing the corporate veil refers to a special instance where the court holds the shareholder or director of a corporation personally liable for the corporation’s debts." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/piercing_the_corporate_veil). In this case, the plaintiff was seeking to hold Mohammed Qureshi, the CEO and Board Chair of Cricket Council USA, personally liable for the alleged breach of contract.]{.aside} In order to prevail under the instrumentality rule, the aggrieved party must establish three elements: "(1) stockholders' control of the corporation amounts to 'complete domination' with respect to the transaction at issue; (2) stockholders' use of this control to commit a wrong ...; and (3) this wrong or breach of duty must be the proximate cause of the injury."
 
 Defendants contend that Johnson fails to plausibly allege these required elements. Johnson responds that he has sufficiently pled facts for the court to pierce Cricket Council USA, Inc.'s corporate veil. 
 
@@ -3562,13 +3556,19 @@ The "Facts" section of the proposed amended complaint is exactly the same as fou
 
 The only substantive addition to the proposed amended complaint is Count V seeking punitive damages. This proposed count incorporates the allegations in the preceding paragraphs and then alleges as follows:
 
-- • Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions sic, when, in fact:
-	- • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
-	- • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
-	- • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
-	- • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
-	- • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
-	- • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
+> Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions [sic], when, in fact:
+> 
+> > • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
+> 
+> > • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
+> 
+> > • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
+> 
+> > • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
+>  
+> > • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
+>  
+> > • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
@@ -5312,21 +5312,13 @@ Because Appellants failed to provide any evidence that Officer Vincent acted wit
 
 #### Background
 
-In 1991, Spencer Elden, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" music album. The album cover depicted plaintiff underwater, "grabbing for a dollar bill" on a fishook that had been superimposed onto the photograph. The "Nevermind" album was released in September 1991, and was widely distributed commercially, becoming "a platinum record only months after its release." 
-
-::: {.column-margin}
-![Nevermind album cover](../img/nevermind.jpg)
-:::
+In 1991, Spencer Elden, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" music album.[![Nevermind album cover](../img/nevermind.jpg)]{.aside} The album cover depicted plaintiff underwater, "grabbing for a dollar bill" on a fishook that had been superimposed onto the photograph. The "Nevermind" album was released in September 1991, and was widely distributed commercially, becoming "a platinum record only months after its release." 
 
 Plaintiff filed the instant action nearly 30 years after the album's release. Plaintiff brings a claim under 18 U.S.C. § 2255(a), which provides a civil remedy for individuals who were victims of certain enumerated crimes while they were minors. Plaintiff alleges that "Nirvana's Nevermind album cover constitutes commercial child pornography," and that defendants have engaged in "ongoing violations" of multiple provisions of 18 U.S.C. § 2252A—a criminal statute penalizing certain activities relating to child pornography—because they "knowingly possessed, transported, reproduced, advertised, promoted, presented, distributed, provided, and/or obtained" the album cover. According to plaintiff, the continued use of the image on the album cover has "caused, and continues to cause, him serious injury including, without limitation, physical, psychological, financial, and reputational damages." Plaintiff seeks "to recover for injuries ... sustained during the ten years preceding the filing of this action, and injuries he has sustained since then." He requests either actual damages or statutory liquidated damages in the amount of $150,000, punitive damages, and equitable relief, including "an injunction against future sales, marketing or distribution" and "prohibiting the Defendants from continuing to engage in the injurious acts." 
 
 #### Statement of Facts
 
-In 1991, plaintiff, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" record album. The album cover depicts a naked baby (plaintiff) floating underwater as he appears to reach for a dollar bill on a fishhook.
-
-::: {.column-margin}
-![Nevermind album cover](../img/nevermind.jpg)
-:::
+In 1991, Spencer Elden, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" music album. The album cover depicts a naked baby (plaintiff) floating underwater as he appears to reach for a dollar bill on a fishhook.
 
 The circumstances of the album cover's creation are largely undisputed. At the time, Nirvana had been signed to a small, independent record label for years, but in 1991, the band signed with a major label—Geffen Records—that represented several major artists. In advance of the album's release, the band worked with a Geffen art director, Robert Fisher, to develop the artwork for the album cover. The band initially floated the idea of an underwater childbirth and after looking for images, Fisher showed the band a stock photo of a baby swimming underwater in a pool, which the band liked. Because the stock image was prohibitively expensive, Geffen hired photographer Kirk Weddle, who specialized in underwater photography, to recreate the image. 
 
