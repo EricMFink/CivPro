@@ -126,11 +126,13 @@ Thus the doctrine of _Swift v. Tyson_, is, as Mr. Justice Holmes said, "an uncon
 
 _Fourth_. The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
 
-### Note: Postscript to _Erie_
+***
 
-On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018).
+**Postscript to _Erie_.** On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018).
 
-### Substance and Procedure under _Erie_
+***
+
+### Note: Substance and Procedure under _Erie_
 
 The underlying issue in _Erie_ was one of substantive law: the standard of care that the Railroad owed Tompkins. In a concurring opinion, Justice Reed suggested that on matters of procedure, federal courts were not bound to follow state law:
 
