@@ -60,7 +60,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 	- (B\) any question of law or fact common to all plaintiffs will arise in the action.
 
-- (2\) Defendants. Persons---as well as a vessel, cargo, or other property subject to admiralty process in rem---may be joined in one action as defendants if:
+- (2\) Defendants. Persons—as well as a vessel, cargo, or other property subject to admiralty process in rem—may be joined in one action as defendants if:
 
 	- (A\) any right to relief is asserted against them jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
 
@@ -68,7 +68,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 - (3\) Extent of Relief. Neither a plaintiff nor a defendant need be interested in obtaining or defending against all the relief demanded. The court may grant judgment to one or more plaintiffs according to their rights, and against one or more defendants according to their liabilities.
 
-(b\) Protective Measures. The court may issue orders---including an order for separate trials---to protect a party against embarrassment, delay, expense, or other prejudice that arises from including a person against whom the party asserts no claim and who asserts no claim against the party.
+(b\) Protective Measures. The court may issue orders—including an order for separate trials—to protect a party against embarrassment, delay, expense, or other prejudice that arises from including a person against whom the party asserts no claim and who asserts no claim against the party.
 
 ### Mosley v. General Motors Corp. (E.D. Missouri 1980)
 
@@ -122,7 +122,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 (a\) Compulsory Counterclaim.
 
-- (1\) In General. A pleading must state as a counterclaim any claim that---at the time of its service---the pleader has against an opposing party if the claim:
+- (1\) In General. A pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim:
 
 	- (A\) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
 
@@ -256,7 +256,7 @@ The Paces now appeal the dismissal of the 2013 action. They concede that Ms. Pac
 
 Federal Rule of Civil Procedure 13 governs compulsory counterclaims. Rule 13(a)(1) provides:
 
-> _In General._ A pleading must state as a counterclaim any claim that---at the time of its service---the pleader has against an opposing party if the claim:
+> _In General._ A pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim:
 >
 > (A\) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
 >
@@ -342,7 +342,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 - (1\) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
 
-- (2\) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint---the "third-party defendant":
+- (2\) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint—the "third-party defendant":
 
 	- (A\) must assert any defense against the third-party plaintiff's claim under Rule 12;
 
@@ -534,7 +534,7 @@ On April 1, 2010, Mr. Gonzalez entered into an "Exclusive Agency Contract" with 
 
 On February 17, 2012, the Boston Red Sox invited Mr. Pesqueira to train with the team for spring training in Fort Meyers, Florida. Then on March 6, 2012, a scout for the Boston Red Sox notified Mr. Gonzalez that Mr. Pesqueira would be returned to Mexico "based upon the direction of Major League Baseball" because Mr. Pesqueira "belonged to a Mexican league team and could not play in the major leagues without the consent of the Mexican league team." Plaintiffs dispute the validity of this explanation, which they describe as a "completely false" premise. Major League Baseball also advised Mr. Gonzalez that Mr. Pesqueira "was and is on the reserve list of the Association of Professional Baseball Teams of the Mexican Leagues, therefore, he was ineligible to play for the Boston Red Sox."
 
-At Mr. Gonzalez's request, Major League Baseball forwarded a copy of the "contractual documentation" between Mr. Pesqueira and the Mexican League team called the Diablos Rojos ("Red Devils"). Plaintiffs describe the documentation as containing "two preprinted, form pages, each prepared in Spanish," without any contractual terms. One page---titled "Contract for Professional Services"---includes Mr. Pesqueira's signature from January 1, 2010 with a start date of March 22, 2009, and a second page with the same title includes Mr. Pesqueira's signature from and with a start date of March 21, 2011. The former purportedly covers the 2009 Mexican baseball season, and the latter covers the 2011 season. Plaintiffs allege that at both times Mr. Pesqueira was under 18 years old, having been born on April 6, 1994. They also note that the earlier contract bears Mr. Pesqueira's father signature, though the later one does not.
+At Mr. Gonzalez's request, Major League Baseball forwarded a copy of the "contractual documentation" between Mr. Pesqueira and the Mexican League team called the Diablos Rojos ("Red Devils"). Plaintiffs describe the documentation as containing "two preprinted, form pages, each prepared in Spanish," without any contractual terms. One page—titled "Contract for Professional Services"—includes Mr. Pesqueira's signature from January 1, 2010 with a start date of March 22, 2009, and a second page with the same title includes Mr. Pesqueira's signature from and with a start date of March 21, 2011. The former purportedly covers the 2009 Mexican baseball season, and the latter covers the 2011 season. Plaintiffs allege that at both times Mr. Pesqueira was under 18 years old, having been born on April 6, 1994. They also note that the earlier contract bears Mr. Pesqueira's father signature, though the later one does not.
 
 According to Plaintiffs, Mr. Pesqueira and his father confirmed that they did not sign either of the documents provided by Major League Baseball. They believe that "either or both signatures of Pesqueira on each document has or have been fraudulently lifted from another document and transferred onto these documents, and that these documents are not authentic."
 
@@ -554,7 +554,7 @@ A party may move to dismiss a case for "failure to join a party under Rule 19." 
 
 Defendants argue that both the Red Devils and the Mexican League are necessary parties that cannot be feasibly joined to this action because (1) a determination of the validity of Mr. Pesqueira's alleged contracts with the Red Devils is necessary, and (2) joining the parties would vitiate this Court's subject-matter jurisdiction and Plaintiffs cannot establish personal jurisdiction over these absent parties in this Court. Plaintiffs present their claims very differently in their opposition brief compared to the allegations in the complaint. In a disingenuous early-inning strategic shift, they direct the focus of this action on Mr. Gonzalez's agency contract with Mr. Pesqueira, arguing that the Red Devils and Mexican League are "joint tortfeasors" that are not necessary parties to litigate the claims asserted in this action. Plaintiffs swing for the fences, but ultimately come up short.
 
-Upon reviewing the allegations in the complaint, it is clear that the threshold issue in this action is the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils. Plaintiffs proceed with their action under the presumption that those contracts are invalid---because Mr. Pesqueira was a minor at the time the contracts were executed, or because the signatures were "fraudulently lifted from another document and transferred onto these documents." These allegations in the complaint overwhelmingly demonstrate that this entire action hinges on one game-winning issue---the validity of the Red Devils contracts. The Court emphasizes that determining the validity of the alleged contracts between Mr. Pesqueira and the Red Devils is outside the scope of this series. Therefore, the Court rejects the disingenuous shifted premise that Plaintiffs present in their opposition brief, and shall proceed analyzing Defendants' motion while recognizing that the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils is the go-ahead run.
+Upon reviewing the allegations in the complaint, it is clear that the threshold issue in this action is the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils. Plaintiffs proceed with their action under the presumption that those contracts are invalid—because Mr. Pesqueira was a minor at the time the contracts were executed, or because the signatures were "fraudulently lifted from another document and transferred onto these documents." These allegations in the complaint overwhelmingly demonstrate that this entire action hinges on one game-winning issue—the validity of the Red Devils contracts. The Court emphasizes that determining the validity of the alleged contracts between Mr. Pesqueira and the Red Devils is outside the scope of this series. Therefore, the Court rejects the disingenuous shifted premise that Plaintiffs present in their opposition brief, and shall proceed analyzing Defendants' motion while recognizing that the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils is the go-ahead run.
 
 ##### A\. The Red Devils and the Mexican League Are Necessary Parties.
 
@@ -572,13 +572,13 @@ Alternatively, under Rule 19(a)(1)(B)(ii), an absent party is also necessary if 
 
 Defendants argue that "the Red Devils could still sue others in the Mexican courts and elsewhere for wrongfully interfering with its contract with Mr. Pesqueira," and "this action will not have any binding effect on the Red Devils unless the team is made a party to this case." (Defs.' Mot. 11:10-19.) The concern that Defendants suggest is important, but for the purposes of Rule 19, the paramount concern is a Mexican court or another in the United States determining that the Red Devils contracts are valid if this Court finds that they are not, or vice versa. That would produce inconsistent obligations for all of the parties in this action in addition to the Red Devils because operating under one court's determination would then necessarily cause the parties to breach another court's determination regarding the same issue, i.e., the validity of the Red Devils contracts. Therefore, because of the risk of inconsistent obligations, the Red Devils are a necessary party to this action.
 
-Swing and a miss---strike one.
+Swing and a miss—strike one.
 
 ##### B\. Joining the Red Devils and the Mexican League Is Not Feasible.
 
 "If an absentee is a necessary party under Rule 19(a), the second stage is for the court to determine whether it is feasible to order that the absentee be joined." Rule 19(a) sets forth three circumstances in which joinder is not feasible: (1) when venue is improper; (2) when the absentee is not subject to personal jurisdiction; and (3) when joinder would destroy subject matter jurisdiction.
 
-Defendants argue that "the Red Devils and the Mexican League cannot be joined both because their joinder would destroy this Court's subject-matter jurisdiction, and because Plaintiffs cannot establish personal jurisdiction over them in this Court." Plaintiffs do not address feasibility in their opposition brief. In fact, the words "feasible" and "feasibility" do not appear anywhere in their brief. Consequently, Plaintiffs concede that joining the Red Devils and the Mexican League is not feasible under the second and third circumstances that Rule 19 enumerates. They took this pitch and it went right down the middle---strike two.
+Defendants argue that "the Red Devils and the Mexican League cannot be joined both because their joinder would destroy this Court's subject-matter jurisdiction, and because Plaintiffs cannot establish personal jurisdiction over them in this Court." Plaintiffs do not address feasibility in their opposition brief. In fact, the words "feasible" and "feasibility" do not appear anywhere in their brief. Consequently, Plaintiffs concede that joining the Red Devils and the Mexican League is not feasible under the second and third circumstances that Rule 19 enumerates. They took this pitch and it went right down the middle—strike two.
 
 ##### C\. The Red Devils and Mexican League Are Indispensable Parties.
 
@@ -586,7 +586,7 @@ If the necessary party cannot be joined, the court must then determine whether t
 
 Plaintiffs' primary arguments addressing indispensability are: (1) Defendants fail to meet their burden, in part, because all of the cases cited are distinguishable, and (2) in equity and good conscience, this case should be allowed to proceed regardless of whether the Red Devils and the Mexican League are indispensable. The Court rejects these arguments. Plaintiffs either misread or misunderstand the cited case law, and they also fail to provide any law themselves that provides an avenue for this Court to bypass Rules 12(b)(7) and 19 and all of the related case law as they implore the Court do.
 
-Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, strike three---out.
+Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, strike three—out.
 
 ### Sullivan-Blake v. Fedex Ground Package System, Inc. (W.D. Pa. 2020) 
 
@@ -608,7 +608,7 @@ Rule 19(a) classifies an absent party as a "required party" and mandates its joi
 
 Contrary to FedEx's assertions, none of these situations are applicable here.
 
-Under Rule 19(a)(1)(A), "the Court must consider whether---in the absence of an un-joined party---complete relief can be granted to the persons already parties to the lawsuit." FedEx asserts that the Service Providers are "required" parties pursuant to this provision because it is the Service Providers, and not FedEx, that are "the employers responsible for compensation, and Plaintiffs cannot achieve complete relief without their participation." This assertion is without merit, however, because "under the FLSA, multiple persons or entities can be responsible for a single employee's wages as 'joint employers' in certain situations. Indeed, FedEx acknowledges that this is a joint employment case. 
+Under Rule 19(a)(1)(A), "the Court must consider whether—in the absence of an un-joined party—complete relief can be granted to the persons already parties to the lawsuit." FedEx asserts that the Service Providers are "required" parties pursuant to this provision because it is the Service Providers, and not FedEx, that are "the employers responsible for compensation, and Plaintiffs cannot achieve complete relief without their participation." This assertion is without merit, however, because "under the FLSA, multiple persons or entities can be responsible for a single employee's wages as 'joint employers' in certain situations. Indeed, FedEx acknowledges that this is a joint employment case. 
 
 In such cases, "each joint employer may be held jointly and severally liable for the FLSA violations of the other, in addition to direct liability for its own violations." If Plaintiffs prevail in this case and FedEx is deemed a joint employer under the FLSA, it will be individually liable to Plaintiffs for all damages. Thus, because the Court can accord complete relief among the existing parties, the Service Providers are not "required" parties under Rule 19(a)(1)(A).[^sullivan-blake1]
 
