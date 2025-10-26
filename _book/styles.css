@@ -627,15 +627,15 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: inline-block;
 	background: #fffff8;
 	border-radius: 4px;
-	font-family: "Adelle Sans";
+	font-family: "Adelle-Sans", sans-serif;
 	font-size: 80%;
 	color: #191919;
 	padding: 4px 6px;
 }
 .callout p {
-	font-family: "Adelle Sans";
+	font-family: "Adelle-Sans", sans-serif;
 	font-size: .9rem;
-	fon
+	font-weight: 300;
 }
 hr {
 	width: 50%;
