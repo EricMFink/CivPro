@@ -337,15 +337,15 @@ Defendants assert that plaintiff cannot make a sufficient showing on a critical 
 The term "child pornography" is defined as "any visual depiction" where "the production of such visual depiction involves the use of a minor engaging in sexually explicit conduct." 18 U.S.C. § 2256(8)(A). "Sexually explicit conduct," in turn, is defined to include a "lascivious exhibition" of a person's "anus, genitals, or pubic area." § 2256(2)(A)(v). "To determine whether a visual depiction of a minor constitutes a 'lascivious exhibition of the genitals or pubic area'"—and thus child pornography—courts look to the six factors outlined in United States v. Dost, 636 F.Supp. 828 (S.D. Cal. 1986). The _Dost_ factors consider:
 
 > (1\) whether the focal point of the visual depiction is on the child's genitalia or pubic area;
-
+> 
 > (2\) whether the setting of the visual depiction is sexually suggestive, i.e., in a place or pose generally associated with sexual activity;
-
+> 
 > (3\) whether the child is depicted in an unnatural pose, or in inappropriate attire, considering the age of the child;
-
+> 
 > (4\) whether the child is fully or partially clothed, or nude;
-
+> 
 > (5\) whether the visual depiction suggests sexual coyness or a willingness to engage in sexual activity;
-
+> 
 > (6\) whether the visual depiction is intended or designed to elicit a sexual response in the viewer.
 
 Although these factors are the typical "starting point," they "are neither exclusive nor conclusive," and instead serve as "general principles" to guide the analysis. The Ninth Circuit has held that "lascivious" is a "commonsensical term," and that courts may consider any other factors relevant to the case. "The inquiry must be case-specific and based on the overall content of the visual depiction." In other words, the question of whether an image can fairly be considered child pornography demands a holistic, practical, commonsense approach. Although the test for obscenity is stricter and doesn't apply here, child pornography tends to have a similar quality as obscenity—there is an element of "you know it when you see it."
