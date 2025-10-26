@@ -642,7 +642,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 (b\) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
 
-### Contribution & Indemnification
+### Note: Contribution & Indemnification
 
 FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them:
 
@@ -946,7 +946,6 @@ For each of the following additional claims, explain whether joinder is proper u
 
 ![Parties & Claims in Claypool v. Gottlieb](../img/Claypool.png){width=75%}
 
-
 # Personal Jurisdiction
 
 ## Constitutional Limits: Due Process 
@@ -997,15 +996,11 @@ It is true that, in a strict sense, a proceeding in rem is one taken directly ag
 
 It follows from the views expressed that the personal judgment recovered in the State court of Oregon against the plaintiff herein, then a non-resident of the State, was without any validity, and did not authorize a sale of the property in controversy. 
 
-***
+### Note: _Pennoyer_'s Backstory 
 
-::: {.callout-note}
-
-**_Pennoyer_'s Backstory**: The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossession of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonencyclopedia.org/articles/exclusion_laws/).
+The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossession of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonencyclopedia.org/articles/exclusion_laws/).
 
 [John H. Mitchell](https://www.oregonencyclopedia.org/articles/mitchell_john_hipple_1835_1905_) and [Sylvester Pennoyer](https://www.oregonencyclopedia.org/articles/pennoyer_sylvester_1831_1902_/) were significant and colorful political figures in Oregon. Marcus Neff's widow was later a party to another suit involving the same property, once again turning on a dispute with a lawyer for payment of his fees. [Wells v. Neff](../exhibits/Wells-Neff-1886.pdf), 14 Or. 66 (1886). For further background on _Pennoyer v. Neff_ and a discussion of its significance for modern personal jurisdiction doctrine, see Perdue (1987).
-
-:::
 
 ### International Shoe Co. v. Washington (U.S. 1945) 
 
@@ -1041,7 +1036,7 @@ We are likewise unable to conclude that the service of the process within the st
 
 Appellant having rendered itself amenable to suit upon obligations arising out of the activities of its salesmen in Washington, the state may maintain the present suit _in personam_ to collect the tax laid upon the exercise of the privilege of employing appellant's salesmen within the state. For Washington has made one of those activities, which taken together establish appellant's "presence" there for purposes of suit, the taxable event by which the state brings appellant within the reach of its taxing power. The state thus has constitutional power to lay the tax and to subject appellant to a suit to recover it. The activities which establish its "presence" subject it alike to taxation by the state and to suit to recover the tax.
 
-### _International Shoe_, the FRCP, & Service of Process
+### Note: _International Shoe_, the FRCP, & Service of Process
 
 ![International Shoe Co. building, St. Louis](../img/IntlShoeBldg2.jpg){width=66%}
 
@@ -1455,7 +1450,7 @@ HANWJH reminds us that it is a foreign party with only one documented sale to th
 
 In _Curry,_ we held that there was no unfairness in making a seller defend a suit in a state where it structured its business to "easily serve the state's consumers." "There is no unfairness in requiring a defendant to defend a lawsuit in the courts of the state where, through the very activity giving rise to the suit, it continues to gain so much." NBA Properties may have its principal places of business elsewhere, but it nevertheless has an interest in ensuring that its trademark is protected against confusion in the Illinois market. Illinois no doubt has an interest in protecting its consumers from purchasing fraudulent merchandise. Finally, HANWJH alleges no unusual burden in defending the suit in Illinois.
 
-### Specific Jurisdiction Based on a Federal Statute
+### Note: Specific Jurisdiction Based on a Federal Statute
 
 The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons." Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... authorized by a federal statute."
 
@@ -1827,8 +1822,6 @@ Within the outer bounds allowed under the constitutional due process standard, t
 
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
-***
-
 ##### NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.
 
 _(a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:_
@@ -1866,8 +1859,6 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 #### Constitutional Limit Statutes 
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
-
-***
 
 ##### Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.
 
@@ -1958,18 +1949,15 @@ There was no diversity of citizenship and it is not and cannot be suggested that
 
 The application of this rule to the case at bar is decisive against the jurisdiction of the Circuit Court.
 
+### Note: Postscript to _Mottley_
 
-::: {.callout-note}
-
-**Postscript to _Mottley_**: On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. _Louisville & Nashville R. Co. v. Mottley_, 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
+On remand, the Kentucky court held that the 1906 statute did not apply to the Mottleys' free passes and ordered the railroad to continue honoring the settlement agreement. _Louisville & Nashville R. Co. v. Mottley_, 133 Ky. 652 (1909). The case made its way back to the U.S. Supreme Court, which once again ruled against the Mottleys. Holding that the 1906 statute rendered the agreement to provide free passes illegal, the Court reversed the order granting specific performance. [_Louisville & Nashville R. Co. v. Mottley_](https://scholar.google.com/scholar_case?case=15541627978206243212), 219 US 467 (1911). That opinion did not entirely foreclose the possibility of some other remedy for the Mottleys:
 
 > Whether, without enforcing the contract in suit, the defendants in error may, by some form of proceeding against the railroad company, recover or restore the rights they had when the railroad collision occurred is a question not before us, and we express no opinion on it.
 
 However, there is no record of anything further transpiring in the case.
 
 Apart from the case for which he is remembered today, Erasmus Mottley was apparently "a prominent and influential business man" and unsuccessful candidate for public office. E. Polk Johnson (1912): 819-20.
-
-:::
 
 ### Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg. (U.S. 2005) 
 
@@ -2011,7 +1999,7 @@ Accordingly, _Merrell Dow_ should be read in its entirety as treating the absenc
 
 As already indicated, however, a comparable analysis yields a different jurisdictional conclusion in this case. Although Congress also indicated ambivalence in this case by providing no private right of action to Grable, it is the rare state quiet title action that involves contested issues of federal law. Consequently, jurisdiction over actions like Grable's would not materially affect, or threaten to affect, the normal currents of litigation. Given the absence of threatening structural consequences and the clear interest the Government, its buyers, and its delinquents have in the availability of a federal forum, there is no good reason to shirk from federal jurisdiction over the dispositive and contested federal issue at the heart of the state-law title claim.
 
-### Understanding Grable
+### Note: Understanding Grable
 
 In _Grable_, the Supreme Court sought to clarify when a state-law claim with an "essential federal element" falls within the jurisdiction granted under §1331. This is not really an exception to the "well-pleaded complaint" rule in _Mottley_. Under the _Grable_ standard, the federal question must still arise on the face of the complaint, i.e. as one of the elements of the plaintiff's claim, not a defense.
 
@@ -2109,12 +2097,6 @@ The judicial power shall extend to all cases;--between citizens of different sta
 
 (e\) The word "States", as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-::: {.callout-note}
-
-**Exception to Diversity Jurisdiction**: Federal courts will not assert diversity jurisdiction over certain types of action, even if the requirements under § 1332 are satisfied. These include domestic relations suits (i.e. "cases involving the issuance of a divorce, alimony, or child custody decree"), _Ankenbrandt v. Richards_, 504 U.S. 689 (1992), and probate matters (i.e. cases involving "the probate or annulment of a will and the administration of a decedent's estate" as well as "dispos[al] of property that is in the custody of a state probate court"), _Marshall v. Marshall_, 547 U.S. 293, 311–12 (2006). 
-
-:::
-
 ### Hanks v Coan (M.D.N.C. 1999) 
 
 This matter comes before the court on Defendant Frances Coan's motion to dismiss Plaintiff's complaint and Defendant John Coan, III's, motion to dismiss, pursuant to Fed.R.Civ.P. 12(b)(1), for lack of subject matter jurisdiction. For the reasons discussed herein, the court will grant Defendants' motions to dismiss.
@@ -2161,7 +2143,7 @@ Applying the facts of the present case to the controlling principles of law, the
 
 Therefore, absent complete diversity of citizenship between Plaintiff and Defendants, the court is without jurisdiction and must dismiss the case.
 
-### Citizenship of Organizational Parties
+### Note: Citizenship of Organizational Parties
 
 Under the diversity jurisdiction statute, a corporation is a citizen of both the state or country in which it is incorporated and the state or country where it has its principal place of business. 28 U.S.C. §1332(c)(1). In _Hertz Corp. v. Friend_, 559 US 77 (2010), the Supreme Court held that a corporation's "principal place of business" is "the place where the corporation's high level officers direct, control, and coordinate the corporation's activities." Under this "nerve center" test, the principal place of business "will typically be found at a corporation's headquarters."
 
@@ -2433,7 +2415,7 @@ Even if the Court could exercise supplemental jurisdiction over a permissive cou
 
 Moreover, public policy concerns support declining jurisdiction. Federal consumer protection statutes seek to protect consumers from unscrupulous practices "regardless of whether a valid debt actually exists." In the context of TILA, the Fourth Circuit has cautioned that "to let the lender use the federal proceedings as an opportunity to pursue private claims against the borrower would impede expeditious enforcement of the federal penalty and involve the district courts in debt collection matters having no federal significance." This same concern applies here. Accordingly, having concluded that Exeter's counterclaim would substantially predominate over the TCPA claim, the Court, even if authorized to exercise supplemental jurisdiction over that counterclaim, would decline to do so.
 
-### Supplemental Jurisdiction & Counterclaims 
+### Note: Supplemental Jurisdiction & Counterclaims 
 
 As the _Jones_ and _Ginwright_ cases illustrate, the consensus among the federal courts is that compulsory counterclaims always satisfy the "same case or controversy" requirement for supplemental jurisdiction. However, there is some disagreement regarding the exercise of supplemental jurisdiction over permissive counterclaims. 
 
@@ -2592,20 +2574,13 @@ _Does a federal court have subject-matter jurisdiction over Eleanor’s suit?_
 
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
 
+### Note: "The Laws of the Several States"
 
-::: {.callout-note}
-
-**"The Laws of the Several States"**: The Rules of Decision Act applies to cases in which federal courts hear claims that arise under state law, i.e. under diversity jurisdiction. Federal courts must apply "the laws of the several states" as the "rules of decision" in such cases. By "rules of decision", the statute means the substantive legal rules governing the claims, i.e. rules that define the rights, duties, and liabilities of the parties. But what does the statute mean by "laws of the several states"?
-
-:::
+The Rules of Decision Act applies to cases in which federal courts hear claims that arise under state law, i.e. under diversity jurisdiction. Federal courts must apply "the laws of the several states" as the "rules of decision" in such cases. By "rules of decision", the statute means the substantive legal rules governing the claims, i.e. rules that define the rights, duties, and liabilities of the parties. But what does the statute mean by "laws of the several states"?
 
 ### Swift v. Tyson (U.S. 1842) 
 
-**Summary of Facts.** _George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange. It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt. Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._ 
-
-::: {.aside}
-A bill of exchange ... is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/bill_of_exchange)
-:::
+**Summary of Facts.** _George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange. [A bill of exchange ... is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/bill_of_exchange)]{.aside} It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt. Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._ 
 
 ***
 
@@ -2615,15 +2590,11 @@ There is no doubt, that a bonâ fide holder of a negotiable instrument for a val
 
 In the present case, the plaintiff is a bonâ fide holder without notice for what the law deems a good and valid consideration, that is, for a pre-existing debt; and the only real question in the cause is, whether, under the circumstances of the present case, such a pre-existing debt constitutes a valuable consideration in the sense of the general rule applicable to negotiable instruments. We say, under the circumstances of the present case, for the acceptance having been made in New York, the argument on behalf of the defendant is, that the contract is to be treated as a New York contract, and therefore to be governed by the laws of New York, as expounded by its Courts, as well upon general principles, as by the express provisions of the [Rules of Decision Act]. And then it is further contended, that by the law of New York, as thus expounded by its Courts, a pre-existing debt does not constitute, in the sense of the general rule, a valuable consideration applicable to negotiable instruments.
 
-But, admitting the doctrine to be fully settled in New York, it remains to be considered, whether it is obligatory upon this Court, if it differs from the principles established in the general commercial law. It is observable that the Courts of New York do not found their decisions upon this point upon any local statute, or positive, fixed, or ancient local usage: but they deduce the doctrine from the general principles of commercial law. It is, however, contended, that the [Rules of Decision Act] furnishes a rule obligatory upon this Court to follow the decisions of the state tribunals in all cases to which they apply. That section provides "that the laws of the several states, except where the Constitution, treaties, or statutes of the United States shall otherwise require or provide, shall be regarded as rules of decision in trials at common law in the Courts of the United States, in cases where they apply." In order to maintain the argument, it is essential, therefore, to hold, that the word "laws," in this section, includes within the scope of its meaning the decisions of the local tribunals. In the ordinary use of language it will hardly be contended that the decisions of Courts constitute laws. They are, at most, only evidence of what the laws are; and are not of themselves laws. They are often re-examined, reversed, and qualified by the Courts themselves, whenever they are found to be either defective, or ill-founded, or otherwise incorrect. The laws of a state are more usually understood to mean the rules and enactments promulgated by the legislative authority thereof, or long established local customs having the force of laws. In all the various cases which have hitherto come before us for decision, this Court have uniformly supposed, that the true interpretation of the thirty-fourth section limited its application to state laws strictly local, that is to say, to the positive statutes of the state, and the construction thereof adopted by the local tribunals, and to rights and titles to things having a permanent locality, such as the rights and titles to real estate, and other matters immovable and intraterritorial in their nature and character. It never has been supposed by us, that the section did apply, or was designed to apply, to questions of a more general nature, not at all dependent upon local statutes or local usages of a fixed and permanent operation, as, for example, to the construction of ordinary contracts or other written instruments, and especially to questions of general commercial law, where the state tribunals are called upon to perform the like functions as ourselves, that is, to ascertain upon general reasoning and legal analogies, what is the true exposition of the contract or instrument, or what is the just rule furnished by the principles of commercial law to govern the case. And we have not now the slightest difficulty in holding, that this section, upon its true intendment and construction, is strictly limited to local statutes and local usages of the character before stated, and does not extend to contracts and other instruments of a commercial nature, the true interpretation and effect whereof are to be sought, not in the decisions of the local tribunals, but in the general principles and doctrines of commercial jurisprudence. Undoubtedly, the decisions of the local tribunals upon such subjects are entitled to, and will receive, the most deliberate attention and respect of this Court; but they cannot furnish positive rules, or conclusive authority, by which our own judgments are to be bound up and governed. The law respecting negotiable instruments may be truly declared in the language of Cicero, to be in a great measure, not the law of a single country only, but of the commercial world. _Non erit alia lex Romæ, alia Athenis, alia nunc, alia posthac, sed et apud omnes gentes, et omni tempore, una eademque lex obtenebit_. 
-
-::: {.aside}
-_Non erit alia lex Romæ, alia Athenis ... :_ "There will not be different laws at Rome and at Athens, or different laws now and in the future, but one eternal and unchangeable law will be valid for all nations and all times".
-:::
+But, admitting the doctrine to be fully settled in New York, it remains to be considered, whether it is obligatory upon this Court, if it differs from the principles established in the general commercial law. It is observable that the Courts of New York do not found their decisions upon this point upon any local statute, or positive, fixed, or ancient local usage: but they deduce the doctrine from the general principles of commercial law. It is, however, contended, that the [Rules of Decision Act] furnishes a rule obligatory upon this Court to follow the decisions of the state tribunals in all cases to which they apply. That section provides "that the laws of the several states, except where the Constitution, treaties, or statutes of the United States shall otherwise require or provide, shall be regarded as rules of decision in trials at common law in the Courts of the United States, in cases where they apply." In order to maintain the argument, it is essential, therefore, to hold, that the word "laws," in this section, includes within the scope of its meaning the decisions of the local tribunals. In the ordinary use of language it will hardly be contended that the decisions of Courts constitute laws. They are, at most, only evidence of what the laws are; and are not of themselves laws. They are often re-examined, reversed, and qualified by the Courts themselves, whenever they are found to be either defective, or ill-founded, or otherwise incorrect. The laws of a state are more usually understood to mean the rules and enactments promulgated by the legislative authority thereof, or long established local customs having the force of laws. In all the various cases which have hitherto come before us for decision, this Court have uniformly supposed, that the true interpretation of the thirty-fourth section limited its application to state laws strictly local, that is to say, to the positive statutes of the state, and the construction thereof adopted by the local tribunals, and to rights and titles to things having a permanent locality, such as the rights and titles to real estate, and other matters immovable and intraterritorial in their nature and character. It never has been supposed by us, that the section did apply, or was designed to apply, to questions of a more general nature, not at all dependent upon local statutes or local usages of a fixed and permanent operation, as, for example, to the construction of ordinary contracts or other written instruments, and especially to questions of general commercial law, where the state tribunals are called upon to perform the like functions as ourselves, that is, to ascertain upon general reasoning and legal analogies, what is the true exposition of the contract or instrument, or what is the just rule furnished by the principles of commercial law to govern the case. And we have not now the slightest difficulty in holding, that this section, upon its true intendment and construction, is strictly limited to local statutes and local usages of the character before stated, and does not extend to contracts and other instruments of a commercial nature, the true interpretation and effect whereof are to be sought, not in the decisions of the local tribunals, but in the general principles and doctrines of commercial jurisprudence. Undoubtedly, the decisions of the local tribunals upon such subjects are entitled to, and will receive, the most deliberate attention and respect of this Court; but they cannot furnish positive rules, or conclusive authority, by which our own judgments are to be bound up and governed. The law respecting negotiable instruments may be truly declared in the language of Cicero, to be in a great measure, not the law of a single country only, but of the commercial world. ["There will not be different laws at Rome and at Athens, or different laws now and in the future, but one eternal and unchangeable law will be valid for all nations and all times".]{.aside} _Non erit alia lex Romæ, alia Athenis, alia nunc, alia posthac, sed et apud omnes gentes, et omni tempore, una eademque lex obtenebit_. 
 
 It becomes necessary for us, therefore, upon the present occasion to express our own opinion of the true result of the commercial law upon the question now before us. And we have no hesitation in saying, that a pre-existing debt does constitute a valuable consideration in the sense of the general rule already stated, as applicable to negotiable instruments. Assuming it to be true, (which, however, may well admit of some doubt from the generality of the language,) that the holder of a negotiable instrument is unaffected with the equities between the antecedent parties, of which he has no notice, only where he receives it in the usual course of trade and business for a valuable consideration, before it becomes due; we are prepared to say, that receiving it in payment of, or as security for a pre-existing debt, is according to the known usual course of trade and business.
 
-### _Swift_ and Its Discontents
+### Note: _Swift_ and Its Discontents
 
 Justice Story's opinion quotes the Roman statesman and philosopher Cicero for the proposition that the common law cannot differ from state to state. The cited passage[^6f7b] summarizes the natural law paradigm:
 
@@ -2713,13 +2684,9 @@ Thus the doctrine of _Swift v. Tyson_, is, as Mr. Justice Holmes said, "an uncon
 
 _Fourth_. The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
 
-***
+### Note: Postscript to _Erie_
 
-::: {.callout-note}
-
-**Postscript to _Erie_.** On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident, including photos of Tompkins before and after his unfortunate encounter with the train, _see_ Frye (2018).
-
-:::
+On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident (including photos of Tompkins before and after his unfortunate encounter with the train), see Frye (2018).
 
 ### Substance and Procedure under _Erie_
 
@@ -3595,13 +3562,19 @@ The "Facts" section of the proposed amended complaint is exactly the same as fou
 
 The only substantive addition to the proposed amended complaint is Count V seeking punitive damages. This proposed count incorporates the allegations in the preceding paragraphs and then alleges as follows:
 
-- • Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions sic, when, in fact:
-	- • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
-	- • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
-	- • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
-	- • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
-	- • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
-	- • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
+> Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions [sic], when, in fact:
+> 
+> > • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
+> 
+> > • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
+> 
+> > • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
+> 
+> > • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
+>  
+> > • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
+>  
+> > • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
@@ -3705,7 +3678,7 @@ That said, the Third Circuit appeared to be comfortably bound by its previous ru
 
 Here, the court need not resolve the instant motion by siding with one side or the other in the circuit split as it concerns Rule 15(c)(1)(C), interesting as that issue is. Instead, the court has determined that Rule 15(c)(1)(A) provides more than sufficient grounds to relate-back Plaintiffs' amendment to the date of their original complaint. As Plaintiffs posit, Rule 15(c) was specifically amended in this regard in 1991 "to clarify that relation back may be permitted even it does not meet the standard of the federal rule if it would be permitted under the applicable limitations law." As the First Circuit explained in _Morel v. DaimlerChrysler AG_, Rule 15(c)(1)(A) "cements in place a one-way ratchet; less restrictive state relation-back rules will displace federal relation-back rules, but more restrictive state relation-back rules will not." Accordingly, as Plaintiffs argue, the two parts of Rule 15(c)(1), subparagraphs (A) and (C), in essence enable a party to invoke the more permissive relation back rule. Thus, even were a court to conclude that subparagraph (c)(1)(C) does not apply, subparagraph (c)(1)(A) does provide the relief Plaintiffs seek in amending their complaint.
 
-One further note in this regard. While this is not a diversity case—the more common route to applying Rule 15(c)(1)(A)—relation back is nonetheless available in the context of a section 1983 claim such as this so long as the borrowed limitation period, under state law, is subject to relation back.[Where federal law does not specify an applicable limitations period for asserting claims, courts "borrow" the statute of limitations for analogous claims under state law. _See Owens v. Okure_, 488 US 235, 240 (1989).]{.aside}  "Rule 15(c)(1)(A) instructs courts, then, to look to the entire body of limitations law that provides the applicable statute of limitations." Since section 1983 derives its statute of limitations from state law, "under Rule 15(c)(1)(A), [the court] must determine if state law provides a 'more forgiving principle of relations back' in the John Doe context, compared to the federal relation back doctrine under Rule 15(c)(1)(C)."
+One further note in this regard. While this is not a diversity case—the more common route to applying Rule 15(c)(1)(A)—relation back is nonetheless available in the context of a section 1983 claim such as this so long as the borrowed limitation period, under state law, is subject to relation back.[Where federal law does not specify an applicable limitations period for asserting claims, courts "borrow" the statute of limitations for analogous claims under state law. _See Owens v. Okure_, 488 US 235, 240 (1989).]{.aside} "Rule 15(c)(1)(A) instructs courts, then, to look to the entire body of limitations law that provides the applicable statute of limitations." Since section 1983 derives its statute of limitations from state law, "under Rule 15(c)(1)(A), the court must determine if state law provides a 'more forgiving principle of relations back' in the John Doe context, compared to the federal relation back doctrine under Rule 15(c)(1)(C)."
 
 Although, as noted, the City and Fitchet do not address subparagraph (c)(1)(A) at all, they do acknowledge that a federal court which is called upon to adjudicate a section 1983 claim ordinarily must borrow the forum state's limitation period governing personal injury causes of action. In this regard, the parties agree that Massachusetts prescribes a three year statute of limitations for personal injury actions, and that the First Circuit has adopted this prescriptive period for section 1983 cases arising in Massachusetts.[^Palacio2]
 
@@ -3891,9 +3864,9 @@ The primary basis for the suspension of Ms. Hunter is that she advanced a frivol
 
 We have recognized that maintaining a legal position to a court is only sanctionable when, in "applying a standard of objective reasonableness, it can be said that a reasonable attorney in like circumstances could not have believed his actions to be legally justified." That is to say, as Judge Wilkins recently explained, the legal argument must have "absolutely no chance of success under the existing precedent." Although a legal claim may be so inartfully pled that it cannot survive a motion to dismiss, such a flaw will not in itself support Rule 11 sanctions — only the lack of any legal or factual basis is sanctionable. We have aptly observed that "the Rule does not seek to stifle the exuberant spirit of skilled advocacy or to require that a claim be proven before a complaint can be filed. The Rule attempts to discourage the needless filing of groundless lawsuits." And we have recognized that "creative claims, coupled even with ambiguous or inconsequential facts, may merit dismissal, but not punishment." 
 
-In its Sanctions Order, the court maintained, with respect to Ms. Hunter, that "plaintiffs' standing to file suit was challenged based on a binding arbitration clause in the Earthgrains CBA\. Plaintiffs' response to this gateway issue rested on a tenuous, if not preposterous, reading of the CBA and applicable law." The court was correct that the legal position it found frivolous — that a collective bargaining agreement ("CBA") arbitration clause must contain specific language to mandate arbitration of a federal discrimination claim — had been rejected by us four years earlier in _Austin v. Owens-Brockway Glass Container, Inc._ However, our reasoning in _Austin,_ as of April 22, 1998 (when the Show Cause Order issued), stood alone on one side of a circuit split. Six of our sister circuits (the Second, Sixth, Seventh, Eighth, Tenth, and Eleventh) had taken the legal position contrary to _Austin_ on whether a CBA could waive an individual employee's statutory cause of action. In point of fact, and consistent with the foregoing, none of our sister circuits, as of April 1998, had agreed with the position we took in _Austin_.
+In its Sanctions Order, the court maintained, with respect to Ms. Hunter, that "plaintiffs' standing to file suit was challenged based on a binding arbitration clause in the Earthgrains CBA\. Plaintiffs' response to this gateway issue rested on a tenuous, if not preposterous, reading of the CBA and applicable law." The court was correct that the legal position it found frivolous — that a collective bargaining agreement ("CBA") arbitration clause must contain specific language to mandate arbitration of a federal discrimination claim — had been rejected by us four years earlier in _Austin v. Owens-Brockway Glass Container, Inc._ However, our reasoning in _Austin,_ as of April 22, 1998 (when the Show Cause Order issued), stood alone on one side of a circuit split. Six of our sister circuits (the Second, Sixth, Seventh, Eighth, Tenth, and Eleventh) had taken the legal position contrary to _Austin_ on whether a CBA could waive an individual employee's statutory cause of action. In point of fact, and consistent with the foregoing, none of our sister circuits, as of April 1998, had agreed with the position we took in _Austin.
 
-The circuit split evidenced by these decisions concerned whether collective bargaining agreements containing general language required arbitration of individuals' statutory claims, such as those arising under the ADEA and Title VII\. The disagreement of the circuits on this issue resulted from varying interpretations of the Court's decisions in _Alexander v. Gardner-Denver Company_, and _Gilmer v. Interstate/Johnson Lane Corp._[^hunter16] This Court, in _Austin,_ had deemed _Gilmer_ to be the controlling authority, while the other circuits chose the alternate route, finding the Court's decision in _Alexander_ to control.
+The circuit split evidenced by these decisions concerned whether collective bargaining agreements containing general language required arbitration of individuals' statutory claims, such as those arising under the ADEA and Title VII\. The disagreement of the circuits on this issue resulted from varying interpretations of the Court's decisions in _Alexander v. Gardner-Denver Company_, and _Gilmer v. Interstate/Johnson Lane Corp.[^hunter16] This Court, in _Austin,_ had deemed _Gilmer_ to be the controlling authority, while the other circuits chose the alternate route, finding the Court's decision in _Alexander_ to control.
 
 In opposition to Earthgrains' summary judgment motion, Ms. Hunter repeatedly relied upon the Supreme Court's decision in _Alexander_ (failing, however, to rely on the decisions of the six circuits that had followed _Alexander_). She further sought to align her case against Earthgrains with _Alexander_ by discussing the generality of the applicable clause of the Earthgrains CBA, which included the agreement not to "illegally discriminate." She contended that this provision was not sufficiently specific to require her clients to arbitrate.
 
@@ -4503,7 +4476,7 @@ Fourth, a nonparty is bound by a judgment if she "assumed control" over the liti
 
 Fifth, a party bound by a judgment may not avoid its preclusive force by relitigating through a proxy. Preclusion is thus in order when a person who did not participate in a litigation later brings suit as the designated representative of a person who was a party to the prior adjudication. And although our decisions have not addressed the issue directly, it also seems clear that preclusion is appropriate when a nonparty later brings suit as an agent for a party who is bound by a judgment. 
 
-Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants. . . if the scheme is otherwise consistent with due process."["_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)]{.aside}  Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions or other suits that, "under the governing law, may be brought only on behalf of the public at large".
+Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants. . . if the scheme is otherwise consistent with due process."["_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)]{.aside} Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions or other suits that, "under the governing law, may be brought only on behalf of the public at large".
 
 #### III
 
@@ -5059,7 +5032,6 @@ _May Elke rely on the decision of the Workers' Compensation Claims Board to prec
 
 _May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?_
 
-
 # Summary Judgment  
 
 ## Standard for Summary Judgment
@@ -5210,7 +5182,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 - (4\) issue any other appropriate order.
 
-### "Materials in the Record": Discovery 
+### Note: "Materials in the Record": Discovery 
 
 Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinely disputed must support the assertion by citing to particular parts of materials in the record" or "showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact." The "materials in the record" are produced in the discovery process, governed by FRCP Rules 26-32. 
 
@@ -5478,7 +5450,7 @@ Julius Hahn, founder and president of Hahn, Inc., testified that his company man
 
 Mebelmacher generally furnishes Hahn with a pencil sketch of the furniture design, as well as a working sketch giving the actual dimensions of the piece and specifying the exterior material to be used. The Swivel Tub Chair was designed so that the chrome veneer edge would be flush with the plywood and the edges of the veneer would be sanded down. Chrome veneer is sharp because it is thin. However, the chair was not designed to have sharp edges. Hahn considers a sharp edge to be a manufacturing defect, not a design defect. Nothing prevented the placement of a protective trim along the bottom of the Swivel Tub Chair. Plastic edge guards have been added to similar chairs in the last few years.
 
-***
+—
 
 Under the applicable state law, the elements of Schlimazel’s claim is as follows:
 
