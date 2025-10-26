@@ -196,11 +196,11 @@ Applying the four inquiries here, the Court concludes that Exeter's counterclaim
 
 Second, because the legal and factual issues are different, the evidence would not be "substantially the same." While the alleged contract underlying the counterclaim might be admissible on the TCPA claim to the extent that it is relevant to establishing prior express consent for phone calls or the lack thereof, the evidence on the TCPA claim will primarily consist of records and testimony about the number of calls received and the use of the automatic dialing system, which would be of no relevance to the breach of contract counterclaim. Likewise, Exeter's counterclaim, which contains no allegations relating to phone calls or an automatic dialing system, will rely primarily on evidence that does not pertain to the TCPA claim, such as proof of Ginwright's failure to make car payments and evidence that Exeter did or did not repossess the car and resell it in accordance with Maryland's CLEC requirements.
 
+Third, _res judicata_ would not bar a subsequent suit on the breach of contract counterclaim. "The preclusive effect of a federal-court judgment is determined by federal common law." An action is precluded when:
+
 ::: {.aside}
 _Res judicata_ (claim preclusion) is covered in Chap. 7.
 :::
-
-Third, _res judicata_ would not bar a subsequent suit on the breach of contract counterclaim. "The preclusive effect of a federal-court judgment is determined by federal common law." An action is precluded when:
 
 > 1\) the prior judgment was final and on the merits, and rendered by a court of competent jurisdiction in accordance with the requirements of due process; 2) the parties are identical, or in privity, in the two actions; and, 3) the claim in the second matter is based upon the same cause of action involved in the earlier proceeding.
 
@@ -666,4 +666,4 @@ For each of the following additional claims, explain whether joinder is proper u
 
 7. A claim by Baroni against Driftwood for failure to pay Baroni in accordance with the contract that Driftwood signed. 
 
-![Parties & Claims in Claypool v. Gottlieb](../img/Claypool.png){width=75%}
+![Parties & Claims in Claypool v. Gottlieb](../img/claypool.png){width=75%}
