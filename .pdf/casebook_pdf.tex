@@ -240,6 +240,22 @@
 
 \newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
 \makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\definecolor{quarto-callout-color}{HTML}{909090}
+\definecolor{quarto-callout-note-color}{HTML}{0758E5}
+\definecolor{quarto-callout-important-color}{HTML}{CC1914}
+\definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+\definecolor{quarto-callout-tip-color}{HTML}{00A047}
+\definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+\definecolor{quarto-callout-color-frame}{HTML}{acacac}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+\definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+\definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+\definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+\definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
+\makeatother
+\makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
 \ifdefined\contentsname
@@ -2723,8 +2739,8 @@ Claims}\label{third-party-defendants-claims}
 asserted against a plaintiff, the plaintiff may bring in a third party
 if this rule would allow a defendant to do so.
 
-\subsection{Note: Contribution \&
-Indemnification}\label{note-contribution-indemnification}
+\subsection{Contribution \&
+Indemnification}\label{contribution-indemnification}
 
 FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party
 seeking to hold someone else liable for all or part of a claim against
@@ -4160,12 +4176,13 @@ in the State court of Oregon against the plaintiff herein, then a
 non-resident of the State, was without any validity, and did not
 authorize a sale of the property in controversy.
 
-\subsection{\texorpdfstring{Note: \emph{Pennoyer}'s
-Backstory}{Note: Pennoyer's Backstory}}\label{note-pennoyers-backstory}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-The \href{https://www.historylink.org/File/9501}{Donation Land Claims
-Act of 1850} was instrumental in the settlement of the Pacific
-Northwest.
+\begin{tcolorbox}[enhanced jigsaw, title={Note}, rightrule=.15mm, bottomrule=.15mm, toptitle=1mm, opacitybacktitle=0.6, opacityback=0, left=2mm, coltitle=black, arc=.35mm, colbacktitle=quarto-callout-note-color!10!white, breakable, bottomtitle=1mm, titlerule=0mm, colback=white, toprule=.15mm, leftrule=.75mm, colframe=quarto-callout-note-color-frame]
+
+\textbf{\emph{Pennoyer}'s Backstory}: The
+\href{https://www.historylink.org/File/9501}{Donation Land Claims Act of
+1850} was instrumental in the settlement of the Pacific Northwest.
 \href{https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm}{Under
 the Act}, white male U.S. citizens could claim 320 acres of land (640
 acres for a married couple) in the Oregon Territory (which also
@@ -4187,6 +4204,8 @@ his fees. \href{../exhibits/Wells-Neff-1886.pdf}{Wells v. Neff}, 14 Or.
 66 (1886). For further background on \emph{Pennoyer v. Neff} and a
 discussion of its significance for modern personal jurisdiction
 doctrine, see Perdue (1987).
+
+\end{tcolorbox}
 
 \subsection{International Shoe Co.~v. Washington (U.S.
 1945)}\label{international-shoe-co.-v.-washington-u.s.-1945}
@@ -4384,9 +4403,9 @@ lay the tax and to subject appellant to a suit to recover it. The
 activities which establish its ``presence'' subject it alike to taxation
 by the state and to suit to recover the tax.
 
-\subsection{\texorpdfstring{Note: \emph{International Shoe}, the FRCP,
-\& Service of
-Process}{Note: International Shoe, the FRCP, \& Service of Process}}\label{note-international-shoe-the-frcp-service-of-process}
+\subsection{\texorpdfstring{\emph{International Shoe}, the FRCP, \&
+Service of
+Process}{International Shoe, the FRCP, \& Service of Process}}\label{international-shoe-the-frcp-service-of-process}
 
 \begin{figure}[H]
 
@@ -6504,8 +6523,8 @@ Illinois no doubt has an interest in protecting its consumers from
 purchasing fraudulent merchandise. Finally, HANWJH alleges no unusual
 burden in defending the suit in Illinois.
 
-\subsection{Note: Specific Jurisdiction Based on a Federal
-Statute}\label{note-specific-jurisdiction-based-on-a-federal-statute}
+\subsection{Specific Jurisdiction Based on a Federal
+Statute}\label{specific-jurisdiction-based-on-a-federal-statute}
 
 The Supreme Court recently addressed the issue of whether the due
 process limits on the reach of personal jurisdiction are the same under
@@ -8274,6 +8293,8 @@ Enumerated long-arm statutes identify particular circumstances in which
 a state's courts may exercise jurisdiction over a non-resident. The New
 York long-arm statute is an example:
 
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
 \paragraph{NY CPLR §302: Personal jurisdiction by acts of
 non-domiciliaries.}\label{ny-cplr-302-personal-jurisdiction-by-acts-of-non-domiciliaries.}
 
@@ -8379,6 +8400,8 @@ Statutes}\label{constitutional-limit-statutes}
 This type of long-arm statute grants a state's courts jurisdiction to
 the full extent permitted under the Constitution. The California
 long-arm statute is an example:
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \paragraph{Cal. Code Civ. Proc §410.10: Jurisdiction
 exercisable.}\label{cal.-code-civ.-proc-410.10-jurisdiction-exercisable.}
@@ -8629,16 +8652,16 @@ laws.''
 The application of this rule to the case at bar is decisive against the
 jurisdiction of the Circuit Court.
 
-\subsection{\texorpdfstring{Note: Postscript to
-\emph{Mottley}}{Note: Postscript to Mottley}}\label{note-postscript-to-mottley}
+\begin{tcolorbox}[enhanced jigsaw, title={Note}, rightrule=.15mm, bottomrule=.15mm, toptitle=1mm, opacitybacktitle=0.6, opacityback=0, left=2mm, coltitle=black, arc=.35mm, colbacktitle=quarto-callout-note-color!10!white, breakable, bottomtitle=1mm, titlerule=0mm, colback=white, toprule=.15mm, leftrule=.75mm, colframe=quarto-callout-note-color-frame]
 
-On remand, the Kentucky court held that the 1906 statute did not apply
-to the Mottleys' free passes and ordered the railroad to continue
-honoring the settlement agreement. \emph{Louisville \& Nashville R.
-Co.~v. Mottley}, 133 Ky. 652 (1909). The case made its way back to the
-U.S. Supreme Court, which once again ruled against the Mottleys. Holding
-that the 1906 statute rendered the agreement to provide free passes
-illegal, the Court reversed the order granting specific performance.
+\textbf{Postscript to \emph{Mottley}}: On remand, the Kentucky court
+held that the 1906 statute did not apply to the Mottleys' free passes
+and ordered the railroad to continue honoring the settlement agreement.
+\emph{Louisville \& Nashville R. Co.~v. Mottley}, 133 Ky. 652 (1909).
+The case made its way back to the U.S. Supreme Court, which once again
+ruled against the Mottleys. Holding that the 1906 statute rendered the
+agreement to provide free passes illegal, the Court reversed the order
+granting specific performance.
 \href{https://scholar.google.com/scholar_case?case=15541627978206243212}{\emph{Louisville
 \& Nashville R. Co.~v. Mottley}}, 219 US 467 (1911). That opinion did
 not entirely foreclose the possibility of some other remedy for the
@@ -8657,6 +8680,8 @@ Apart from the case for which he is remembered today, Erasmus Mottley
 was apparently ``a prominent and influential business man'' and
 unsuccessful candidate for public office. E. Polk Johnson (1912):
 819-20.
+
+\end{tcolorbox}
 
 \subsection{Grable \& Sons Metal Products, Inc.~v. Darue Engineering \&
 Mfg. (U.S.
@@ -8883,7 +8908,7 @@ delinquents have in the availability of a federal forum, there is no
 good reason to shirk from federal jurisdiction over the dispositive and
 contested federal issue at the heart of the state-law title claim.
 
-\subsection{Note: Understanding Grable}\label{note-understanding-grable}
+\subsection{Understanding Grable}\label{understanding-grable}
 
 In \emph{Grable}, the Supreme Court sought to clarify when a state-law
 claim with an ``essential federal element'' falls within the
@@ -9138,6 +9163,21 @@ actions where the matter in controversy exceeds the sum or value of
 Territories, the District of Columbia, and the Commonwealth of Puerto
 Rico.
 
+\begin{tcolorbox}[enhanced jigsaw, title={Note}, rightrule=.15mm, bottomrule=.15mm, toptitle=1mm, opacitybacktitle=0.6, opacityback=0, left=2mm, coltitle=black, arc=.35mm, colbacktitle=quarto-callout-note-color!10!white, breakable, bottomtitle=1mm, titlerule=0mm, colback=white, toprule=.15mm, leftrule=.75mm, colframe=quarto-callout-note-color-frame]
+
+\textbf{Exception to Diversity Jurisdiction}: Federal courts will not
+assert diversity jurisdiction over certain types of action, even if the
+requirements under § 1332 are satisfied. These include domestic
+relations suits (i.e.~``cases involving the issuance of a divorce,
+alimony, or child custody decree''), \emph{Ankenbrandt v. Richards}, 504
+U.S. 689 (1992), and probate matters (i.e.~cases involving ``the probate
+or annulment of a will and the administration of a decedent's estate''
+as well as ``dispos{[}al{]} of property that is in the custody of a
+state probate court''), \emph{Marshall v. Marshall}, 547 U.S. 293,
+311--12 (2006).
+
+\end{tcolorbox}
+
 \subsection{Hanks v Coan (M.D.N.C.
 1999)}\label{hanks-v-coan-m.d.n.c.-1999}
 
@@ -9299,8 +9339,8 @@ Therefore, absent complete diversity of citizenship between Plaintiff
 and Defendants, the court is without jurisdiction and must dismiss the
 case.
 
-\subsection{Note: Citizenship of Organizational
-Parties}\label{note-citizenship-of-organizational-parties}
+\subsection{Citizenship of Organizational
+Parties}\label{citizenship-of-organizational-parties}
 
 Under the diversity jurisdiction statute, a corporation is a citizen of
 both the state or country in which it is incorporated and the state or
@@ -10302,8 +10342,8 @@ substantially predominate over the TCPA claim, the Court, even if
 authorized to exercise supplemental jurisdiction over that counterclaim,
 would decline to do so.
 
-\subsection{Note: Supplemental Jurisdiction \&
-Counterclaims}\label{note-supplemental-jurisdiction-counterclaims}
+\subsection{Supplemental Jurisdiction \&
+Counterclaims}\label{supplemental-jurisdiction-counterclaims}
 
 As the \emph{Jones} and \emph{Ginwright} cases illustrate, the consensus
 among the federal courts is that compulsory counterclaims always satisfy
@@ -10715,20 +10755,23 @@ of the United States.
 Violence Against Women Act of 1994 may not be removed to any district
 court of the United States.
 
-\subsection{Note on § 1445}\label{note-on-1445}
+\begin{tcolorbox}[enhanced jigsaw, title={Note}, rightrule=.15mm, bottomrule=.15mm, toptitle=1mm, opacitybacktitle=0.6, opacityback=0, left=2mm, coltitle=black, arc=.35mm, colbacktitle=quarto-callout-note-color!10!white, breakable, bottomtitle=1mm, titlerule=0mm, colback=white, toprule=.15mm, leftrule=.75mm, colframe=quarto-callout-note-color-frame]
 
-Interestingly, of the four types of action that are not removable, three
-involve suits arising under federal statutes. 45 U.S.C. §56; 49 U.S.C.
-§11706(d)(1); 34 U.S.C, §12361(e)(3). Those statutes expressly allow
-suits to be brought in either federal or state court. But, if the
-plaintiff sues in state court, the defendant may not remove, even though
-the federal court would have original jurisdiction under §1331.
+Of the four types of action that are not removable, three involve suits
+arising under federal statutes. § 1445(a) (suits under the Federal
+Employers' Liability Act, 45 U.S.C.§ 51 et seq.); § 1445(b) (suits
+against rail and motor carriers for loss or damage to property under 49
+U.S.C. §§ 11706 \& 14706); § 1445(d) (suits under the Violence Against
+Women Act, § 40302). Those statutes expressly allow suits to be brought
+in either federal or state court. But, if the plaintiff sues in state
+court, the defendant may not remove, even though the federal court would
+have original jurisdiction under §1331. In \emph{U.S. v. Morrison}, 529
+U.S. 598 (2000), the Supreme Court struck down § 40302 of the Violence
+Against Women Act, holding that Congress lacked constitutional authority
+to establish a federal cause of action for victims of crimes of violence
+motivated by gender. Consequently, § 1445(d) is now moot.
 
-In \emph{U.S. v. Morrison}, 529 U.S. 598 (2000), the Supreme Court
-struck down section 40302 of the Violence Against Women Act, holding
-that Congress lacked constitutional authority to establish a federal
-cause of action for victims of crimes of violence motivated by gender.
-Consequently, § 1445(d) is now moot.
+\end{tcolorbox}
 
 \subsection{28 U.S.C. § 1447}\label{u.s.c.-1447}
 
@@ -10885,35 +10928,43 @@ treaties of the United States or Acts of Congress otherwise require or
 provide, shall be regarded as rules of decision in civil actions in the
 courts of the United States, in cases where they apply.
 
-\subsection{Note: ``The Laws of the Several
-States''}\label{note-the-laws-of-the-several-states}
+\begin{tcolorbox}[enhanced jigsaw, title={Note}, rightrule=.15mm, bottomrule=.15mm, toptitle=1mm, opacitybacktitle=0.6, opacityback=0, left=2mm, coltitle=black, arc=.35mm, colbacktitle=quarto-callout-note-color!10!white, breakable, bottomtitle=1mm, titlerule=0mm, colback=white, toprule=.15mm, leftrule=.75mm, colframe=quarto-callout-note-color-frame]
 
-The Rules of Decision Act applies to cases in which federal courts hear
-claims that arise under state law, i.e.~under diversity jurisdiction.
-Federal courts must apply ``the laws of the several states'' as the
-``rules of decision'' in such cases. By ``rules of decision'', the
-statute means the substantive legal rules governing the claims,
-i.e.~rules that define the rights, duties, and liabilities of the
-parties. But what does the statute mean by ``laws of the several
-states''?
+\textbf{``The Laws of the Several States''}: The Rules of Decision Act
+applies to cases in which federal courts hear claims that arise under
+state law, i.e.~under diversity jurisdiction. Federal courts must apply
+``the laws of the several states'' as the ``rules of decision'' in such
+cases. By ``rules of decision'', the statute means the substantive legal
+rules governing the claims, i.e.~rules that define the rights, duties,
+and liabilities of the parties. But what does the statute mean by ``laws
+of the several states''?
+
+\end{tcolorbox}
 
 \subsection{Swift v. Tyson (U.S. 1842)}\label{swift-v.-tyson-u.s.-1842}
 
+\marginnote{\begin{footnotesize}
+
+A bill of exchange \ldots{} is a signed, unconditional, written order
+binding one party to pay a fixed sum of money to another party on demand
+or at a predetermined date.''
+\href{https://www.law.cornell.edu/wex/bill_of_exchange}{Wex Legal
+Dictionary}
+
+\end{footnotesize}}
+
 \textbf{Summary of Facts.} \emph{George Tyson purchased some land from
 Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton
-and Keith a bill of exchange. {\marginnote{\begin{footnotesize}A bill of
-exchange \ldots{} is a signed, unconditional, written order binding one
-party to pay a fixed sum of money to another party on demand or at a
-predetermined date.''
-\href{https://www.law.cornell.edu/wex/bill_of_exchange}{Wex Legal
-Dictionary}\end{footnotesize}}} It turned out that, not only was the
-land virtually worthless, North and Keith did not actually own it.
-Before the bill of exchange came due, Norton signed it over to the
-plaintiff, John Swift, ostensibly in payment of a debt. Swift then
-sought payment on the bill of exchange from Tyson, who refused on the
-ground that it was procured by fraud. Swift (a resident of Maine) sued
-Tyson (a resident of New York) in federal court, which had jurisdiction
-based on diversity of citizenship.}
+and Keith a bill of exchange. It turned out that, not only was the land
+virtually worthless, North and Keith did not actually own it. Before the
+bill of exchange came due, Norton signed it over to the plaintiff, John
+Swift, ostensibly in payment of a debt. Swift then sought payment on the
+bill of exchange from Tyson, who refused on the ground that it was
+procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of
+New York) in federal court, which had jurisdiction based on diversity of
+citizenship.}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsubsection{Justice Story delivered the opinion of the
 Court.}\label{justice-story-delivered-the-opinion-of-the-court.}
@@ -11005,12 +11056,18 @@ furnish positive rules, or conclusive authority, by which our own
 judgments are to be bound up and governed. The law respecting negotiable
 instruments may be truly declared in the language of Cicero, to be in a
 great measure, not the law of a single country only, but of the
-commercial world. {\marginnote{\begin{footnotesize}``There will not be
-different laws at Rome and at Athens, or different laws now and in the
-future, but one eternal and unchangeable law will be valid for all
-nations and all times''.\end{footnotesize}}} \emph{Non erit alia lex
-Romæ, alia Athenis, alia nunc, alia posthac, sed et apud omnes gentes,
-et omni tempore, una eademque lex obtenebit}.
+commercial world. \emph{Non erit alia lex Romæ, alia Athenis, alia nunc,
+alia posthac, sed et apud omnes gentes, et omni tempore, una eademque
+lex obtenebit}.
+
+\marginnote{\begin{footnotesize}
+
+\emph{Non erit alia lex Romæ, alia Athenis \ldots{} :} ``There will not
+be different laws at Rome and at Athens, or different laws now and in
+the future, but one eternal and unchangeable law will be valid for all
+nations and all times''.
+
+\end{footnotesize}}
 
 It becomes necessary for us, therefore, upon the present occasion to
 express our own opinion of the true result of the commercial law upon
@@ -11026,8 +11083,8 @@ before it becomes due; we are prepared to say, that receiving it in
 payment of, or as security for a pre-existing debt, is according to the
 known usual course of trade and business.
 
-\subsection{\texorpdfstring{Note: \emph{Swift} and Its
-Discontents}{Note: Swift and Its Discontents}}\label{note-swift-and-its-discontents}
+\subsection{\texorpdfstring{\emph{Swift} and Its
+Discontents}{Swift and Its Discontents}}\label{swift-and-its-discontents}
 
 Justice Story's opinion quotes the Roman statesman and philosopher
 Cicero for the proposition that the common law cannot differ from state
@@ -11489,18 +11546,22 @@ to decide the issue of state law. As we hold this was error, the
 judgment is reversed and the case remanded to it for further proceedings
 in conformity with our opinion.
 
-\subsection{\texorpdfstring{Note: Postscript to
-\emph{Erie}}{Note: Postscript to Erie}}\label{note-postscript-to-erie}
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-On remand, the
+\begin{tcolorbox}[enhanced jigsaw, title={Note}, rightrule=.15mm, bottomrule=.15mm, toptitle=1mm, opacitybacktitle=0.6, opacityback=0, left=2mm, coltitle=black, arc=.35mm, colbacktitle=quarto-callout-note-color!10!white, breakable, bottomtitle=1mm, titlerule=0mm, colback=white, toprule=.15mm, leftrule=.75mm, colframe=quarto-callout-note-color-frame]
+
+\textbf{Postscript to \emph{Erie}.} On remand, the
 \href{https://scholar.google.com/scholar_case?case=15621582385726516928}{Court
 of Appeals} concluded that, ``Under the Pennsylvania law, the defendant
 owed no duty to the plaintiff except to refrain from wanton or wilful
 injury.'' Because Tompkins neither alleged nor proved that the Railroad
 acted wantonly or wilfully, the case was remanded to the trial court
 with directions to enter judgment in favor of the Railroad. For a more
-detailed account of the incident (including photos of Tompkins before
-and after his unfortunate encounter with the train), see Frye (2018).
+detailed account of the incident, including photos of Tompkins before
+and after his unfortunate encounter with the train, \emph{see} Frye
+(2018).
+
+\end{tcolorbox}
 
 \subsection{\texorpdfstring{Substance and Procedure under
 \emph{Erie}}{Substance and Procedure under Erie}}\label{substance-and-procedure-under-erie}
@@ -14665,63 +14726,59 @@ The only substantive addition to the proposed amended complaint is Count
 V seeking punitive damages. This proposed count incorporates the
 allegations in the preceding paragraphs and then alleges as follows:
 
-\begin{quote}
-Defendants deliberately and intentionally disregarded the rights of
-Plaintiffs and disregarded the substantial likelihood of serious injury
-and damages to Plaintiffs by representing that they offered to match
-Plaintiffs only with franchises that Defendants had investigated and
-vetted; that such franchises were of high quality; and that Defendants
-would provide Plaintiffs with all knowledge necessary to make an
-informed decisions {[}sic{]}, when, in fact:
+\begin{itemize}
+\tightlist
+\item
+  • Defendants deliberately and intentionally disregarded the rights of
+  Plaintiffs and disregarded the substantial likelihood of serious
+  injury and damages to Plaintiffs by representing that they offered to
+  match Plaintiffs only with franchises that Defendants had investigated
+  and vetted; that such franchises were of high quality; and that
+  Defendants would provide Plaintiffs with all knowledge necessary to
+  make an informed decisions sic, when, in fact:
 
-\begin{quote}
-• Defendants knew that the founder of ILKB, Michael Parrella, had filed
-for bankruptcy in 2003 and that his discharge had been vacated in 2008;
-and knew or should have known, in the exercise of reasonable inquiry of
-Parrella's bankruptcy consistent with their representations to
-Plaintiffs, that Parrella's discharge had been revoked for failure to
-pay federal taxes and that there were two adversary proceedings in the
-bankruptcy accusing Parrella of fraud and fraudulent transfers.
-\end{quote}
-
-\begin{quote}
-• Defendants failed to perform any serious, systematic or professional
-due diligence upon ILKB; instead all they did was talk to a few existing
-franchisees, many of whom did not own the type of ILKB franchise that
-Plaintiffs were considering buying, and Defendants prepared no report,
-summary or investigation of ILKB.
-\end{quote}
-
-\begin{quote}
-• Defendants simply took representations of ILKB about the nature of the
-franchise, including the representations that it was suitable for
-absentee ownership; that no units had closed; that average ILKB
-franchisees made revenues and profits at a certain level; and that ILKB
-did all of the marketing for franchisees, and passed them on to
-Plaintiffs without checking on them.
-\end{quote}
-
-\begin{quote}
-• Defendants knew that ILKB engaged in blatantly illegal marketing
-techniques as early as March 2015 and never questioned whether such
-techniques had ceased, thus exposing Plaintiffs to the high likelihood,
-if not certainty, that Plaintiffs would be the victims of fraud.
-\end{quote}
-
-\begin{quote}
-• Defendants disregarded complaints and warning signs from ILKB
-franchisees as the whining of ``stupid, selfish and ungrateful
-franchisees'' instead of investigating such complaints and determining
-whether they were true.
-\end{quote}
-
-\begin{quote}
-• Defendants made specific representations as set forth in the proposed
-amended complaint about ILKB without investigating or verifying them,
-when such representations were false and were known or should have been
-known to Defendants as false.
-\end{quote}
-\end{quote}
+  \begin{itemize}
+  \tightlist
+  \item
+    • Defendants knew that the founder of ILKB, Michael Parrella, had
+    filed for bankruptcy in 2003 and that his discharge had been vacated
+    in 2008; and knew or should have known, in the exercise of
+    reasonable inquiry of Parrella's bankruptcy consistent with their
+    representations to Plaintiffs, that Parrella's discharge had been
+    revoked for failure to pay federal taxes and that there were two
+    adversary proceedings in the bankruptcy accusing Parrella of fraud
+    and fraudulent transfers.
+  \item
+    • Defendants failed to perform any serious, systematic or
+    professional due diligence upon ILKB; instead all they did was talk
+    to a few existing franchisees, many of whom did not own the type of
+    ILKB franchise that Plaintiffs were considering buying, and
+    Defendants prepared no report, summary or investigation of ILKB.
+  \item
+    • Defendants simply took representations of ILKB about the nature of
+    the franchise, including the representations that it was suitable
+    for absentee ownership; that no units had closed; that average ILKB
+    franchisees made revenues and profits at a certain level; and that
+    ILKB did all of the marketing for franchisees, and passed them on to
+    Plaintiffs without checking on them.
+  \item
+    • Defendants knew that ILKB engaged in blatantly illegal marketing
+    techniques as early as March 2015 and never questioned whether such
+    techniques had ceased, thus exposing Plaintiffs to the high
+    likelihood, if not certainty, that Plaintiffs would be the victims
+    of fraud.
+  \item
+    • Defendants disregarded complaints and warning signs from ILKB
+    franchisees as the whining of ``stupid, selfish and ungrateful
+    franchisees'' instead of investigating such complaints and
+    determining whether they were true.
+  \item
+    • Defendants made specific representations as set forth in the
+    proposed amended complaint about ILKB without investigating or
+    verifying them, when such representations were false and were known
+    or should have been known to Defendants as false.
+  \end{itemize}
+\end{itemize}
 
 According to the proposed amended complaint, as a result of Defendants'
 deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to
@@ -15249,10 +15306,10 @@ analogous claims under state law. \emph{See Owens v. Okure}, 488 US 235,
 240 (1989).\end{footnotesize}}} ``Rule 15(c)(1)(A) instructs courts,
 then, to look to the entire body of limitations law that provides the
 applicable statute of limitations.'' Since section 1983 derives its
-statute of limitations from state law, ``under Rule 15(c)(1)(A), the
-court must determine if state law provides a `more forgiving principle
-of relations back' in the John Doe context, compared to the federal
-relation back doctrine under Rule 15(c)(1)(C).''
+statute of limitations from state law, ``under Rule 15(c)(1)(A), {[}the
+court{]} must determine if state law provides a `more forgiving
+principle of relations back' in the John Doe context, compared to the
+federal relation back doctrine under Rule 15(c)(1)(C).''
 
 Although, as noted, the City and Fitchet do not address subparagraph
 (c)(1)(A) at all, they do acknowledge that a federal court which is
@@ -16000,15 +16057,15 @@ stood alone on one side of a circuit split. Six of our sister circuits
 legal position contrary to \emph{Austin} on whether a CBA could waive an
 individual employee's statutory cause of action. In point of fact, and
 consistent with the foregoing, none of our sister circuits, as of April
-1998, had agreed with the position we took in \_Austin.
+1998, had agreed with the position we took in \emph{Austin}.
 
 The circuit split evidenced by these decisions concerned whether
 collective bargaining agreements containing general language required
 arbitration of individuals' statutory claims, such as those arising
 under the ADEA and Title VII. The disagreement of the circuits on this
 issue resulted from varying interpretations of the Court's decisions in
-\emph{Alexander v. Gardner-Denver Company}, and \_Gilmer v.
-Interstate/Johnson Lane Corp.\footnote{(n.16 in opinion) In its 1974
+\emph{Alexander v. Gardner-Denver Company}, and \emph{Gilmer v.
+Interstate/Johnson Lane Corp.}\footnote{(n.16 in opinion) In its 1974
   decision in \emph{Alexander,} the Court determined that an employee
   who had filed a grievance in accordance with a CBA did not forfeit a
   Title VII discriminatory discharge lawsuit, and it distinguished
@@ -20970,8 +21027,8 @@ court may:
   (4) issue any other appropriate order.
 \end{itemize}
 
-\subsection{Note: ``Materials in the Record'':
-Discovery}\label{note-materials-in-the-record-discovery}
+\subsection{``Materials in the Record'':
+Discovery}\label{materials-in-the-record-discovery}
 
 Rule 56(c) requires that ``A party asserting that a fact cannot be or is
 genuinely disputed must support the assertion by citing to particular
@@ -21892,7 +21949,7 @@ placement of a protective trim along the bottom of the Swivel Tub Chair.
 Plastic edge guards have been added to similar chairs in the last few
 years.
 
----
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 Under the applicable state law, the elements of Schlimazel's claim is as
 follows:

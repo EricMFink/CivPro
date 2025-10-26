@@ -326,7 +326,11 @@ Fourth, a nonparty is bound by a judgment if she "assumed control" over the liti
 
 Fifth, a party bound by a judgment may not avoid its preclusive force by relitigating through a proxy. Preclusion is thus in order when a person who did not participate in a litigation later brings suit as the designated representative of a person who was a party to the prior adjudication. And although our decisions have not addressed the issue directly, it also seems clear that preclusion is appropriate when a nonparty later brings suit as an agent for a party who is bound by a judgment. 
 
-Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants. . . if the scheme is otherwise consistent with due process."["_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)]{.aside}  Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions or other suits that, "under the governing law, may be brought only on behalf of the public at large".
+::: {.aside}
+"_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)
+:::
+
+Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants. . . if the scheme is otherwise consistent with due process." Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions or other suits that, "under the governing law, may be brought only on behalf of the public at large".
 
 #### III
 
@@ -672,7 +676,11 @@ The elements of offensive issue preclusion (that is, issue preclusion asserted b
 
 In order for Plaintiff to satisfy the first element of issue preclusion — identity of issues — Plaintiff must show that the state court's decision quieting legal title to the Decoursey Pike property in the Partnership answers whether the estate has any interest in the property under §541. Plaintiff cannot make that showing, because the property interests encompassed by §541 are not limited to legal title.
 
-Section 541 states that the bankruptcy estate is comprised of "all legal or equitable interests of the debtor in property as of the commencement of the case."[A "possessory interest" is the right of a person to occupy land or possess property that the person does not own, for example under a lease. [Wex Legal Dictionary](https://www.law.cornell.edu/wex/possessory_interest)]{.aside} Possessory interests are among the property interests included. And, as this Court has recently held, the possessory interest in property of a debtor who lacks legal title to that property is property of the estate.
+::: {.aside}
+A "possessory interest" is the right of a person to occupy land or possess property that the person does not own, for example under a lease. [Wex Legal Dictionary](https://www.law.cornell.edu/wex/possessory_interest)
+:::
+
+Section 541 states that the bankruptcy estate is comprised of "all legal or equitable interests of the debtor in property as of the commencement of the case." Possessory interests are among the property interests included. And, as this Court has recently held, the possessory interest in property of a debtor who lacks legal title to that property is property of the estate.
 
 The state-court judgment, while preclusively quieting legal title to the Decoursey Pike property in the Partnership, did not address any possessory interest that Debtor — whose schedules indicate she resides at the property — may have. Therefore, the issue the state court decided is not identical to the issue of whether the estate has an interest under §541 in the Decoursey Pike property. Plaintiff is not entitled to judgment on the pleadings on this count.
 

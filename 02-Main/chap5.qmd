@@ -8,7 +8,6 @@
 
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
 
-
 ::: {.callout-note}
 
 **"The Laws of the Several States"**: The Rules of Decision Act applies to cases in which federal courts hear claims that arise under state law, i.e. under diversity jurisdiction. Federal courts must apply "the laws of the several states" as the "rules of decision" in such cases. By "rules of decision", the statute means the substantive legal rules governing the claims, i.e. rules that define the rights, duties, and liabilities of the parties. But what does the statute mean by "laws of the several states"?
@@ -17,11 +16,11 @@ The laws of the several states, except where the Constitution or treaties of the
 
 ### Swift v. Tyson (U.S. 1842) 
 
-**Summary of Facts.** _George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange. It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt. Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._ 
-
 ::: {.aside}
 A bill of exchange ... is a signed, unconditional, written order binding one party to pay a fixed sum of money to another party on demand or at a predetermined date." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/bill_of_exchange)
 :::
+
+**Summary of Facts.** _George Tyson purchased some land from Nathaniel Norton and Jairus Keith. As partial payment, Tyson gave Norton and Keith a bill of exchange. It turned out that, not only was the land virtually worthless, North and Keith did not actually own it. Before the bill of exchange came due, Norton signed it over to the plaintiff, John Swift, ostensibly in payment of a debt. Swift then sought payment on the bill of exchange from Tyson, who refused on the ground that it was procured by fraud. Swift (a resident of Maine) sued Tyson (a resident of New York) in federal court, which had jurisdiction based on diversity of citizenship._ 
 
 ***
 
@@ -128,8 +127,6 @@ The fallacy underlying the rule declared in _Swift v. Tyson_ is made clear by Mr
 Thus the doctrine of _Swift v. Tyson_, is, as Mr. Justice Holmes said, "an unconstitutional assumption of powers by courts of the United States which no lapse of time or respectable array of opinion should make us hesitate to correct." In disapproving that doctrine we do not hold unconstitutional §34 of the Federal Judiciary Act of 1789 or any other Act of Congress. We merely declare that in applying the doctrine this Court and the lower courts have invaded rights which in our opinion are reserved by the Constitution to the several States.
 
 _Fourth_. The defendant contended that by the common law of Pennsylvania as declared by its highest court, the only duty owed to the plaintiff was to refrain from wilful or wanton injury. The plaintiff denied that such is the Pennsylvania law. In support of their respective contentions the parties discussed and cited many decisions of the Supreme Court of the State. The Circuit Court of Appeals ruled that the question of liability is one of general law; and on that ground declined to decide the issue of state law. As we hold this was error, the judgment is reversed and the case remanded to it for further proceedings in conformity with our opinion.
-
-***
 
 ::: {.callout-note}
 
@@ -293,9 +290,18 @@ _Erie_ and its offspring cast no doubt on the long-recognized power of Congress 
 
 #### Justice Harlan, concurring.
 
-[Justice Harlan agrees that the Federal Rules of Civil Procedure, rather than state law, should govern service of process in this case, but disagrees with the majority's rationale. What test does Justice Harlan propose and how does it differ from the majority's test?]{.aside} It is unquestionably true that up to now _Erie_ and the cases following it have not succeeded in articulating a workable doctrine governing choice of law in diversity actions. I respect the Court's effort to clarify the situation in today's opinion. However, in doing so I think it has misconceived the constitutional premises of _Erie_ and has failed to deal adequately with those past decisions upon which the courts below relied. 
+::: {.aside}
+Justice Harlan agrees that the Federal Rules of Civil Procedure, rather than state law, should govern service of process in this case, but disagrees with the majority's rationale. What test does Justice Harlan propose and how does it differ from the majority's test?
+:::
 
-_Erie_ was something more than an opinion which worried about "forum-shopping and avoidance of inequitable administration of the laws," although to be sure these were important elements of the decision. I have always regarded that decision as one of the modern cornerstones of our federalism, expressing policies that profoundly touch the allocation of judicial power between the state and federal systems. _Erie_ recognized that there should not be two conflicting systems of law controlling the primary activity of citizens, [What does Justice Harlan mean by "primary activity"? How does this concept help distinguish "substantive" from "procedural" legal rules?]{.aside} for such alternative governing authority must necessarily give rise to a debilitating uncertainty in the planning of everyday affairs. And it recognized that the scheme of our Constitution envisions an allocation of law-making functions between state and federal legislative processes which is undercut if the federal judiciary can make substantive law affecting state affairs beyond the bounds of congressional legislative powers in this regard. Thus, in diversity cases _Erie_ commands that it be the state law governing primary private activity which prevails.
+It is unquestionably true that up to now _Erie_ and the cases following it have not succeeded in articulating a workable doctrine governing choice of law in diversity actions. I respect the Court's effort to clarify the situation in today's opinion. However, in doing so I think it has misconceived the constitutional premises of _Erie_ and has failed to deal adequately with those past decisions upon which the courts below relied. 
+
+
+::: {.aside}
+What does Justice Harlan mean by "primary activity"? How does this concept help distinguish "substantive" from "procedural" legal rules?
+:::
+
+_Erie_ was something more than an opinion which worried about "forum-shopping and avoidance of inequitable administration of the laws," although to be sure these were important elements of the decision. I have always regarded that decision as one of the modern cornerstones of our federalism, expressing policies that profoundly touch the allocation of judicial power between the state and federal systems. _Erie_ recognized that there should not be two conflicting systems of law controlling the primary activity of citizens, for such alternative governing authority must necessarily give rise to a debilitating uncertainty in the planning of everyday affairs. And it recognized that the scheme of our Constitution envisions an allocation of law-making functions between state and federal legislative processes which is undercut if the federal judiciary can make substantive law affecting state affairs beyond the bounds of congressional legislative powers in this regard. Thus, in diversity cases _Erie_ commands that it be the state law governing primary private activity which prevails.
 
 The shorthand formulations which have appeared in some past decisions are prone to carry untoward results that frequently arise from oversimplification. The Court is quite right in stating that the "outcome-determinative" test of _Guaranty Trust Co. v. York_, if taken literally, proves too much, for any rule, no matter how clearly "procedural," can affect the outcome of litigation if it is not obeyed. In turning from the "outcome" test of _York_ back to the unadorned forum-shopping rationale of _Erie_, however, the Court falls prey to like over-simplification, for a simple forum-shopping rule also proves too much; litigants often choose a federal forum merely to obtain what they consider the advantages of the Federal Rules of Civil Procedure or to try their cases before a supposedly more favorable judge. To my mind the proper line of approach in determining whether to apply a state or a federal rule, whether "substantive" or "procedural," is to stay close to basic principles by inquiring if the choice of rule would substantially affect those primary decisions respecting human conduct which our constitutional system leaves to state regulation. If so, _Erie_ and the Constitution require that the state rule prevail, even in the face of a conflicting federal rule.
 
@@ -345,7 +351,11 @@ The Court held oral argument during which it sua sponte raised the issue of the 
 
 Rule 15(a) sets the general standard for amending pleadings in Federal court. Fed. R. Civ. P. 15. Rule 15(a) provides that leave to amend "shall be freely given when justice so requires." The determination as to whether to grant leave to amend is entrusted to the sound discretion of the trial court.The Eighth Circuit has held that although amendment of a pleading "should be allowed liberally to ensure that a case is decided on its merits there is no absolute right to amend."
 
-Denial of leave to amend may be justified by "undue delay, bad faith on the part of the moving party, futility of the amendment or unfair prejudice to the opposing party." "Denial of a motion for leave to amend on the basis of futility means the district court has reached the legal conclusion that the amended complaint could not withstand a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure. [The _Twombly_ standard and Fed. R. Civ. P. 12(b)(6) are covered in Chap. 6.]{.aside} Accordingly, in reviewing a denial of leave to amend we ask whether the proposed amended complaint states a cause of action under the _Twombly_ pleading standard." 
+Denial of leave to amend may be justified by "undue delay, bad faith on the part of the moving party, futility of the amendment or unfair prejudice to the opposing party." "Denial of a motion for leave to amend on the basis of futility means the district court has reached the legal conclusion that the amended complaint could not withstand a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure. Accordingly, in reviewing a denial of leave to amend we ask whether the proposed amended complaint states a cause of action under the _Twombly_ pleading standard." 
+
+::: {.aside}
+The _Twombly_ standard and Fed. R. Civ. P. 12(b)(6) are covered in Chap. 6.
+:::
 
 On a motion to dismiss filed pursuant to Rule 12(b)(6), the Court must take the well-pleaded allegations of a claim as true, and construe the pleading, and all reasonable inferences arising therefrom, most favorably to the pleader. To survive a motion to dismiss, a claim "must contain sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" A claim is facially plausible "when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged."
 

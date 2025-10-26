@@ -148,7 +148,11 @@ Third, the case must present a category of dispute that the law in question was 
 
 Finally, the case cannot be "moot," that is, it must present an ongoing problem for the court to resolve. The federal courts, thus, are courts of "limited" jurisdiction because they may only decide certain types of cases as provided by Congress or as identified in the Constitution.
 
-Although the details of the complex web of federal jurisdiction that Congress has given the federal courts is beyond the scope of this brief guide,[Federal subject matter jurisdiction is covered in Chapter 3]{.aside} it is important to understand that there are two main sources of the cases coming before the federal courts: "federal question" jurisdiction and "diversity" jurisdiction.
+::: {.aside}
+Federal subject matter jurisdiction is covered in Chapter 3
+:::
+
+Although the details of the complex web of federal jurisdiction that Congress has given the federal courts is beyond the scope of this brief guide, it is important to understand that there are two main sources of the cases coming before the federal courts: "federal question" jurisdiction and "diversity" jurisdiction.
 
 In general, federal question jurisdiction arises in cases that involve the U.S. government, the U.S. Constitution or federal laws, or controversies between states or between the United States and foreign governments. A case that raises such a "federal question" may be filed in federal court. Examples of such cases might include a claim by an individual for entitlement to money under a federal government program such as Social Security, a criminal prosecution by the government that alleges someone violated a federal law, or a challenge to actions taken by a federal agency.
 
