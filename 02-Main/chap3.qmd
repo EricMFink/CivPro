@@ -958,7 +958,7 @@ Some enumerated long-arm statutes have been interpreted as authorizing the exerc
 
 ## Review Questions
 
-#### Question 1
+### Question 1
 
 Mrs. Potter, a wealthy resident of Philadelphia, decides that the time has come to make provisions for her children after her death. She creates a trust, administered by the Delaware Bank & Trust Company (located, naturally enough, in Delaware). Under the terms of the trust, after Mrs. Potter's death, her daughter Dora will receive whatever money remains in the trust account. She also writes a will, leaving the remainder of her estate to her other daughter, Polly. 
 
@@ -968,13 +968,13 @@ A few months later, Mrs. Potter dies in a tragic shuffleboard accident. Dora Pot
 
 _Does the Florida court have personal jurisdiction over the Bank?_ 
 
-#### Question 2
+### Question 2
 
 Dan & Pat, both residents of Pennsylvania, are partners in a Delaware business. The business fails and a disagreement arises between Dan & Pat over the division of the partnership's remaining assets. Deciding to get away from it all, Dan moves to Idaho. Pat now wants to sue Dan over the partnership dispute. Each state's long-arm statute provides for jurisdiction to the full extent permitted under the U.S. Constitution. 
 
 _In which state(s) may Pat sue?_ 
 
-#### Question 3
+### Question 3
 
 _Same facts as previous question, but assume Pat has not sued Dan._
 
@@ -988,13 +988,13 @@ c. No, because the suit does not arise from, and is unrelated to, Pat's contacts
 
 d. No, because New Jersey is not Pat's permanent home
 
-#### Question 4
+### Question 4
 
 Ronnie operates a gas station near U.S. Interstate 40 in Greensboro, North Carolina. The station is frequented by locals and by interstate travelers using I-40. Last summer, Ronnie changed a tire on an automobile bearing Missitucky license plates. The car belonged to Vivian, who was driving through Greensboro on the way home from vacation in the Outer Banks. A few days later, after Vivian reached Missitucky, the tire suddenly fell off, causing the car to swerve out of control and hit an embankment. Vivian sued Ronnie in Missitucky state court, alleging that the accident resulted in Ronnie's negligence in changing the tire. 
 
 _Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Ronnie be permissible under the U.S. Constitution?_
 
-#### Question 5
+### Question 5
 
 Gerald Mayo sued Satan and his Staff, alleging that, on numerous occasions, they caused him misery, made unwarranted threats against him, and placed deliberate obstacles in his path, causing his downfall. Mayo filed his suit in the U.S. District Court for the Western District of Pennsylvania. Mayo resides in Pittsburgh, where the court is located. Mayo lives in Slippery Rock, Pennsylvania. None of the defendants reside in Pennsylvania. 
 

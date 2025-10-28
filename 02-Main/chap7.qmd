@@ -844,7 +844,7 @@ We conclude, therefore, that none of the considerations that would justify a ref
 
 ## Review Questions 
 
-#### Question 1
+### Question 1
 
 Peggy is fired from her job at the Sterling Cooper advertising agency (located in the State of Hudson). Her boss, Don told her the reason for her firing was poor performance, but Peggy believes the real reason was her refusal to have an affair with Don, who made repeated and unwelcome advances.
 
@@ -854,7 +854,7 @@ Peggy then brings another suit, this time in Hudson federal court, against both 
 
 _Does claim preclusion apply to the claim against Sterling Cooper? To the claim against Don?_
 
-#### Question 2
+### Question 2
 
 Sterling Cooper recently gained a new client, Elke Corp., which manufactures a line of gardening and lawn care equipment. To celebrate, the agency holds an office party, at which several employees, including Ken and Lois, consume excessive quantities of liquor. Ken urges Lois to take an Elke riding lawn mower for a spin around the office. Lois passes out and loses control of the mower, driving it into another Sterling Cooper employee, Guy, whose foot is shredded into mulch-sized bits by the mower’s blades. Trudy, a guest at the party, is splattered with blood and bits of flesh from Guy’s foot, and is terribly distraught. The mower finally comes to a stop when it collides into a wall. Lois is thrown from the mower, breaking her leg in the fall. 
 
@@ -886,6 +886,6 @@ Based on these findings, the Board granted Guy’s claim. Sterling Cooper appeal
 
 Guy then files a lawsuit in Hudson federal court against Elke Corp. (which has jurisdiction based on diversity of citizenship), alleging that a design defect and lack of a warning against operation of the mower indoors or while intoxicated were responsible for his injury. 
 
-_May Elke rely on the decision of the Workers' Compensation Claims Board to preclude Guy from asserting that the mower's design was defective?_
+(a\) _May Elke rely on the decision of the Workers' Compensation Claims Board to preclude Guy from asserting that the mower's design was defective?_
 
-_May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?_
+(b\) _May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?_

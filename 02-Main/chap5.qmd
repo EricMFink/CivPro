@@ -402,7 +402,7 @@ Accordingly, the Court will apply the Rule 15 standard in determining whether to
 
 ## Review Questions 
 
-#### Question 1
+### Question 1
 
 Peggy was employed by Sterling Cooper, P.C\. She had a written employment contract specifying a three year term of employment, during which Sterling Cooper could not terminate Peggy's employment except for cause. The contract specifies that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
 
@@ -412,19 +412,19 @@ Peggy sues Sterling Cooper in federal court, asserting a claim for breach of con
 
 In her complaint, Peggy seeks compensatory damages for her loss of employment. 
 
-##### Part A
+#### Part A
 
 Under Hudson state law, compensatory damages for wrongful termination in breach of an employment contract are limited to an amount equal to three times the plaintiff's annual earnings (wages or salary) in their last year of employment. In contrast, in cases for wrongful termination under federal law, there is no such cap on the amount of compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-##### Part B
+#### Part B
 
 Under Hudson state law, a complaint for breach of contract must include an itemized statement showing the basis and amount of compensatory damages sought. In contract, under FRCP Rule 8(a)(3), the "demand for relief sought" requires only a general statement that the plaintiff seeks compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-#### Question 2
+### Question 2
 
 The Carbolic Smoke Ball Company ("Carbolic") runs an ad in the Pall Mall Gazette. The ad claims that the company's Carbolic Smoke Ball is "clinically proven to prevent colds and flu when used as directed." In fact, the product does nothing at all, other than emit foul-smelling smoke, and the company never conducted any tests, clinical or otherwise. 
 
@@ -437,7 +437,7 @@ Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges 
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 
-##### Part A
+#### Part A
 
 FRCP Rule 8(a)(3) provides that a complaint must include "a demand for the relief sought, which may include relief in the alternative or different types of relief." Under this rule, a plaintiff may request both legal remedies (usually money damages) and equitable relief (such as an injunction) in the same complaint. 
 
@@ -447,7 +447,7 @@ Carbolic objects that Carlill's request for both money damages and an injunction
 
 _Should the court apply state or federal law on this issue?_ 
 
-##### Part B
+#### Part B
 
 Under Euphoria state law, a consumer asserting a fraud claim based on an allegedly false advertisement must plead and prove the following elements:
 

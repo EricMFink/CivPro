@@ -1080,7 +1080,7 @@ Steven W. Shaw filed the motion for attorney's fees with no legal or factual sup
 
 ## Review Questions 
 
-#### Question 1
+### Question 1
 
 Guy Mackendrick was injured while attending a party at the office of Sterling Cooper, P.C., a New York advertising agency that handles advertising for Mackendrick’s business. During the party, a Sterling Cooper employee named Lois Sadler, who was drunk, drove over Mackendrick’s foot with a John Deere riding lawnmower. 
 
@@ -1094,7 +1094,7 @@ Mackendrick hires you to represent him in a suit over his injury. You conclude t
 
 _What facts must you allege in the complaint to satisfy the pleading requirements under the FRCP? Are there any additional facts, beyond those provided above, that you would need?_
 
-#### Question 2
+### Question 2
 
 After working at the Sterling Cooper advertising agency for about 18 months, Peggy Olson was very much surprised when her boss, Don Draper, called her into his office and told her she was being fired for poor performance. Olson believes the real reason was her rejection of Don's repeated and unwelcome advances. 
 
@@ -1130,7 +1130,7 @@ Sterling Cooper moves to dismiss for failure to state a claim under FRCP Rule 12
 
 _Should the court grant the motion to dismiss?_
 
-#### Question 3
+### Question 3
 
 Frank Sobotka, a dockworker at the Port of Baltimore, was injured in a collision with a forklift operated by another dockworker, Vernon Motley. Sobotka sued Baltimore Piers, Inc. (BPI), contending that the company was liable because it owned the forklift and that Motley was their employee. 
 
