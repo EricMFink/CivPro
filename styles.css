@@ -268,7 +268,12 @@ ul {
 	font-family: "Lft-Etica-Mono", monospace;
 	font-size: .8rem;
 }
-	*/
+
+*/
+
+.syllabus ul { 
+	list-style-type: disc;
+}
 .syllabus table {
 	margin: 2rem 0 1rem 0;
 	max-width: 100%;
