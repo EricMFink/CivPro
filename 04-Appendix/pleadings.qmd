@@ -2,7 +2,7 @@
 
 ## Sample Complaints {.unnumbered}
 
-[Complaint for Negligence](../exhibits/complaint-for-negligence.pdf)
+[Complaint for Negligence](../exhibits/NegligenceComplaint.pdf)
 
 [Comic Complaint](../exhibits/criss-a-less-complaint.pdf)
 
