@@ -137,8 +137,17 @@ ol, ul {
 	padding-left: 1.5rem;
 	max-width: 40rem;
 }
+/*
 ul { 
 	list-style-type: none;
+}
+*/
+.legalcode ul { 
+	list-style-type: none;
+}
+
+.legalcode li {
+	margin-top: .5rem;
 }
 
 /* Home Page */
@@ -653,6 +662,23 @@ footer.footer .nav-footer, #quarto-header > nav {
 	font-size: .9rem;
 	font-weight: 300;
 }
+
+.callout h4 {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: 1.1rem;
+}
+
+.callout h5 {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: 1rem;
+	font-style: italic;
+}
+
+.callout ul {
+	font-family: "Adelle-Sans", sans-serif;
+	font-weight: 300;
+}
+
 hr {
 	width: 50%;
 	margin-left: auto;
