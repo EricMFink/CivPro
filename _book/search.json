@@ -1002,5 +1002,93 @@
     "crumbs": [
       "Links"
     ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html",
+    "href": "04-Appendix/sample-multiple-choice.html",
+    "title": "Sample Multiple Choice Questions",
+    "section": "",
+    "text": "Joinder\nAndrea has a weekend house in the Pennsylvania countryside. Bart owns a goat farm adjacent to Andrea’s vacation house. Bart’s goats have repeatedly slipped through the gap and bathed in a creek that runs through Andrea’s property, fouling the creek with their droppings. After this happens for the tenth time, an enraged Andrea shoots and kills the offending goat. Several days later, after searching in vain for his missing goat, Bart notices the animal’s carcass next to the creek on Andrea’s property. Bart rushes into Andrea’s yard, accusing her of killing his goat. A fight ensures, in the course of which, Bart hits Andrea over the head with a shovel.\nAndrea sues Bart, asserting two claims: (1) battery, alleging that Bart intentionally hit her with the shovel, and (2) trespass, seeking damages for the cost of cleaning up the mess that Bart’s goat left in the creek. Is joinder of these claims proper?\nThe correct answer is A. Rule 18 allows a party to join multiple claims against the same opposing party, regardless of whether or not they arise from the same T/O. The two claims here would most likely be regarded as arising from separate occurrences, because they are logically independent: they involve different conduct causing different injuries at different times. The only connection is that the fight with the shovel was apparently motivated by Andrea’s killing the goat after it fouled her creek. But that wouldn’t really be relevant to the battery claim.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html#joinder",
+    "href": "04-Appendix/sample-multiple-choice.html#joinder",
+    "title": "Sample Multiple Choice Questions",
+    "section": "",
+    "text": "Yes, even if the altercation between Andrea and Bart and the goat’s fouling of the creek are two separate and independent occurrences.\nYes, because there is a factual connection between the two incidents giving rise to the claims.\n\nNo, because the two claims are based on logically distinct conduct that occurred days apart.\nNo, because a plaintiff may not combine tort and property claims in the same suit.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html#personal-jurisdiction",
+    "href": "04-Appendix/sample-multiple-choice.html#personal-jurisdiction",
+    "title": "Sample Multiple Choice Questions",
+    "section": "Personal Jurisdiction",
+    "text": "Personal Jurisdiction\nDaisy Duke, a Philadelphia resident, broke her tooth on a foreign object in some store-brand canned luncheon meat (a.k.a. generic “Spam”) she purchased at her local Colossus Foods grocery store. She met with a lawyer about bringing a suit to recover damages for the expensive dental work she required, as well as the emotional distress she suffered from the traumatic experience. After some investigation, the lawyer learned that Colossus Foods (based in Maryland and operating retail stores in both Maryland and Pennsylvania) buys its store-brand products from a wholesale distributor called Zysco, based in Indiana. Zysco in turn contracts with various manufacturers, including Harmer Meats (based in Arizona), which made the generic Spam that caused Duke’s injury. The contract between Harmer and Zysco authorizes Zysco to distribute Harmer’s products in 35 states, including Pennsylvania. The contract also provides that Harmer will submit samples of its products to the Pennsylvania State Department of Agriculture for testing, as Pennsylvania law requires for all packaged foods sold in the state.\nDuke’s lawyer files a suit against Colossus, Zysco, and Harmer in Pennsylvania state court. Which of the defendants are within the court’s personal jurisdiction?\n\nOnly Colossus.\nColossus and Zysco, but not Harmer.\nColossus and Zysco, and Harmer.\nNone of the above.\n\nThe correct answer is C. Daisy’s claim arises out of the sale of good distributed in a Pennsylvania by Zysco at a Pennsylvania store owned by Colossus. This is certainly enough to satisfy the minimum contacts requirement. Even though Harmer did not directly ship its product to Pennsylvania, and does not have any direct contractual or other relationship with Colossus, the contract between Harmer & Zysco specifically authorizes distribution in 35 states including Pennsylvania, and calls for Harmer to send samples to the Pennsylvania for testing by a state agency. This is enough to show that Harmer specifically aimed its products at Pennsylvania and took specific steps to facilitate sales there.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html#subject-matter-jurisdiction",
+    "href": "04-Appendix/sample-multiple-choice.html#subject-matter-jurisdiction",
+    "title": "Sample Multiple Choice Questions",
+    "section": "Subject Matter Jurisdiction",
+    "text": "Subject Matter Jurisdiction\nPerry (NC) has a homeowner’s insurance policy from Dependable Ins. Co. (DE), which he bought through a local agent, Delilah (NC). Perry submits a claim for coverage after a broken water main under his front yard results in property damage costing $50,000 to repair. Dependable denies the claim, asserting that the policy does not cover “flood damage”. Perry sues Dependable for breach of contract & bad faith denial of an insurance claim under state law. He seeks $50,000 in compensatory damages and another $50,000 in punitive damages. If Perry files in DE state court, may the defendants remove to federal court?\n\nYes, provided state law would allow recovery of punitive damages.\nYes, if Dependable raises a defense based on federal law.\nNo, because Delilah, the Dependable agent who sold the policy, is a NC resident.\nNo, because it’s uncertain whether Perry will recover punitive damages.\n\nThe correct answer is A. There is complete diversity between Perry (NC) and Dependable (DE). If state law allows recovery of punitive damages, then the amount in controversy is $100,000; if not, it is only $50,000. B is incorrect, because federal question jurisdiction must be based on the plaintiff’s claim(s), not defenses. C is incorrect, because Delilah is not named as a party, so her citizenship is irrelevant. D is incorrect, because all that matters is whether Perry has a legally viable claim for more than $75,000.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html#choice-of-law",
+    "href": "04-Appendix/sample-multiple-choice.html#choice-of-law",
+    "title": "Sample Multiple Choice Questions",
+    "section": "Choice of Law",
+    "text": "Choice of Law\nNeff (CA) visits Oregon and is astonished to find a house on a parcel of land that Neff had purchased some years earlier from Mitchell (WA). After some investigation, Neff learns that the house was built and is currently occupied by Pennoyer (OR), who claims to have purchased the land from Mitchell. Neff brings a quiet title action in federal court against Pennoyer, seeking a declaratory judgment that Neff is the sole rightful owner of the property, which is valued at $100,000. Under state law, Pennoyer may, in the same action, assert his own claim (a “third-party claim”) against Mitchell to recover $80,000 for breach of contract & fraud in the event the court decides the quiet title claim in favor of Neff. Under federal law, specifically Rule 14 of the Federal Rules of Civil Procedure, Pennoyer may not assert this type of third-party claim; instead he would have to bring a separate action against Mitchell following the outcome of the quiet title suit. Which law should the federal court apply to each issue?\n\nState law, because it is in direct conflict with federal law.\nFRCP Rule 14, if the court determines that it advances an important federal interest.\nFRCP Rule 14, regardless of the rationale behind it.\nWhichever the court determines is most equitable and efficient.\n\nThe correct answer is C. The problem indicates that the federal rule at issue is part of the FRCP. Under Hanna, if there is a direct conflict between the FRCP and state law, then the federal court follows the FRCP rule as long as it “really regulates procedure”, i.e. does not alter any substantive rights. There is a direct conflict here: state law would allow joinder of the third-party claim, but FRCP Rule 14 does not. This is a valid procedural rule under the REA. It doesn’t affect Pennoyer’s rights or Mitchell’s liabilities; it merely requires that Pennoyer assert his claim against Mitchell in a separate action.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html#pleadings",
+    "href": "04-Appendix/sample-multiple-choice.html#pleadings",
+    "title": "Sample Multiple Choice Questions",
+    "section": "Pleadings",
+    "text": "Pleadings\nPauline sues Darla in federal court in the state of Euphoria, asserting a claim for intentional infliction of emotional distress (“IIED”). Under Euphoria state law (which governs Pauline’s claim), the elements of an IIED claim are: (1) the defendant engaged in extreme and outrageous conduct, (2) the defendant did so with the intent to cause the plaintiff severe emotional distress, and (3) the plaintiff suffered severe emotional distress as a result of the defendant’s conduct. These are the relevant paragraphs of Pauline’s complaint:\n\n\nPlaintiff Pauline was engaged to be married to Harold Henderson. Shortly before their scheduled wedding, Henderson broke off the engagement, telling Plaintiff he was no longer in love with her and had fallen in love with Defendant Darla.\nAt various times before Henderson broke off the engagement, Defendant told Henderson lies about Plaintiff and pretended to be in love with Henderson, for the purpose of inducing Henderson to break off the engagement.\nAs a result of Defendant’s actions, Plaintiff has suffered severe emotional distress.\n\nWherefore, Plaintiff Pauline requests judgment against the Defendant in an amount greater than $75,000.\n\nIf Darla moves to dismiss the complaint under FRCP Rule 12(b)(6), on which of the following grounds is the court most likely to grant the motion?\n\nEuphoria state law does not recognize claims for intentional infliction of emotional distress for a third-party’s interference with an engagement.\nThe complaint does not explain in sufficient detail how Darla allegedly induced Harold to break off the engagement and what emotional distress Pauline allegedly suffered.\nThe complaint does not adequately specify and establish the basis for the amount of damages sought.\nNone of the above.\n\nThe correct answer is A. A claim can be insufficient in two ways. The most common way is that the complaint lacks sufficient factual allegations to plausibly establish the elements of the claim. But the other ways is that the complaint asserts a purported claim that is simply not valid as a matter of law, regardless of the facts. If Euphoria state law doesn’t recognize an IIED claim based on the defendant’s interference with a planned engagement, then it doesn’t matter what facts Pauline alleges, she simply has no claim.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html#preclusion",
+    "href": "04-Appendix/sample-multiple-choice.html#preclusion",
+    "title": "Sample Multiple Choice Questions",
+    "section": "Preclusion",
+    "text": "Preclusion\nRich, a citizen of New Jersey, sued Heavenly Rest Cemetery, located in Pennsylvania, in federal court, for breach of contract. The complaint alleges that Heavenly Rest failed to maintain the ivy on the graves of Rich’s parents, as specified in a perpetual care contract. After a lengthy trial, the jury returned a verdict in favor of Heavenly Rest. Rich then moved to set aside the jury verdict and dismiss the case for lack of subject-matter jurisdiction, because Rich had only sought $50,000 in total damages. The court granted that motion and dismissed the case, a decision that was affirmed on appeal.\nRich then filed a new action against Heavenly Rest in Pennsylvania federal court, asserting the same breach of contract claim, as well as a claim based on a federal consumer protection statute. Does claim preclusion bar this suit?\n\nYes, because the case was dismissed only after a decision on the merits in favor of Heavenly Rest, and Rich may not avoid the consequences by dismissing his own action on jurisdictional grounds.\nYes, because Rich could have asserted his federal statutory claim in the previous action and the court would then have had subject-matter jurisdiction.\nNo, because the first suit did not result in a valid, final judgment on the merits.\nNo, because the federal statutory claim is a different claim than the one Rich asserted in the first suit.\n\nThe correct answer is C. An objection based on lack of subject matter jurisdiction is never waived, and may be asserted at any time by either party. Dismissal for lack of subject matter jurisdiction is not a decision on the merits for claim preclusion purposes, even if the dismissal comes only after the court has actually decided the case on the merits, because that decision will be void absent subject matter jurisdiction. The fact that Rich could have asserted a federal statutory claim, and thus brought the entire case within federal subject matter jurisdiction, does not alter the analysis in this case.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
+  },
+  {
+    "objectID": "04-Appendix/sample-multiple-choice.html#summary-judgment",
+    "href": "04-Appendix/sample-multiple-choice.html#summary-judgment",
+    "title": "Sample Multiple Choice Questions",
+    "section": "Summary Judgment",
+    "text": "Summary Judgment\nPam hires Deb to install a ceiling fan in her home. A few weeks after Deb completes the job, the ceiling fan comes loose and falls down, hitting and injuring Pam, who was unlucky enough to be standing underneath it at the time. Pam sues Deb in federal court for negligence in the installation of the fan. After the parties have conducted discovery, Deb moves for summary judgment, supporting the motion with an affidavit from an expert engineer who examines the fan and ceiling and opines that the fan was correctly installed, but that the ceiling material was weakened as a result of internal decay not visible to Deb at the time she installed the fan. Pam responds, opposing Deb’s motion for summary judgment and seeking summary judgment in Pam’s favor. In support, Pam offers an affidavit from her own expert who examined the ceiling and found no decay, and concludes that the fan had merely been attached to the sheet rock, not to a ceiling beam as would have been appropriate given the weight of the fan. Pam’s expert further opines that, had there been decay sufficient to weaken the ceiling, a competent fan installer would have identified it. How should the court rule?\n\nGrant Pam’s motion, if the court determines that her expert is more credible.\nGrant Deb’s motion, if the court determines that her expert is more credible.\nDeny both motions, because neither has adequate evidentiary support.\nDeny both motions, because there is a genuine issue of material fact.\n\nThe correct answer is D. Where each party has offered evidence that could support a jury finding in their favor at trial, there is a genuine issue of material fact and the court may not grant summary judgment. It is up to the jury to decide which expert is credible and more persuasive.",
+    "crumbs": [
+      "Practice Exam Questions",
+      "Sample Multiple Choice Questions"
+    ]
   }
 ]

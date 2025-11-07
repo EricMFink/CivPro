@@ -76,7 +76,7 @@ book:
         - 04-Appendix/exam6.qmd
         - 04-Appendix/exam7.qmd
         - 04-Appendix/exam8.qmd
-        - 04-Appendix/exam9.qmd
+        - 04-Appendix/sample-multiple-choice.qmd
     - links.qmd
 
 format:
