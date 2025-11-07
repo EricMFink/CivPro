@@ -15,21 +15,15 @@ West is President of an organization, Physicians Against Insurance Nightmares (�
 Bonner has never had a case involving a health insurance company before, and is not familiar with industry practices or the applicable law. After some quick research, Bonner finds the North Carolina Unfair or Deceptive Acts & Practices (“UDAP”) statute. The elements of a  claim under that statute are as follows:  
 
 - The defendant made a false or misleading representation to the plaintiff.
-
 - The misrepresentation was material to the parties’ transaction.
-
 - The plaintiff actually relied on the misrepresentation in deciding to enter into the transaction.
-
 - The plaintiff lost money or suffered other harm as a result. 
 
 Bonner files a suit on behalf of West against Vesuvius in the U.S. District Court for the Middle District of North Carolina. The complaint asserts a claim under the NC UDAP statute, and includes the following allegations:
 
 - Defendant falsely & misleadingly represented to Plaintiff that he would be compensated for covered procedures based on commonly accepted medical practice and standard coding practices, and as represented in Defendant’s promotional material and reimbursement rate schedule. Examples of Defendant's false & misleading representations are contained in its promotional material and reimbursement rate schedule, copies of which are attached as Exhibit A. 
-
 - In reliance on Defendant's false & misleading representations, Plaintiff became a participating provider under Defendant’s managed care plan. 
-
 - Defendant intentionally "downcoded" and "bundled" procedures that Plaintiff performed for patients in Defendant's managed care plan, improperly applying codes carrying lower reimbursement rates than those for the procedures Plaintiff actually performed, and thus paying reimbursements to Plaintiff at rates lower than those indicated in Defendant's promotional material and reimbursement rate schedule. Examples of such downcoding and bundling are contained in the reimbursement statements that Plaintiff received from Defendant, copies of which are attached as Exhibit B. 
-
 - As a result of Defendant’s false, misleading, and deceptive representations and practices, Plaintiff has wrongfully been denied, and Defendant has dishonestly pocketed, at least $100,000 in reimbursements for procedures he performed under Defendant's managed care plan.
 
 In response to the complaint, Vesuvius files a motion to dismiss under FRCP Rule 12(b)(6). Should the court grant the motion to dismiss?
