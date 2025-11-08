@@ -2,23 +2,24 @@
 
 ## Permissive Joinder of Claims
 
-### Fed. R. Civ. P. Rule 18
+### Fed. R. Civ. P. 
 
-(a\) In General. A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
+::: {.legalcode}
 
-(b\) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties' relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
+#### Rule 18
 
-### Fed. R. Civ. P. Rule 42
+- (a\) In General. A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
+- (b\) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties' relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
 
-(a\) Consolidation. If actions before the court involve a common question of law or fact, the court may:
+#### Rule 42
 
-- (1\) join for hearing or trial any or all matters at issue in the actions;
+- (a\) Consolidation. If actions before the court involve a common question of law or fact, the court may:
+	- (1\) join for hearing or trial any or all matters at issue in the actions;
+	- (2\) consolidate the actions; or
+	- (3\) issue any other orders to avoid unnecessary cost or delay.
+- (b\) Separate Trials. For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, crossclaims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.
 
-- (2\) consolidate the actions; or
-
-- (3\) issue any other orders to avoid unnecessary cost or delay.
-
-(b\) Separate Trials. For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, crossclaims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.
+:::
 
 ### Burdine v. Metropolitan Direct Property and Casualty Ins. Co. (E.D. Ky. 2018) 
 
@@ -52,23 +53,21 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 ### Fed. R. Civ. P. Rule 20
 
+::: {.legalcode}
+
 (a\) Persons Who May Join or Be Joined.
 
 - (1\) Plaintiffs. Persons may join in one action as plaintiffs if:
-
 	- (A\) they assert any right to relief jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
-
 	- (B\) any question of law or fact common to all plaintiffs will arise in the action.
-
 - (2\) Defendants. Persons—as well as a vessel, cargo, or other property subject to admiralty process in rem—may be joined in one action as defendants if:
-
 	- (A\) any right to relief is asserted against them jointly, severally, or in the alternative with respect to or arising out of the same transaction, occurrence, or series of transactions or occurrences; and
-
 	- (B\) any question of law or fact common to all defendants will arise in the action.
-
 - (3\) Extent of Relief. Neither a plaintiff nor a defendant need be interested in obtaining or defending against all the relief demanded. The court may grant judgment to one or more plaintiffs according to their rights, and against one or more defendants according to their liabilities.
 
 (b\) Protective Measures. The court may issue orders—including an order for separate trials—to protect a party against embarrassment, delay, expense, or other prejudice that arises from including a person against whom the party asserts no claim and who asserts no claim against the party.
+
+:::
 
 ### Mosley v. General Motors Corp. (E.D. Missouri 1980)
 
@@ -118,25 +117,23 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ## Counterclaims
 
-### Fed. R. Civ. P. Rule 13
+### Fed. R. Civ. P. 
 
-(a\) Compulsory Counterclaim.
+::: {.legalcode}
 
-- (1\) In General. A pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim:
+#### Rule 13
 
-	- (A\) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
+- (a\) Compulsory Counterclaim.
+	- (1\) In General. A pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim:
+		- (A\) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
+		- (B\) does not require adding another party over whom the court cannot acquire jurisdiction.
+	- (2\) Exceptions. The pleader need not state the claim if:
+		- (A\) when the action was commenced, the claim was the subject of another pending action; or
+		- (B\) the opposing party sued on its claim by attachment or other process that did not establish personal jurisdiction over the pleader on that claim, and the pleader does not assert any counterclaim under this rule.
+- (b\) Permissive Counterclaim. A pleading may state as a counterclaim against an opposing party any claim that is not compulsory.
+- (h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
 
-	- (B\) does not require adding another party over whom the court cannot acquire jurisdiction.
-
-- (2\) Exceptions. The pleader need not state the claim if:
-
-	- (A\) when the action was commenced, the claim was the subject of another pending action; or
-
-	- (B\) the opposing party sued on its claim by attachment or other process that did not establish personal jurisdiction over the pleader on that claim, and the pleader does not assert any counterclaim under this rule.
-
-(b\) Permissive Counterclaim. A pleading may state as a counterclaim against an opposing party any claim that is not compulsory.
-
-(h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
+:::
 
 ### Jones v. Ford Motor Credit Co. (2nd Cir. 2004)
 
@@ -294,11 +291,16 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ## Crossclaims
 
-### Fed. R. Civ. P. Rule 13
+### Fed. R. Civ. P. 
 
-(g\) Crossclaim Against a Coparty. A pleading may state as a crossclaim any claim by one party against a coparty if the claim arises out of the transaction or occurrence that is the subject matter of the original action or of a counterclaim, or if the claim relates to any property that is the subject matter of the original action. The crossclaim may include a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant.
+::: {.legalcode}
 
-(h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
+#### Rule 13
+
+- (g\) Crossclaim Against a Coparty. A pleading may state as a crossclaim any claim by one party against a coparty if the claim arises out of the transaction or occurrence that is the subject matter of the original action or of a counterclaim, or if the claim relates to any property that is the subject matter of the original action. The crossclaim may include a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant.
+- (h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
+
+:::
 
 ### Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C. 2002) 
 
@@ -340,39 +342,35 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 ## Third-Party Defendants & Claims
 
-### Fed. R. Civ. P. Rule 14
+### Fed. R. Civ. P. 
 
-(a\) When a Defending Party May Bring in a Third Party.
+::: {.legalcode}
 
-- (1\) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
+#### Rule 14
 
-- (2\) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint—the "third-party defendant":
+- (a\) When a Defending Party May Bring in a Third Party.
+	- (1\) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
+	- (2\) Third-Party Defendant's Claims and Defenses. The person served with the summons and third-party complaint—the "third-party defendant":
+		- (A\) must assert any defense against the third-party plaintiff's claim under Rule 12;
+		- (B\) must assert any counterclaim against the third-party plaintiff under Rule 13(a), and may assert any counterclaim against the third-party plaintiff under Rule 13(b) or any crossclaim against another third-party defendant under Rule 13(g);
+		- (C\) may assert against the plaintiff any defense that the third-party plaintiff has to the plaintiff's claim; and
+		- (D\) may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff.
+	- (3\) Plaintiff's Claims Against a Third-Party Defendant. The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff. The third-party defendant must then assert any defense under Rule 12 and any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g).
+	- (4\) Motion to Strike, Sever, or Try Separately. Any party may move to strike the third-party claim, to sever it, or to try it separately.
+	- (5\) Third-Party Defendant's Claim Against a Nonparty. A third-party defendant may proceed under this rule against a nonparty who is or may be liable to the third-party defendant for all or part of any claim against it.
+- (b\) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
 
-	- (A\) must assert any defense against the third-party plaintiff's claim under Rule 12;
-
-	- (B\) must assert any counterclaim against the third-party plaintiff under Rule 13(a), and may assert any counterclaim against the third-party plaintiff under Rule 13(b) or any crossclaim against another third-party defendant under Rule 13(g);
-
-	- (C\) may assert against the plaintiff any defense that the third-party plaintiff has to the plaintiff's claim; and
-
-	- (D\) may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff.
-
-- (3\) Plaintiff's Claims Against a Third-Party Defendant. The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff. The third-party defendant must then assert any defense under Rule 12 and any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g).
-
-- (4\) Motion to Strike, Sever, or Try Separately. Any party may move to strike the third-party claim, to sever it, or to try it separately.
-
-- (5\) Third-Party Defendant's Claim Against a Nonparty. A third-party defendant may proceed under this rule against a nonparty who is or may be liable to the third-party defendant for all or part of any claim against it.
-
-(b\) When a Plaintiff May Bring in a Third Party. When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
+:::
 
 ### Contribution & Indemnification
 
 FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them:
 
-- **Rule 13(g)**
+**Rule 13(g)**
 
 > \[A\] crossclaim may include a claim that the coparty _is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant_.
 
-- **Rule 14(a)**
+**Rule 14(a)**
 
 > A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who _is or may be liable to it for all or part of the claim against it_.
 
@@ -396,25 +394,25 @@ A right to indemnification allows a defending party to recover the full amount o
 
 Common law indemnification applies where a defendant was not actually at fault, but is liable to the plaintiff for another person's conduct, based on their legal status or relationship.
 
-- _Example:_ At common law, if an employer was held vicariously liable for harm to a third party caused by an employee, the employer could sue the employee for indemnification. In some states, this common law right to indemnification from employees has been abrogated by judicial opinion or statute.
+_Example:_ At common law, if an employer was held vicariously liable for harm to a third party caused by an employee, the employer could sue the employee for indemnification. In some states, this common law right to indemnification from employees has been abrogated by judicial opinion or statute.
 
-- _Example:_ In some states, if a retailer is subject to strict liability for injuries caused by a defective product it sold, the retailer has a common law right to indemnification by the manufacturer or other party actually responsible for the defect, as long as the retailer was not itself also at fault.
+_Example:_ In some states, if a retailer is subject to strict liability for injuries caused by a defective product it sold, the retailer has a common law right to indemnification by the manufacturer or other party actually responsible for the defect, as long as the retailer was not itself also at fault.
 
 ##### Statutory Indemnification
 
 Indemnification statutes may codify the common law right or impose a duty to indemnify where it would not apply under common law.
 
-- _Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code §2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB).  
+_Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code §2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB).  
 
-- _Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code §145](https://delcode.delaware.gov/title8/c001/sc04/).
+_Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code §145](https://delcode.delaware.gov/title8/c001/sc04/).
 
 ##### Contractual Indemnification
 
 Parties may enter into agreements that shift ultimate responsibility for judgments, without regard to which one is at fault.
 
-- _Example:_ Many corporations enter into indemnification agreements with corporate officers and directors to provide indemnification for liability arising out of their corporate roles (as authorized by statute).
+_Example:_ Many corporations enter into indemnification agreements with corporate officers and directors to provide indemnification for liability arising out of their corporate roles (as authorized by statute).
 
-- _Example:_ Manufacturers of consumer products may agree to indemnify distributors or retailers who face product liability suits. Such agreements may provide for indemnification where the common law right to indemnification does not apply or is not recognized at all under state law.
+_Example:_ Manufacturers of consumer products may agree to indemnify distributors or retailers who face product liability suits. Such agreements may provide for indemnification where the common law right to indemnification does not apply or is not recognized at all under state law.
 
 Liability insurance is a common type of contractual indemnification agreement. Such policies typically provide that the insurance carrier will pay (subject to limits and conditions in the policy) the cost of judgments and the cost of defense for claims covered by the policy. If there there is a dispute as to whether the policy covers the insured party's potential liability, the insured party may join the insurance carrier as a third-party defendant so that the court can resolve the coverage dispute.
 
@@ -482,45 +480,33 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ## Required Parties
 
-### Fed. R. Civ. P. Rule 19
+### Fed. R. Civ. P. 
 
-(a\) Persons Required to Be Joined if Feasible.
+::: {.legalcode}
 
-- (1\) Required Party. A person who is subject to service of process and whose joinder will not deprive the court of subject-matter jurisdiction must be joined as a party if:
+#### Rule 19
 
-	- (A\) in that person's absence, the court cannot accord complete relief among existing parties; or
+- (a\) Persons Required to Be Joined if Feasible.
+	- (1\) Required Party. A person who is subject to service of process and whose joinder will not deprive the court of subject-matter jurisdiction must be joined as a party if:
+		- (A\) in that person's absence, the court cannot accord complete relief among existing parties; or
+		- (B\) that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person's absence may:
+			- (i\) as a practical matter impair or impede the person's ability to protect the interest; or
+			- (ii\) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
+	- (2\) Joinder by Court Order. If a person has not been joined as required, the court must order that the person be made a party. A person who refuses to join as a plaintiff may be made either a defendant or, in a proper case, an involuntary plaintiff.
+	- (3\) Venue. If a joined party objects to venue and the joinder would make venue improper, the court must dismiss that party.
+- (b\) When Joinder Is Not Feasible. If a person who is required to be joined if feasible cannot be joined, the court must determine whether, in equity and good conscience, the action should proceed among the existing parties or should be dismissed. The factors for the court to consider include:
+	- (1\) the extent to which a judgment rendered in the person's absence might prejudice that person or the existing parties;
+	- (2\) the extent to which any prejudice could be lessened or avoided by:
+		- (A\) protective provisions in the judgment;
+		- (B\) shaping the relief; or
+		- (C\) other measures;
+	- (3\) whether a judgment rendered in the person's absence would be adequate; and
+	- (4\) whether the plaintiff would have an adequate remedy if the action were dismissed for nonjoinder.
+- (c\) Pleading the Reasons for Nonjoinder. When asserting a claim for relief, a party must state:
+	- (1\) the name, if known, of any person who is required to be joined if feasible but is not joined; and
+	- (2\) the reasons for not joining that person.
 
-	- (B\) that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person's absence may:
-
-		- (i\) as a practical matter impair or impede the person's ability to protect the interest; or
-
-		- (ii\) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
-
-- (2\) Joinder by Court Order. If a person has not been joined as required, the court must order that the person be made a party. A person who refuses to join as a plaintiff may be made either a defendant or, in a proper case, an involuntary plaintiff.
-
-- (3\) Venue. If a joined party objects to venue and the joinder would make venue improper, the court must dismiss that party.
-
-(b\) When Joinder Is Not Feasible. If a person who is required to be joined if feasible cannot be joined, the court must determine whether, in equity and good conscience, the action should proceed among the existing parties or should be dismissed. The factors for the court to consider include:
-
-- (1\) the extent to which a judgment rendered in the person's absence might prejudice that person or the existing parties;
-
-- (2\) the extent to which any prejudice could be lessened or avoided by:
-
-	- (A\) protective provisions in the judgment;
-
-	- (B\) shaping the relief; or
-
-	- (C\) other measures;
-
-- (3\) whether a judgment rendered in the person's absence would be adequate; and
-
-- (4\) whether the plaintiff would have an adequate remedy if the action were dismissed for nonjoinder.
-
-(c\) Pleading the Reasons for Nonjoinder. When asserting a claim for relief, a party must state:
-
-- (1\) the name, if known, of any person who is required to be joined if feasible but is not joined; and
-
-- (2\) the reasons for not joining that person.
+:::
 
 ### Camacho v. Major League Baseball (S.D. Cal. 2013) 
 
@@ -641,9 +627,7 @@ A furious Claypool sues Gottlieb for breach of contract, seeking restitution of 
 #### Part A
 
 1. Is joinder of Gottlieb and Driftwood as defendants proper under the FRCP?
-
 2. Assume that Claypool sues only Gottlieb. Gottlieb's defense is that his promise to name the Opera House after Claypool was contingent upon signing Lasparri to a contract with the Opera Company, and that Driftwood's failure to fulfill that part of the deal means that Gottlieb is not contractually obligated to honor his promise to Claypool. Is Driftwood a person required to be joined if feasible under the FRCP? 
-
 3. Assume instead that Claypool sues only Driftwood. May Gottlieb intervene as a plaintiff to assert a claim against Driftwood for failure to sign Lasparri to a contract with the Opera Company? 
 
 #### Part B
@@ -653,17 +637,11 @@ Assume that Claypool sued both Gottlieb & Driftwood and that their joinder as co
 For each of the following additional claims, explain whether joinder is proper under the FRCP: 
 
 1. A claim by Driftwood against Claypool for breach of contract, seeking $25,000 he contends she still owes him for his services under their contract.
-
 2. A claim by Driftwood against Claypool for battery, alleging that she poured a bowl of hot soup over his head when he clumsily attempted to woo her during a party to celebrate the ill-fated Opera deal. 
-
 3. A claim by Gottlieb against Driftwood, alleging that the Opera Company lost 50% of its anticipated season ticket sales because of the failure to sign Lassparri. 
-
 4. A claim by Gottlieb against Driftwood for breach of contract in an unrelated business transaction in which Driftwood was to supply the Opera Company with costumes. 
-
 5. A claim by Driftwood against Fiorello and Baroni, asserting that if Driftwood is found liable to Claypool or Gottlieb for his failure to sign Lasparri, Fiorello and Baroni must cover all or part of any damages Driftwood is ordered to pay Claypool or Gottlieb, because it was their fault Driftwood failed to sign Lasparri. 
-
 6. A claim by Driftwood against Fiorello and Baroni, seeking $25,000 against them, jointly and severally, for defrauding him into signing Baroni to the Opera contract. The $25,000 represents the commission Driftwood expected to earn by signing Lasparri. 
-
 7. A claim by Baroni against Driftwood for failure to pay Baroni in accordance with the contract that Driftwood signed. 
 
 ![Parties & Claims in Claypool v. Gottlieb](../img/claypool.png){width=75%}

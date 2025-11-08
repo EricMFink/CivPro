@@ -2,15 +2,19 @@
 
 ## Constitutional Limits: Due Process 
 
-### U.S. Constitution, 
+### U.S. Constitution
+
+::: {.legalcode}
 
 #### Amendment V
 
-No person shall ... be deprived of life, liberty, or property, without due process of law; ....
+- No person shall ... be deprived of life, liberty, or property, without due process of law;
 
 #### Amendment XIV, sec. 1
 
-... nor shall any state deprive any person of life, liberty, or property, without due process of law; ....
+- ... nor shall any state deprive any person of life, liberty, or property, without due process of law;
+
+:::
 
 ### Pennoyer v. Neff (U.S. 1878) 
 
@@ -524,35 +528,24 @@ HANWJH reminds us that it is a foreign party with only one documented sale to th
 
 In _Curry,_ we held that there was no unfairness in making a seller defend a suit in a state where it structured its business to "easily serve the state's consumers." "There is no unfairness in requiring a defendant to defend a lawsuit in the courts of the state where, through the very activity giving rise to the suit, it continues to gain so much." NBA Properties may have its principal places of business elsewhere, but it nevertheless has an interest in ensuring that its trademark is protected against confusion in the Illinois market. Illinois no doubt has an interest in protecting its consumers from purchasing fraudulent merchandise. Finally, HANWJH alleges no unusual burden in defending the suit in Illinois.
 
-### Specific Jurisdiction Based on a Federal Statute
+::: {.callout-note}
 
-The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons." Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... authorized by a federal statute."
+**Specific Jurisdiction Based on a Federal Statute**: The Supreme Court recently addressed the issue of whether the due process limits on the reach of personal jurisdiction are the same under the 5th and 14th Amendments. [Fuld v. PLO](https://scholar.google.com/scholar_case?case=2121639395786794634), 606 U.S. 1 (2025) As the Court noted, "under the Federal Rules of Civil Procedure, federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons." Consequently, "Any difference between the Fifth and Fourteenth Amendments is therefore implicated in only a subset of federal cases, such as those in which personal jurisdiction is ... authorized by a federal statute."
 
 In _Fuld_, the plaintiffs asserted claims against the Palestine Liberation Organization under the "Promoting Security and Justice for Victims of Terrorism Act" (PSJVTA), a federal statute that authorizes suits in federal court by "Any national of the United States injured in his or her person, property, or business by reason of an act of international terrorism, or his or her estate, survivors, or heirs ...." 18 U.S. Code §2333. The PSJVTA also authorizes the exercise of personal jurisdiction over the PLO and the Palestinian Authority based on certain activity:
 
-#### 18 U.S. Code §2334 - Jurisdiction and venue
+**18 U.S. Code §2334 - Jurisdiction and venue**
 
-> (e\) Consent of Certain Parties to Personal Jurisdiction.
-> 
-> - (1\) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
-> 
-> 	- (A\) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
-> 
-> 		- (i\) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
-> 
-> 		- (ii\) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
-> 
-> 	- (B\) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
-> 
-> 		- (i\) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
-> 
-> 		- (ii\) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
-> 
-> 		- (iii\) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
- 
-::: {.aside}
-The Court in _Fuld_ did not address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."
-:::
+(e\) Consent of Certain Parties to Personal Jurisdiction.
+
+- (1\) In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+ 	- (A\) after the date that is 120 days after the date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, makes any payment, directly or indirectly—
+ 		- (i\) to any payee designated by any individual who, after being fairly tried or pleading guilty, has been imprisoned for committing any act of terrorism that injured or killed a national of the United States, if such payment is made by reason of such imprisonment; or
+ 		- (ii\) to any family member of any individual, following such individual’s death while committing an act of terrorism that injured or killed a national of the United States, if such payment is made by reason of the death of such individual; or
+ 	- (B\) after 15 days after the date of enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019—
+ 		- (i\) continues to maintain any office, headquarters, premises, or other facilities or establishments in the United States;
+ 		- (ii\) establishes or procures any office, headquarters, premises, or other facilities or establishments in the United States; or
+ 		- (iii\) conducts any activity while physically present in the United States on behalf of the Palestine Liberation Organization or the Palestinian Authority.
 
 After reviewing the foundations of the 14th Amendment due process limits on personal jurisdiction, the Court concluded: 
 
@@ -562,7 +555,11 @@ After reviewing the foundations of the 14th Amendment due process limits on pers
 
 The Court declined "to delineate the outer bounds of the Federal Government's power, consistent with due process, to hale foreign defendants into U.S. courts." Instead, it held that the PSJVTA's "provision for personal jurisdiction comports with the Due Process Clause of the Fifth Amendment", because it "reasonably ties the assertion of federal jurisdiction over the PLO and PA to conduct that involves the United States and implicates sensitive foreign policy matters within the prerogative of the political branches".
 
+The Court did not address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."
+
 In a concurring opinion, Justice Thomas, joined in part by Justice Gorsuch, agreed "that the Fourteenth Amendment's 'minimum contacts standard' does not apply to the Fifth Amendment's Due Process Clause" and that the jurisdictional provisions of the PSJVTA satisfy the 5th Amendment. However, they argued that "the Fifth Amendment's Due Process Clause imposes no limits on the Federal Government's power to extend federal jurisdiction beyond the Nation's borders."
+
+:::
 
 ## General Jurisdiction
 
@@ -666,7 +663,7 @@ Petitioner moved for summary judgment, contending that the forum clause in respo
 
 The Court of Appeals reversed. Reasoning that "but for" petitioner's solicitation of business in Washington, respondents would not have taken the cruise and Mrs. Shute would not have been injured, the court concluded that petitioner had sufficient contacts with Washington to justify the District Court's exercise of personal jurisdiction. 
 
-Turning to the forum-selection clause, the Court of Appeals acknowledged that a court concerned with the enforceability of such a clause must begin its analysis with _The Bremen v. Zapata Off-Shore Co._, where this Court held that forum-selection clauses, although not "historically. . . favored," are "prima facie valid." The appellate court concluded that the forum clause should not be enforced because it "was not freely bargained for." As an "independent justification" for refusing to enforce the clause, the Court of Appeals noted that there was evidence in the record to indicate that "the Shutes are physically and financially incapable of pursuing this litigation in Florida" and that the enforcement of the clause would operate to deprive them of their day in court and thereby contravene this Court's holding in _The Bremen._
+Turning to the forum-selection clause, the Court of Appeals acknowledged that a court concerned with the enforceability of such a clause must begin its analysis with _The Bremen v. Zapata Off-Shore Co._, where this Court held that forum-selection clauses, although not "historically... favored," are "prima facie valid." The appellate court concluded that the forum clause should not be enforced because it "was not freely bargained for." As an "independent justification" for refusing to enforce the clause, the Court of Appeals noted that there was evidence in the record to indicate that "the Shutes are physically and financially incapable of pursuing this litigation in Florida" and that the enforcement of the clause would operate to deprive them of their day in court and thereby contravene this Court's holding in _The Bremen._
 
 We granted certiorari to address the question whether the Court of Appeals was correct in holding that the District Court should hear respondents' tort claim against petitioner. Because we find the forum-selection clause to be dispositive of this question, we need not consider petitioner's constitutional argument as to personal jurisdiction. 
 
@@ -702,7 +699,7 @@ It bears emphasis that forum-selection clauses contained in form passage contrac
 
 The Court prefaces its legal analysis with a factual statement that implies that a purchaser of a Carnival Cruise Lines passenger ticket is fully and fairly notified about the existence of the choice of forum clause in the fine print on the back of the ticket. Even if this implication were accurate, I would disagree with the Court's analysis. But, given the Court's preface, I begin my dissent by noting that only the most meticulous passenger is likely to become aware of the forum-selection provision. I have therefore appended to this opinion a facsimile of the relevant text, using the type size that actually appears in the ticket itself. A careful reader will find the forum-selection clause in the 8th of the 25 numbered paragraphs.
 
-Of course, many passengers, like the respondents in this case, will not have an opportunity to read paragraph 8 until they have actually purchased their tickets. By this point, the passengers will already have accepted the condition set forth in paragraph 16(a), which provides that "the Carrier shall not be liable to make any refund to passengers in respect of . . . tickets wholly or partly not used by a passenger." Not knowing whether or not that provision is legally enforceable, I assume that the average passenger would accept the risk of having to file suit in Florida in the event of an injury, rather than canceling—without a refund— a planned vacation at the last minute. The fact that the cruise line can reduce its litigation costs, and therefore its liability insurance premiums, by forcing this choice on its passengers does not, in my opinion, suffice to render the provision reasonable. 
+Of course, many passengers, like the respondents in this case, will not have an opportunity to read paragraph 8 until they have actually purchased their tickets. By this point, the passengers will already have accepted the condition set forth in paragraph 16(a), which provides that "the Carrier shall not be liable to make any refund to passengers in respect of ... tickets wholly or partly not used by a passenger." Not knowing whether or not that provision is legally enforceable, I assume that the average passenger would accept the risk of having to file suit in Florida in the event of an injury, rather than canceling—without a refund— a planned vacation at the last minute. The fact that the cruise line can reduce its litigation costs, and therefore its liability insurance premiums, by forcing this choice on its passengers does not, in my opinion, suffice to render the provision reasonable. 
 
 Even if passengers received prominent notice of the forum-selection clause before they committed the cost of the cruise, I would remain persuaded that the clause was unenforceable under traditional principles of federal admiralty law and is "null and void" under the terms of Limitation of Vessel Owner's Liability Act, which was enacted in 1936 to invalidate expressly stipulations limiting shipowners' liability for negligence.
 
@@ -718,7 +715,7 @@ The common law, recognizing that standardized form contracts account for a signi
 
 > Ordinarily, one who signs an agreement without full knowledge of its terms might be held to assume the risk that he has entered a one-sided bargain. But when a party of little bargaining power, and hence little real choice, signs a commercially unreasonable contract with little or no knowledge of its terms, it is hardly likely that his consent, or even an objective manifestation of his consent, was ever given to all of the terms. In such a case the usual rule that the terms of the agreement are not to be questioned should be abandoned and the court should consider whether the terms of the contract are so unfair that enforcement should be withheld.
 
-The second doctrinal principle implicated by forum-selection clauses is the traditional rule that "contractual provisions, which seek to limit the place or court in which an action may . . . be brought, are invalid as contrary to public policy." Although adherence to this general rule has declined in recent years, particularly following our decision in _The Bremen v. Zapata Off-Shore Co.,_ the prevailing rule is still that forum-selection clauses are not enforceable if they were not freely bargained for, create additional expense for one party, or deny one party a remedy. A forum-selection clause in a standardized passenger ticket would clearly have been unenforceable under the common law before our decision in _The Bremen,_ and, in my opinion, remains unenforceable under the prevailing rule today.
+The second doctrinal principle implicated by forum-selection clauses is the traditional rule that "contractual provisions, which seek to limit the place or court in which an action may ... be brought, are invalid as contrary to public policy." Although adherence to this general rule has declined in recent years, particularly following our decision in _The Bremen v. Zapata Off-Shore Co.,_ the prevailing rule is still that forum-selection clauses are not enforceable if they were not freely bargained for, create additional expense for one party, or deny one party a remedy. A forum-selection clause in a standardized passenger ticket would clearly have been unenforceable under the common law before our decision in _The Bremen,_ and, in my opinion, remains unenforceable under the prevailing rule today.
 
 _The Bremen,_ which the Court effectively treats as controlling this case, had nothing to say about stipulations printed on the back of passenger tickets. That case involved the enforceability of a forum-selection clause in a freely negotiated international agreement between two large corporations providing for the towage of a vessel from the Gulf of Mexico to the Adriatic Sea. The Court recognized that such towage agreements had generally been held unenforceable in American but held that the doctrine of those cases did not extend to commercial arrangements between parties with equal bargaining power.
 
@@ -908,49 +905,46 @@ Critics of Daimler and Goodyear may be happy to see them go. And make no mistake
 
 Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. There are two types of long-arm statute.
 
-#### Enumerated Statutes 
+### Enumerated Statutes 
 
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
-> **NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.**
+::: {.legalcode}
 
-> _(a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:_
-> 
-> - _1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or_
-> 
-> - _2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or_
->  
-> - _3. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he_
->  
-> 	- _(i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or_
-> 
-> 	- _(ii) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or_
-> 
-> - _4. owns, uses or possesses any real property situated within the state._
-> 
-> _(b\) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law._
-> 
-> _(c\) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section._
-> 
-> _(d\) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:_
-> 
-> - _1. the publication at issue was published in New York, and_
-> 
-> - _2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision._
+#### NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.
+
+- _(a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:_
+	- _1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or_
+	- _2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or_
+	- _3. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he_
+		- _(i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or_
+		- _(ii) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or_
+	- _4. owns, uses or possesses any real property situated within the state._
+- _(b\) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law._
+- _(c\) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section._
+- _(d\) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:_
+	- _1. the publication at issue was published in New York, and_
+	- _2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision._
+
+:::
 
 Under an enumerated long-arm statute, determining whether the court may exercise personal jurisdiction requires a two-step analysis: 
 
 (1) Does the case fall within one (or more) of the circumstances enumerated in the statute? 
-
 (2) If so, does the defendant have the requisite contacts with the forum state to satisfy the constitutional due process standard? 
 
-#### Constitutional Limit Statutes 
+### Constitutional Limit Statutes 
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
 
-> **Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.**
 
-> _A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States._
+::: {.legalcode}
+
+#### Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.
+
+_A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States._
+
+:::
 
 Under this type of long-arm statute, the same analysis (i.e. does the defendant have minimum contacts with the forum state?) answers both the statutory and constitutional question.
 
@@ -981,11 +975,8 @@ _Same facts as previous question, but assume Pat has not sued Dan._
 Pat has a vacation home on the Jersey shore. While Pat is spending the weekend there, Dan arranges to serve Pat with a complaint and summons in a suit Dan has filed in New Jersey court, claiming that Pat owes Dan $25,000 arising from their business partnership. May the New Jersey court assert jurisdiction?
 
 a. Yes, because Pat owns property in New Jersey
-
 b. Yes, because Pat was personally served with the complaint and summons while physically present in New Jersey. 
-
 c. No, because the suit does not arise from, and is unrelated to, Pat's contacts with New Jersey
-
 d. No, because New Jersey is not Pat's permanent home
 
 ### Question 4

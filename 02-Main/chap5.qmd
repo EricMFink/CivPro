@@ -4,9 +4,13 @@
 
 ### The Rules of Decision Act, 28 U.S.C. § 1652
 
+::: {.legalcode}
+
 #### State laws as rules of decision
 
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
+
+:::
 
 ::: {.callout-note}
 
@@ -214,13 +218,15 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ### The Rules Enabling Act, 28 U.S.C. §2071
 
+::: {.legalcode}
+
 #### Rules of procedure and evidence; power to prescribe
 
-(a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
+- (a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
+- (b\) Such rules shall not abridge, enlarge or modify any substantive right. All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.
+- (c\) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
 
-(b\) Such rules shall not abridge, enlarge or modify any substantive right. All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.
-
-(c\) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
+:::
 
 ### Hanna v. Plumer (U.S. 1967) 
 

@@ -2,69 +2,53 @@
 
 ## Pleading Under the FRCP
 
-### Fed. R. Civ. P. Rule 3
+### Fed. R. Civ. P. 
+
+::: {.legalcode}
+
+#### Rule 3
 
 A civil action is commenced by filing a complaint with the court.
 
-### Fed. R. Civ. P. Rule 7
+#### Rule 7
 
-(a\) Pleadings. Only these pleadings are allowed:
+- (a\) Pleadings. Only these pleadings are allowed:
+	- (1\) a complaint;
+	- (2\) an answer to a complaint;
+	- (3\) an answer to a counterclaim designated as a counterclaim;
+	- (4\) an answer to a crossclaim;
+	- (5\) a third-party complaint;
+	- (6\) an answer to a third-party complaint; and
+	- (7\) if the court orders one, a reply to an answer.
+- (b\) Motions and Other Papers.
+	- (1\) In General. A request for a court order must be made by motion. The motion must:
+		- (A\) be in writing unless made during a hearing or trial;
+		- (B\) state with particularity the grounds for seeking the order; and
+		- (C\) state the relief sought.
+	- (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
 
-- (1\) a complaint;
+#### Rule 8
 
-- (2\) an answer to a complaint;
+- (d\) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.
+	- (1\) _In General._ Each allegation must be simple, concise, and direct. No technical form is required.
+	- (2\) _Alternative Statements of a Claim or Defense._ A party may set out 2 or more statements of a claim or defense alternatively or hypothetically, either in a single count or defense or in separate ones. If a party makes alternative statements, the pleading is sufficient if any one of them is sufficient.
+	- (3\) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
+- (e\) Construing Pleadings. Pleadings must be construed so as to do justice.
 
-- (3\) an answer to a counterclaim designated as a counterclaim;
+#### Rule 10
 
-- (4\) an answer to a crossclaim;
+- (a\) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
+- (b\) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
+- (c\) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-- (5\) a third-party complaint;
+#### Rule 12
 
-- (6\) an answer to a third-party complaint; and
+- (e\) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
+- (f\) Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
+	- (1\) on its own; or
+	- (2\) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
 
-- (7\) if the court orders one, a reply to an answer.
-
-(b\) Motions and Other Papers.
-
-- (1\) In General. A request for a court order must be made by motion. The motion must:
-
-	- (A\) be in writing unless made during a hearing or trial;
-	
-	- (B\) state with particularity the grounds for seeking the order; and
-
-	- (C\) state the relief sought.
-
-- (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
-
-### Fed. R. Civ. P. Rule 8
-
-(d\) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.
-
-- (1\) _In General._ Each allegation must be simple, concise, and direct. No technical form is required.
-
-- (2\) _Alternative Statements of a Claim or Defense._ A party may set out 2 or more statements of a claim or defense alternatively or hypothetically, either in a single count or defense or in separate ones. If a party makes alternative statements, the pleading is sufficient if any one of them is sufficient.
-
-- (3\) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
-
-(e\) Construing Pleadings. Pleadings must be construed so as to do justice.
-
-### Fed. R. Civ. P. Rule 10
-
-(a\) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
-
-(b\) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
-
-(c\) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
-
-### Fed. R. Civ. P. Rule 12
-
-(e\) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
-
-(f\) Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
-
-- (1\) on its own; or
-
-- (2\) on motion made by a party either before responding to the pleading or, if a response is not allowed, within 21 days after being served with the pleading.
+:::
 
 ### Doe v. Clinton County (W.D. Mich. 2025) 
 
@@ -114,37 +98,31 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ## Claims for Relief
 
-### Fed. R. Civ. P. Rule 8
+### Fed. R. Civ. P. 
 
-(a\) Claim for Relief. A pleading that states a claim for relief must contain:
+::: {.legalcode}
 
-- (1\) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
+#### Rule 8
 
-- (2\) a short and plain statement of the claim showing that the pleader is entitled to relief; and
+- (a\) Claim for Relief. A pleading that states a claim for relief must contain:
+	- (1\) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
+	- (2\) a short and plain statement of the claim showing that the pleader is entitled to relief; and
+	- (3\) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
-- (3\) a demand for the relief sought, which may include relief in the alternative or different types of relief.
+#### Rule 9
 
-### Fed. R. Civ. P. Rule 9
+- (a\) Capacity or Authority to Sue; Legal Existence.
+	- (1\) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
+		- (A\) a party's capacity to sue or be sued;
+		- (B\) a party's authority to sue or be sued in a representative capacity; or
+		- (C\) the legal existence of an organized association of persons that is made a party.
+	- (2\) _Raising Those Issues._ To raise any of those issues, a party must do so by a specific denial, which must state any supporting facts that are peculiarly within the party's knowledge.
+- (b\) Fraud or Mistake; Conditions of Mind. In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person's mind may be alleged generally.
+- (c\) Conditions Precedent. In pleading conditions precedent, it suffices to allege generally that all conditions precedent have occurred or been performed. But when denying that a condition precedent has occurred or been performed, a party must do so with particularity.
+- (f\) Time and Place. An allegation of time or place is material when testing the sufficiency of a pleading.
+- (g\) Special Damages. If an item of special damage is claimed, it must be specifically stated.
 
-(a\) Capacity or Authority to Sue; Legal Existence.
-
-- (1\) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
-
-	- (A\) a party's capacity to sue or be sued;
-
-	- (B\) a party's authority to sue or be sued in a representative capacity; or
-
-	- (C\) the legal existence of an organized association of persons that is made a party.
-
-- (2\) _Raising Those Issues._ To raise any of those issues, a party must do so by a specific denial, which must state any supporting facts that are peculiarly within the party's knowledge.
-
-(b\) Fraud or Mistake; Conditions of Mind. In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person's mind may be alleged generally.
-
-(c\) Conditions Precedent. In pleading conditions precedent, it suffices to allege generally that all conditions precedent have occurred or been performed. But when denying that a condition precedent has occurred or been performed, a party must do so with particularity.
-
-(f\) Time and Place. An allegation of time or place is material when testing the sufficiency of a pleading.
-
-(g\) Special Damages. If an item of special damage is claimed, it must be specifically stated.
+:::
 
 ### Assessing the Sufficiency of a Claim
 
@@ -156,9 +134,9 @@ A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) wi
 
 [^claims2]: See §4 Responsive Pleadings. 
 
-- • A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
+- A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
 
-- • A claim is _legally insufficient_ if the law does not recognize the purported claim at all. For example, if a plaintiff sues for "tortious bad taste in music", alleging that the defendant incessantly played "We Built this City" by The Starship and "Rockstar" by Nickleback, the claim would be legally insufficient, because the law (regrettably) doesn't recognize any such claim.
+- A claim is _legally insufficient_ if the law does not recognize the purported claim at all. For example, if a plaintiff sues for "tortious bad taste in music", alleging that the defendant incessantly played "We Built this City" by The Starship and "Rockstar" by Nickleback, the claim would be legally insufficient, because the law (regrettably) doesn't recognize any such claim.
 
 In _Conley v. Gibson_, 355 U.S. 41 (1957), the Supreme Court interpreted Rule 8(a)(2) to establish a "notice pleading" pleading standard, requiring only that the plaintiff "give the defendant fair notice of what the claim is and the grounds upon which it rests," without the necessity for detailed factual allegations. This standard rested on the structure of the Federal Rules of Civil Procedure, under which the assertion of claims and the disclosure of facts are allocated to separate phases of a suit. At the pleading stage, "a complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief." The discovery rules then give the parties an opportunity to establish the facts in full. 
 
@@ -316,137 +294,81 @@ Although the analysis of the control element does not depend on the presence or 
 
 ## Responsive Pleadings
 
-### Fed. R. Civ. P. Rule 8
+### Fed. R. Civ. P. 
 
-(b\) Defenses; Admissions and Denials.
+::: {.legalcode}
 
-- (1\) In General. In responding to a pleading, a party must:
+#### Rule 8
 
-	- (A\) state in short and plain terms its defenses to each claim asserted against it; and
+- (b\) Defenses; Admissions and Denials.
+	- (1\) In General. In responding to a pleading, a party must:
+		- (A\) state in short and plain terms its defenses to each claim asserted against it; and
+		- (B\) admit or deny the allegations asserted against it by an opposing party.
+	- (2\) Denials—Responding to the Substance. A denial must fairly respond to the substance of the allegation.
+	- (3\) General and Specific Denials. A party that intends in good faith to deny all the allegations of a pleading—including the jurisdictional grounds—may do so by a general denial. A party that does not intend to deny all the allegations must either specifically deny designated allegations or generally deny all except those specifically admitted.
+	- (4\) Denying Part of an Allegation. A party that intends in good faith to deny only part of an allegation must admit the part that is true and deny the rest.
+	- (5\) Lacking Knowledge or Information. A party that lacks knowledge or information sufficient to form a belief about the truth of an allegation must so state, and the statement has the effect of a denial.
+	- (6\) Effect of Failing to Deny. An allegation—other than one relating to the amount of damages—is admitted if a responsive pleading is required and the allegation is not denied. If a responsive pleading is not required, an allegation is considered denied or avoided.
+- (c\) Affirmative Defenses.
+	- (1\) In General. In responding to a pleading, a party must affirmatively state any avoidance or affirmative defense, including:
+		- • accord and satisfaction; 
+		- • arbitration and award;
+		- • assumption of risk;
+		- • contributory negligence;
+		- • duress;
+		- • estoppel;
+		- • failure of consideration;
+		- • fraud;
+		- • illegality;
+		- • injury by fellow servant;
+		- • laches;
+		- • license;
+		- • payment;
+		- • release;
+		- • res judicata;
+		- • statute of frauds;
+		- • statute of limitations; and
+		- • waiver.
+	- (2\) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
 
-	- (B\) admit or deny the allegations asserted against it by an opposing party.
+#### Rule 12
 
-- (2\) Denials—Responding to the Substance. A denial must fairly respond to the substance of the allegation.
+- (a\) Time to Serve a Responsive Pleading.
+	- (1\) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
+		- (A\) A defendant must serve an answer:
+			- (i\) within 21 days after being served with the summons and complaint; or
+			- (ii\) if it has timely waived service under Rule 4(d), within 60 days after the request for a waiver was sent, or within 90 days after it was sent to the defendant outside any judicial district of the United States.
+		- (B\) A party must serve an answer to a counterclaim or crossclaim within 21 days after being served with the pleading that states the counterclaim or crossclaim.
+		- (C\) A party must serve a reply to an answer within 21 days after being served with an order to reply, unless the order specifies a different time.
+	- (4\) Effect of a Motion. Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
+		- (A\) if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
+		- (B\) if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
+- (b\) How to Present Defenses. Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
+	- (1\) lack of subject-matter jurisdiction;
+	- (2\) lack of personal jurisdiction;
+	- (3\) improper venue;
+	- (4\) insufficient process;
+	- (5\) insufficient service of process;
+	- (6\) failure to state a claim upon which relief can be granted; and
+	- (7\) failure to join a party under Rule 19.
+	- A motion asserting any of these defenses must be made before pleading if a responsive pleading is allowed. If a pleading sets out a claim for relief that does not require a responsive pleading, an opposing party may assert at trial any defense to that claim. No defense or objection is waived by joining it with one or more other defenses or objections in a responsive pleading or in a motion.
+- (g\) Joining Motions.
+	- (1\) Right to Join. A motion under this rule may be joined with any other motion allowed by this rule.
+	- (2\) Limitation on Further Motions. Except as provided in Rule 12(h)(2) or 
+	- (3\) a party that makes a motion under this rule must not make another motion under this rule raising a defense or objection that was available to the party but omitted from its earlier motion.
+- (h\) Waiving and Preserving Certain Defenses.
+	- (1\) When Some Are Waived. A party waives any defense listed in Rule 12(b)(2)–(5) by:
+		- (A\) omitting it from a motion in the circumstances described in Rule 12(g)(2); or
+		- (B\) failing to either:
+			- (i\) make it by motion under this rule; or
+			- (ii\) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course.
+	- (2\) When to Raise Others. Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
+		- (A\) in any pleading allowed or ordered under Rule 7(a);
+		- (B\) by a motion under Rule 12(c); or
+		- (C\) at trial.
+	- (3\) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
 
-- (3\) General and Specific Denials. A party that intends in good faith to deny all the allegations of a pleading—including the jurisdictional grounds—may do so by a general denial. A party that does not intend to deny all the allegations must either specifically deny designated allegations or generally deny all except those specifically admitted.
-	
-- (4\) Denying Part of an Allegation. A party that intends in good faith to deny only part of an allegation must admit the part that is true and deny the rest.
-	
-- (5\) Lacking Knowledge or Information. A party that lacks knowledge or information sufficient to form a belief about the truth of an allegation must so state, and the statement has the effect of a denial.
-	
-- (6\) Effect of Failing to Deny. An allegation—other than one relating to the amount of damages—is admitted if a responsive pleading is required and the allegation is not denied. If a responsive pleading is not required, an allegation is considered denied or avoided.
-	
-(c\) Affirmative Defenses.
-	
-- (1\) In General. In responding to a pleading, a party must affirmatively state any avoidance or affirmative defense, including:
-
-	- • accord and satisfaction; 
-  
-	- • arbitration and award;
-
-	- • assumption of risk;
-
-	- • contributory negligence;
-
-	- • duress;
-
-	- • estoppel;
-
-	- • failure of consideration;
-
-	- • fraud;
-
-	- • illegality;
-
-	- • injury by fellow servant;
-
-	- • laches;
-
-	- • license;
-
-	- • payment;
-
-	- • release;
-
-	- • res judicata;
-
-	- • statute of frauds;
-
-	- • statute of limitations; and
-
-	- • waiver.
-  
-- (2\) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
-
-### Fed. R. Civ. P. Rule 12
-
-(a\) Time to Serve a Responsive Pleading.
-
-- (1\) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
-
-	- (A\) A defendant must serve an answer:
-
-		- (i\) within 21 days after being served with the summons and complaint; or
-
-		- (ii\) if it has timely waived service under Rule 4(d), within 60 days after the request for a waiver was sent, or within 90 days after it was sent to the defendant outside any judicial district of the United States.
-
-	- (B\) A party must serve an answer to a counterclaim or crossclaim within 21 days after being served with the pleading that states the counterclaim or crossclaim.
-
-	- (C\) A party must serve a reply to an answer within 21 days after being served with an order to reply, unless the order specifies a different time.
-
-- (4\) Effect of a Motion. Unless the court sets a different time, serving a motion under this rule alters these periods as follows:
-
-	- (A\) if the court denies the motion or postpones its disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
-
-	- (B\) if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the more definite statement is served.
-
-(b\) How to Present Defenses. Every defense to a claim for relief in any pleading must be asserted in the responsive pleading if one is required. But a party may assert the following defenses by motion:
-
-- (1\) lack of subject-matter jurisdiction;
-
-- (2\) lack of personal jurisdiction;
-
-- (3\) improper venue;
-
-- (4\) insufficient process;
-
-- (5\) insufficient service of process;
-
-- (6\) failure to state a claim upon which relief can be granted; and
-
-- (7\) failure to join a party under Rule 19.
-
-- A motion asserting any of these defenses must be made before pleading if a responsive pleading is allowed. If a pleading sets out a claim for relief that does not require a responsive pleading, an opposing party may assert at trial any defense to that claim. No defense or objection is waived by joining it with one or more other defenses or objections in a responsive pleading or in a motion.
-
-(g\) Joining Motions.
-
-- (1\) Right to Join. A motion under this rule may be joined with any other motion allowed by this rule.
-
-- (2\) Limitation on Further Motions. Except as provided in Rule 12(h)(2) or 
-
-- (3\) a party that makes a motion under this rule must not make another motion under this rule raising a defense or objection that was available to the party but omitted from its earlier motion.
-
-(h\) Waiving and Preserving Certain Defenses.
-
-- (1\) When Some Are Waived. A party waives any defense listed in Rule 12(b)(2)–(5) by:
-
-	- (A\) omitting it from a motion in the circumstances described in Rule 12(g)(2); or
-
-	- (B\) failing to either:
-
-		- (i\) make it by motion under this rule; or
-
-		- (ii\) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course.
-
-- (2\) When to Raise Others. Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
-
-	- (A\) in any pleading allowed or ordered under Rule 7(a);
-
-	- (B\) by a motion under Rule 12(c); or
-
-	- (C\) at trial.
-
-- (3\) Lack of Subject-Matter Jurisdiction. If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action.
+:::
 
 ### Reis Robotics USA, Inc. v. Concept Industries (N.D. Ill. 2006) 
 
@@ -520,25 +442,29 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ## Amended Pleadings
 
-### Fed. R. Civ. P. Rule 15(a) & (b)
+### Fed. R. Civ. P.
 
-(a\) Amendments Before Trial.
+::: {.legalcode}
 
-- (1\) _Amending as a Matter of Course._ A party may amend its pleading once as a matter of course within:
+#### Rule 15
 
-	- (A\) 21 days after serving it, or
-
-	- (B\) if the pleading is one to which a responsive pleading is required, 21 days after service of a responsive pleading or 21 days after service of a motion under Rule 12(b), (e), or (f), whichever is earlier.
-
-- (2\) _Other Amendments._ In all other cases, a party may amend its pleading only with the opposing party's written consent or the court's leave. The court should freely give leave when justice so requires.
-
-- (3\) _Time to Respond._ Unless the court orders otherwise, any required response to an amended pleading must be made within the time remaining to respond to the original pleading or within 14 days after service of the amended pleading, whichever is later.
-
-(b\) Amendments During and After Trial.
-
-- (1\) _Based on an Objection at Trial._ If, at trial, a party objects that evidence is not within the issues raised in the pleadings, the court may permit the pleadings to be amended. The court should freely permit an amendment when doing so will aid in presenting the merits and the objecting party fails to satisfy the court that the evidence would prejudice that party's action or defense on the merits. The court may grant a continuance to enable the objecting party to meet the evidence.
-
+- (a\) Amendments Before Trial.
+	- (1\) _Amending as a Matter of Course._ A party may amend its pleading once as a matter of course within:
+		- (A\) 21 days after serving it, or
+		- (B\) if the pleading is one to which a responsive pleading is required, 21 days after service of a responsive pleading or 21 days after service of a motion under Rule 12(b), (e), or (f), whichever is earlier.
+	- (2\) _Other Amendments._ In all other cases, a party may amend its pleading only with the opposing party's written consent or the court's leave. The court should freely give leave when justice so requires.
+	- (3\) _Time to Respond._ Unless the court orders otherwise, any required response to an amended pleading must be made within the time remaining to respond to the original pleading or within 14 days after service of the amended pleading, whichever is later.
+- (b\) Amendments During and After Trial.
+	- (1\) _Based on an Objection at Trial._ If, at trial, a party objects that evidence is not within the issues raised in the pleadings, the court may permit the pleadings to be amended. The court should freely permit an amendment when doing so will aid in presenting the merits and the objecting party fails to satisfy the court that the evidence would prejudice that party's action or defense on the merits. The court may grant a continuance to enable the objecting party to meet the evidence.
 	- (2\) _For Issues Tried by Consent._ When an issue not raised by the pleadings is tried by the parties’ express or implied consent, it must be treated in all respects as if raised in the pleadings. A party may move—at any time, even after judgment—to amend the pleadings to conform them to the evidence and to raise an unpleaded issue. But failure to amend does not affect the result of the trial of that issue.
+- (c\) Relation Back of Amendments.
+	- (1\) _When an Amendment Relates Back._ An amendment to a pleading relates back to the date of the original pleading when:
+		- (A\) the law that provides the applicable statute of limitations allows relation back;
+		- (B\) the amendment asserts a claim or defense that arose out of the conduct, transaction, or occurrence set out—or attempted to be set out—in the original pleading; or
+		- (C\) the amendment changes the party or the naming of the party against whom a claim is asserted, if Rule 15(c)(1)(B) is satisfied and if, within the period provided by Rule 4(m) for serving the summons and complaint, the party to be brought in by amendment:
+			- (i\) received such notice of the action that it will not be prejudiced in defending on the merits; and
+			- (ii\) knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity.
+:::
 
 ### Shiftlet v. Allstate Insurance Co. (D.S.C. 2006) 
 
@@ -568,13 +494,13 @@ The "Facts" section of the proposed amended complaint is exactly the same as fou
 
 The only substantive addition to the proposed amended complaint is Count V seeking punitive damages. This proposed count incorporates the allegations in the preceding paragraphs and then alleges as follows:
 
-- • Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions sic, when, in fact:
-	- • Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
-	- • Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
-	- • Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
-	- • Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
-	- • Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
-	- • Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
+- Defendants deliberately and intentionally disregarded the rights of Plaintiffs and disregarded the substantial likelihood of serious injury and damages to Plaintiffs by representing that they offered to match Plaintiffs only with franchises that Defendants had investigated and vetted; that such franchises were of high quality; and that Defendants would provide Plaintiffs with all knowledge necessary to make an informed decisions sic, when, in fact:
+	- Defendants knew that the founder of ILKB, Michael Parrella, had filed for bankruptcy in 2003 and that his discharge had been vacated in 2008; and knew or should have known, in the exercise of reasonable inquiry of Parrella's bankruptcy consistent with their representations to Plaintiffs, that Parrella's discharge had been revoked for failure to pay federal taxes and that there were two adversary proceedings in the bankruptcy accusing Parrella of fraud and fraudulent transfers.
+	- Defendants failed to perform any serious, systematic or professional due diligence upon ILKB; instead all they did was talk to a few existing franchisees, many of whom did not own the type of ILKB franchise that Plaintiffs were considering buying, and Defendants prepared no report, summary or investigation of ILKB.
+	- Defendants simply took representations of ILKB about the nature of the franchise, including the representations that it was suitable for absentee ownership; that no units had closed; that average ILKB franchisees made revenues and profits at a certain level; and that ILKB did all of the marketing for franchisees, and passed them on to Plaintiffs without checking on them.
+	- Defendants knew that ILKB engaged in blatantly illegal marketing techniques as early as March 2015 and never questioned whether such techniques had ceased, thus exposing Plaintiffs to the high likelihood, if not certainty, that Plaintiffs would be the victims of fraud.
+	- Defendants disregarded complaints and warning signs from ILKB franchisees as the whining of "stupid, selfish and ungrateful franchisees" instead of investigating such complaints and determining whether they were true.
+	- Defendants made specific representations as set forth in the proposed amended complaint about ILKB without investigating or verifying them, when such representations were false and were known or should have been known to Defendants as false.
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
@@ -617,22 +543,6 @@ However, Plaintiffs do allege that Defendants made specific representations abou
 Defendants do not argue that punitive damages are not available in cases involving fraud. Indeed, courts have concluded that such damages are appropriate in the context of fraud. In this case, allegations regarding representations by Defendants that ILKB franchises were making over $200,000 per year in profits, and this level of profitability for them was normal; if Gould bought three franchises, he could increase his profits; an ILKB franchise was suitable for semi-absentee ownership; and that no ILKB franchises had ever closed, all go to the financial viability of an ILKB franchise. Assuming as true the allegations that Defendants made these representations to Plaintiffs, and the allegations that Defendants knew these representations were false when they made them to Plaintiffs, when construed in the light most favorable to Plaintiffs, these allegations set forth a plausible claim that Defendants consciously or with indifference provided Plaintiffs with inaccurate information about ILKB in order to entice them into investing in an ILKB franchise thereby creating a high probability that Defendants' actions would harm Plaintiffs' rights with respect to their franchise purchase.
 
 In sum, Plaintiffs' Motion is granted only to the extent that it seeks to add a claim for punitive damages in relation to the specifically alleged fraudulent representations made by Defendants to Plaintiffs that: (1) ILKB franchises were making over $200,000 per year in profits, and this level of profitability for them was normal; (2) if Gould bought three franchises, he could increase his profits; (3) an ILKB franchise was suitable for semi-absentee ownership; and (4) no ILKB franchises had ever closed. The Motion is otherwise denied. The Court reminds Plaintiffs that this analysis was conducted under the liberal pleading standard of Rule 15, and the fact of the Court granting them leave to amend does not imply that they are likely to succeed with their claim for punitive damages.
-
-### Fed. R. Civ. P. Rule 15(c)
-
-(c\) Relation Back of Amendments.
-
-- (1\) _When an Amendment Relates Back._ An amendment to a pleading relates back to the date of the original pleading when:
-
-	- (A\) the law that provides the applicable statute of limitations allows relation back;
-
-	- (B\) the amendment asserts a claim or defense that arose out of the conduct, transaction, or occurrence set out—or attempted to be set out—in the original pleading; or
-
-	- (C\) the amendment changes the party or the naming of the party against whom a claim is asserted, if Rule 15(c)(1)(B) is satisfied and if, within the period provided by Rule 4(m) for serving the summons and complaint, the party to be brought in by amendment:
-
-		- (i\) received such notice of the action that it will not be prejudiced in defending on the merits; and
-
-		- (ii\) knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity.
 
 ### Moore v. Baker (11th Circuit 1993) 
 
@@ -706,41 +616,30 @@ What does the court mean here?
 
 ## Truthfulness & Good Faith
 
-### Fed. R. Civ. P. Rule 11
+### Fed. R. Civ. P. 
 
-#### Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions
+::: {.legalcode}
 
-(a\) Signature. Every pleading, written motion, and other paper must be signed by at least one attorney of record in the attorney's name—or by a party personally if the party is unrepresented. The paper must state the signer's address, e-mail address, and telephone number. Unless a rule or statute specifically states otherwise, a pleading need not be verified or accompanied by an affidavit. The court must strike an unsigned paper unless the omission is promptly corrected after being called to the attorney's or party's attention.
+#### Rule 11. Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions
 
-(b\) Representations to the Court. By presenting to the court a pleading, written motion, or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
+- (a\) Signature. Every pleading, written motion, and other paper must be signed by at least one attorney of record in the attorney's name—or by a party personally if the party is unrepresented. The paper must state the signer's address, e-mail address, and telephone number. Unless a rule or statute specifically states otherwise, a pleading need not be verified or accompanied by an affidavit. The court must strike an unsigned paper unless the omission is promptly corrected after being called to the attorney's or party's attention.
+- (b\) Representations to the Court. By presenting to the court a pleading, written motion, or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
+	- (1\) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
+	- (2\) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law;
+	- (3\) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery; and
+	- (4\) the denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
+- (c\) Sanctions.
+	- (1\) In General. If, after notice and a reasonable opportunity to respond, the court determines that Rule 11(b) has been violated, the court may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.
+	- (2\) Motion for Sanctions. A motion for sanctions must be made separately from any other motion and must describe the specific conduct that allegedly violates Rule 11(b). The motion must be served under Rule 5, but it must not be filed or be presented to the court if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets. If warranted, the court may award to the prevailing party the reasonable expenses, including attorney's fees, incurred for the motion.
+	- (3\) On the Court's Initiative. On its own, the court may order an attorney, law firm, or party to show cause why conduct specifically described in the order has not violated Rule 11(b).
+	- (4\) Nature of a Sanction. A sanction imposed under this rule must be limited to what suffices to deter repetition of the conduct or comparable conduct by others similarly situated. The sanction may include nonmonetary directives; an order to pay a penalty into court; or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of part or all of the reasonable attorney's fees and other expenses directly resulting from the violation.
+	- (5\) Limitations on Monetary Sanctions. The court must not impose a monetary sanction:
+		- (A\) against a represented party for violating Rule 11(b)(2); or
+		- (B\) on its own, unless it issued the show-cause order under Rule 11(c)(3\) before voluntary dismissal or settlement of the claims made by or against the party that is, or whose attorneys are, to be sanctioned.
+	- (6\) Requirements for an Order. An order imposing a sanction must describe the sanctioned conduct and explain the basis for the sanction.
+- (d\) Inapplicability to Discovery. This rule does not apply to disclosures and discovery requests, responses, objections, and motions under Rules 26 through 37.
 
-- (1\) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
-
-- (2\) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law;
-
-- (3\) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery; and
-
-- (4\) the denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
-
-(c\) Sanctions.
-
-- (1\) In General. If, after notice and a reasonable opportunity to respond, the court determines that Rule 11(b) has been violated, the court may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.
-
-- (2\) Motion for Sanctions. A motion for sanctions must be made separately from any other motion and must describe the specific conduct that allegedly violates Rule 11(b). The motion must be served under Rule 5, but it must not be filed or be presented to the court if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets. If warranted, the court may award to the prevailing party the reasonable expenses, including attorney's fees, incurred for the motion.
-
-- (3\) On the Court's Initiative. On its own, the court may order an attorney, law firm, or party to show cause why conduct specifically described in the order has not violated Rule 11(b).
-
-- (4\) Nature of a Sanction. A sanction imposed under this rule must be limited to what suffices to deter repetition of the conduct or comparable conduct by others similarly situated. The sanction may include nonmonetary directives; an order to pay a penalty into court; or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of part or all of the reasonable attorney's fees and other expenses directly resulting from the violation.
-
-- (5\) Limitations on Monetary Sanctions. The court must not impose a monetary sanction:
-
-	- (A\) against a represented party for violating Rule 11(b)(2); or
-
-	- (B\) on its own, unless it issued the show-cause order under Rule 11(c)(3\) before voluntary dismissal or settlement of the claims made by or against the party that is, or whose attorneys are, to be sanctioned.
-
-- (6\) Requirements for an Order. An order imposing a sanction must describe the sanctioned conduct and explain the basis for the sanction.
-
-(d\) Inapplicability to Discovery. This rule does not apply to disclosures and discovery requests, responses, objections, and motions under Rules 26 through 37.
+:::
 
 ### Turton v. Virginia Department of Education (E.D. Va. 2015) 
 
@@ -748,7 +647,7 @@ Counsel for the 28 plaintiffs in this case filed the Amended Complaint on July 1
 
 Andriano is an attorney with Reed Smith, LLP "who represented the Henrico and Chesterfield County School Boards regarding issues with Individualized Education Plans ("IEP") developed for five of the Plaintiffs who are or were students in certain public schools in either Henrico County or Chesterfield County." The Amended Complaint asserted claims against Andriano "individually and in his official capacity as counsel for school districts in Central Virginia, including Henrico County Public Schools, Chesterfield County Public Schools, Essex County Public Schools and Nottoway County Public Schools." 
 
-The Amended Complaint alleges that Andriano was "present in many IEP meetings in Henrico and Chesterfield Counties wherein he advised school officials to violate federal and state special education laws. . . ." It is then alleged that Andriano's actions and omissions "resulted in conspiracy to violate federal and state education laws, and amounted to Negligence, Gross Negligence, Reckless Disregard, and/or Breach of Duty Arising from Special Relationship. Specifically, the acts and omissions attributed to Andriano and alleged in the Amended Complaint include:
+The Amended Complaint alleges that Andriano was "present in many IEP meetings in Henrico and Chesterfield Counties wherein he advised school officials to violate federal and state special education laws... ." It is then alleged that Andriano's actions and omissions "resulted in conspiracy to violate federal and state education laws, and amounted to Negligence, Gross Negligence, Reckless Disregard, and/or Breach of Duty Arising from Special Relationship. Specifically, the acts and omissions attributed to Andriano and alleged in the Amended Complaint include:
 
 > 1\. Denying parents access to their child's school records;
 > 
@@ -822,9 +721,9 @@ Finally, Andriano argues that Plaintiff's claims against him are not asserted fo
 
 Andriano alleges that Plaintiffs "primary motives were to gain publicity, and to embarrass teachers, principals, and state and county officials." Id. Of course, if that allegation is true, sanctions would be mandated because the only proper central purpose for filing a complaint is to vindicate rights in court, not to gain publicity or embarrass officials into acting as Plaintiffs' counsel think they should. To support his contention, Andriano cites counsel's public statements which include, "We took a chance because there was not a lot of case law on doing something like this, but something had to be done to wake up the defendants and get the information out there." 
 
-Andriano cites Kunstler as an example of a similar case where the "primary motives in filing the complaint were to gain publicity, to embarrass state and county officials. . ." However, in Kunstler, the "district court concluded that plaintiffs' counsel never intended to litigate the §1983 action," and that determination clearly supported the award of sanctions based on improper purpose. Here, it is not clear that Plaintiffs never intended to follow through with and litigate their claims against Andriano, and the Court cannot conclude that counsel used the threat of litigation as a mere bargaining chip.
+Andriano cites Kunstler as an example of a similar case where the "primary motives in filing the complaint were to gain publicity, to embarrass state and county officials ..." However, in Kunstler, the "district court concluded that plaintiffs' counsel never intended to litigate the §1983 action," and that determination clearly supported the award of sanctions based on improper purpose. Here, it is not clear that Plaintiffs never intended to follow through with and litigate their claims against Andriano, and the Court cannot conclude that counsel used the threat of litigation as a mere bargaining chip.
 
-As discussed above, the subjective views of Andriano about Plaintiffs' purpose in filing the suit are irrelevant to the analysis. Rather, the Court must determine Plaintiff's purpose based on objective or otherwise reliable evidence. There is no direct evidence on which to make such a finding. However, the Court's findings on the existence of reasonable factual and legal support for claims can affect the analysis under this prong of Rule 11. In that regard, where "counsel willfully files a baseless complaint, a court may properly infer that it was filed. . .for some purpose other than to vindicate rights through the judicial process."
+As discussed above, the subjective views of Andriano about Plaintiffs' purpose in filing the suit are irrelevant to the analysis. Rather, the Court must determine Plaintiff's purpose based on objective or otherwise reliable evidence. There is no direct evidence on which to make such a finding. However, the Court's findings on the existence of reasonable factual and legal support for claims can affect the analysis under this prong of Rule 11. In that regard, where "counsel willfully files a baseless complaint, a court may properly infer that it was filed ... for some purpose other than to vindicate rights through the judicial process."
 
 ##### Are Sanctions Appropriate?
 
@@ -857,9 +756,9 @@ For over two years, from May 1998 until June 2000, no action was taken with resp
 On October 23, 2000, the district court entered the order we are called upon to review in this appeal. Finding the attorneys' behavior to be sanctionable, the court barred Ms. Hunter from the practice of law in the Western District of North Carolina for a period of five years. It also reprimanded Ms. Hunter's co-counsel, and it admonished them "to be conscious of and strictly abide by the provisions of Rule 11 in the future." The court based its Sanctions Order on the following:
 
 > (a\) first and foremost, counsel's assertion of a legal position contrary to the holding of our 1996 decision in _Austin v. Owens-Brockway Glass Container, Inc.,_ 78 F.3d 875 (4th Cir.1996), which the court characterized as a "frivolous legal contention."
-
+> 
 > (b\) counsel's lack of judgment and skill; and
-
+> 
 > (c\) Ms. Hunter's sanction by the same court eleven years earlier.
 
 Ms. Hunter has timely appealed the suspension imposed upon her, maintaining that Rule 11 sanctions are unwarranted and that her suspension from practice was an overly severe penalty. We possess jurisdiction under 28 U.S.C. §1291.
@@ -915,17 +814,17 @@ Contrary to the requirements of the Local Rules, the moving defendants did not s
 The Court denied the motion as frivolous and initiated proceedings to determine if the moving defendants and their two attorneys who signed the motion, Mr. Shaw and Mr. Matheny, should be sanctioned. Specifically, the Court ordered:
 
 > (1\) Mr. Shaw and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(2) and (3) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees that was without evidentiary support and unwarranted by law;
-
+> 
 > (2\) The moving defendants, Mr. Shaw, and Mr. Matheny to show cause why they should not be sanctioned for violating Rule 11(b)(1) of the Federal Rules of Civil Procedure by presenting a written motion for attorney's fees for the improper purpose of wasting plaintiffs' counsel's time and increasing their expenses; 
 
 Federal Rule of Civil Procedure Rule 11(b) prohibits attorneys from filing motions or other papers with the court if they are made for improper purposes or unsupported by law or fact. The rule provides, in relevant part:
 
 > By presenting to the court a pleading, written motion or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
-
+> 
 > (1\) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
-
+> 
 > (2\) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law;
-
+> 
 > (3\) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery.
 
 If an attorney files a motion that does not comply—i.e., it is presented for an improper purpose or without legal or factual support—then the rule provides for sanctions. While the rule is directed to the attorney's signature, the Court may impose an appropriate sanction on any attorney, law firm, or party that "is responsible for the violation." 
@@ -1089,7 +988,6 @@ As a result of this incident, Mackendrick has lost all of the toes on his left f
 Mackendrick hires you to represent him in a suit over his injury. You conclude that Mackendrick has two viable claims: 
 
 1. A claim against Sadler for her negligence in operating the mower. Under the applicable law, this claim requires that the plaintiff show (1) that the defendant breached a duty of care owed to the plaintiff, (2) that the plaintiff suffered harm, and (3) that the defendant's breach was the proximate cause of the plaintiff's injury. 
-
 2. A claim against Sterling Cooper seeking to hold them vicariously liable for Sadler's negligence ("respondeat superior"). Under the applicable law, this claim requires that the plaintiff show that (1) the plaintiff was injured by an employee of the defendant, (2) that the employee was acting within the scope of their employment, and (3) that the employee's activity benefitted the employer.
 
 _What facts must you allege in the complaint to satisfy the pleading requirements under the FRCP? Are there any additional facts, beyond those provided above, that you would need?_
@@ -1102,28 +1000,22 @@ Olson sues Sterling Cooper in federal court, asserting a claim for wrongful term
 
 Olson's complaint includes the following allegations: 
 
-1. Olson entered into a contract of employment with Sterling Cooper on January 1, 2018. 
-
-2. Olson's contract provides that she is to be employed by Sterling Cooper for a term of three years. 
-
-3. Olson's contract further provides that, during the stated term of employment, Sterling Cooper may not terminate her employment without cause, and that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
-
-4. On July 30, 2019, Don Draper, managing director of Sterling Cooper and Olson's immediate supervisor, called Olson into his office. Draper told Olson, “Peggy, you’re fired,” and handed her a letter stating that her employment was terminated effective immediately. The letter did not identify a reason for the termination of Olson’s employment. 
-
-5. Before leaving Draper’s office, Olson asked why she was being fired. Draper told Olson, “I don’t have to give you a reason.” When Olson pressed further, Draper then told her, “I’m not satisfied with your performance. Leave my office, pack your things, and get out of here.” 
-
-6. Prior to her conversation with Draper on the day she was fired, Olson had received only favorable employment reviews, and had received no complaints about her work performance. To the contrary, Olson received a substantial merit-based bonus in December 2018, based on her performance in the previous year. In February 2019, Draper told Olson, “I’ve got my eye on you. If you play your cards right, you will have a bright future at this place.” 
-
-7. Defendant fired Olson without cause, in breach of her employment contract. 
-
-8. As a proximate and foreseeable result of Defendant’s breach, Olson has suffered financial damages and severe emotional distress. 
+> ¶1. Plaintiff Peggy Olson is an individual residing in the State of New Jersey
+> ¶2. Defendant Sterling Cooper, P.C. is a professional corporation incorporated and having its principal place of business in the State of New York. 
+> ¶3. This court has jurisdiction over the claims asserted herein under 28 U.S.C. sec. 1332, because the plaintiff and defendant are citizens of different states and the amount in controversy exceeds the sum or value of $75,000. 
+> ¶4. Olson entered into a contract of employment with Sterling Cooper on January 1, 2018. 
+> ¶5. Olson's contract provides that she is to be employed by Sterling Cooper for a term of three years. 
+> ¶6. Olson's contract further provides that, during the stated term of employment, Sterling Cooper may not terminate her employment without cause, and that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
+> ¶7. On July 30, 2019, Don Draper, managing director of Sterling Cooper and Olson's immediate supervisor, called Olson into his office. Draper told Olson, “Peggy, you’re fired,” and handed her a letter stating that her employment was terminated effective immediately. The letter did not identify a reason for the termination of Olson’s employment. 
+> ¶8. Before leaving Draper’s office, Olson asked why she was being fired. Draper told Olson, “I don’t have to give you a reason.” When Olson pressed further, Draper then told her, “I’m not satisfied with your performance. Leave my office, pack your things, and get out of here.” 
+> ¶9. Prior to her conversation with Draper on the day she was fired, Olson had received only favorable employment reviews, and had received no complaints about her work performance. To the contrary, Olson received a substantial merit-based bonus in December 2018, based on her performance in the previous year. In February 2019, Draper told Olson, “I’ve got my eye on you. If you play your cards right, you will have a bright future at this place.” 
+> ¶10. Defendant fired Olson without cause, in breach of her employment contract. 
+> ¶11. As a proximate and foreseeable result of Defendant’s breach, Olson has suffered financial damages and severe emotional distress. 
 
 Under Hudson state law, the elements of a claim for wrongful termination in breach of an employment contract are as follows: 
 
 1. The plaintiff was employed by the defendant under an express (written or oral) contract of employment for a definite time period. 
-
 2. The contract expressly provided that the employer could not terminate the plaintiff's employment during the stated term without cause. 
-
 3. The employer terminated the plaintiff's employment without cause during the contract term. 
 
 Sterling Cooper moves to dismiss for failure to state a claim under FRCP Rule 12(b)(6), asserting that the allegations in the complaint are insufficient to state a claim for breach of contract. 

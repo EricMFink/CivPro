@@ -2,11 +2,15 @@
 
 ## Standard for Summary Judgment
 
-### Fed. R. Civ. P. Rule 56
+### Fed. R. Civ. P. Rule 56 (a), (b), & (g)
 
-(a\) _Motion for Summary Judgment or Partial Summary Judgment._ A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
+::: {.legalcode}
 
-(g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
+- (a\) _Motion for Summary Judgment or Partial Summary Judgment._ A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
+- (b) _Time to File a Motion._ Unless a different time is set by local rule or the court orders otherwise, a party may file a motion for summary judgment at any time until 30 days after the close of all discovery. 
+- (g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
+
+:::
 
 ### Crane v. City of Arlington, Texas (5th Cir. 2022) 
 
@@ -114,39 +118,30 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 ## Burden of Production 
 
-### Fed. R. Civ. P. Rule 56
+### Fed. R. Civ. P.
 
-(c\) Procedures.
+::: {.legalcode}
 
-- (1\) _Supporting Factual Positions._ A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
+#### Rule 56(c)-(e)
 
-	- (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
+- (c\) Procedures.
+	- (1\) _Supporting Factual Positions._ A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
+		- (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
+		- (B\) showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact.
+	- (2\) _Objection That a Fact Is Not Supported by Admissible Evidence._ A party may object that the material cited to support or dispute a fact cannot be presented in a form that would be admissible in evidence.
+	- (3\) _Materials Not Cited._ The court need consider only the cited materials, but it may consider other materials in the record.
+	- (4\) _Affidavits or Declarations._ An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.
+- (d\) _When Facts Are Unavailable to the Nonmovant._ If a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may:
+	- (1\) defer considering the motion or deny it;
+	- (2\) allow time to obtain affidavits or declarations or to take discovery; or
+	- (3\) issue any other appropriate order.
+- (e\) _Failing to Properly Support or Address a Fact._ If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
+	- (1\) give an opportunity to properly support or address the fact;
+	- (2\) consider the fact undisputed for purposes of the motion;
+	- (3\) grant summary judgment if the motion and supporting materials — including the facts considered undisputed — show that the movant is entitled to it; or
+	- (4\) issue any other appropriate order.
 
-	- (B\) showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact.
-
-- (2\) _Objection That a Fact Is Not Supported by Admissible Evidence._ A party may object that the material cited to support or dispute a fact cannot be presented in a form that would be admissible in evidence.
-
-- (3\) _Materials Not Cited._ The court need consider only the cited materials, but it may consider other materials in the record.
-
-- (4\) _Affidavits or Declarations._ An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.
-
-(d\) _When Facts Are Unavailable to the Nonmovant._ If a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may:
-
-- (1\) defer considering the motion or deny it;
-
-- (2\) allow time to obtain affidavits or declarations or to take discovery; or
-
-- (3\) issue any other appropriate order.
-
-(e\) _Failing to Properly Support or Address a Fact._ If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
-
-- (1\) give an opportunity to properly support or address the fact;
-
-- (2\) consider the fact undisputed for purposes of the motion;
-
-- (3\) grant summary judgment if the motion and supporting materials — including the facts considered undisputed — show that the movant is entitled to it; or
-
-- (4\) issue any other appropriate order.
+:::
 
 ### "Materials in the Record": Discovery 
 
@@ -154,49 +149,41 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 [Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
 
-#### Fed. R. Civ. P. Rule 26(a)
+::: {.legalcode}
 
-(1\) Initial Disclosure.
- 
-- (A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:
+#### Rule 26(a)
 
-	- (i\) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;
+- (1\) Initial Disclosure.
+	- (A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:
+		- (i\) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;
+		- (ii\) a copy—or a description by category and location—of all documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment;
+		- (iii\) a computation of each category of damages claimed by the disclosing party—who must also make available for inspection and copying as under Rule 34 the documents or other evidentiary material, unless privileged or protected from disclosure, on which each computation is based, including materials bearing on the nature and extent of injuries suffered; and
+		- (iv\) for inspection and copying as under Rule 34, any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in the action or to indemnify or reimburse for payments made to satisfy the judgment.
+- (2\) Disclosure of Expert Testimony.
+	- (A\) In General. In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705.
+- (3\) Pretrial Disclosures.
+	- (A\) In General. In addition to the disclosures required by Rule 26(a)(1) and (2), a party must provide to the other parties and promptly file the following information about the evidence that it may present at trial other than solely for impeachment:
+		- (i\) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;
+		- (ii\) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and
+		- (iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
 
-	- (ii\) a copy—or a description by category and location—of all documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment;
-
-	- (iii\) a computation of each category of damages claimed by the disclosing party—who must also make available for inspection and copying as under Rule 34 the documents or other evidentiary material, unless privileged or protected from disclosure, on which each computation is based, including materials bearing on the nature and extent of injuries suffered; and
-
-	- (iv\) for inspection and copying as under Rule 34, any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in the action or to indemnify or reimburse for payments made to satisfy the judgment.
-
-(2\) Disclosure of Expert Testimony.
-
-- (A\) In General. In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705.
-
-(3\) Pretrial Disclosures.
-
-- (A\) In General. In addition to the disclosures required by Rule 26(a)(1) and (2), a party must provide to the other parties and promptly file the following information about the evidence that it may present at trial other than solely for impeachment:
-
-	- (i\) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;
-
-	- (ii\) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and
-
-	- (iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
+:::
 
 The parties may seek further information through various discovery methods: 
 
-- • _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
-- • _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
-- • _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
-- • _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
-- • _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
+- _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
+- _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
+- _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
+- _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
+- _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
 
 _Rule 26(b)(1)_ defines the scope of discovery: 
 
-> Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties’ relative access to relevant information, the parties’ resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable.
+Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties’ relative access to relevant information, the parties’ resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable.
 
-_Rule 26(b)_ also sets certain limits on discovery and governs the timing of requests. 
+_Rule 26(b)_ also sets certain limits on discovery, including "information ... subject to a claim of privilege or of protection as trial-preparation material". _Rule 26(d)_ governs the timing and sequence of requests. 
 
-The court may impose sanctions on parties for failure to make required disclosure or cooperate in the discovery process. [Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37)
+The court may impose sanctions on parties for failure to make required disclosures or cooperate in the discovery process. [Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37)
 
 In addition to the materials produced in discovery, the record may also include stipulations by the parties, i.e. agreements as to certain facts. The parties may stipulate to facts provisionally, for the purpose of summary judgment only, while reserving the right to contest the facts at trial if the court does not grant summary judgment. 
 
@@ -250,23 +237,15 @@ The district court concluded that Montgomery and Stout "have not presented any e
 
 On appeal, Montgomery and Stout detail the evidence they claim demonstrates Officer Vincent's discriminatory intent and unequal treatment:
 
-- • They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
-
-- • They are both black.
-
-- • They were driving a Lexus SUV.
-
-- • Stout believed "they were being held because they are African American and for no other reason."
-
-- • Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
-
-- • Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
-
-- • No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
-
-- • They both stated there was no marijuana in the car that day.
-
-- • On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
+- They were traveling from Memphis, Tennessee to Jackson, Mississippi, which are both predominantly black cities.
+- They are both black.
+- They were driving a Lexus SUV.
+- Stout believed "they were being held because they are African American and for no other reason."
+- Montgomery also believed "it appeared that the only reason Officer Vincent was keeping them was that they were black and driving a Lexus."
+- Officer Vincent later remembered that Stout and Montgomery had indicated that the purpose of their trip to Mississippi was a concert when in fact they had told him they were in Mississippi for Stout's graduate student research. According to Stout and Montgomery, this lapse is evidence that Officer Vincent had discriminatory intent because "he did not see a highly educated Black woman and her partner; he saw two Black people in a nice car going to a concert."
+- No trooper issued them a ticket or citation, even though the officers claim they found marijuana in the SUV.
+- They both stated there was no marijuana in the car that day.
+- On the day before Officer Vincent detained Appellants, the City of Mound Bayou approved a resolution against the racial profiling of people of color by the MHSP. The mayor of Winstonville also condemned racial profiling of black people by the MHSP. Officer Vincent has been with the MHSP since 1997.
 
 In light of this evidence, Montgomery and Stout argue that the district court misapplied the summary judgment standard when it concluded that they failed to raise a genuine issue of material fact. They stress that, after the Supreme Court's decision in _Tolan,_ this evidence must be viewed as a whole, and not in individual pieces. And the evidence must be viewed in a light most favorable to them.
 
@@ -336,17 +315,17 @@ Defendants assert that plaintiff cannot make a sufficient showing on a critical 
 
 The term "child pornography" is defined as "any visual depiction" where "the production of such visual depiction involves the use of a minor engaging in sexually explicit conduct." 18 U.S.C. § 2256(8)(A). "Sexually explicit conduct," in turn, is defined to include a "lascivious exhibition" of a person's "anus, genitals, or pubic area." § 2256(2)(A)(v). "To determine whether a visual depiction of a minor constitutes a 'lascivious exhibition of the genitals or pubic area'"—and thus child pornography—courts look to the six factors outlined in United States v. Dost, 636 F.Supp. 828 (S.D. Cal. 1986). The _Dost_ factors consider:
 
-> (1\) whether the focal point of the visual depiction is on the child's genitalia or pubic area;
-> 
-> (2\) whether the setting of the visual depiction is sexually suggestive, i.e., in a place or pose generally associated with sexual activity;
-> 
-> (3\) whether the child is depicted in an unnatural pose, or in inappropriate attire, considering the age of the child;
-> 
-> (4\) whether the child is fully or partially clothed, or nude;
-> 
-> (5\) whether the visual depiction suggests sexual coyness or a willingness to engage in sexual activity;
-> 
-> (6\) whether the visual depiction is intended or designed to elicit a sexual response in the viewer.
+(1\) whether the focal point of the visual depiction is on the child's genitalia or pubic area;
+
+(2\) whether the setting of the visual depiction is sexually suggestive, i.e., in a place or pose generally associated with sexual activity;
+
+(3\) whether the child is depicted in an unnatural pose, or in inappropriate attire, considering the age of the child;
+
+(4\) whether the child is fully or partially clothed, or nude;
+
+(5\) whether the visual depiction suggests sexual coyness or a willingness to engage in sexual activity;
+
+(6\) whether the visual depiction is intended or designed to elicit a sexual response in the viewer.
 
 Although these factors are the typical "starting point," they "are neither exclusive nor conclusive," and instead serve as "general principles" to guide the analysis. The Ninth Circuit has held that "lascivious" is a "commonsensical term," and that courts may consider any other factors relevant to the case. "The inquiry must be case-specific and based on the overall content of the visual depiction." In other words, the question of whether an image can fairly be considered child pornography demands a holistic, practical, commonsense approach. Although the test for obscenity is stricter and doesn't apply here, child pornography tends to have a similar quality as obscenity—there is an element of "you know it when you see it."
 
@@ -383,7 +362,6 @@ In sum, there are no disputes of material fact, and the _Dost_ and other relevan
 Based on the foregoing, IT IS ORDERED THAT:
 
 1. Defendants' Motion for Summary Judgment is granted.
-
 2. Judgment shall be entered dismissing the above-captioned case with prejudice.
 
 ## Review Question

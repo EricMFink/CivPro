@@ -133,19 +133,34 @@ a:active {
 }
 
 /* Lists -- ul default is unstyled; use • for bullets */
-ol, ul {
-	padding-left: 1.5rem;
+ol ul {
+	margin: 0 0 1rem 0;
+	padding-left: 2rem;
 	max-width: 40rem;
 }
-/*
-ul { 
-	list-style-type: none;
-}
-*/
-.legalcode ul { 
-	list-style-type: none;
-}
 
+/* List style for statutes, etc. */
+.legalcode { 
+	margin-bottom: 1rem;
+}
+.legalcode p { 
+	font-size: .9rem;
+}
+.legalcode h4 { 
+	font-size: 1.1rem;
+}
+.legalcode h5 { 
+	font-size: 1rem;
+}
+.legalcode ul { 
+	font-size: .9rem;
+	list-style-type: none;
+	margin-inline-start: 0;
+	padding-inline-start: 0;
+}
+.legalcode ul ul {
+	margin-left: 1rem;
+}
 .legalcode li {
 	margin-top: .5rem;
 }
