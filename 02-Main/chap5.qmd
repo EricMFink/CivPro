@@ -2,9 +2,9 @@
 
 ## Choice of Law Under the Rules of Decision Act
 
-### The Rules of Decision Act, 28 U.S.C. § 1652
+### The Rules of Decision Act
 
-#### State laws as rules of decision
+#### 28 U.S.C. § 1652 -- State laws as rules of decision
 
 ::: {.legalcode}
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
@@ -211,9 +211,9 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ## Choice of Law Under the Rules Enabling Act
 
-### The Rules Enabling Act, 28 U.S.C. §2071 et seq.
+### The Rules Enabling Act
 
-#### § 2071--Rule-making power generally
+#### 28 U.S.C. § 2071 -- Rule-making power generally
 
 ::: {.legalcode}
 - (a\) The Supreme Court and all courts established by Act of Congress may from time to time prescribe rules for the conduct of their business. Such rules shall be consistent with Acts of Congress and rules of practice and procedure prescribed under section 2072 of this title.
@@ -226,7 +226,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 - (f\) No rule may be prescribed by a district court other than under this section.
 :::
 
-#### § 2072--Rules of procedure and evidence; power to prescribe
+#### 28 U.S.C. § 2072 - -Rules of procedure and evidence; power to prescribe
 
 ::: {.legalcode}
 - (a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
@@ -234,7 +234,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 - (c\) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
 :::
 
-#### § 2073--Rules of procedure and evidence; method of prescribing
+#### 28 U.S.C. § 2073 -- Rules of procedure and evidence; method of prescribing
 
 ::: {.legalcode}
 - (a\) 

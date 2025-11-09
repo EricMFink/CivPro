@@ -147,7 +147,7 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 [Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
 
-#### Fed R. Civ. P. Rule 26(a)
+#### Rule 26(a)
 
 ::: {.legalcode}
 - (1\) Initial Disclosure.
