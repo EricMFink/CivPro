@@ -7,25 +7,33 @@
 #### § 13. Requirement of Finality 
 
 ::: {.legalcode}
+
 The rules of res judicata are applicable only when a final judgment is rendered. However, for purposes of issue preclusion (as distinguished from merger and bar), "final judgment" includes any prior adjudication of an issue in another action that is determined to be sufficiently firm to be accorded conclusive effect.
+
 :::
 
 #### § 14. Effective Date of Final Judgment
 
 ::: {.legalcode}
+
 For purposes of res judicata, the effective date of a final judgment is the date of its rendition, without regard to the date of commencement of the action in which it is rendered or the action in which it is to be given effect.
+
 :::
 
 #### § 15. Inconsistent Judgments
 
 ::: {.legalcode}
+
 When in two actions inconsistent final judgments are rendered, it is the later, not the earlier, judgment that is accorded conclusive effect in a third action under the rules of res judicata.
+
 :::
 
 #### § 16. Judgment Based Upon a Judgment That Is Subsequently Reversed
 
 ::: {.legalcode}
+
 A judgment based on an earlier judgment is not nullified automatically by reason of the setting aside, or reversal on appeal, or other nullification of that earlier judgment; but the later judgment may be set aside, in appropriate proceedings, with provision for any suitable restitution of benefits received under it.
+
 :::
 
 ## Claim Preclusion
@@ -35,57 +43,71 @@ A judgment based on an earlier judgment is not nullified automatically by reason
 #### § 17. Effects of Former Adjudication—General Rules
 
 ::: {.legalcode}
+
 A valid and final personal judgment is conclusive between the parties, except on appeal or other direct review, to the following extent:
 
 - (1\) If the judgment is in favor of the plaintiff, the claim is extinguished and merged in the judgment and a new claim may arise on the judgment (see §18);
 - (2\) If the judgment is in favor of the defendant, the claim is extinguished and the judgment bars a subsequent action on that claim (see §19);
+
 :::
 
 #### § 18. Judgment for Plaintiff—The General Rule of Merger
 
 ::: {.legalcode}
+
 When a valid and final personal judgment is rendered in favor of the plaintiff:
 
 - (1\) The plaintiff cannot thereafter maintain an action on the original claim or any part thereof, although he may be able to maintain an action upon the judgment; and
 - (2\) In an action upon the judgment, the defendant cannot avail himself of defenses he might have interposed, or did interpose, in the first action.
+
 :::
 
 #### § 19. Judgment for Defendant—The General Rule of Bar
 
 ::: {.legalcode}
+
 A valid and final personal judgment rendered in favor of the defendant bars another action by the plaintiff on the same claim.
+
 :::
 
 #### § 20. Judgment for Defendant—Exceptions to the General Rule of Bar
 
 ::: {.legalcode}
+
 - (1\) A personal judgment for the defendant, although valid and final, does not bar another action by the plaintiff on the same claim:
 	- (a\) When the judgment is one of dismissal for lack of jurisdiction, for improper venue, or for nonjoinder or misjoinder of parties; or
 	- (b\) When the plaintiff agrees to or elects a nonsuit (or voluntary dismissal) without prejudice or the court directs that the plaintiff be nonsuited (or that the action be otherwise dismissed) without prejudice; or
 	- (c\) When by statute or rule of court the judgment does not operate as a bar to another action on the same claim, or does not so operate unless the court specifies, and no such specification is made.
 - (2\) A valid and final personal judgment for the defendant, which rests on the prematurity of the action or on the plaintiff’s failure to satisfy a precondition to suit, does not bar another action by the plaintiff instituted after the claim has matured, or the precondition has been satisfied, unless a second action is precluded by operation of the substantive law.
+
 :::
 
 #### § 21. Judgment for Defendant on His Counterclaim
 
 ::: {.legalcode}
+
 - (1\) Where the defendant interposes a counterclaim on which judgment is rendered in his favor, the rules of merger are applicable to the claim stated in the counterclaim, except as stated in Subsection (2).
 - (2\) Where judgment on a counterclaim is rendered in favor of the defendant, but he is unable to obtain full recovery in the action because of the inability of the court to render such a judgment and the unavailability of such devices as removal to another court or consolidation with another action in the same court, the defendant is not precluded from subsequently maintaining an action for the balance due on the claim stated in the counterclaim.
+
 :::
 
 #### § 22. Effect of Failure to Interpose Counterclaim
 
 ::: {.legalcode}
+
 - (1\) Where the defendant may interpose a claim as a counterclaim but he fails to do so, he is not thereby precluded from subsequently maintaining an action on that claim, except as stated in Subsection (2).
 - (2\) A defendant who may interpose a claim as a counterclaim in an action but fails to do so is precluded, after the rendition of judgment in that action, from maintaining an action on the claim if:
 	- (a\) The counterclaim is required to be interposed by a compulsory counterclaim statute or rule of court, or
 	- (b\) The relationship between the counterclaim and the plaintiff’s claim is such that successful prosecution of the second action would nullify the initial judgment or would impair rights established in the initial action.
+
 :::
 
 #### § 23. Judgment for Plaintiff on Defendant’s Counterclaim
 
 ::: {.legalcode}
+
 Where the defendant interposes a claim as a counterclaim and a valid and final judgment is rendered against him on the counterclaim, the rules of bar are applicable to the judgment.
+
 :::
 
 ### Johnson v. Spencer (10th Circuit 2020) 
@@ -243,10 +265,12 @@ We acknowledge the terrible reality that Mr. Johnson must have faced during the 
 #### § 24. Dimensions of "Claim" for Purposes of Merger or Bar—General Rule Concerning "Splitting" 
 
 ::: {.legalcode}
+
 - (1\) When a valid and final judgment rendered in an action extinguishes the plaintiff’s claim pursuant to the rules of merger or bar (see §§18, 19), the claim extinguished includes all rights of the plaintiff to remedies against the defendant with respect to all or any part of the transaction, or series of connected transactions, out of which the action arose.
 - (2\) What factual grouping constitutes a "transaction", and what groupings constitute a "series", are to be determined pragmatically, giving weight to such considerations as whether the facts are related in time, space, origin, or motivation, whether they form a convenient trial unit, and whether their treatment as a unit conforms to the parties’ expectations or business understanding or usage.
 
 The general rule of this Section is exemplified in §25, and is subject to the exceptions stated in §26.
+
 :::
 
 ### Rest. (2d) of Judgments 
@@ -254,10 +278,12 @@ The general rule of this Section is exemplified in §25, and is subject to the e
 #### § 25. Exemplifications of General Rule Concerning Splitting
 
 ::: {.legalcode}
+
 The rule of §24 applies to extinguish a claim by the plaintiff against the defendant even though the plaintiff is prepared in the second action
 
 - (1\) To present evidence or grounds or theories of the case not presented in the first action, or
 - (2\) To seek remedies or forms of relief not demanded in the first action.
+
 :::
 
 ### Hernandez v. Asset Acceptance, LLC (D. Colorado 2013) 
@@ -342,11 +368,7 @@ Fourth, a nonparty is bound by a judgment if she "assumed control" over the liti
 
 Fifth, a party bound by a judgment may not avoid its preclusive force by relitigating through a proxy. Preclusion is thus in order when a person who did not participate in a litigation later brings suit as the designated representative of a person who was a party to the prior adjudication. And although our decisions have not addressed the issue directly, it also seems clear that preclusion is appropriate when a nonparty later brings suit as an agent for a party who is bound by a judgment. 
 
-Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants... if the scheme is otherwise consistent with due process." Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions or other suits that, "under the governing law, may be brought only on behalf of the public at large".
-
-::: {.aside}
-"_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)
-:::
+Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants... if the scheme is otherwise consistent with due process." Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions["_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)]{.aside} or other suits that, "under the governing law, may be brought only on behalf of the public at large".
 
 [III]{.case-h1}
 
@@ -445,6 +467,7 @@ As POW has established all three factors, the Court finds that all claims in thi
 #### § 26. Exceptions to the General Rule Concerning Splitting
 
 ::: {.legalcode}
+
 - (1\) When any of the following circumstances exists, the general rule of §24 does not apply to extinguish the claim, and part or all of the claim subsists as a possible basis for a second action by the plaintiff against the defendant:
 	- (a\) The parties have agreed in terms or in effect that the plaintiff may split his claim, or the defendant has acquiesced therein; or
 	- (b\) The court in the first action has expressly reserved the plaintiff’s right to maintain the second action; or
@@ -452,6 +475,7 @@ As POW has established all three factors, the Court finds that all claims in thi
 	- (d\) The judgment in the first action was plainly inconsistent with the fair and equitable implementation of a statutory or constitutional scheme, or it is the sense of the scheme that the plaintiff should be permitted to split his claim; or
 	- (e\) For reasons of substantive policy in a case involving a continuing or recurrent wrong, the plaintiff is given an option to sue once for the total harm, both past and prospective, or to sue from time to time for the damages incurred to the date of suit, and chooses the latter course; or
 	- (f\) It is clearly and convincingly shown that the policies favoring preclusion of a second action are overcome for an extraordinary reason, such as the apparent invalidity of a continuing restraint or condition having a vital relation to personal liberty or the failure of the prior litigation to yield a coherent disposition of the controversy.
+
 :::
 
 ### Passaro v. Virginia (4th Circuit 2019) 
@@ -519,20 +543,25 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 #### § 17. Effects of Former Adjudication—General Rules 
 
 ::: {.legalcode}
+
 A valid and final personal judgment is conclusive between the parties, except on appeal or other direct review, to the following extent:
 
 - (3\) A judgment in favor of either the plaintiff or the defendant is conclusive, in a subsequent action between them on the same or a different claim, with respect to any issue actually litigated and determined if its determination was essential to that judgment (see §27).
+
 :::
 
 #### § 27. Issue Preclusion—General Rule
 
 ::: {.legalcode}
+
 When an issue of fact or law is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, the determination is conclusive in a subsequent action between the parties, whether on the same or a different claim.
+
 :::
 
 #### § 28. Exceptions to the General Rule of Issue Preclusion
 
 ::: {.legalcode}
+
 Although an issue is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, relitigation of the issue in a subsequent action between the parties is not precluded in the following circumstances:
 
 - (1\) The party against whom preclusion is sought could not, as a matter of law, have obtained review of the judgment in the initial action; or
@@ -540,6 +569,7 @@ Although an issue is actually litigated and determined by a valid and final judg
 - (3\) A new determination of the issue is warranted by differences in the quality or extensiveness of the procedures followed in the two courts or by factors relating to the allocation of jurisdiction between them; or
 - (4\) The party against whom preclusion is sought had a significantly heavier burden of persuasion with respect to the issue in the initial action than in the subsequent action; the burden has shifted to his adversary; or the adversary has a significantly heavier burden than he had in the first action; or
 - (5\) There is a clear and convincing need for a new determination of the issue (a\) because of the potential adverse impact of the determination on the public interest or the interests of persons not themselves parties in the initial action, (b\) because it was not sufficiently foreseeable at the time of the initial action that the issue would arise in the context of a subsequent action, or (c\) because the party sought to be precluded, as a result of the conduct of his adversary or other special circumstances, did not have an adequate opportunity or incentive to obtain a full and fair adjudication in the initial action.
+
 :::
 
 ### National Satellite Sports, Inc. v. Eliadis, Inc. (6th Circuit 2001) 
@@ -690,11 +720,7 @@ The elements of offensive issue preclusion (that is, issue preclusion asserted b
 
 In order for Plaintiff to satisfy the first element of issue preclusion — identity of issues — Plaintiff must show that the state court's decision quieting legal title to the Decoursey Pike property in the Partnership answers whether the estate has any interest in the property under §541. Plaintiff cannot make that showing, because the property interests encompassed by §541 are not limited to legal title.
 
-Section 541 states that the bankruptcy estate is comprised of "all legal or equitable interests of the debtor in property as of the commencement of the case." Possessory interests are among the property interests included. And, as this Court has recently held, the possessory interest in property of a debtor who lacks legal title to that property is property of the estate.
-
-::: {.aside}
-A "possessory interest" is the right of a person to occupy land or possess property that the person does not own, for example under a lease. [Wex Legal Dictionary](https://www.law.cornell.edu/wex/possessory_interest)
-:::
+Section 541 states that the bankruptcy estate is comprised of "all legal or equitable interests of the debtor in property as of the commencement of the case."[A "possessory interest" is the right of a person to occupy land or possess property that the person does not own, for example under a lease. [Wex Legal Dictionary](https://www.law.cornell.edu/wex/possessory_interest)]{.aside} Possessory interests are among the property interests included. And, as this Court has recently held, the possessory interest in property of a debtor who lacks legal title to that property is property of the estate.
 
 The state-court judgment, while preclusively quieting legal title to the Decoursey Pike property in the Partnership, did not address any possessory interest that Debtor — whose schedules indicate she resides at the property — may have. Therefore, the issue the state court decided is not identical to the issue of whether the estate has an interest under §541 in the Decoursey Pike property. Plaintiff is not entitled to judgment on the pleadings on this count.
 
@@ -787,6 +813,7 @@ Janjua's reliance on _Paulo v. Holder,_ 669 F.3d 911 (9th Cir. 2011), is misplac
 #### § 29. Issue Preclusion in Subsequent Litigation with Others 
 
 ::: {.legalcode}
+
 A party precluded from relitigating an issue with an opposing party, in accordance with §§27 and 28, is also precluded from doing so with another person unless the fact that he lacked full and fair opportunity to litigate the issue in the first action or other circumstances justify affording him an opportunity to relitigate the issue. The circumstances to which considerations should be given include those enumerated in §28 and also whether:
 
 - (1\) Treating the issue as conclusively determined would be incompatible with an applicable scheme of administering the remedies in the actions involved;
@@ -797,6 +824,7 @@ A party precluded from relitigating an issue with an opposing party, in accordan
 - (6\) Treating the issue as conclusively determined may complicate determination of issues in the subsequent action or prejudice the interests of another party thereto;
 - (7\) The issue is one of law and treating it as conclusively determined would inappropriately foreclose opportunity for obtaining reconsideration of the legal rule upon which it was based;
 - (8\) Other compelling circumstances make it appropriate that the party be permitted to relitigate the issue.
+
 :::
 
 ### Parklane Hosiery Co. v. Shore (U.S. 1978) 

@@ -7,9 +7,11 @@
 #### Rule 56
 
 ::: {.legalcode}
+
 - (a\) _Motion for Summary Judgment or Partial Summary Judgment._ A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
 - (b) _Time to File a Motion._ Unless a different time is set by local rule or the court orders otherwise, a party may file a motion for summary judgment at any time until 30 days after the close of all discovery. 
 - (g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
+
 :::
 
 ### Crane v. City of Arlington, Texas (5th Cir. 2022) 
@@ -123,6 +125,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 #### Rule 56
 
 ::: {.legalcode}
+
 - (c\) Procedures.
 	- (1\) _Supporting Factual Positions._ A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
 		- (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
@@ -139,6 +142,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 	- (2\) consider the fact undisputed for purposes of the motion;
 	- (3\) grant summary judgment if the motion and supporting materials — including the facts considered undisputed — show that the movant is entitled to it; or
 	- (4\) issue any other appropriate order.
+
 :::
 
 ### "Materials in the Record": Discovery 
@@ -150,6 +154,7 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 #### Rule 26(a)
 
 ::: {.legalcode}
+
 - (1\) Initial Disclosure.
 	- (A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:
 		- (i\) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;
@@ -163,6 +168,7 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 		- (i\) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;
 		- (ii\) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and
 		- (iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises.
+
 :::
 
 The parties may seek further information through various discovery methods: 
@@ -259,11 +265,7 @@ Because Appellants failed to provide any evidence that Officer Vincent acted wit
 
 [Background]{.case-h1}
 
-In 1991, Spencer Elden, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" music album. The album cover depicted plaintiff underwater, "grabbing for a dollar bill" on a fishook that had been superimposed onto the photograph. The "Nevermind" album was released in September 1991, and was widely distributed commercially, becoming "a platinum record only months after its release." 
-
-::: {.aside}
-![](../img/nevermind.jpg) "Nevermind" album cover
-:::
+In 1991, Spencer Elden, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" music album.[![](../img/nevermind.jpg) "Nevermind" album cover]{.aside} The album cover depicted plaintiff underwater, "grabbing for a dollar bill" on a fishook that had been superimposed onto the photograph. The "Nevermind" album was released in September 1991, and was widely distributed commercially, becoming "a platinum record only months after its release." 
 
 Plaintiff filed the instant action nearly 30 years after the album's release. Plaintiff brings a claim under 18 U.S.C. § 2255(a), which provides a civil remedy for individuals who were victims of certain enumerated crimes while they were minors. Plaintiff alleges that "Nirvana's Nevermind album cover constitutes commercial child pornography," and that defendants have engaged in "ongoing violations" of multiple provisions of 18 U.S.C. § 2252A—a criminal statute penalizing certain activities relating to child pornography—because they "knowingly possessed, transported, reproduced, advertised, promoted, presented, distributed, provided, and/or obtained" the album cover. According to plaintiff, the continued use of the image on the album cover has "caused, and continues to cause, him serious injury including, without limitation, physical, psychological, financial, and reputational damages." Plaintiff seeks "to recover for injuries ... sustained during the ten years preceding the filing of this action, and injuries he has sustained since then." He requests either actual damages or statutory liquidated damages in the amount of $150,000, punitive damages, and equitable relief, including "an injunction against future sales, marketing or distribution" and "prohibiting the Defendants from continuing to engage in the injurious acts." 
 
@@ -297,11 +299,7 @@ In determining whether a triable issue of material fact exists, the evidence mus
 
 [Discussion]{.case-h1}
 
-As an initial matter, the court, having carefully reviewed the parties' papers, has serious concerns regarding plaintiff's summary judgment papers. In many instances, plaintiff's briefing failed to comply with the evidentiary requirements for summary judgment motions set forth in Rule 56. For example, plaintiff failed to "cite to relevant evidence to support factual assertions throughout the joint brief" and specifically, "to the exhibit and page number(s) of the evidentiary appendix." Further, when plaintiff does attempt to dispute facts, the evidence plaintiff cites, does not or is otherwise insufficient to establish the presence of a disputed fact. For instance, plaintiff purports to dispute the fact that the album cover "depicts an unclothed baby floating in nondescript blue water and reaching for a dollar bill hanging from a fishhook." But none of the evidence plaintiff cites disputes what the album cover depicts or otherwise establishes the presence of a material issue of fact. Indeed, the vast majority of plaintiff's evidentiary citations in his summary judgment papers are to his SAC. Even though plaintiff's SAC is verified, And although plaintiff argues that his "citations to the Declaration of Robert Fisher within his Second Amended Complaint constitute proper evidence on a summary judgment motion," plaintiff does not cite to any specific portions of the declaration.
-
-::: {.aside}
-Consider whether the plaintiff might be subject to sanctions under Fed. R. Civ. P. 11(b)(3) for disputing what the photo depicts.
-:::
+As an initial matter, the court, having carefully reviewed the parties' papers, has serious concerns regarding plaintiff's summary judgment papers. In many instances, plaintiff's briefing failed to comply with the evidentiary requirements for summary judgment motions set forth in Rule 56. For example, plaintiff failed to "cite to relevant evidence to support factual assertions throughout the joint brief" and specifically, "to the exhibit and page number(s) of the evidentiary appendix." Further, when plaintiff does attempt to dispute facts, the evidence plaintiff cites, does not or is otherwise insufficient to establish the presence of a disputed fact. For instance, plaintiff purports to dispute the fact that the album cover "depicts an unclothed baby floating in nondescript blue water and reaching for a dollar bill hanging from a fishhook."[Consider whether the plaintiff might be subject to sanctions under Fed. R. Civ. P. 11(b)(3) for disputing what the photo depicts.]{.aside} But none of the evidence plaintiff cites disputes what the album cover depicts or otherwise establishes the presence of a material issue of fact. Indeed, the vast majority of plaintiff's evidentiary citations in his summary judgment papers are to his SAC. Even though plaintiff's SAC is verified, And although plaintiff argues that his "citations to the Declaration of Robert Fisher within his Second Amended Complaint constitute proper evidence on a summary judgment motion," plaintiff does not cite to any specific portions of the declaration.
 
 Plaintiff's failure to cite evidence, properly dispute facts, or otherwise comply with the applicable rules and court orders complicated and delayed the court's review of the record and the parties' briefing. And because neither the briefing nor the Statement of Undisputed Facts identify properly disputed facts, the court was left to speculate as to why and how certain facts are purportedly disputed. Nevertheless, the court will carefully review the record before the court in the light most favorable to plaintiff and consider whether defendants have met their burden to demonstrate that there are no genuine disputes as to any material fact and that they are entitled to judgment as a matter of law. See Fed. R. Civ. P. 56.
 
