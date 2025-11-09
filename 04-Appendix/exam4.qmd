@@ -6,7 +6,7 @@
 
 Angelica Sanchez is a citizen of Mexico, where she lives with her boyfriend, Arturo Quiñonez (also a Mexican citizen). Angelica’s two children, Roberto (age 10) & Carmen (age 7) lived with the couple until one year ago, when their aunt, Miriam Lopez (also a Mexican citizen), brought them across the border to El Paso, Texas. Lopez did so without Angelica’s knowledge. When Sanchez learned what had happened, she contacted Lopez and demanded that she bring the children home to Mexico. Lopez refused, believing that the children would not be safe if they returned home, because Quiñonez was involved in drug trafficking. Instead, Lopez contacted the Texas Department of Children’s Services (“DCS”), explaining that she feared for the children’s safety, but was unable to care for them herself. DCS took custody of the children and placed them in the temporary care of the South Texas Children’s Home (“STCH”, a non-profit corporation incorporated and having its sole place of business in Texas). Lopez then returned home to Mexico. 
 
-The International Child Abduction Remedies Act (“ICARA”) is a federal statute that establishes a cause of action for the parents or legal guardians of children who are abducted and brought to the United States from another country.{% sidenote "sidenote-id" "ICARA is a real federal statute, but some of the provisions described here are fictional for purposes of this problem." %} Under ICARA, the parent or guardian may sue the alleged abductor and anyone aiding or abetting the abduction. 
+The International Child Abduction Remedies Act (“ICARA”) is a federal statute that establishes a cause of action for the parents or legal guardians of children who are abducted and brought to the United States from another country. (ICARA is a real federal statute, but some of the provisions described here are fictional for purposes of this problem.) Under ICARA, the parent or guardian may sue the alleged abductor and anyone aiding or abetting the abduction. 
 
 Sanchez files a lawsuit in the U.S. District Court for the Western District of Texas (the district in which El Paso is located). In her complaint, Sanchez asserts an ICARA claim naming Lopez and STCS as co-defendant, seeking an order compelling the return of the children to her custody. She also asserts state law tort claims for interference with parental rights and intentional infliction of emotional distress, again naming Lopez and STCH as co-defendants and seeking a total of $100,000 in damages against them jointly and severally.
 
@@ -66,19 +66,19 @@ The claims in this case share a common nucleus of operative fact, i.e. Lopez’s
 
 ### Part D
 
-_D.1_
+#### 1
 
 Rule 13(g) permits a party to assert a crossclaim against a co-party, if the claim arises from the same transaction or occurrence that is the subject matter of the original action. Here, STCH and Lopez are co-defendants. The contribution claim arises from the same occurrence as the underlying claims by Sanchez: i.e. in the event STCH is found liable to Sanchez, STCH seeks to hold Lopez liable for all or part of any damages that STCH must pay to Sanchez. Rule 13(g) specifically identifies such a claim as a valid crossclaim. 
 
 The court might have diversity jurisdiction over the crossclaim. STCH is a citizen of Texas and Lopez is a citizen of Mexico. But it is unclear whether the amount in controversy on the crossclaim would exceed $75,000. Regardless, the court may exercise supplemental jurisdiction over that claim. Since the crossclaim arises from the same occurrence as the original action, it forms part of the same case or controversy, satisfying § 1367(a). The limitation on supplemental jurisdiction under § 1367(b) does not apply where the court has federal question jurisdiction over the original action, and in any event does not apply to crossclaims between co-defendants. 
 
-_D.2_
+#### 2
 
 Rule 14(a) permits a defendant to implead a third party for a claim seeking contribution or indemnification on a claim against the initial defendant. STCH may therefore implead DCS to seek indemnification on the tort claims by Sanchez against STCH. 
 
 The indemnification claim shares a common nucleus of operative fact with the original claims by Sanchez: i.e. the facts surrounding the children’s being taken from Mexico to Texas where DCS placed them in the care of STCH. This satisfies the requirement for supplemental jurisdiction under § 1367(a). The limitation on supplemental jurisdiction under § 1367(b) does not apply here, because the court has federal question jurisdiction over the original action, and § 1367(b) does not apply to third-party claims by a defendant. 
 
-_D.3_
+#### 3
 
 Once STCH impleads DCS with a valid third-party claim for indemnification, Rule 18 then permits STCH to assert any other claims it has against DCS. Joinder under Rule 18 does not require any relationship among claims. However, the court must have subject matter jurisdiction. 
 

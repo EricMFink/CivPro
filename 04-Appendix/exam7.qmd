@@ -50,7 +50,7 @@ Since Claypool's breach of contract claims arise under state law, the relevant b
 
 ### Part B 
 
-1. Claim by Driftwood against Claypool for breach of contract.
+#### 1\. Claim by Driftwood against Claypool for breach of contract.
 
 This is a compulsory counterclaim under Rule 13(a), A counterclaim is a claim by a party against an opposing party that has already asserted a claim against it. Here, Driftwood is a defendant asserting a claim against the plaintiff. Counterclaims are compulsory (i.e. they must be asserted in the same action or they are waived) if they arise from the same T/O as the opposing party's claim against the counterclaimant. This counterclaim arises from the same contract and same set of events as Claypool's initial claim against Driftwood. If Driftwood does not assert his claim in this suit, he will be precluded from asserting it separately in a subsequent suit. 
  
@@ -60,7 +60,7 @@ As long as the court has jurisdiction over at least one claim in the suit, it ma
 
 Where the only original basis for the court's SMJ is diversity, § 1367(b) limits the exercise of supplemental jurisdiction over certain claims by plaintiffs, where it would destroy complete diversity over the underlying claim(s). But § 1367(b) does not apply to claims by a defendant (and even if it did, there is complete diversity in this case). So supplemental jurisdiction is permitted over this counterclaim. 
 
-2. Claim by Driftwood against Claypool for battery
+#### 2\. Claim by Driftwood against Claypool for battery
 
 This is most likely a permissive counterclaim under Rule 13(b). Counterclaims that do not arise from the same T/O as an underlying claim against the counterclaimant are permissive (i.e. they may be asserted either in the same action or a subsequent action). 
 
@@ -68,19 +68,19 @@ This counterclaim doesn't arise from the same T/O as Claypool's claims against D
 
 Since permissive counterclaims do not arise out of the same T/O as the claim(s) over which the court has original jurisdiction, they do not satisfy the CNOF requirement for supplemental jurisdiction. Instead, permissive counterclaims require an independent basis for subject matter jurisdiction (federal question or diversity). The requirements for diversity jurisdiction are not satisfied here. Even though Claypool and Driftwood are citizens of different states, the total amount in controversy for Driftwood's two claims against Claypool is less than $75,000. 
 
-3. Claim by Gottlieb against Driftwood for indemnification/contribution
+#### 3\. Claim by Gottlieb against Driftwood for indemnification/contribution
 
 This is a valid crossclaim under Rule 13(g). A crossclaim is a claim between co-plaintiffs or co-defendants arising from the same T/O as a plaintiff's original claim or a counterclaim. This may include, but is not limited to, claims for contribution or indemnification on an underlying claim against the crossclaimant (i.e. a claim that the party against whom it is asserted is or may be liable to the crossclaimant for all or part of the crossclaimant's liability to another party). Here, Gottlieb is seeking indemnification or contribution from Driftwood in the event Gottlieb is found liable to Claypool. Unlike compulsory counterclaims, crossclaims are always permissive (i.e. the party asserting the crossclaim has the option to bring it separately in a subsequent suit if they prefer). 
  
 As with compulsory counterclaims, since crossclaims arise ouf of the same T/O as an underlying claim over which the court already has SMJ, they always satisfy the CNOF requirement for supplemental jurisdiction. § 1367(b) does not apply to crossclaims between co-defendants, so the court may exercise supplemental jurisdiction over Gottlieb's crossclaim, even though he and Driftwood are both citizens of NY (and regardless of the amount in controversy). 
 
-4. Claim by Gottlieb against Driftwood for Lost Ticket Sales
+#### 4\. Claim by Gottlieb against Driftwood for Lost Ticket Sales
 
 This is also a proper crossclaim under Rule 13(g). In this case, the claim is for Driftwood's liability directly to Gottlieb for Driftwood's role in the Lasparri fiasco. Since procuring Lassparri to sing for the Opera Company was part of the deal between Claypool and Gottlieb, this claim arises out of the same T/O as Claypools underlying claims against Gottlieb and Driftwood. 
 
 As in the previous question, since this claim shares a CNOF with Claypool's initial claims, the court may exercise supplemental jurisdiction over this crossclaim. 
 
-5. Claim by Gottlieb against Driftwood for breach of costume contract
+#### 5\. Claim by Gottlieb against Driftwood for breach of costume contract
 
 This is not a proper crossclaim under Rule 13(g). It arises from a transaction unrelated to the T/O that gave rise to Claypool's initial claims against the co-defendants. 
 
@@ -88,13 +88,13 @@ However, once a party has properly asserted a claim against another party, Rule 
 
 This claim does not arise out of the same T/O as, and does not share a CNOF with, any underlying claim. So the court may not exercise supplemental jurisdiction. Instead, there must be an independent basis for subject matter jurisdiction. The breach of contract claim arises under state law, but Gottlieb and Driftwood are both citizens of NY. Consequently, the court has neither federal question nor diversity jurisdiction over this claim.  
 
-6. Claim by Driftwood against Fiorello and Baroni for indemnification/contribution 
+#### 6\. Claim by Driftwood against Fiorello and Baroni for indemnification/contribution 
 
 This is a proper third-party claim under Rule 14(a). This rule permits a defendant to join a new party as a third-party defendant to assert a claim for contribution or indemnification. Since Driftwood is joining Fiorello and Baroni to assert claims against them for indemnification or contribution in the event Driftwood is found liable to Claypool on her underlying claims, joinder is proper. 
 
 As with compulsory counterclaims and crossclaims, a third-party claim under Rule 14(a) arises out of the same T/O as a claim over which the court has original jurisdiction, and thus always satisfies the CNOF requirement for supplemental jurisdiction. The limitation under § 1367(b) does not apply to third-party claims by a defendant, so the court may exercise supplemental jurisdiction, even though Driftwood, Fiorello, and Baroni are all citizens of NY. 
 
-7. Claim by Driftwood against Fiorello and Baroni for fraud
+#### 7\. Claim by Driftwood against Fiorello and Baroni for fraud
 
 This is not a proper Rule 14(a) third-party claim. Unlike  a crossclaim, a Rule 14(a) third-party claim may not seek to hold the third-party defendant directly liable to the defendant/third-party plaintiff for the latter's own injury. 
 
@@ -102,25 +102,25 @@ However, because Driftwood has properly joined Fiorello and Baroni as third-part
 
 The court would have neither federal question nor diversity jurisdiction over this claim, since it arises under state law, but Driftwood, Fiorello, and Baroni are all citizens of NY. However, the court may exercise supplemental jurisdiction. This claim arises from the same T/O as Claypool's underlying claim against Driftwood: the signing of Fiorello instead of Lasparri as part of the Opera deal. Since § 1367(a) is satisfied and § 1367(b) does not apply to claims by a defendant, the court may exercise supplemental jurisdiction. 
 
-8. Claim by Baroni against Driftwood for breach of contract 
+#### 8\. Claim by Baroni against Driftwood for breach of contract 
 
 Rule 14(a)(2)(B) refers to the counterclaim provisions under Rule 13, requiring a third-party defendant to assert any compulsory counterclaim, and allowing them to assert any permissive counterclaim, against the defendant/third-party plaintiff. This is most likely a compulsory counterclaim, because Driftwood entered into the contract with Baroni as part of the Opera House deal (even though he wasn't supposed to). 
 
 Assuming this is a compulsory counterclaim, the court may exercise supplemental jurisdiction (for the same reasons discussed above). If it were permissive, there would be neither supplemental jurisdiction (because no CNOF) nor diversity jurisdiction (because Baroni and Driftwood are both citizens of the same state).  
 
-9. Claim by Fiorello against Baroni for unpaid commission
+#### 9\. Claim by Fiorello against Baroni for unpaid commission
 
 Rule 14(a)(2)(B) also refers to the crossclaim provision under Rule 13, permitting third-party co-defendants to assert crossclaims against one another. Under a broad application of the logical relationship test, this claim might be regarded as arising from the same T/O as Claypool's underlying claims, because it is related to Driftwood's failed effort to sign Lassparri as part of the Opera deal. However, it might be regarded as arising from a different T/O, on the grounds that the arrangement between Fiorello and Baroni wasn't really in furtherance of the Opera deal, but their own scam against Driftwood, and Baroni's failure to pay Fiorello's commission doesn't really have any connection to the underlying dispute over the Opera deal. 
 
 As in the previous question, the court may exercise supplemental jurisdiction if this is a valid crossclaim. If not, joinder would be improper and there would be neither supplemental nor diversity jurisdiction.  
 
-10. Claim by Baroni against Claypool for defamation
+#### 10\. Claim by Baroni against Claypool for defamation
 
 Rule 14(a)(2)(D) permits a third-party defendant to assert claims against the plaintiff arising from the same T/O as the plaintiff's underlying claim against the defendant/third-party plaintiff. Even under a broad application of the logical relationship standard, Baroni's claim against Claypool would most likely be regarded as arising from a separate T/O from Claypool's underlying claims against Driftwood. The only relationship is that Claypool would presumably not have commented on Baroni's voice if he hadn't been signed to the opera contract instead of Lasparri. That is probably too slim a connection. The claims are logically independent, involving distinct injuries arising from distinct conduct. 
 
 If this claim did arise out of the same T/O as Claypool's underlying claims, then the court could exercise supplemental jurisdiction, since § 1367(b) does not apply to claims by a third-party defendant. Assuming Baroni could recover more than $75,000 for defamation, there would also be diversity jurisdiction, since Baroni and Claypool are citizens of different states. 
 
-11. Claim by Claypool against Baroni for battery
+#### 11\. Claim by Claypool against Baroni for battery
 
 Rule 14(a)(3) permits a plaintiff to assert claims against a third-party defendant arising from the same T/O as the plaintiff's underlying claim against the defendant/third-party plaintiff. As in the previous question, this claim probably does not arise out of the same T/O as Claypool's underlying claims, as it has no real connection to the Opera deal.  
 

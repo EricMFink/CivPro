@@ -6,7 +6,7 @@ Healthway, Inc. ("Healthway") produces non-dairy alternatives to milk, yogurt, a
 
 The Piedmont Healthy Foods Coalition ("PHFC") is a consumer advocacy organization, with members in Virginia, North Carolina, South Carolina, and Georgia. 
 
-PHFC sues Healthway in the U.S. District Court for the Middle District of North Carolina.{% sidenote "sidenote-id" "Assume that the court has subject matter jurisdiction based on diversity and personal jurisdiction over Healthway." %} The complaint asserts a claim under the North Carolina Truth in Food Labeling Act ("TIFLA"),{% sidenote "sidenote-id" "This is a fictional law invented for this exam." %} which prohibits false or deceptive labeling of packaged foods sold within the state. The statute specifically provides that any food label (including brand names and nutritional information) that does not comply with federal Food & Drug Administration (FDA) regulations or guidelines is deemed to be "false or misleading" under TIFLA. Any person who incurred damages as a result of false or deceptive labeling on packaged foods sold within the state may bring a civil suit to recover their own actual damages, plus statutory damages of up to $100,000 (based on the volume of sales for the deceptively-labeled product within the state), attorney's fees, and costs of suit. Consumer advocacy organizations, such as PHFC, may bring such suits on behalf of their members. 
+PHFC sues Healthway in the U.S. District Court for the Middle District of North Carolina. (Assume that the court has subject matter jurisdiction based on diversity and personal jurisdiction over Healthway.) The complaint asserts a claim under the North Carolina Truth in Food Labeling Act ("TIFLA") (a fictional law invented for this exam), which prohibits false or deceptive labeling of packaged foods sold within the state. The statute specifically provides that any food label (including brand names and nutritional information) that does not comply with federal Food & Drug Administration (FDA) regulations or guidelines is deemed to be "false or misleading" under TIFLA. Any person who incurred damages as a result of false or deceptive labeling on packaged foods sold within the state may bring a civil suit to recover their own actual damages, plus statutory damages of up to $100,000 (based on the volume of sales for the deceptively-labeled product within the state), attorney's fees, and costs of suit. Consumer advocacy organizations, such as PHFC, may bring such suits on behalf of their members. 
 
 The elements of a claim under the TIFLA statute are as follows: (1) the defendant made false or misleading representations about its products, (2) a reasonable consumer is likely to be deceived by the defendant's claims, and (3) the plaintiff purchased the defendant's products, or otherwise incurred damages, based on the defendant's false or misleading representations. 
 
@@ -30,7 +30,7 @@ If Healthway moves to dismiss the complaint for failure to state a claim under t
 
 Regardless of your answer to the previous questions, assume that Healthway does not move to dismiss and instead answers the complaint, denying that the branding or labeling of its products is false or misleading, and asserting claim preclusion as an affirmative defense. 
 
-In a previous case, decided about a year before, an individual plaintiff, Virgil Vance (a Virginia resident), sued Healthway in Virginia federal court under Virginia's TIFLA statute, the terms of which are identical to North Carolina's TIFLA statute, and which likewise allows suits for actual and statutory damages based on sales of deceptively-labeled packaged foods in Virginia.{% sidenote "sidenote-id" "Assume that the court had subject matter jurisdiction based on diversity and personal jurisdiction over Healthway." %} Vance is a member of PHFC, and the lawyer who represented him in the Virginia lawsuit also represents PHFC in the North Carolina suit. Vance's suit was based on similar allegations of false or misleading representations in the branding and labeling of Healthway's soy milk, almond milk, and soy yogurt products. That case proceeded to trial, at the conclusion of which the court entered judgment in favor of Vance on the Virginia TIFLA claim. The court issued a written opinion that included these findings of fact and conclusions of law: 
+In a previous case, decided about a year before, an individual plaintiff, Virgil Vance (a Virginia resident), sued Healthway in Virginia federal court under Virginia's TIFLA statute, the terms of which are identical to North Carolina's TIFLA statute, and which likewise allows suits for actual and statutory damages based on sales of deceptively-labeled packaged foods in Virginia. (Assume that the court had subject matter jurisdiction based on diversity and personal jurisdiction over Healthway.) Vance is a member of PHFC, and the lawyer who represented him in the Virginia lawsuit also represents PHFC in the North Carolina suit. Vance's suit was based on similar allegations of false or misleading representations in the branding and labeling of Healthway's soy milk, almond milk, and soy yogurt products. That case proceeded to trial, at the conclusion of which the court entered judgment in favor of Vance on the Virginia TIFLA claim. The court issued a written opinion that included these findings of fact and conclusions of law: 
 	
 - The branding of Healthway's non-dairy products as "soy milk" and "almond milk" violated FDA regulations, because these products contain no milk as defined in those regulations. 
 - The branding of these products as "soy milk" and "almond milk" might mislead reasonable consumers into believing that they contain cow's milk. 
@@ -64,21 +64,21 @@ Because the complaint includes sufficient factual allegations to support a plaus
 
 Claim preclusion bars the assertion of any claims decided in a prior action between the same parties, if the prior action ended in a valid and final judgment on the merits. 
 
-**Requirements for Claim Preclusion**
+#### Requirements for Claim Preclusion
 
-_Same Parties _
+##### Same Parties
 
 The first requirement is that the party asserting the claim and the party against whom the claim is asserted are the same in both actions. Healthway was the defendant in the VA suit and is again the defendant in the NC sut. However, the plaintiff in the prior suit was Vance, an individual, suing on his own behalf. The plaintiff here is PHFC, an organization suing on behalf of its members. 
 
 While Vance is a PHFC member, and was represented by the same lawyer as PHFC, this isn't enough to make him and PHFC the same party for preclusion purposes. There is nothing in the facts to suggest that Vance brought the previous action as a representative or agent of PHFC or its other members; nor is there anything to suggest that PHFC had any control over or involvement in the VA suit. At most, the judgment in the prior suit might preclude a new claim on behalf of Vance himself. It will not preclude a claim by PHFC on behalf of its other members. 
 
-_Same Claim_
+##### Same Claim
 
 The next requirement is that the claims in the two actions are the same. Under the modern "transactional" approach, preclusion applies not only to the specific claims asserted and decided in the prior action, but to any other claims arising from the same transaction or occurrence. Other approaches limit the scope of preclusion to claims involving the same harm or same wrongful conduct. Under any of these approaches, there is an exception for claims that could not have been asserted in the prior action, because of jurisdictional or other limits.
 
 Under any of the common approaches (transactional, same harm, or same wrongful conduct), the claims here are probably not the same for preclusion purposes. While the claims involve the same conduct by Healthway (i.e. its labeling of the products) and same general type of harm (consumer deception), they arise from from different transactions/occurrences: different purchases by different consumers in different states. 
 
-_Valid & Final Judgment on the Merits_ 
+##### Valid & Final Judgment on the Merits
 
 The last requirement is that the prior judgment was valid, final, and on the merits. 
 
@@ -88,7 +88,7 @@ A judgment is final when there is nothing remaining for the court to do. Jurisdi
   
 A judgment is on the merits when it is not based on jurisdictional or other procedural grounds. A final judgment in favor of the plaintiff is, by its very nature, on the merits. In this case, the VA court entered a final judgment in favor of Vance. That judgment was on the merits. 
 
-**Conclusion**
+#### Conclusion
 
 Because the claimants in the VA and NC suits are not the same, and because the claims arise from different transactions by different consumers, claim preclusion will not apply. 
 
@@ -98,30 +98,30 @@ Like claim preclusion, issue preclusion serves the interests of economy, finalit
 
 As with claim preclusion, for issue preclusion to apply the prior judgment must be valid & final; however it does not have to be on the merits (e.g. a prior judgment dismissing a claim for lack of personal jurisdiction may preclude relitigation of the issue of personal jurisdiction, or the underlying facts on which the prior determination rested). The same issue of fact or law must have been actually litigated and necessarily decided. In contrast to claim preclusion, issue preclusion does not necessarily require that both parties be identical in both actions. Non-mutual issue preclusion--asserted against someone who was a party in the prior action by someone who was not--is sometimes allowed. 
 
-**Requirements for Issue Preclusion**
+#### Requirements for Issue Preclusion
 
-_Valid & Final Prior Judgment_
+##### Valid & Final Prior Judgment
 
 The requirement of a valid and final prior judgment is the same as for claim preclusion. As noted above, the VA judgment was valid and final.
 
-_Same Issue_ 
+##### Same Issue
 
 Issue preclusion may apply to issue of fact and issues of law. In this case, the issue of whether Healthway's product branding and labeling violates FDA regulations is the same as in the prior VA suit, which involved the same products with the same branding and labeling. 
 
 The issue of whether the branding and labeling are false or deceptive under the NC TIFLA statute may seem superficially new, since the prior suit was based on the VA statute. However, in reality this issue is also the same. The provisions of the two statutes are identical. Under both statutes, food labels that violate FDA regulations are deemed to be false or misleading. In the prior suit, the VA court determined that Healthway's branding and labeling of its products violate FDA regulations. Given that determination, the branding and labeling are deemed to be false or misleading under the NC statute. 
 
-_Actually Litigated & Necessarily Decided_ 
+##### Actually Litigated & Necessarily Decided
 
 An issue is actually litigated when the party against whom the issue was decided contested it and presented evidence, either in a motion for summary judgment or at trial. An issue is necessarily decided when the disposition of the issue was essential to support the judgment. If a different determination of the issue would not have meant a different outcome, the prior judgment will not have preclusive effect on that issue. 
 
 In this case, both requirements are satisfied. The problem says that the case went to trial. There is nothing to suggest that Healthway stipulated or otherwise failed to contest the assertion that its branding and labeling violated FDA regulations and were thus false or deceptive. The issue was thus actually litigated. The judgment in favor of Vance specifically rested on the court's conclusion that the branding and labeling violated FDA regulations. Had the court determined that the branding and labeling complied with FDA regulations, Healthway would have prevailed in the suit (since there was no other apparent basis on which to find the branding or labeling was false or deceptive). As such, the issue was necessarily decided.  
 
-_Non-Mutuality_ 
+##### Non-Mutuality
 
 While claim preclusion requires identify of both parties in both actions, issue preclusion may sometimes be asserted non-mutually, that is by someone who was not a party to the prior action against someone who was (but not by someone who was a party to the prior action against someone who was not). Courts generally allow defensive non-mutual issue preclusion, i.e. where the new party asserts issue preclusion to defend against a claim by the repeat party. Courts sometimes also allow offensive non-mutual issue preclusion, i.e. where the new party asserts issue preclusion to establish part of their claim against the repeat party. In the latter case, courts consider various factors, such as whether the new party could have joined in the prior action but chose not to do so to gain an unfair advantage, whether there were any procedural limitations in the prior forum that prevented the repeat party from fully contesting the issue, or whether the stakes in the prior action were such that the repeat party had little or no incentive to do so. 
 
 In this case, PHFC, which (as discussed above) was not a party to the prior action, would assert issue preclusion against Healthway, which was a party in the prior action. PHFC would do so to establish part of its TIFLA claim. This is an example of offensive non-mutual issue preclusion. The NC court may allow this, depending on its assessment of the fairness factors. Weighing against PHFC would be the fact that it may have known about the VA suit (since Vance is a member and he was represented by the same lawyer) and probably could have joined in the prior action to assert claims on behalf of its members then (though the Virginia court may have lacked jurisdiction over, or been an improper venue for, claims arising from purchases in NC). On the other hand, there is no indication that there were any procedural limits on Healthway's ability to contest the issues (the same procedural and evidentiary rules apply in both the VA and NC federal courts). Nor were the stakes in the prior suit so limited--particularly since Healthway should have anticipated that a verdict in favor of Vance would inspire similar suits by other consumers--that Healthway wouldn't have been motivated to contest the issues fully in that case. 
 
-**Conclusion** 
+##### Conclusion
 
 The same issues were actually litigated and necessarily decided in the prior suit, and the prior judgment was valid and final. Healthway may thus be precluded from contesting these issues, if the NC court concludes that the fairness factors permit offensive non-mutual issue preclusion in this case. 
