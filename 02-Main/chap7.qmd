@@ -273,8 +273,6 @@ The general rule of this Section is exemplified in §25, and is subject to the e
 
 :::
 
-### Rest. (2d) of Judgments 
-
 #### § 25. Exemplifications of General Rule Concerning Splitting
 
 ::: {.legalcode}
@@ -706,7 +704,7 @@ After the Court took the matter under submission, Plaintiff and the Chapter 7 Tr
 
 [Analysis]{.case-h1}
 
-[The Decoursey Pike Property]{.case-h1}
+[The Decoursey Pike Property]{.case-h2}
 
 Plaintiff seeks a declaratory judgment determining that the Decoursey Pike property is not property of the estate. Plaintiff contends in its motion on the pleadings that the state-court judgment which quieted title to the Decoursey Pike property in the partnership precludes Debtor from claiming the Decoursey Pike property as property of the estate.
 
@@ -724,7 +722,7 @@ Section 541 states that the bankruptcy estate is comprised of "all legal or equi
 
 The state-court judgment, while preclusively quieting legal title to the Decoursey Pike property in the Partnership, did not address any possessory interest that Debtor — whose schedules indicate she resides at the property — may have. Therefore, the issue the state court decided is not identical to the issue of whether the estate has an interest under §541 in the Decoursey Pike property. Plaintiff is not entitled to judgment on the pleadings on this count.
 
-[Nondischargeability of the Money Judgment]{.case-h1}
+[Nondischargeability of the Money Judgment]{.case-h2}
 
 Finally, Plaintiff seeks a determination that the $90,000 judgment debt created in the state-court action is nondischargeable under §523(a)(6) of the Code because it is a debt for a willful and malicious injury. Plaintiff contends that the judgment was for Debtor's intentionally fraudulent conveyance of the Decoursey Pike property, that the state court's determination that Debtor transferred the Decoursey Pike property with intent to defraud creditors has issue-preclusive effect in this proceeding, and that the state court's finding that Debtor intended to defraud creditors satisfies the willfulness and malice elements of §523(a)(6).
 
