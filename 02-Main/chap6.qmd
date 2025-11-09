@@ -132,13 +132,13 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ### Assessing the Sufficiency of a Claim
 
-Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a short and plain statement of the claim showing that the pleader is entitled to relief". This requirement applies to any party (whether in the position of plaintiff or defendant)[^claims1] who asserts a claim, counterclaim, crossclaim, or third-party claim.
+Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a short and plain statement of the claim showing that the pleader is entitled to relief". This requirement applies to any party (whether in the position of plaintiff or defendant) who asserts a claim, counterclaim, crossclaim, or third-party claim.[^claims1]
 
 [^claims1]: The rules governing counterclaims, crossclaims, and third-party claims are covered in Chapter 2 (Joinder).
 
 A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) with a motion to dismiss for "failure to state a claim upon which relief can be granted". Fed. R. Civ. P. Rule 12(b)(6).[^claims2] A claim may be dismissed on this basis for either factual or legal insufficiency:
 
-[^claims2]: See §4 Responsive Pleadings. 
+[^claims2]: See §3 Responsive Pleadings. 
 
 - A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
 

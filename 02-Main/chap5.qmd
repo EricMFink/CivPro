@@ -226,7 +226,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 - (f\) No rule may be prescribed by a district court other than under this section.
 :::
 
-#### 28 U.S.C. § 2072 - -Rules of procedure and evidence; power to prescribe
+#### 28 U.S.C. § 2072 -- Rules of procedure and evidence; power to prescribe
 
 ::: {.legalcode}
 - (a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
@@ -248,7 +248,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 - (e\) Failure to comply with this section does not invalidate a rule prescribed under section 2072 or 2075 of this title.
 :::
 
-#### § 2074--Rules of procedure and evidence; submission to Congress
+#### 28 U.S.C. § 2074 -- Rules of procedure and evidence; submission to Congress
 
 ::: {.legalcode}
 - (a\) The Supreme Court shall transmit to the Congress not later than May 1 of the year in which a rule prescribed under section 2072 is to become effective a copy of the proposed rule. Such rule shall take effect no earlier than December 1 of the year in which such rule is so transmitted unless otherwise provided by law. The Supreme Court may fix the extent such rule shall apply to proceedings then pending, except that the Supreme Court shall not require the application of such rule to further proceedings then pending to the extent that, in the opinion of the court in which such proceedings are pending, the application of such rule in such proceedings would not be feasible or would work injustice, in which event the former rule applies.
@@ -445,13 +445,13 @@ Peggy sues Sterling Cooper in federal court, asserting a claim for breach of con
 
 In her complaint, Peggy seeks compensatory damages for her loss of employment. 
 
-[Part A]{.case-h1}
+#### Part A
 
 Under Hudson state law, compensatory damages for wrongful termination in breach of an employment contract are limited to an amount equal to three times the plaintiff's annual earnings (wages or salary) in their last year of employment. In contrast, in cases for wrongful termination under federal law, there is no such cap on the amount of compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-[Part B]{.case-h1}
+#### Part B
 
 Under Hudson state law, a complaint for breach of contract must include an itemized statement showing the basis and amount of compensatory damages sought. In contract, under FRCP Rule 8(a)(3), the "demand for relief sought" requires only a general statement that the plaintiff seeks compensatory damages. 
 
@@ -470,7 +470,7 @@ Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges 
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 
-[Part A]{.case-h1}
+#### Part A
 
 FRCP Rule 8(a)(3) provides that a complaint must include "a demand for the relief sought, which may include relief in the alternative or different types of relief." Under this rule, a plaintiff may request both legal remedies (usually money damages) and equitable relief (such as an injunction) in the same complaint. 
 
@@ -480,7 +480,7 @@ Carbolic objects that Carlill's request for both money damages and an injunction
 
 _Should the court apply state or federal law on this issue?_ 
 
-[Part B]{.case-h1}
+#### Part B
 
 Under Euphoria state law, a consumer asserting a fraud claim based on an allegedly false advertisement must plead and prove the following elements:
 
