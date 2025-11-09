@@ -180,11 +180,11 @@ Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of C
 In assessing whether a counterclaim is compulsory or permissive, courts consider four inquiries:
 
 > (1\) Are the issues of fact and law raised in the claim and counterclaim largely the same?
-
+> 
 > (2\) Would res judicata bar a subsequent suit on the party's counterclaim, absent, the compulsory counterclaim rule?
-
+> 
 > (3\) Will substantially the same evidence support or refute the claim as well as the counterclaim? and
-
+> 
 > (4\) Is there any logical relationship between the claim and counterclaim?
 
 These inquiries are more akin to a set of guidelines than a rigid test, such that a "court need not answer all these questions in the affirmative for the counterclaim to be compulsory."

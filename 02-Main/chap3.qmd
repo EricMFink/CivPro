@@ -168,15 +168,11 @@ The judgment is reversed and the cause is remanded to the Court of Civil Appeals
 
 The issue before us is whether, consistently with the Due Process Clause of the Fourteenth Amendment, an Oklahoma court may exercise _in personam_ jurisdiction over a nonresident automobile retailer and its wholesale distributor in a products-liability action, when the defendants' only connection with Oklahoma is the fact that an automobile sold in New York to New York residents became involved in an accident in Oklahoma.
 
-#### I
-
 Respondents Harry and Kay Robinson purchased a new Audi automobile from petitioner Seaway Volkswagen, Inc. (Seaway), in Massena, N. Y., in 1976. The following year the Robinson family, who resided in New York, left that State for a new home in Arizona. As they passed through the State of Oklahoma, another car struck their Audi in the rear, causing a fire which severely burned Kay Robinson and her two children.
 
 The Robinsons subsequently brought a products-liability action in the District Court for Creek County, Okla., claiming that their injuries resulted from defective design and placement of the Audi's gas tank and fuel system. They joined as defendants the automobile's manufacturer, Audi NSU Auto Union Aktiengesellschaft (Audi); its importer, Volkswagen of America, Inc. (Volkswagen); its regional distributor, petitioner World-Wide Volkswagen Corp. (World-Wide); and its retail dealer, petitioner Seaway. Seaway and World-Wide entered special appearances, claiming that Oklahoma's exercise of jurisdiction over them would offend the limitations on the State's jurisdiction imposed by the Due Process Clause of the Fourteenth Amendment.
 
 The facts presented to the District Court showed that World-Wide is incorporated and has its business office in New York. It distributes vehicles, parts, and accessories, under contract with Volkswagen, to retail dealers in New York, New Jersey, and Connecticut. Seaway, one of these retail dealers, is incorporated and has its place of business in New York. Insofar as the record reveals, Seaway and World-Wide are fully independent corporations whose relations with each other and with Volkswagen and Audi are contractual only. Respondents adduced no evidence that either World-Wide or Seaway does any business in Oklahoma, ships or sells any products to or in that State, has an agent to receive process there, or purchases advertisements in any media calculated to reach Oklahoma. In fact, as respondents' counsel conceded at oral argument, there was no showing that any automobile sold by World-Wide or Seaway has ever entered Oklahoma with the single exception of the vehicle involved in the present case.
-
-#### II
 
 The Due Process Clause of the Fourteenth Amendment limits the power of a state court to render a valid personal judgment against a nonresident defendant. A judgment rendered in violation of due process is void in the rendering State and is not entitled to full faith and credit elsewhere. Due process requires that the defendant be given adequate notice of the suit, and be subject to the personal jurisdiction of the court, In the present case, the only question is whether these particular petitioners were subject to the jurisdiction of the Oklahoma courts.
 
@@ -198,8 +194,6 @@ Hence, even while abandoning the shibboleth that "the authority of every tribuna
 
 Thus, the Due Process Clause "does not contemplate that a state may make binding a judgment _in personam_ against an individual or corporate defendant with which the state has no contacts, ties, or relations." _International Shoe Co._ Even if the defendant would suffer minimal or no inconvenience from being forced to litigate before the tribunals of another State; even if the forum State has a strong interest in applying its law to the controversy; even if the forum State is the most convenient location for litigation, the Due Process Clause, acting as an instrument of interstate federalism, may sometimes act to divest the State of its power to render a valid judgment.
 
-#### III
-
 Applying these principles to the case at hand, we find in the record before us a total absence of those affiliating circumstances that are a necessary predicate to any exercise of state-court jurisdiction. Petitioners carry on no activity whatsoever in Oklahoma. They close no sales and perform no services there. They avail themselves of none of the privileges and benefits of Oklahoma law. They solicit no business there either through salespersons or through advertising reasonably calculated to reach the State. Nor does the record show that they regularly sell cars at wholesale or retail to Oklahoma customers or residents or that they indirectly, through others, serve or seek to serve the Oklahoma market. In short, respondents seek to base jurisdiction on one, isolated occurrence and whatever inferences can be drawn therefrom: the fortuitous circumstance that a single Audi automobile, sold in New York to New York residents, happened to suffer an accident while passing through Oklahoma.
 
 It is argued, however, that because an automobile is mobile by its very design and purpose it was "foreseeable" that the Robinsons' Audi would cause injury in Oklahoma. Yet "foreseeability" alone has never been a sufficient benchmark for personal jurisdiction under the Due Process Clause.
@@ -218,8 +212,6 @@ This argument seems to make the point that the purchase of automobiles in New Yo
 
 The Court holds that the Due Process Clause of the Fourteenth Amendment bars the States from asserting jurisdiction over the defendants in these two cases. In each case the Court so decides because it fails to find the "minimum contacts" that have been required since _International Shoe Co. v. Washington_. Because I believe that the Court reads _International Shoe_ and its progeny too narrowly, and because I believe that the standards enunciated by those cases may already be obsolete as constitutional boundaries, I dissent.
 
-#### I
-
 The Court's opinions focus tightly on the existence of contacts between the forum and the defendant. In so doing, they accord too little weight to the strength of the forum State's interest in the case and fail to explore whether there would be any actual inconvenience to the defendant. The essential inquiry in locating the constitutional limits on state-court jurisdiction over absent defendants is whether the particular exercise of jurisdiction offends "traditional notions of fair play and substantial justice." _International Shoe_. The clear focus in _International Shoe_ was on fairness and reasonableness. The Court specifically declined to establish a mechanical test based on the quantum of contacts between a State and the defendant:
 
 > Whether due process is satisfied must depend rather upon the quality and nature of the activity _in relation to the fair and orderly administration of the laws which it was the purpose of the due process clause to insure._ That clause does not contemplate that a state may make binding a judgment _in personam_ against an individual or corporate defendant with which the state has _no_ contacts, ties, or relations.
@@ -231,8 +223,6 @@ Surely _International Shoe_ contemplated that the significance of the contacts n
 Another consideration is the actual burden a defendant must bear in defending the suit in the forum. Because lesser burdens reduce the unfairness to the defendant, jurisdiction may be justified despite less significant contacts. The burden, of course, must be of constitutional dimension. Due process limits on jurisdiction do not protect a defendant from all inconvenience of travel, and it would not be sensible to make the constitutional rule turn solely on the number of miles the defendant must travel to the courtroom. Instead, the constitutionally significant "burden" to be analyzed relates to the mobility of the defendant's defense. For instance, if having to travel to a foreign forum would hamper the defense because witnesses or evidence or the defendant himself were immobile, or if there were a disproportionately large number of witnesses or amount of evidence that would have to be transported at the defendant's expense, or if being away from home for the duration of the trial would work some special hardship on the defendant, then the Constitution would require special consideration for the defendant's interests.
 
 That considerations other than contacts between the forum and the defendant are relevant necessarily means that the Constitution does not require that trial be held in the State which has the "best contacts" with the defendant.The defendant has no constitutional entitlement to the best forum or, for that matter, to any particular forum. We need only determine whether the forum States in these cases satisfy the constitutional minimum.
-
-#### II
 
 I would find that the forum State has an interest in permitting the litigation to go forward, the litigation is connected to the forum, the defendant is linked to the forum, and the burden of defending is not unreasonable. Accordingly, I would hold that it is neither unfair nor unreasonable to require these defendants to defend in the forum State.
 
@@ -246,8 +236,6 @@ Furthermore, an automobile seller derives substantial benefits from States other
 
 Thus, the Court errs in its conclusion that "petitioners have _no_ contacts, ties, or relations" with Oklahoma. There obviously are contacts, and, given Oklahoma's connection to the litigation, the contacts are sufficiently significant to make it fair and reasonable for the petitioners to submit to Oklahoma's jurisdiction.
 
-#### III
-
 _International Shoe_ inherited its defendant focus from _Pennoyer v. Neff,_ and represented the last major step this Court has taken in the long process of liberalizing the doctrine of personal jurisdiction. Though its flexible approach represented a major advance, the structure of our society has changed in many significant ways since _International Shoe_ was decided in 1945. Mr. Justice Black, writing for the Court in _McGee_,  recognized that "a trend is clearly discernible toward expanding the permissible scope of state jurisdiction over foreign corporations and other nonresidents." He explained the trend as follows:
 
 > In part this is attributable to the fundamental transformation of our national economy over the years. Today many commercial transactions touch two or more States and may involve parties separated by the full continent. With this increasing nationalization of commerce has come a great increase in the amount of business conducted by mail across state lines. At the same time modern transportation and communication have made it much less burdensome for a party sued to defend himself in a State where he engages in economic activity.
@@ -258,17 +246,15 @@ In answering the question whether or not it is fair and reasonable to allow a pa
 
 The conclusion I draw is that constitutional concepts of fairness no longer require the extreme concern for defendants that was once necessary. Rather, minimum contacts must exist "among the _parties,_ the contested transaction, and the forum State." The contacts between any two of these should not be determinate.
 
-**Justice BLACKMUN, dissenting.**
+#### Justice BLACKMUN, dissenting.
 
-I confess that I am somewhat puzzled why the plaintiffs in this litigation are so insistent that the regional distributor and the retail dealer, the petitioners here, who handled the ill-fated Audi automobile involved in this litigation, be named defendants. It would appear that the manufacturer and the importer, whose subjectability to Oklahoma jurisdiction is not challenged before this Court, ought not to be judgment-proof. It may, of course, ultimately amount to a contest between insurance companies that, once begun, is not easily brought to a termination. Having made this much of an observation, I pursue it no further.
+I confess that I am somewhat puzzled why the plaintiffs in this litigation are so insistent that the regional distributor and the retail dealer, the petitioners here, who handled the ill-fated Audi automobile involved in this litigation, be named defendants.[One reason the Robinsons may have joined the distributor and dealer is to prevent removal of the case from state to federal court. _See_ Chap. 4.]{.aside} It would appear that the manufacturer and the importer, whose subjectability to Oklahoma jurisdiction is not challenged before this Court, ought not to be judgment-proof. It may, of course, ultimately amount to a contest between insurance companies that, once begun, is not easily brought to a termination. Having made this much of an observation, I pursue it no further.
 
 ### Ford Motor Co. v. Montana Eighth Judicial Dist. Court (U.S. 2021) 
 
-**Justice Kagan delivered the opinion of the Court.**
+#### Justice Kagan delivered the opinion of the Court.
 
 In each of these two cases, a state court held that it had jurisdiction over Ford Motor Company in a products-liability suit stemming from a car accident. The accident happened in the State where suit was brought. The victim was one of the State's residents. And Ford did substantial business in the State—among other things, advertising, selling, and servicing the model of vehicle the suit claims is defective. Still, Ford contends that jurisdiction is improper because the particular car involved in the crash was not first sold in the forum State, nor was it designed or manufactured there. We reject that argument. When a company like Ford serves a market for a product in a State and that product causes injury in the State to one of its residents, the State's courts may entertain the resulting suit.
-
-#### I
 
 Ford is a global auto company. It is incorporated in Delaware and headquartered in Michigan. But its business is everywhere. Ford markets, sells, and services its products across the United States and overseas. In this country alone, the company annually distributes over 2.5 million new cars, trucks, and SUVs to over 3,200 licensed dealerships. Ford also encourages a resale market for its products: Almost all its dealerships buy and sell used Fords, as well as selling new ones. To enhance its brand and increase its sales, Ford engages in wide-ranging promotional activities, including television, print, online, and direct-mail advertisements. No matter where you live, you've seen them: "Have you driven a Ford lately?" or "Built Ford Tough." Ford also ensures that consumers can keep their vehicles running long past the date of sale. The company provides original parts to auto supply stores and repair shops across the country. (Goes another slogan: "Keep your Ford a Ford.") And Ford's own network of dealers offers an array of maintenance and repair services, thus fostering an ongoing relationship between Ford and its customers.
 
@@ -279,8 +265,6 @@ Ford moved to dismiss the two suits for lack of personal jurisdiction, on basica
 Both the Montana and the Minnesota Supreme Courts (affirming lower court decisions) rejected Ford's argument.
 
 We granted certiorari to consider if Ford is subject to jurisdiction in these cases. We hold that it is.
-
-#### II
 
 The Fourteenth Amendment's Due Process Clause limits a state court's power to exercise jurisdiction over a defendant. The canonical decision in this area remains _International Shoe Co. v. Washington_. There, the Court held that a tribunal's authority depends on the defendant's having such "contacts" with the forum State that "the maintenance of the suit" is "reasonable, in the context of our federal system of government," and "does not offend traditional notions of fair play and substantial justice." In giving content to that formulation, the Court has long focused on the nature and extent of "the defendant's relationship to the forum State." That focus led to our recognizing two kinds of personal jurisdiction: general (sometimes called all-purpose) jurisdiction and specific (sometimes called case-linked) jurisdiction.
 
@@ -348,7 +332,7 @@ Recognizing "relate to" as an independent basis for specific jurisdiction risks 
 
 I would leave the law exactly where it stood before we took these cases, and for that reason, I concur in the judgment.
 
-**Justice Gorsuch, with whom Justice THOMAS joins, concurring in the judgment.**
+#### Justice Gorsuch, with whom Justice THOMAS joins, concurring in the judgment.
 
 Since _International Shoe Co. v. Washington_, this Court's cases have sought to divide the world of personal jurisdiction in two. A tribunal with "general jurisdiction" may entertain any claim against the defendant. But to trigger this power, a court usually must ensure the defendant is "at home" in the forum State. Meanwhile, "specific jurisdiction" affords a narrower authority. It applies only when the defendant "purposefully avails" itself of the opportunity to do business in the forum State and the suit "arises out of or relates to" the defendant's contacts with the forum State.
 
@@ -727,7 +711,7 @@ Imagine a lawsuit based on recent events. A few months ago, a Norfolk Southern t
 
 Now, change the hypothetical slightly. Imagine the same Ohio resident brought the same suit in the same Pennsylvania state court, but this time against Norfolk Southern. Assume, too, the company has filed paperwork consenting to appear in Pennsylvania courts as a condition of registering to do business in the Commonwealth. Could a Pennsylvania court hear that case too? You might think so. But today, Norfolk Southern argues that the Due Process Clause entitles it to a more favorable rule, one shielding it from suits even its employees must answer. We reject the company’s argument. Nothing in the Due Process Clause requires such an incongruous result.
 
-#### I
+##### I
 
 Robert Mallory worked for Norfolk Southern as a freight-car mechanic for nearly 20 years, first in Ohio, then in Virginia. During his time with the company, Mr. Mallory contends, he was responsible for spraying boxcar pipes with asbestos and handling chemicals in the railroad’s paint shop. He also demolished car interiors that, he alleges, contained carcinogens.
 
@@ -741,7 +725,7 @@ Ultimately, the Pennsylvania Supreme Court sided with Norfolk Southern. Yes, Mr.
 
 In light of this split of authority, we agreed to hear this case and decide whether the Due Process Clause of the Fourteenth Amendment prohibits a State from requiring an out-of-state corporation to consent to personal jurisdiction to do business there. 
 
-#### II
+##### II
 
 The question before us is not a new one. In truth, it is a very old question—and one this Court resolved in _Pennsylvania Fire Ins. Co. of Philadelphia v. Gold Issue Mining & Milling Co._, 243 U. S. 93 (1917). There, the Court unanimously held that laws like Pennsylvania’s comport with the Due Process Clause. Some background helps explain why the Court reached the result it did.
 
@@ -755,7 +739,7 @@ As the use of the corporate form proliferated in the 19th century, the question 
 
 Lawmakers across the country soon responded to these stratagems. Relevant here, both before and after the Fourteenth Amendment’s ratification, they adopted statutes requiring out-of-state corporations to consent to in-state suits in exchange for the rights to exploit the local market and to receive the full range of benefits enjoyed by in-state corporations. These statutes varied. In some States, out-of-state corporate defendants were required to agree to answer suits brought by in-state plaintiffs. In other States, corporations were required to consent to suit if the plaintiff’s cause of action arose within the State, even if the plaintiff happened to reside elsewhere. Still other States (and the federal government) omitted both of these limitations. They required all out-of-state corporations that registered to do business in the forum to agree to defend themselves there against any manner of suit. Yet another group of States applied this all-purpose-jurisdiction rule to a subset of corporate defendants, like railroads and insurance companies. Mr. Mallory has collected an array of these statutes, enacted between 1835 and 1915, in his statutory appendix. 
 
-#### III
+##### III
 
 ##### A
 
@@ -781,7 +765,7 @@ _Pennsylvania Fire_ held that suits premised on these grounds do not deny a defe
 
 In the proceedings below, the Pennsylvania Supreme Court seemed to recognize that _Pennsylvania Fire_ dictated an answer in Mr. Mallory’s favor. Still, it ruled for Norfolk Southern anyway. It did so because, in its view, intervening decisions from this Court had “implicitly overruled” _Pennsylvania Fire_. But in following that course, the Pennsylvania Supreme Court clearly erred. As this Court has explained: “If a precedent of this Court has direct application in a case,” as _Pennsylvania Fire_ does here, a lower court “should follow the case which directly controls, leaving to this Court the prerogative of overruling its own decisions.” This is true even if the lower court thinks the precedent is in tension with “some other line of decisions.” 
 
-#### IV
+##### IV
 
 Now before us, Norfolk Southern candidly asks us to do what the Pennsylvania Supreme Court could not—overrule _Pennsylvania Fire_. To smooth the way, Norfolk Southern suggests that this Court’s decision in _International Shoe Co. v. Washington_ has already done much of the hard work for us. That decision, the company insists, seriously undermined _Pennsylvania Fire_’s foundations. We disagree. The two precedents sit comfortably side by side. 
 
@@ -829,7 +813,7 @@ The Court finds a way around this settled rule. All a State must do is compel a 
 
 Such an approach does not formally overrule our traditional contacts-based approach to jurisdiction, but it might as well. By relabeling their long-arm statutes, States may now manufacture “consent” to personal jurisdiction. Because I would not permit state governments to circumvent constitutional limits so easily, I respectfully dissent.
 
-#### I
+##### I
 
 Personal jurisdiction is the authority of a court to issue a judgment that binds a defendant. If a defendant submits to a court’s authority, the court automatically acquires personal jurisdiction. But if a defendant contests the court’s authority, the court must determine whether it can nevertheless assert coercive power over the defendant. That calculus turns first on the statute or rule defining the persons within the court’s reach. It depends next on the Due Process Clause, which guards a defendant’s right to resist the judicial authority of a sovereign to which it has an insufficient tie. The Clause has the companion role of ensuring that state courts “do not reach out beyond the limits imposed on them by their status as coequal sovereigns in a federal system.”
 
@@ -843,7 +827,7 @@ As the Pennsylvania Supreme Court recognized, this statute “clearly, palpably,
 
 The same rule applies here. The Pennsylvania statute announces that registering to do business in the Commonwealth “shall constitute a sufficient basis” for general jurisdiction. But as our precedent makes crystal clear, simply doing business is insufficient. Absent an exceptional circumstance, a corporation is subject to general jurisdiction only in a State where it is incorporated or has its principal place of business. Adding the antecedent step of registration does not change that conclusion. If it did, “every corporation would be subject to general jurisdiction in every state in which it registered, and Daimler’s ruling would be robbed of meaning by a back-door thief.”
 
-#### II
+##### II
 
 The Court short-circuits this precedent by characterizing this case as one about consent rather than contacts-based jurisdiction. Consent is an established basis for personal jurisdiction, which is, after all, a waivable defense. “A variety of legal arrangements have been taken to represent express or implied consent to the personal jurisdiction of the court,” including contract, stipulation, and in-court appearance. Today, the Court adds corporate registration to the list.
 
@@ -861,7 +845,7 @@ Pennsylvania’s effort to assert general jurisdiction over every company doing 
 
 The plurality’s response is to fall back, yet again, on “consent.” In its view, because a defendant can waive its personal jurisdiction right, a State can never overreach in demanding its relinquishment. That is not how we treat rights with structural components. The right to remove a case to federal court, for instance, is primarily personal—it secures for a nonresident defendant a federal forum thought to be more impartial. At the same time, however, it serves federal interests by ensuring that federal courts can vindicate federal rights. Recognizing this dual role, we have rejected efforts of States to require defendants to relinquish this (waivable) right to removal as a condition of doing business. The same logic applies here. Pennsylvania’s power grab infringes on more than just the rights of defendants—it upsets the proper role of the States in our federal system.
 
-#### III
+##### III
 
 The plurality attempts to minimize the novelty of its conclusion by pointing to our decision in _Burnham v. Superior Court of Cal_. There, we considered whether “tag jurisdiction”—personal service upon a defendant physically present in the forum State—remains an effective basis for general jurisdiction after _International Shoe_. We unanimously agreed that it does. The plurality claims that registration jurisdiction for a corporation is just as valid as the “tag jurisdiction” that we approved in _Burnham_. But in drawing this analogy, the plurality omits any discussion of _Burnham_’s reasoning.
 
@@ -889,7 +873,7 @@ In any event, I doubt _Pennsylvania Fire_ would control this case even if it rem
 
 The express power of attorney in _Pennsylvania Fire_ “made service on the insurance superintendent the equivalent of a corporate vote that had accepted service in this specific case.” Norfolk Southern, by contrast, “executed no document like the power of attorney there.” The Court makes much of what Norfolk Southern did write on its forms: It named a “Commercial Registered Office Provider,” it notified Pennsylvania of a merger, and it paid $70 to update its paperwork. None of those documents use the word “agent,” nothing hints at the word “jurisdiction,” and (as the Pennsylvania Supreme Court explained) nothing about that registration is “voluntary.” Consent in _Pennsylvania Fire_ was contained in the document itself; here it is deemed by statute. If “mere formalities” matter as much as the plurality says they do, it should respect this one too. 
 
-#### IV
+##### IV
 
 By now, it should be clear that the plurality’s primary approach to this case is to look past our personal jurisdiction precedent. Relying on a factsheet downloaded from the internet, for instance, the plurality argues that Norfolk Southern is such a “part of ‘the Pennsylvania Community,’ ” and does so much business there, that its “presence” in Pennsylvania is enough to require it to stand for suits having nothing to do with the Commonwealth. In Daimler, however, we roundly rejected the plaintiff’s request that we “approve the exercise of general jurisdiction in every State in which a corporation ‘engages in a substantial, continuous, and systematic course of business.’” The established test—which the plurality barely acknowledges—is whether the corporation is “at home” in the State. “A corporation that operates in many places,” and must therefore register in just as many, “can scarcely be deemed at home in all of them.” 
 
@@ -913,18 +897,18 @@ Enumerated long-arm statutes identify particular circumstances in which a state'
 
 #### NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.
 
-- _(a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:_
-	- _1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or_
-	- _2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or_
-	- _3. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he_
-		- _(i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or_
-		- _(ii) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or_
-	- _4. owns, uses or possesses any real property situated within the state._
-- _(b\) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law._
-- _(c\) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section._
-- _(d\) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:_
-	- _1. the publication at issue was published in New York, and_
-	- _2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision._
+- (a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:
+	- 1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or
+	- 2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or
+	- 3. commits a tortious act without the state causing injury to person or property within the state, except as to a cause of action for defamation of character arising from the act, if he
+		- (i) regularly does or solicits business, or engages in any other persistent course of conduct, or derives substantial revenue from goods used or consumed or services rendered, in the state, or
+		- (ii) expects or should reasonably expect the act to have consequences in the state and derives substantial revenue from interstate or international commerce; or
+	- 4. owns, uses or possesses any real property situated within the state.
+- (b\) Personal jurisdiction over non-resident defendant in matrimonial actions or family court proceedings. A court in any matrimonial action or family court proceeding involving a demand for support, alimony, maintenance, distributive awards or special relief in matrimonial actions may exercise personal jurisdiction over the respondent or defendant notwithstanding the fact that he or she no longer is a resident or domiciliary of this state, or over his or her executor or administrator, if the party seeking support is a resident of or domiciled in this state at the time such demand is made, provided that this state was the matrimonial domicile of the parties before their separation, or the defendant abandoned the plaintiff in this state, or the claim for support, alimony, maintenance, distributive awards or special relief in matrimonial actions accrued under the laws of this state or under an agreement executed in this state. The family court may exercise personal jurisdiction over a non-resident respondent to the extent provided in sections one hundred fifty-four and one thousand thirty-six and article five-B of the family court act and article five-A of the domestic relations law.
+- (c\) Effect of appearance. Where personal jurisdiction is based solely upon this section, an appearance does not confer such jurisdiction with respect to causes of action not arising from an act enumerated in this section.
+- (d\) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:
+	- 1. the publication at issue was published in New York, and
+	- 2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision.
 
 :::
 
@@ -942,7 +926,7 @@ This type of long-arm statute grants a state's courts jurisdiction to the full e
 
 #### Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.
 
-_A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States._
+A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States.
 
 :::
 
