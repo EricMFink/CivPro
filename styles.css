@@ -325,10 +325,10 @@ a:active {
 	font-style: normal;
 	margin: 0.2rem 0 0rem 0;
 }
-.syllabus-info {
+.syllabus-header {
 	margin-bottom: 2rem;
 }
-.syllabus-info p {
+.syllabus-header p {
 	font-family: "Adelle Sans", sans-serif;
 	font-size: 0.8rem;
 	font-weight: 400;

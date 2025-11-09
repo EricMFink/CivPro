@@ -4,6 +4,8 @@
 
 ::: {.syllabus}
 
+::: {.syllabus-header}
+
 ##### {{< var institution >}}
 
 ##### {{< var term >}}
@@ -33,6 +35,8 @@
 ##### {{< var ta2 >}}
 
 ###### [{{< var ta2-email >}}](mailto:{{< var ta2-email >}})
+
+:::
 
 ## Description {.unnumbered}
 
