@@ -50,13 +50,13 @@ During the late 19th and early 20th centuries, the legal field experienced a par
 
 Among those leading the charge was Oliver Wendell Holmes, Jr., whose work as a legal scholar and opinions as a Supreme Court Justice advanced a positivist understanding of law and pragmatist approach to judicial decision-making, and laid the groundwork for overturning _Swift_.  
 
-Oliver Wendall Holmes, _The Common Law_ (1881):
+> The life of the law has not been logic: it has been experience. The felt necessities of the time, the prevalent moral and political theories, intuitions of public policy, avowed or unconscious, even the prejudices which judges share with their fellow-men, have had a good deal more to do than the syllogism in determining the rules by which men should be governed. The law embodies the story of a nation’s development through many centuries, and it cannot be dealt with as if it contained only the axioms and corollaries of a book of mathematics. In order to know what it is, we must know what it has been, and what it tends to become. We must alternately consult history and existing theories of legislation. But the most difficult labor will be to understand the combination of the two into new products at every stage. The substance of the law at any given time pretty nearly corresponds, so far as it goes, with what is then understood to be convenient; but its form and machinery, and the degree to which it is able to work out desired results, depend very much upon its past.[^holmes1]
 
-> The life of the law has not been logic: it has been experience. The felt necessities of the time, the prevalent moral and political theories, intuitions of public policy, avowed or unconscious, even the prejudices which judges share with their fellow-men, have had a good deal more to do than the syllogism in determining the rules by which men should be governed. The law embodies the story of a nation’s development through many centuries, and it cannot be dealt with as if it contained only the axioms and corollaries of a book of mathematics. In order to know what it is, we must know what it has been, and what it tends to become. We must alternately consult history and existing theories of legislation. But the most difficult labor will be to understand the combination of the two into new products at every stage. The substance of the law at any given time pretty nearly corresponds, so far as it goes, with what is then understood to be convenient; but its form and machinery, and the degree to which it is able to work out desired results, depend very much upon its past.
+[^holmes1]: Oliver Wendall Holmes, _The Common Law_ (1881).
 
-_Southern Pacific Co. v. Jensen_, 244 U.S. 205 (1917) (Holmes, J. dissenting):
+> The common law is not a brooding omnipresence in the sky but the articulate voice of some sovereign or quasi-sovereign that can be identified; although some decisions with which I have disagreed seem to me to have forgotten the fact. It always is the law of some State.[^holmes2]
 
-> The common law is not a brooding omnipresence in the sky but the articulate voice of some sovereign or quasi-sovereign that can be identified; although some decisions with which I have disagreed seem to me to have forgotten the fact. It always is the law of some State.
+[^holmes2]: _Southern Pacific Co. v. Jensen_, 244 U.S. 205 (1917) (Holmes, J. dissenting).
 
 Holmes sharply criticized the _Swift_ approach to the Rules of Decision Act on positivist grounds in _Black & White Taxicab Co. v. Brown & Yellow Taxicab Co._, 279 U.S. 518, 532-536 (1928) (Holmes, J., dissenting):
 
@@ -270,7 +270,7 @@ On February 6, 1963, petitioner, a citizen of Ohio, filed her complaint in the D
 
 > The summons and complaint shall be served together. The plaintiff shall furnish the person making service with such copies as are necessary. Service shall be made as follows:
 >
-> > (1\) Upon an individual other than an infant or an incompetent person, by delivering a copy of the summons and of the complaint to him personally or by leaving copies thereof at his dwelling house or usual place of abode with some person of suitable age and discretion then residing therein.
+> (1\) Upon an individual other than an infant or an incompetent person, by delivering a copy of the summons and of the complaint to him personally or by leaving copies thereof at his dwelling house or usual place of abode with some person of suitable age and discretion then residing therein.
 
 Respondent filed his answer on February 26, alleging, _inter alia_, that the action could not be maintained because it had been brought "contrary to and in violation of the provisions of Massachusetts General Laws (Ter. Ed.) Chapter 197, Section 9." That section provides:
 
