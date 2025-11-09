@@ -141,7 +141,7 @@ The underlying issue in _Erie_ was one of substantive law: the standard of care 
 
 In the aftermath of _Erie_, the Court sought to provide an answer to the question of how to draw the line between substance and procedure:
 
-[Guaranty Trust Co. of New York v. York, 326 U.S. 99 (1945)]{.case-h1}
+#### Guaranty Trust Co. of New York v. York, 326 U.S. 99 (1945)
 
 York sued Guaranty Trust for breach of fiduciary duty. The issue was whether, "in a suit brought on the equity side[^85d4] of a federal district court that court is required to apply the State statute of limitations that would govern like suits in the courts of a State where the federal court is sitting even though the exclusive basis of federal jurisdiction is diversity of citizenship." If so, the suit would be dismissed as untimely. This turned on whether application of the state statute of limitations to bar "a claim created by the States is a matter of 'substantive rights' to be respected by a federal court of equity when that court's jurisdiction is dependent on the fact that there is a State-created right, or is such statute of 'a mere remedial character, which a federal court may disregard?"
 
@@ -157,19 +157,19 @@ Rather than mechanically applying the labels "substance" and "procedure", the Co
 > 
 > Plainly enough, a statute that would completely bar recovery in a suit if brought in a State court bears on a State-created right vitally and not merely formally or negligibly. As to consequences that so intimately affect recovery or non-recovery a federal court in a diversity case should follow State law.
 
-[Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530 (1949)]{.case-h1}
+#### Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530 (1949)
 
 Ragan sued Merchants Transfer for injuries resulting from a traffic accident. A two-year statute of limitations under state law applied. The plaintiff filed the complaint in federal court less than two years after the accident, but did not serve the complaint on the defendant until more than two years had passed. Relying on Fed. R. Civ. P. Rule 3 ("A civil action is commenced by filing a complaint with the court."), the plaintiff argued that filing the complaint was sufficient to satisfy the statute of limitations. The defendant argued that the federal court must follow state law, under which the statute of limitations was not satisfied unless the suit was both filed and served within the allotted time.
 
 As in _Guaranty Trust_, the Court focused on whether applying different rules in state and federal court would yield different outcomes. Once again, the Court held that the federal court must follow state law, under which the plaintiff's right to relief would be extinguished.
 
-[Woods v. Interstate Realty, 337 U.S. 535 (1949) and Cohen v. Beneficial Indust. Loan Corp, 337 U.S. 541 (1949)]{.case-h1}
+#### Woods v. Interstate Realty, 337 U.S. 535 (1949) and Cohen v. Beneficial Indust. Loan Corp, 337 U.S. 541 (1949)
 
 In these two cases, decided together with _Ragan_, the Court likewise held that the federal court must apply state law rules where a contrary federal rule would have yielded different outcomes. _Woods v. Interstate Realty_ (State rule, barring unqualified business from appearing in state court, applies in federal diversity action); _Cohen v. Beneficial Indust. Loan Corp_, (State rule, requiring bond in shareholder derivative suit, applies in federal diversity action, despite lack of bond requirement in FRCP Rule 23.1).
 
 ### Byrd v. Blue Ridge Rural Elec. Cooperative, Inc. (U.S. 1958) 
 
-**Justice BRENNAN delivered the opinion of the Court.**
+#### Justice Brennan delivered the opinion of the Court.
 
 This case was brought in the District Court for the Western District of South Carolina. Jurisdiction was based on diversity of citizenship. 28 U. S. C. §1332. The petitioner, a resident of North Carolina, sued respondent, a South Carolina corporation, for damages for injuries allegedly caused by the respondent's negligence. He had judgment on a jury verdict. The Court of Appeals for the Fourth Circuit reversed and directed the entry of judgment for the respondent. We granted certiorari and subsequently ordered reargument.
 
@@ -257,7 +257,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ### Hanna v. Plumer (U.S. 1967) 
 
-[Chief Justice Warren delivered the opinion of the Court.]{.case-h1}
+#### Chief Justice Warren delivered the opinion of the Court.
 
 The question to be decided is whether, in a civil action where the jurisdiction of the United States district court is based upon diversity of citizenship between the parties, service of process shall be made in the manner prescribed by state law or that set forth in Rule 4(d)(1) of the Federal Rules of Civil Procedure.
 
