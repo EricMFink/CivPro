@@ -113,7 +113,7 @@ In _Grable_, the Supreme Court sought to clarify when a state-law claim with an 
 
 But the _Grable_ standard is an exception to the Holmes "creation test". Even though state law creates the plaintiff's cause of action (which, for Holmes, would mean the claim did not "arise under" federal law), the presence of a federal issue as an element of the claim may nonetheless confer federal jurisdiction under §1331.
 
-[Rule]{.case-h1}
+#### Rule
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
 
@@ -121,15 +121,15 @@ A state-law claim raises a federal question, sufficient to confer jurisdiction u
 2. The federal issue is _actually disputed,_ and
 3. There is a _substantial federal interest_ at stake.
 
-[Essential Federal Issue]{.case-h1}
+##### Essential Federal Issue
 
 The federal issue is "essential" where the plaintiff's "right to relief depends upon the construction or application of the Constitution or laws of the United States." _Smith v. Kansas City Title & Trust Co._ (US 1921). This requirement will generally be satisfied where the plaintiff relies on federal law to establish a right, interest, or duty at issue in the case.
 
-[Federal Issue Is Actually Disputed]{.case-h1}
+##### Federal Issue Is Actually Disputed
 
 If there is no dispute between the parties over the federal issue as it arises in the case, there is no need for the court to resolve the issue and thus no reason to confer federal subject matter jurisdiction based on that issue.
 
-[Substantial Federal Interest]{.case-h1}
+##### Substantial Federal Interest
 
 In assessing whether there is a "substantial federal interest", the Supreme Court has considered these factors:
 
@@ -137,9 +137,9 @@ In assessing whether there is a "substantial federal interest", the Supreme Cour
 2. Whether allowing a federal forum for private litigants would undermine a federal statutory enforcement scheme
 3. Whether providing a federal forum would upset the balance between the state and federal judicial systems
 
-[Illustrations]{.case-h1}
+#### Illustrations
 
-[Federal Issue]{.case-h1}
+##### Federal Issue
 
 **Essential: Grable**. Grable brought a state-law "quiet title" claim against Darue, which purchased property that the IRS had seized from Grable in satisfaction of a tax delinquency. The real focus of the suit was Grable's right under federal law not to have its property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
 
@@ -159,7 +159,7 @@ Under state law, Minton was required to allege (and prove) that Gunn's represent
 
 To decide whether the argument would have been successful, the court would have to interpret federal patent law. But the patent law issue arose only as a benchmark for establishing whether Gunn was liable for malpractice under state law. The suit wasn't about Minton's rights under federal patent law at all, and the outcome would not have any effect on those rights. 
 
-[Federal Interest]{.case-h1}
+##### Federal Interest
 
 **Substantial: Grable**. There is a strong federal interest in uniform interpretation of the statutory requirements for seizures of taxpayer property by the IRS. Inconsistent interpretations by various state courts would subject the IRS to conflicting standards in carrying out its tax enforcement responsibilities, and promote uncertainty about the rights and interests of taxpayers and purchasers of seized property.
 

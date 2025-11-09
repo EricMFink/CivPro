@@ -472,7 +472,7 @@ Having set forth the relevant legal background, we now apply these principles to
 
 As a reminder, our focus is on the contacts that the defendant itself created with the forum state; the defendant cannot be "haled into a jurisdiction solely as a result of random, fortuitous, or attenuated contacts, or of the unilateral activity of another party or a third person."
 
-#[A. Purposeful Direction]{.case-h1}
+[A. Purposeful Direction]{.case-h2}
 
 First, we must analyze HANWJH's activity to determine whether it purposefully directed conduct at Illinois. HANWJH has no physical presence in Illinois. "Our cases make clear, however, that physical presence is not necessary for a defendant to have sufficient minimum contacts with a forum state." As in _Curry,_ we again find _Hemi_ particularly instructive. Recall that in _Hemi,_ a single agent of the plaintiff purchased over 300 packs of illegal cigarettes from the defendant cigarette retailer. The sales to the plaintiff's agents supported a finding of personal jurisdiction because the retailer both maintained commercial websites from which one could order goods to Illinois and because it then "knowingly did do business with Illinois residents."
 
@@ -490,7 +490,7 @@ _Matlin_ hardly establishes a categorical rule that multiple online sales, as op
 
 Finally, describing HANWJH's act of filling NBA Properties' order as the unilateral act of the plaintiff is a mischaracterization. Here, HANWJH shipped a product to the forum only after it had structured its sales activity in such a manner as to invite orders from Illinois and developed the capacity to fill them. It cannot now point to its "customers in Illinois and tell us, 'It was all their idea.'"
 
-#[B. Relatedness]{.case-h1}
+[B. Relatedness]{.case-h2}
 
 "The proper exercise of specific jurisdiction also requires that the defendant's minimum contacts with the forum state be 'suit-related.'" This requirement is met when direct sales from the defendant in the forum state involve the infringing product.
 
@@ -498,7 +498,7 @@ HANWJH does not contend in its briefing that this litigation is unrelated to its
 
 HANWJH's listing of its product on Amazon.com and its sale of the product to counsel are certainly related sufficiently to the harm of likelihood of confusion. A vendor violates the Lanham Act when it lists for sale infringing products. It does not matter that counsel for NBA Properties purchased the goods, as actual confusion is not necessary. The likelihood of confusion, the basis for the suit, is sufficiently related to HANWJH's act of selling the infringing product to Illinois, the basis for personal jurisdiction, that due process is not offended.
 
-#[C. Traditional Notions of Fair Play & Substantial Justice]{.case-h1}
+[C. Traditional Notions of Fair Play & Substantial Justice]{.case-h2}
 
 We now examine whether subjecting HANWJH to jurisdiction in Illinois offends our traditional notions of fair play and substantial justice. Once purposeful minimum contacts are established, we look at other factors to determine whether asserting jurisdiction would comport with fair play and substantial justice. Thus, courts may evaluate:
 
@@ -738,7 +738,7 @@ Lawmakers across the country soon responded to these stratagems. Relevant here, 
 
 [III]{.case-h1}
 
-#[A]{.case-h1}
+[A]{.case-h2}
 
 Unsurprisingly, some corporations challenged statutes like these on various grounds, due process included. And, ultimately, one of these disputes reached this Court in _Pennsylvania Fire_.
 
@@ -752,7 +752,7 @@ Dissatisfied with this answer, _Pennsylvania Fire_ turned here. Writing for a un
 
 That assessment was understandable. Not only had the Missouri Supreme Court issued a thoughtful opinion. Not only did a similar rule apply to transitory actions against individuals. Other leading judges, including Learned Hand and Benjamin Cardozo, had reached similar conclusions in similar cases in the years leading up to _Pennsylvania Fire_. In the years following _Pennsylvania Fire_, too, this Court reaffirmed its holding as often as the issue arose. 
 
-#[B]{.case-h1}
+[B]{.case-h2}
 
 _Pennsylvania Fire_ controls this case. Much like the Missouri law at issue there, the Pennsylvania law at issue here provides that an out-of-state corporation “may not do business in this Commonwealth until it registers with” the Department of State. As part of the registration process, a corporation must identify an “office” it will “continuously maintain” in the Commonwealth. Upon completing these requirements, the corporation “shall enjoy the same rights and privileges as a domestic entity and shall be subject to the same liabilities, restrictions, duties and penalties imposed on domestic entities.” Among other things, Pennsylvania law is explicit that “qualification as a foreign corporation” shall permit state courts to “exercise general personal jurisdiction” over a registered foreign corporation, just as they can over domestic corporations. 
 
@@ -766,7 +766,7 @@ In the proceedings below, the Pennsylvania Supreme Court seemed to recognize tha
 
 Now before us, Norfolk Southern candidly asks us to do what the Pennsylvania Supreme Court could not—overrule _Pennsylvania Fire_. To smooth the way, Norfolk Southern suggests that this Court’s decision in _International Shoe Co. v. Washington_ has already done much of the hard work for us. That decision, the company insists, seriously undermined _Pennsylvania Fire_’s foundations. We disagree. The two precedents sit comfortably side by side. 
 
-#[A]{.case-h1}
+[A]{.case-h2}
 
 Start with how Norfolk Southern sees things. On the company’s telling, echoed by the dissent, _International Shoe_ held that the Due Process Clause tolerates two (and only two) types of personal jurisdiction over a corporate defendant. First, “specific jurisdiction” permits suits that “‘arise out of or relate to’” a corporate defendant’s activities in the forum State. Second, “general jurisdiction” allows all kinds of suits against a corporation, but only in States where the corporation is incorporated or has its “principal place of business.” After _International Shoe_, Norfolk Southern insists, no other bases for personal jurisdiction over a corporate defendant are permissible. 
 
@@ -778,7 +778,7 @@ That Norfolk Southern overreads _International Shoe_ finds confirmation in that 
 
 Given all this, it is no wonder that we have already turned aside arguments very much like Norfolk Southern’s. In Burnham, the defendant contended that _International Shoe_ implicitly overruled the traditional tag rule holding that individuals physically served in a State are subject to suit there for claims of any kind. This Court rejected that submission. Instead, as Justice Scalia explained, _International Shoe_ simply provided a “novel” way to secure personal jurisdiction that did nothing to displace other “traditional ones.” What held true there must hold true here.
 
-#[B]{.case-h1}
+[B]{.case-h2}
 
 Norfolk Southern offers several replies, but none persuades. The company begins by pointing to this Court’s decision in Shaffer. There, as the company stresses, the Court indicated that “‘prior decisions inconsistent with’ ” _International Shoe_ “ ‘are overruled.’” True as that statement may be, however, it only poses the question whether _Pennsylvania Fire_ is “inconsistent with” _International Shoe_. And, as we have seen, it is not. Instead, the latter decision expanded upon the traditional grounds of personal jurisdiction recognized by the former. This Court has previously cautioned litigants and lower courts against (mis)reading Shaffer as suggesting that _International Shoe_ discarded every traditional method for securing personal jurisdiction that came before. We find ourselves repeating the admonition today.
 

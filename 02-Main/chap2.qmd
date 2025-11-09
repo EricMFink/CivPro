@@ -87,8 +87,6 @@ The purpose of the rule is to promote trial convenience and expedite the final d
 
 > Under the Rules, the impulse is toward entertaining the broadest possible scope of action consistent with fairness to the parties; joinder of claims, parties and remedies is strongly encouraged.
 
-_United Mine Workers of America v. Gibbs_.
-
 Permissive joinder is not, however, applicable in all cases. The rule imposes two specific requisites to the joinder of parties: (1) a right to relief must be asserted by, or against, each plaintiff or defendant relating to or arising out of the same _transaction or occurrence, or series of transactions or occurrences;_ and (2) some _question of law or fact common_ to all the parties must arise in the action.
 
 In ascertaining whether a particular factual situation constitutes a single transaction or occurrence for purposes of Rule 20, a case by case approach is generally pursued. No hard and fast rules have been established under the rule. However, construction of the terms "transaction or occurrence" as used in the context of Rule 13(a) counterclaims offers some guide to the application of this test. For the purposes of the latter rule,
@@ -358,11 +356,11 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them:
 
-**Rule 13(g)**
+_Rule 13(g)_
 
 > \[A\] crossclaim may include a claim that the coparty _is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant_.
 
-**Rule 14(a)**
+_Rule 14(a)_
 
 > A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who _is or may be liable to it for all or part of the claim against it_.
 

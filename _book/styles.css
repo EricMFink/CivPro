@@ -52,9 +52,9 @@ h3 {
 }
 h4 {
 	font-family: "Literata",serif;
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 	font-style: normal;
-	font-weight: 500;
+	font-weight: 400;
 	line-height: 1.4;
 	text-align: left;
 	margin: 1.5rem 0 .5rem 0;
@@ -62,7 +62,7 @@ h4 {
 }
 h5 {
 	font-family: "Literata",serif;
-	font-size: 1.1rem;
+	font-size: 1rem;
 	font-style: italic;
 	font-weight: 400;
 	line-height: 1.2;
@@ -79,28 +79,24 @@ h5 {
 p {
 	font-size: 1rem;
 	margin: .5rem 0 .5rem 0;
-	max-width: 40rem;
 }
 
 .blockquote {
 	color: #191919;
 	margin: .5rem 0 .5rem 0;
 	padding: 0 2rem 0 2rem;
-	max-width: 40rem;
-	border-left: 1px solid #800000;
+	border: none;
 }
 .blockquote p {
 	color: #191919;
 	font-size: 0.9rem;
 	font-style: normal;
 	line-height: 1.2;
-	max-width: 40rem;
 }
 
 ol, ul {
 	margin: 0 0 0 0;
 	padding-left: 2.5rem;
-	max-width: 40rem;
 }
 
 /* Styles for cases & readings */
@@ -108,42 +104,44 @@ ol, ul {
 /* Case section headings */
 .case-h1 {
 	font-family: "Literata",serif;
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 	font-style: normal;
-	font-weight: 500;
-	line-height: 1.3;
-	margin: 2rem auto .5rem auto;
+	font-weight: 400;
+	line-height: 1.1;
+	text-align: center;
+	margin: 1.5rem 0 0 0;
 	padding: 0 0 0 0;
-	max-width: 40rem;
+	display: block;
 	list-style: outside none none !important;
 }
+
 .case-h2 {
 	font-family: "Literata",serif;
-	font-size: 1.1rem;
+	font-size: 1rem;
 	font-style: italic;
 	font-weight: 400;
-	line-height: 1.2;
-	margin: 1rem auto .5rem auto;
+	line-height: 1.1;
+	text-align: center;
+	margin: .5rem 0 0 0;
 	padding: 0 0 0 0;
-	max-width: 40rem;
+	display: block;
 	list-style: outside none none !important;
 }
 .case-h3 {
 	font-family: "Literata",serif;
 	font-size: 1rem;
-	font-style: italic;
+	font-style: normal;
 	font-weight: 400;
-	line-height: 1.2;
-	margin: 1rem auto .5rem auto;
+	line-height: 1.1;
+	text-align: center;
+	margin: 1.25rem auto .5rem auto;
 	padding: 0 0 0 0;
-	max-width: 40rem;
 	list-style: outside none none !important;
 }
 .case .blockquote {
 	color: #191919;
 	margin: .5rem 0 .5rem 0;
 	padding: 0 2rem 0 2rem;
-	max-width: 40rem;
 	border: none;
 }
 .case .blockquote p {
@@ -151,12 +149,11 @@ ol, ul {
 	font-size: 0.9rem;
 	font-style: normal;
 	line-height: 1.3;
-	max-width: 40rem;
+	border: none;
 }
 .case ol, ul {
 	margin: 0 0 0 0;
 	padding-left: 2.5rem;
-	max-width: 40rem;
 }
 .case li {
 	margin-top: .5rem;
@@ -420,7 +417,6 @@ a:active {
 .titlepage {
 	font-family: "Literata",serif;
 	text-align: right;
-	max-width: 40rem;
 
 }
 .titlepage h1 {
@@ -587,7 +583,6 @@ a:active {
 /* References */
 div.csl-bib-body {
 	margin-left:0em;
-	max-width: 40rem;
 }
 div.csl-entry {
 	clear: both;
@@ -720,7 +715,6 @@ footer.footer .nav-footer, #quarto-header > nav {
 .callout.callout-style-default .callout-body {
 	font-size: .9rem;
 	font-weight: 400;
-	max-width: 40rem;
 }
 .callout p {
 	font-family: "Adelle-Sans", sans-serif;
