@@ -204,11 +204,20 @@ Although federal courts are located in every state, they are not the only forum 
 - (a\) The Supreme Court shall transmit to the Congress not later than May 1 of the year in which a rule prescribed under section 2072 is to become effective a copy of the proposed rule. Such rule shall take effect no earlier than December 1 of the year in which such rule is so transmitted unless otherwise provided by law. The Supreme Court may fix the extent such rule shall apply to proceedings then pending, except that the Supreme Court shall not require the application of such rule to further proceedings then pending to the extent that, in the opinion of the court in which such proceedings are pending, the application of such rule in such proceedings would not be feasible or would work injustice, in which event the former rule applies.
 - (b\) Any such rule creating, abolishing, or modifying an evidentiary privilege shall have no force or effect unless approved by Act of Congress.
 
-#### Fed. R. Civ. P. Rule 1
+:::
+
+
+### Fed. R. Civ. P. Rule 1
+
+::: {.legalcode}
 
 These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every action and proceeding.
 
-#### Fed. R. Civ. P. Rule 2
+:::
+
+### Fed. R. Civ. P. Rule 2
+
+::: {.legalcode}
 
 There is one form of action—the civil action.
 

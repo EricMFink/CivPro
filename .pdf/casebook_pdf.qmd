@@ -2065,7 +2065,7 @@ In _Grable_, the Supreme Court sought to clarify when a state-law claim with an 
 
 But the _Grable_ standard is an exception to the Holmes "creation test". Even though state law creates the plaintiff's cause of action (which, for Holmes, would mean the claim did not "arise under" federal law), the presence of a federal issue as an element of the claim may nonetheless confer federal jurisdiction under §1331.
 
-#### Rule
+### Fed R. Civ. P. Rule
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
 
@@ -2857,7 +2857,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ### The Rules Enabling Act, 28 U.S.C. §2071
 
-#### Rules of procedure and evidence; power to prescribe
+### Fed R. Civ. P. Rules of procedure and evidence; power to prescribe
 
 (a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
 
@@ -4043,7 +4043,7 @@ Courts must comply with certain procedural requirements before imposing sanction
 
 Consistent with Rule 11(c)(3), the Court issued its Show Cause Order in November 2022 and provided Mr. Shaw, Mr. Matheny, and the moving defendants with an opportunity to be heard. All have taken advantage of the opportunity to submit evidence and briefs.
 
-#### Rule 11(b)(2) and (3)
+### Fed R. Civ. P. Rule 11(b)(2) and (3)
 
 By signing a motion, an attorney certifies that "the claims, defenses, and other legal contentions" contained within "are warranted by existing law or by a nonfrivolous argument," Fed. R. Civ. P. 11(b)(2), and that "the factual contentions have evidentiary support" or "will likely have evidentiary support" after further discovery or investigation. Fed. R. Civ. P. 11(b)(3). Rule 11 "imposes on any party who signs a pleading, motion, or other paper ... an affirmative duty to conduct a reasonable inquiry into the facts and the law before filing." "The applicable standard is one of reasonableness under the circumstances."
 
@@ -4091,7 +4091,7 @@ This might be true; both Mr. Shaw and Mr. Matheny say so. But it is no excuse. M
 
 The Court finds by clear and convincing evidence that both Mr. Shaw and Mr. Matheny violated Federal Rule of Civil Procedure 11(b)(2) and (3) when they filed the motion for attorney's fees without legal or factual support and without undertaking a reasonable investigation into the law.
 
-#### Rule 11(b)(1)
+### Fed R. Civ. P. Rule 11(b)(1)
 
 Rule 11 requires attorneys to certify that motions are "not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation." Fed. R. Civ. P. 11(a)-(b)(1). The subjective opinion of an injured party that the motion was made to harass is insufficient to show an attorney had an improper purpose under Rule 11(b)(1); "instead, such improper purposes must be derived from the motive of the signer." This analysis must focus on the purpose of the filing, not its consequences.
 

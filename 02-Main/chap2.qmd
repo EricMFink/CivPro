@@ -2,16 +2,18 @@
 
 ## Permissive Joinder of Claims
 
-### Fed. R. Civ. P. 
+### Fed. R. Civ. P. Rule 18
 
 ::: {.legalcode}
-
-#### Rule 18
 
 - (a\) In General. A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
 - (b\) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties' relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money.
 
-#### Rule 42
+::: 
+
+### Fed. R. Civ. P. Rule 42
+
+::: {.legalcode}
 
 - (a\) Consolidation. If actions before the court involve a common question of law or fact, the court may:
 	- (1\) join for hearing or trial any or all matters at issue in the actions;
@@ -117,11 +119,9 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ## Counterclaims
 
-### Fed. R. Civ. P. 
+### Fed. R. Civ. P. Rule 13
 
 ::: {.legalcode}
-
-#### Rule 13
 
 - (a\) Compulsory Counterclaim.
 	- (1\) In General. A pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim:
@@ -291,11 +291,9 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ## Crossclaims
 
-### Fed. R. Civ. P. 
+### Fed. R. Civ. P. Rule 13
 
 ::: {.legalcode}
-
-#### Rule 13
 
 - (g\) Crossclaim Against a Coparty. A pleading may state as a crossclaim any claim by one party against a coparty if the claim arises out of the transaction or occurrence that is the subject matter of the original action or of a counterclaim, or if the claim relates to any property that is the subject matter of the original action. The crossclaim may include a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant.
 - (h\) Joining Additional Parties. Rules 19 and 20 govern the addition of a person as a party to a counterclaim or crossclaim.
@@ -342,11 +340,9 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 ## Third-Party Defendants & Claims
 
-### Fed. R. Civ. P. 
+### Fed. R. Civ. P. Rule 14
 
 ::: {.legalcode}
-
-#### Rule 14
 
 - (a\) When a Defending Party May Bring in a Third Party.
 	- (1\) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
@@ -480,11 +476,9 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ## Required Parties
 
-### Fed. R. Civ. P. 
+### Fed. R. Civ. P. Rule 19
 
 ::: {.legalcode}
-
-#### Rule 19
 
 - (a\) Persons Required to Be Joined if Feasible.
 	- (1\) Required Party. A person who is subject to service of process and whose joinder will not deprive the court of subject-matter jurisdiction must be joined as a party if:

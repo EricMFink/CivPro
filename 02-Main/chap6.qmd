@@ -1,16 +1,17 @@
 # Pleading
 
 ## Pleading Under the FRCP
-
-### Fed. R. Civ. P. 
+### Fed R. Civ. P. Rule 3
 
 ::: {.legalcode}
 
-#### Rule 3
-
 A civil action is commenced by filing a complaint with the court.
 
-#### Rule 7
+:::
+
+### Fed R. Civ. P. Rule 7
+
+::: {.legalcode}
 
 - (a\) Pleadings. Only these pleadings are allowed:
 	- (1\) a complaint;
@@ -27,7 +28,11 @@ A civil action is commenced by filing a complaint with the court.
 		- (C\) state the relief sought.
 	- (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
 
-#### Rule 8
+:::
+
+### Fed R. Civ. P. Rule 8
+
+::: {.legalcode}
 
 - (d\) Pleading to Be Concise and Direct; Alternative Statements; Inconsistency.
 	- (1\) _In General._ Each allegation must be simple, concise, and direct. No technical form is required.
@@ -35,13 +40,21 @@ A civil action is commenced by filing a complaint with the court.
 	- (3\) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
 - (e\) Construing Pleadings. Pleadings must be construed so as to do justice.
 
-#### Rule 10
+:::
+
+### Fed R. Civ. P. Rule 10
+
+::: {.legalcode}
 
 - (a\) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
 - (b\) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
 - (c\) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-#### Rule 12
+:::
+
+### Fed R. Civ. P. Rule 12
+
+::: {.legalcode}
 
 - (e\) Motion for a More Definite Statement. A party may move for a more definite statement of a pleading to which a responsive pleading is allowed but which is so vague or ambiguous that the party cannot reasonably prepare a response. The motion must be made before filing a responsive pleading and must point out the defects complained of and the details desired. If the court orders a more definite statement and the order is not obeyed within 14 days after notice of the order or within the time the court sets, the court may strike the pleading or issue any other appropriate order.
 - (f\) Motion to Strike. The court may strike from a pleading an insufficient defense or any redundant, immaterial, impertinent, or scandalous matter. The court may act:
@@ -98,18 +111,20 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ## Claims for Relief
 
-### Fed. R. Civ. P. 
+### Fed R. Civ. P. Rule 8
 
 ::: {.legalcode}
-
-#### Rule 8
 
 - (a\) Claim for Relief. A pleading that states a claim for relief must contain:
 	- (1\) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
 	- (2\) a short and plain statement of the claim showing that the pleader is entitled to relief; and
 	- (3\) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
-#### Rule 9
+:::
+
+### Fed R. Civ. P. Rule 9
+
+::: {.legalcode}
 
 - (a\) Capacity or Authority to Sue; Legal Existence.
 	- (1\) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
@@ -294,11 +309,9 @@ Although the analysis of the control element does not depend on the presence or 
 
 ## Responsive Pleadings
 
-### Fed. R. Civ. P. 
+### Fed R. Civ. P. Rule 8
 
 ::: {.legalcode}
-
-#### Rule 8
 
 - (b\) Defenses; Admissions and Denials.
 	- (1\) In General. In responding to a pleading, a party must:
@@ -331,7 +344,11 @@ Although the analysis of the control element does not depend on the presence or 
 		- • waiver.
 	- (2\) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so.
 
-#### Rule 12
+:::
+
+### Fed R. Civ. P. Rule 12
+
+::: {.legalcode}
 
 - (a\) Time to Serve a Responsive Pleading.
 	- (1\) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
@@ -442,11 +459,9 @@ Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a ge
 
 ## Amended Pleadings
 
-### Fed. R. Civ. P.
+### Fed R. Civ. P. Rule 15
 
 ::: {.legalcode}
-
-#### Rule 15
 
 - (a\) Amendments Before Trial.
 	- (1\) _Amending as a Matter of Course._ A party may amend its pleading once as a matter of course within:
@@ -616,11 +631,11 @@ What does the court mean here?
 
 ## Truthfulness & Good Faith
 
-### Fed. R. Civ. P. 
+### Fed R. Civ. P. Rule 11
 
 ::: {.legalcode}
 
-#### Rule 11. Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions
+#### Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions
 
 - (a\) Signature. Every pleading, written motion, and other paper must be signed by at least one attorney of record in the attorney's name—or by a party personally if the party is unrepresented. The paper must state the signer's address, e-mail address, and telephone number. Unless a rule or statute specifically states otherwise, a pleading need not be verified or accompanied by an affidavit. The court must strike an unsigned paper unless the omission is promptly corrected after being called to the attorney's or party's attention.
 - (b\) Representations to the Court. By presenting to the court a pleading, written motion, or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
@@ -835,7 +850,7 @@ Courts must comply with certain procedural requirements before imposing sanction
 
 Consistent with Rule 11(c)(3), the Court issued its Show Cause Order in November 2022 and provided Mr. Shaw, Mr. Matheny, and the moving defendants with an opportunity to be heard. All have taken advantage of the opportunity to submit evidence and briefs.
 
-#### Rule 11(b)(2) and (3)
+#### Fed R. Civ. P. 11(b)(2) and (3)
 
 By signing a motion, an attorney certifies that "the claims, defenses, and other legal contentions" contained within "are warranted by existing law or by a nonfrivolous argument," Fed. R. Civ. P. 11(b)(2), and that "the factual contentions have evidentiary support" or "will likely have evidentiary support" after further discovery or investigation. Fed. R. Civ. P. 11(b)(3). Rule 11 "imposes on any party who signs a pleading, motion, or other paper ... an affirmative duty to conduct a reasonable inquiry into the facts and the law before filing." "The applicable standard is one of reasonableness under the circumstances."
 
@@ -883,7 +898,7 @@ This might be true; both Mr. Shaw and Mr. Matheny say so. But it is no excuse. M
 
 The Court finds by clear and convincing evidence that both Mr. Shaw and Mr. Matheny violated Federal Rule of Civil Procedure 11(b)(2) and (3) when they filed the motion for attorney's fees without legal or factual support and without undertaking a reasonable investigation into the law.
 
-#### Rule 11(b)(1)
+#### Fed R. Civ. P. 11(b)(1)
 
 Rule 11 requires attorneys to certify that motions are "not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation." Fed. R. Civ. P. 11(a)-(b)(1). The subjective opinion of an injured party that the motion was made to harass is insufficient to show an attorney had an improper purpose under Rule 11(b)(1); "instead, such improper purposes must be derived from the motive of the signer." This analysis must focus on the purpose of the filing, not its consequences.
 

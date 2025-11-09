@@ -2,7 +2,7 @@
 
 ## Standard for Summary Judgment
 
-### Fed. R. Civ. P. Rule 56 (a), (b), & (g)
+### Fed. R. Civ. P. Rule 56
 
 ::: {.legalcode}
 
@@ -118,11 +118,9 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 ## Burden of Production 
 
-### Fed. R. Civ. P.
+### Fed. R. Civ. P. Rule 56
 
 ::: {.legalcode}
-
-#### Rule 56(c)-(e)
 
 - (c\) Procedures.
 	- (1\) _Supporting Factual Positions._ A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
@@ -151,7 +149,7 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 ::: {.legalcode}
 
-#### Rule 26(a)
+### Fed R. Civ. P. Rule 26(a)
 
 - (1\) Initial Disclosure.
 	- (A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:
