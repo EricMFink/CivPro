@@ -599,18 +599,16 @@ It follows from this conclusion that the threshold requirement of §1367(a) is s
 
 Sometimes a plaintiff will file a suit in state court, even though a federal court would also have subject matter jurisdiction over the claims asserted. In such cases, the defendant may be able to remove the suit to federal court. The conditions and procedures for removal are governed by federal statute. 
 
-### 28 U.S.C. § 1441
+### Federal Removal Statute, 28 U.S.C. § 1441 et seq.
 
-#### Removal of civil actions
+#### § 1441. Removal of civil actions
 
 ::: {.legalcode}
 - (a\) Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending ….
 - (b\) Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or law of the United States, shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
 :::
 
-### 28 U.S.C. § 1445
-
-#### Nonremovable actions
+#### § 1445. Nonremovable actions
 
 ::: {.legalcode}
 - (a\) A civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C.§51–54, 55–60), may not be removed to any district court of the United States.
@@ -623,9 +621,34 @@ Sometimes a plaintiff will file a suit in state court, even though a federal cou
 Three of the non-removable actions under § 1445 involve claims arising under federal statutes: the Federal Employers' Liability Act (liability of railroads for injuries to employees), 45 U.S.C.§ 51 et seq.; the Interstate Commerce Commission Termination Act (liability of rail carriers, motor carriers, & freight forwarders for loss or damage to property), 49 U.S.C. §§  11706 & 14706; and the Violence Against Women Act, § 40302 (civil liability and private right of action for crimes of violence motivated by gender.). Those statutes expressly allow suits to be brought in either federal or state court. But, if the plaintiff sues in state court, the defendant may not remove, even though the federal court would have original jurisdiction under §1331. In _U.S. v. Morrison_, 529 U.S. 598 (2000), the Supreme Court struck down § 40302 of the Violence Against Women Act, holding that Congress lacked constitutional authority to this cause of action. Consequently, § 1445(d) is now moot. 
 ::: 
 
-### 28 U.S.C. § 1447
 
-#### Procedure after removal generally
+#### Procedures for removal 
+
+::: {.legalcode}
+- (a\) Generally.—
+- A defendant or defendants desiring to remove any civil action from a State court shall file in the district court of the United States for the district and division within which such action is pending a notice of removal signed pursuant to Rule 11 of the Federal Rules of Civil Procedure and containing a short and plain statement of the grounds for removal, together with a copy of all process, pleadings, and orders served upon such defendant or defendants in such action.
+- (b) Requirements; Generally.—
+	- (1) The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
+	- (2)
+		- (A)When a civil action is removed solely under section 1441(a), all defendants who have been properly joined and served must join in or consent to the removal of the action.
+		- (B) Each defendant shall have 30 days after receipt by or service on that defendant of the initial pleading or summons described in paragraph (1) to file the notice of removal.
+		- (C) If defendants are served at different times, and a later-served defendant files a notice of removal, any earlier-served defendant may consent to the removal even though that earlier-served defendant did not previously initiate or consent to removal.
+	- (3) Except as provided in subsection (c), if the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable.
+- (c) Requirements; Removal Based on Diversity of Citizenship.—
+	- (1) A case may not be removed under subsection (b)(3) on the basis of jurisdiction conferred by section 1332 more than 1 year after commencement of the action, unless the district court finds that the plaintiff has acted in bad faith in order to prevent a defendant from removing the action.
+	- (2) If removal of a civil action is sought on the basis of the jurisdiction conferred by section 1332(a), the sum demanded in good faith in the initial pleading shall be deemed to be the amount in controversy, except that—
+		- (A) the notice of removal may assert the amount in controversy if the initial pleading seeks—
+			- (i) nonmonetary relief; or
+			- (ii) a money judgment, but the State practice either does not permit demand for a specific sum or permits recovery of damages in excess of the amount demanded; and
+		- (B) removal of the action is proper on the basis of an amount in controversy asserted under subparagraph (A) if the district court finds, by the preponderance of the evidence, that the amount in controversy exceeds the amount specified in section 1332(a).
+	- (3)
+		- (A) If the case stated by the initial pleading is not removable solely because the amount in controversy does not exceed the amount specified in section 1332(a), information relating to the amount in controversy in the record of the State proceeding, or in responses to discovery, shall be treated as an “other paper” under subsection (b)(3).
+		- (B) If the notice of removal is filed more than 1 year after commencement of the action and the district court finds that the plaintiff deliberately failed to disclose the actual amount in controversy to prevent removal, that finding shall be deemed bad faith under paragraph (1).
+- (d) Notice to Adverse Parties and State Court.—
+- Promptly after the filing of such notice of removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
+:::
+
+#### § 1447. Procedure after removal generally
 
 ::: {.legalcode}
 - (a\) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
