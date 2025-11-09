@@ -4,16 +4,15 @@
 
 ### U.S. Constitution
 
-::: {.legalcode}
-
 #### Amendment V
-
+::: {.legalcode}
 - No person shall ... be deprived of life, liberty, or property, without due process of law;
+:::
 
-#### Amendment XIV, sec. 1
+#### Amendment XIV
 
-- ... nor shall any state deprive any person of life, liberty, or property, without due process of law;
-
+::: {.legalcode}
+- § 1 ... nor shall any state deprive any person of life, liberty, or property, without due process of law;
 :::
 
 ### Pennoyer v. Neff (U.S. 1878) 
@@ -73,12 +72,11 @@ It follows from the views expressed that the personal judgment recovered in the 
 **_Pennoyer_'s Backstory**: The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossession of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonencyclopedia.org/articles/exclusion_laws/).
 
 [John H. Mitchell](https://www.oregonencyclopedia.org/articles/mitchell_john_hipple_1835_1905_) and [Sylvester Pennoyer](https://www.oregonencyclopedia.org/articles/pennoyer_sylvester_1831_1902_/) were significant and colorful political figures in Oregon. Marcus Neff's widow was later a party to another suit involving the same property, once again turning on a dispute with a lawyer for payment of his fees. [Wells v. Neff](../exhibits/Wells-Neff-1886.pdf), 14 Or. 66 (1886). For further background on _Pennoyer v. Neff_ and a discussion of its significance for modern personal jurisdiction doctrine, see Perdue (1987).
-
 :::
 
 ### International Shoe Co. v. Washington (U.S. 1945) 
 
-#### Chief Justice STONE delivered the opinion of the Court.
+#### Chief Justice Stone delivered the opinion of the Court.
 
 The questions for decision are (1) whether, within the limitations of the due process clause of the Fourteenth Amendment, appellant, a Delaware corporation, has by its activities in the State of Washington rendered itself amenable to proceedings in the courts of that state to recover unpaid contributions to the state unemployment compensation fund exacted by state statutes, and (2) whether the state can exact those contributions consistently with the due process clause of the Fourteenth Amendment.
 
@@ -144,7 +142,7 @@ In this case, the suit does not arise out of any contacts between Dan and North 
 
 ### McGee v. International Life Ins. Co. (U.S. 1957) 
 
-#### Opinion of the Court by Justice BLACK, announced by Justice DOUGLAS.
+#### Opinion of the Court by Justice Black, announced by Justice Douglas.
 
 Petitioner, Lulu B. McGee, recovered a judgment in a California state court against respondent, International Life Insurance Company, on a contract of insurance. Respondent was not served with process in California but by registered mail at its principal place of business in Texas. The California court based its jurisdiction on a state statute which subjects foreign corporations to suit in California on insurance contracts with residents of that State even though such corporations cannot be served with process within its borders.
 
@@ -246,7 +244,7 @@ In answering the question whether or not it is fair and reasonable to allow a pa
 
 The conclusion I draw is that constitutional concepts of fairness no longer require the extreme concern for defendants that was once necessary. Rather, minimum contacts must exist "among the _parties,_ the contested transaction, and the forum State." The contacts between any two of these should not be determinate.
 
-#### Justice BLACKMUN, dissenting.
+#### Justice Blackmun, dissenting.
 
 I confess that I am somewhat puzzled why the plaintiffs in this litigation are so insistent that the regional distributor and the retail dealer, the petitioners here, who handled the ill-fated Audi automobile involved in this litigation, be named defendants.[One reason the Robinsons may have joined the distributor and dealer is to prevent removal of the case from state to federal court. _See_ Chap. 4.]{.aside} It would appear that the manufacturer and the importer, whose subjectability to Oklahoma jurisdiction is not challenged before this Court, ought not to be judgment-proof. It may, of course, ultimately amount to a contest between insurance companies that, once begun, is not easily brought to a termination. Having made this much of an observation, I pursue it no further.
 
@@ -378,7 +376,7 @@ None of this is to cast doubt on the outcome of these cases. The parties have no
 
 Kathy Griffin, a California-based celebrity and social activist, sent a series of tweets to her two million Twitter followers asserting that Tennessean Samuel Johnson, the CEO of Tennessee-based Visu-Well, had engaged in homophobic conduct. She encouraged her followers to make him "online famous" and tagged his company. She then asked his employer to "remove" him from the Board of Directors and threatened that the "nation would remain vigilant" if it did not. Within a day of her first tweets, the company fired Johnson and removed him from the Board. Johnson and his wife sued Griffin in federal court in Tennessee, claiming (among other things) that she tortiously interfered with his employment. Griffin argued that her tweets did not subject her to the State's personal jurisdiction, and the district court dismissed the case. We disagree and reverse.
 
-#### I.
+[I.]{.case-h1}
 
 On April 24, 2021, Samuel Johnson sat down for dinner at a hotel in Franklin, Tennessee. Shortly after, a group of forty to fifty teenagers began taking prom pictures nearby. The boisterous teenagers apparently disturbed Johnson and other customers, prompting him to ask the chaperone to settle them down. One of the teens, who was wearing a red prom dress, overheard the request and confronted Johnson, all while his boyfriend filmed the interaction. The video is not a picture (or record) of clarity. But at a minimum, it captures Johnson saying that the student in the red dress "looks like an idiot." And at a minimum, it captures the boyfriend trying to goad Johnson into reacting still more negatively to the student's attire. Johnson left the hotel to have dinner somewhere else.
 
@@ -390,7 +388,7 @@ In response to Griffin's first tweet, several VisuWell customers condemned Johns
 
 The Johnsons sued Griffin in federal court in Tennessee for tortiously interfering with Johnson's employment, inflicting emotional distress, invading their privacy, and negligently injuring them. The district court dismissed the lawsuit for lack of personal jurisdiction over Griffin.
 
-#### II.
+[II.]{.case-h1}
 
 Federal courts start with state law in determining whether they have personal jurisdiction over a defendant in a diversity case. At its broadest, Tennessee's long-arm statute authorizes courts to exercise personal jurisdiction "on any basis not inconsistent with the constitution ... of the United States." The Fourteenth Amendment's Due Process Clause limits state courts' ability to exercise jurisdiction over an out-of-state defendant. Because the parties have not identified any other section of Tennessee's long-arm statute that would determine jurisdiction here, "due process is all we must address." 
 
@@ -422,7 +420,7 @@ What of the reality that, by tagging VisuWell, she also facilitated her broader 
 
 The plaintiffs in the underlying litigation are professional or collegiate sports associations who own, or license, trademarks related to their respective sports. The plaintiffs filed this action under the Lanham Act, 15 U.S.C. §1051, et seq., against a list of defendants listed in Schedule A of the complaint. In the complaint, NBA Properties, Inc. alleged that HANWJH, a China-based online retailer, infringed NBA Properties' trademarks by selling counterfeit products in its online stores. After the deadline to answer expired, HANWJH moved to dismiss the complaint for lack of personal jurisdiction. The district court denied the motion and entered a default under Federal Rule of Civil Procedure 55(a). The district court instructed the parties to file any objections to the motion for default judgment. After the deadline expired without objection, the district court entered a final judgment. HANWJH timely appealed. For the reasons set forth in this opinion, we affirm the judgment of the district court.
 
-#### I
+[I]{.case-h1}
 
 NBA Properties is the owner and exclusive licensee of the trademarks of the National Basketball Association ("NBA") and NBA teams. HANWJH sells products allegedly infringing on the NBA trademarks via Amazon.com. NBA Properties filed an affidavit from its investigator asserting that HANWJH sold 205 infringing products, available for purchase in Illinois, on its Amazon site. HANWJH offered fortyone different basketball shorts in five different size options.
 
@@ -436,7 +434,7 @@ HANWJH next moved to dismiss and to lift the injunction, arguing that the court 
 
 The district court denied HANWJH's motion to dismiss and simultaneously entered a default. 
 
-#### II
+[II]{.case-h1}
 
 We review a district court's determination of personal jurisdiction de novo. We "take the plaintiff's asserted facts as true and resolve any factual disputes in its favor." When a defendant challenges personal jurisdiction under Federal Rule of Civil Procedure 12(b)(2), however, "the plaintiff bears the burden of demonstrating the existence of jurisdiction." "Where, as here, the district court ruled on the defendant's motion to dismiss without the benefit of an evidentiary hearing, the plaintiff bears only the burden of making a prima facie case for personal jurisdiction." The district court may consider affidavits on the issue of personal jurisdiction; both parties' affidavits are accepted as true, and where they conflict, the plaintiff is entitled to resolution in its favor. 
 
@@ -466,7 +464,7 @@ In _Matlin v. Spin Master Corp._, however, we encountered a case that, when all 
 
 > Third, the plaintiffs attempted to salvage personal jurisdiction— _after_ the defendants moved to dismiss—by luring them into shipping a product into Illinois. Because specific personal jurisdiction derives from the plaintiffs' relevant contacts with the forum, we cannot allow plaintiffs to base jurisdiction on a contact that did not exist at the time they filed suit.
 
-#### III
+[III]{.case-h1}
 
 Having set forth the relevant legal background, we now apply these principles to the case before us. Again, these requirements are:
 
@@ -474,7 +472,7 @@ Having set forth the relevant legal background, we now apply these principles to
 
 As a reminder, our focus is on the contacts that the defendant itself created with the forum state; the defendant cannot be "haled into a jurisdiction solely as a result of random, fortuitous, or attenuated contacts, or of the unilateral activity of another party or a third person."
 
-##### A. Purposeful Direction
+#[A. Purposeful Direction]{.case-h1}
 
 First, we must analyze HANWJH's activity to determine whether it purposefully directed conduct at Illinois. HANWJH has no physical presence in Illinois. "Our cases make clear, however, that physical presence is not necessary for a defendant to have sufficient minimum contacts with a forum state." As in _Curry,_ we again find _Hemi_ particularly instructive. Recall that in _Hemi,_ a single agent of the plaintiff purchased over 300 packs of illegal cigarettes from the defendant cigarette retailer. The sales to the plaintiff's agents supported a finding of personal jurisdiction because the retailer both maintained commercial websites from which one could order goods to Illinois and because it then "knowingly did do business with Illinois residents."
 
@@ -492,7 +490,7 @@ _Matlin_ hardly establishes a categorical rule that multiple online sales, as op
 
 Finally, describing HANWJH's act of filling NBA Properties' order as the unilateral act of the plaintiff is a mischaracterization. Here, HANWJH shipped a product to the forum only after it had structured its sales activity in such a manner as to invite orders from Illinois and developed the capacity to fill them. It cannot now point to its "customers in Illinois and tell us, 'It was all their idea.'"
 
-##### B. Relatedness
+#[B. Relatedness]{.case-h1}
 
 "The proper exercise of specific jurisdiction also requires that the defendant's minimum contacts with the forum state be 'suit-related.'" This requirement is met when direct sales from the defendant in the forum state involve the infringing product.
 
@@ -500,7 +498,7 @@ HANWJH does not contend in its briefing that this litigation is unrelated to its
 
 HANWJH's listing of its product on Amazon.com and its sale of the product to counsel are certainly related sufficiently to the harm of likelihood of confusion. A vendor violates the Lanham Act when it lists for sale infringing products. It does not matter that counsel for NBA Properties purchased the goods, as actual confusion is not necessary. The likelihood of confusion, the basis for the suit, is sufficiently related to HANWJH's act of selling the infringing product to Illinois, the basis for personal jurisdiction, that due process is not offended.
 
-##### C. Traditional Notions of Fair Play & Substantial Justice
+#[C. Traditional Notions of Fair Play & Substantial Justice]{.case-h1}
 
 We now examine whether subjecting HANWJH to jurisdiction in Illinois offends our traditional notions of fair play and substantial justice. Once purposeful minimum contacts are established, we look at other factors to determine whether asserting jurisdiction would comport with fair play and substantial justice. Thus, courts may evaluate:
 
@@ -542,12 +540,11 @@ The Court declined "to delineate the outer bounds of the Federal Government's po
 The Court did not address "whether the statute comports with our cases addressing the circumstances under which a defendant may be deemed, consistent with due process, to have consented to jurisdiction". "Since we hold that the statute ties the assertion of jurisdiction to predicate conduct that in and of itself bears a meaningful relationship to the United States, we need not further consider the matter through the lens of consent."
 
 In a concurring opinion, Justice Thomas, joined in part by Justice Gorsuch, agreed "that the Fourteenth Amendment's 'minimum contacts standard' does not apply to the Fifth Amendment's Due Process Clause" and that the jurisdictional provisions of the PSJVTA satisfy the 5th Amendment. However, they argued that "the Fifth Amendment's Due Process Clause imposes no limits on the Federal Government's power to extend federal jurisdiction beyond the Nation's borders."
-
 :::
 
 ## General Jurisdiction
 
-### Daimler Ag v. Bauman (U.S. 2014) 
+### Daimler AG v. Bauman (U.S. 2014) 
 
 #### Justice Ginsburg delivered the opinion of the Court.
 
@@ -711,7 +708,7 @@ Imagine a lawsuit based on recent events. A few months ago, a Norfolk Southern t
 
 Now, change the hypothetical slightly. Imagine the same Ohio resident brought the same suit in the same Pennsylvania state court, but this time against Norfolk Southern. Assume, too, the company has filed paperwork consenting to appear in Pennsylvania courts as a condition of registering to do business in the Commonwealth. Could a Pennsylvania court hear that case too? You might think so. But today, Norfolk Southern argues that the Due Process Clause entitles it to a more favorable rule, one shielding it from suits even its employees must answer. We reject the company’s argument. Nothing in the Due Process Clause requires such an incongruous result.
 
-##### I
+[I]{.case-h1}
 
 Robert Mallory worked for Norfolk Southern as a freight-car mechanic for nearly 20 years, first in Ohio, then in Virginia. During his time with the company, Mr. Mallory contends, he was responsible for spraying boxcar pipes with asbestos and handling chemicals in the railroad’s paint shop. He also demolished car interiors that, he alleges, contained carcinogens.
 
@@ -725,7 +722,7 @@ Ultimately, the Pennsylvania Supreme Court sided with Norfolk Southern. Yes, Mr.
 
 In light of this split of authority, we agreed to hear this case and decide whether the Due Process Clause of the Fourteenth Amendment prohibits a State from requiring an out-of-state corporation to consent to personal jurisdiction to do business there. 
 
-##### II
+[II]{.case-h1}
 
 The question before us is not a new one. In truth, it is a very old question—and one this Court resolved in _Pennsylvania Fire Ins. Co. of Philadelphia v. Gold Issue Mining & Milling Co._, 243 U. S. 93 (1917). There, the Court unanimously held that laws like Pennsylvania’s comport with the Due Process Clause. Some background helps explain why the Court reached the result it did.
 
@@ -739,9 +736,9 @@ As the use of the corporate form proliferated in the 19th century, the question 
 
 Lawmakers across the country soon responded to these stratagems. Relevant here, both before and after the Fourteenth Amendment’s ratification, they adopted statutes requiring out-of-state corporations to consent to in-state suits in exchange for the rights to exploit the local market and to receive the full range of benefits enjoyed by in-state corporations. These statutes varied. In some States, out-of-state corporate defendants were required to agree to answer suits brought by in-state plaintiffs. In other States, corporations were required to consent to suit if the plaintiff’s cause of action arose within the State, even if the plaintiff happened to reside elsewhere. Still other States (and the federal government) omitted both of these limitations. They required all out-of-state corporations that registered to do business in the forum to agree to defend themselves there against any manner of suit. Yet another group of States applied this all-purpose-jurisdiction rule to a subset of corporate defendants, like railroads and insurance companies. Mr. Mallory has collected an array of these statutes, enacted between 1835 and 1915, in his statutory appendix. 
 
-##### III
+[III]{.case-h1}
 
-##### A
+#[A]{.case-h1}
 
 Unsurprisingly, some corporations challenged statutes like these on various grounds, due process included. And, ultimately, one of these disputes reached this Court in _Pennsylvania Fire_.
 
@@ -755,7 +752,7 @@ Dissatisfied with this answer, _Pennsylvania Fire_ turned here. Writing for a un
 
 That assessment was understandable. Not only had the Missouri Supreme Court issued a thoughtful opinion. Not only did a similar rule apply to transitory actions against individuals. Other leading judges, including Learned Hand and Benjamin Cardozo, had reached similar conclusions in similar cases in the years leading up to _Pennsylvania Fire_. In the years following _Pennsylvania Fire_, too, this Court reaffirmed its holding as often as the issue arose. 
 
-##### B
+#[B]{.case-h1}
 
 _Pennsylvania Fire_ controls this case. Much like the Missouri law at issue there, the Pennsylvania law at issue here provides that an out-of-state corporation “may not do business in this Commonwealth until it registers with” the Department of State. As part of the registration process, a corporation must identify an “office” it will “continuously maintain” in the Commonwealth. Upon completing these requirements, the corporation “shall enjoy the same rights and privileges as a domestic entity and shall be subject to the same liabilities, restrictions, duties and penalties imposed on domestic entities.” Among other things, Pennsylvania law is explicit that “qualification as a foreign corporation” shall permit state courts to “exercise general personal jurisdiction” over a registered foreign corporation, just as they can over domestic corporations. 
 
@@ -765,11 +762,11 @@ _Pennsylvania Fire_ held that suits premised on these grounds do not deny a defe
 
 In the proceedings below, the Pennsylvania Supreme Court seemed to recognize that _Pennsylvania Fire_ dictated an answer in Mr. Mallory’s favor. Still, it ruled for Norfolk Southern anyway. It did so because, in its view, intervening decisions from this Court had “implicitly overruled” _Pennsylvania Fire_. But in following that course, the Pennsylvania Supreme Court clearly erred. As this Court has explained: “If a precedent of this Court has direct application in a case,” as _Pennsylvania Fire_ does here, a lower court “should follow the case which directly controls, leaving to this Court the prerogative of overruling its own decisions.” This is true even if the lower court thinks the precedent is in tension with “some other line of decisions.” 
 
-##### IV
+[IV]{.case-h1}
 
 Now before us, Norfolk Southern candidly asks us to do what the Pennsylvania Supreme Court could not—overrule _Pennsylvania Fire_. To smooth the way, Norfolk Southern suggests that this Court’s decision in _International Shoe Co. v. Washington_ has already done much of the hard work for us. That decision, the company insists, seriously undermined _Pennsylvania Fire_’s foundations. We disagree. The two precedents sit comfortably side by side. 
 
-##### A
+#[A]{.case-h1}
 
 Start with how Norfolk Southern sees things. On the company’s telling, echoed by the dissent, _International Shoe_ held that the Due Process Clause tolerates two (and only two) types of personal jurisdiction over a corporate defendant. First, “specific jurisdiction” permits suits that “‘arise out of or relate to’” a corporate defendant’s activities in the forum State. Second, “general jurisdiction” allows all kinds of suits against a corporation, but only in States where the corporation is incorporated or has its “principal place of business.” After _International Shoe_, Norfolk Southern insists, no other bases for personal jurisdiction over a corporate defendant are permissible. 
 
@@ -781,7 +778,7 @@ That Norfolk Southern overreads _International Shoe_ finds confirmation in that 
 
 Given all this, it is no wonder that we have already turned aside arguments very much like Norfolk Southern’s. In Burnham, the defendant contended that _International Shoe_ implicitly overruled the traditional tag rule holding that individuals physically served in a State are subject to suit there for claims of any kind. This Court rejected that submission. Instead, as Justice Scalia explained, _International Shoe_ simply provided a “novel” way to secure personal jurisdiction that did nothing to displace other “traditional ones.” What held true there must hold true here.
 
-##### B
+#[B]{.case-h1}
 
 Norfolk Southern offers several replies, but none persuades. The company begins by pointing to this Court’s decision in Shaffer. There, as the company stresses, the Court indicated that “‘prior decisions inconsistent with’ ” _International Shoe_ “ ‘are overruled.’” True as that statement may be, however, it only poses the question whether _Pennsylvania Fire_ is “inconsistent with” _International Shoe_. And, as we have seen, it is not. Instead, the latter decision expanded upon the traditional grounds of personal jurisdiction recognized by the former. This Court has previously cautioned litigants and lower courts against (mis)reading Shaffer as suggesting that _International Shoe_ discarded every traditional method for securing personal jurisdiction that came before. We find ourselves repeating the admonition today.
 
@@ -813,7 +810,7 @@ The Court finds a way around this settled rule. All a State must do is compel a 
 
 Such an approach does not formally overrule our traditional contacts-based approach to jurisdiction, but it might as well. By relabeling their long-arm statutes, States may now manufacture “consent” to personal jurisdiction. Because I would not permit state governments to circumvent constitutional limits so easily, I respectfully dissent.
 
-##### I
+[I]{.case-h1}
 
 Personal jurisdiction is the authority of a court to issue a judgment that binds a defendant. If a defendant submits to a court’s authority, the court automatically acquires personal jurisdiction. But if a defendant contests the court’s authority, the court must determine whether it can nevertheless assert coercive power over the defendant. That calculus turns first on the statute or rule defining the persons within the court’s reach. It depends next on the Due Process Clause, which guards a defendant’s right to resist the judicial authority of a sovereign to which it has an insufficient tie. The Clause has the companion role of ensuring that state courts “do not reach out beyond the limits imposed on them by their status as coequal sovereigns in a federal system.”
 
@@ -827,7 +824,7 @@ As the Pennsylvania Supreme Court recognized, this statute “clearly, palpably,
 
 The same rule applies here. The Pennsylvania statute announces that registering to do business in the Commonwealth “shall constitute a sufficient basis” for general jurisdiction. But as our precedent makes crystal clear, simply doing business is insufficient. Absent an exceptional circumstance, a corporation is subject to general jurisdiction only in a State where it is incorporated or has its principal place of business. Adding the antecedent step of registration does not change that conclusion. If it did, “every corporation would be subject to general jurisdiction in every state in which it registered, and Daimler’s ruling would be robbed of meaning by a back-door thief.”
 
-##### II
+[II]{.case-h1}
 
 The Court short-circuits this precedent by characterizing this case as one about consent rather than contacts-based jurisdiction. Consent is an established basis for personal jurisdiction, which is, after all, a waivable defense. “A variety of legal arrangements have been taken to represent express or implied consent to the personal jurisdiction of the court,” including contract, stipulation, and in-court appearance. Today, the Court adds corporate registration to the list.
 
@@ -845,7 +842,7 @@ Pennsylvania’s effort to assert general jurisdiction over every company doing 
 
 The plurality’s response is to fall back, yet again, on “consent.” In its view, because a defendant can waive its personal jurisdiction right, a State can never overreach in demanding its relinquishment. That is not how we treat rights with structural components. The right to remove a case to federal court, for instance, is primarily personal—it secures for a nonresident defendant a federal forum thought to be more impartial. At the same time, however, it serves federal interests by ensuring that federal courts can vindicate federal rights. Recognizing this dual role, we have rejected efforts of States to require defendants to relinquish this (waivable) right to removal as a condition of doing business. The same logic applies here. Pennsylvania’s power grab infringes on more than just the rights of defendants—it upsets the proper role of the States in our federal system.
 
-##### III
+[III]{.case-h1}
 
 The plurality attempts to minimize the novelty of its conclusion by pointing to our decision in _Burnham v. Superior Court of Cal_. There, we considered whether “tag jurisdiction”—personal service upon a defendant physically present in the forum State—remains an effective basis for general jurisdiction after _International Shoe_. We unanimously agreed that it does. The plurality claims that registration jurisdiction for a corporation is just as valid as the “tag jurisdiction” that we approved in _Burnham_. But in drawing this analogy, the plurality omits any discussion of _Burnham_’s reasoning.
 
@@ -873,7 +870,7 @@ In any event, I doubt _Pennsylvania Fire_ would control this case even if it rem
 
 The express power of attorney in _Pennsylvania Fire_ “made service on the insurance superintendent the equivalent of a corporate vote that had accepted service in this specific case.” Norfolk Southern, by contrast, “executed no document like the power of attorney there.” The Court makes much of what Norfolk Southern did write on its forms: It named a “Commercial Registered Office Provider,” it notified Pennsylvania of a merger, and it paid $70 to update its paperwork. None of those documents use the word “agent,” nothing hints at the word “jurisdiction,” and (as the Pennsylvania Supreme Court explained) nothing about that registration is “voluntary.” Consent in _Pennsylvania Fire_ was contained in the document itself; here it is deemed by statute. If “mere formalities” matter as much as the plurality says they do, it should respect this one too. 
 
-##### IV
+[IV]{.case-h1}
 
 By now, it should be clear that the plurality’s primary approach to this case is to look past our personal jurisdiction precedent. Relying on a factsheet downloaded from the internet, for instance, the plurality argues that Norfolk Southern is such a “part of ‘the Pennsylvania Community,’ ” and does so much business there, that its “presence” in Pennsylvania is enough to require it to stand for suits having nothing to do with the Commonwealth. In Daimler, however, we roundly rejected the plaintiff’s request that we “approve the exercise of general jurisdiction in every State in which a corporation ‘engages in a substantial, continuous, and systematic course of business.’” The established test—which the plurality barely acknowledges—is whether the corporation is “at home” in the State. “A corporation that operates in many places,” and must therefore register in just as many, “can scarcely be deemed at home in all of them.” 
 
@@ -893,10 +890,9 @@ Within the outer bounds allowed under the constitutional due process standard, t
 
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
-::: {.legalcode}
-
 #### NY CPLR §302: Personal jurisdiction by acts of non-domiciliaries.
 
+::: {.legalcode}
 - (a\) Acts which are the basis of jurisdiction. As to a cause of action arising from any of the acts enumerated in this section, a court may exercise personal jurisdiction over any non-domiciliary, or his executor or administrator, who in person or through an agent:
 	- 1. transacts any business within the state or contracts anywhere to supply goods or services in the state; or
 	- 2. commits a tortious act within the state, except as to a cause of action for defamation of character arising from the act; or
@@ -909,7 +905,6 @@ Enumerated long-arm statutes identify particular circumstances in which a state'
 - (d\) Foreign defamation judgment. The courts of this state shall have personal jurisdiction over any person who obtains a judgment in a defamation proceeding outside the United States against any person who is a resident of New York or is a person or entity amenable to jurisdiction in New York who has assets in New York or may have to take actions in New York to comply with the judgment, for the purposes of rendering declaratory relief with respect to that person's liability for the judgment, and/or for the purpose of determining whether said judgment  should  be  deemed non-recognizable pursuant to section fifty-three hundred four of this chapter, to the fullest extent permitted by the United States constitution, provided:
 	- 1. the publication at issue was published in New York, and
 	- 2. that resident or person amenable to jurisdiction in New York (i) has assets in New York which might be used to satisfy the foreign defamation judgment, or (ii) may have to take actions in New York to comply with the foreign defamation judgment. The provisions of this subdivision shall apply to persons who obtained judgments in defamation proceedings outside the United States prior to and/or after the effective date of this subdivision.
-
 :::
 
 Under an enumerated long-arm statute, determining whether the court may exercise personal jurisdiction requires a two-step analysis: 
@@ -921,13 +916,10 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
 
-
-::: {.legalcode}
-
 #### Cal. Code Civ. Proc §410.10: Jurisdiction exercisable.
 
+::: {.legalcode}
 A court of this state may exercise jurisdiction on any basis not inconsistent with the Constitution of this state or of the United States.
-
 :::
 
 Under this type of long-arm statute, the same analysis (i.e. does the defendant have minimum contacts with the forum state?) answers both the statutory and constitutional question.

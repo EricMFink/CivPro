@@ -1,21 +1,17 @@
-# Choice of Governing Law
+# Choice of Law in Federal Court
 
-## The Rules of Decision Act
+## Choice of Law Under the Rules of Decision Act
 
 ### The Rules of Decision Act, 28 U.S.C. § 1652
 
-::: {.legalcode}
-
 #### State laws as rules of decision
 
+::: {.legalcode}
 The laws of the several states, except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide, shall be regarded as rules of decision in civil actions in the courts of the United States, in cases where they apply.
-
 :::
 
 ::: {.callout-note}
-
 **"The Laws of the Several States"**: The Rules of Decision Act applies to cases in which federal courts hear claims that arise under state law, i.e. under diversity jurisdiction. Federal courts must apply "the laws of the several states" as the "rules of decision" in such cases. By "rules of decision", the statute means the substantive legal rules governing the claims, i.e. rules that define the rights, duties, and liabilities of the parties. But what does the statute mean by "laws of the several states"?
-
 :::
 
 ### Swift v. Tyson (U.S. 1842) 
@@ -135,7 +131,6 @@ _Fourth_. The defendant contended that by the common law of Pennsylvania as decl
 ::: {.callout-note}
 
 **Postscript to _Erie_.** On remand, the [Court of Appeals](https://scholar.google.com/scholar_case?case=15621582385726516928) concluded that, "Under the Pennsylvania law, the defendant owed no duty to the plaintiff except to refrain from wanton or wilful injury." Because Tompkins neither alleged nor proved that the Railroad acted wantonly or wilfully, the case was remanded to the trial court with directions to enter judgment in favor of the Railroad. For a more detailed account of the incident, including photos of Tompkins before and after his unfortunate encounter with the train, _see_ Frye (2018).
-
 :::
 
 ### Substance and Procedure under _Erie_
@@ -146,7 +141,7 @@ The underlying issue in _Erie_ was one of substantive law: the standard of care 
 
 In the aftermath of _Erie_, the Court sought to provide an answer to the question of how to draw the line between substance and procedure:
 
-##### Guaranty Trust Co. of New York v. York, 326 U.S. 99 (1945)
+[Guaranty Trust Co. of New York v. York, 326 U.S. 99 (1945)]{.case-h1}
 
 York sued Guaranty Trust for breach of fiduciary duty. The issue was whether, "in a suit brought on the equity side[^85d4] of a federal district court that court is required to apply the State statute of limitations that would govern like suits in the courts of a State where the federal court is sitting even though the exclusive basis of federal jurisdiction is diversity of citizenship." If so, the suit would be dismissed as untimely. This turned on whether application of the state statute of limitations to bar "a claim created by the States is a matter of 'substantive rights' to be respected by a federal court of equity when that court's jurisdiction is dependent on the fact that there is a State-created right, or is such statute of 'a mere remedial character, which a federal court may disregard?"
 
@@ -162,13 +157,13 @@ Rather than mechanically applying the labels "substance" and "procedure", the Co
 > 
 > Plainly enough, a statute that would completely bar recovery in a suit if brought in a State court bears on a State-created right vitally and not merely formally or negligibly. As to consequences that so intimately affect recovery or non-recovery a federal court in a diversity case should follow State law.
 
-##### Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530 (1949)
+[Ragan v. Merchants Transfer & Warehouse Co., 337 U.S. 530 (1949)]{.case-h1}
 
 Ragan sued Merchants Transfer for injuries resulting from a traffic accident. A two-year statute of limitations under state law applied. The plaintiff filed the complaint in federal court less than two years after the accident, but did not serve the complaint on the defendant until more than two years had passed. Relying on Fed. R. Civ. P. Rule 3 ("A civil action is commenced by filing a complaint with the court."), the plaintiff argued that filing the complaint was sufficient to satisfy the statute of limitations. The defendant argued that the federal court must follow state law, under which the statute of limitations was not satisfied unless the suit was both filed and served within the allotted time.
 
 As in _Guaranty Trust_, the Court focused on whether applying different rules in state and federal court would yield different outcomes. Once again, the Court held that the federal court must follow state law, under which the plaintiff's right to relief would be extinguished.
 
-##### Woods v. Interstate Realty, 337 U.S. 535 (1949) and Cohen v. Beneficial Indust. Loan Corp, 337 U.S. 541 (1949)
+[Woods v. Interstate Realty, 337 U.S. 535 (1949) and Cohen v. Beneficial Indust. Loan Corp, 337 U.S. 541 (1949)]{.case-h1}
 
 In these two cases, decided together with _Ragan_, the Court likewise held that the federal court must apply state law rules where a contrary federal rule would have yielded different outcomes. _Woods v. Interstate Realty_ (State rule, barring unqualified business from appearing in state court, applies in federal diversity action); _Cohen v. Beneficial Indust. Loan Corp_, (State rule, requiring bond in shareholder derivative suit, applies in federal diversity action, despite lack of bond requirement in FRCP Rule 23.1).
 
@@ -214,23 +209,55 @@ We think that in the circumstances of this case the federal court should not fol
 
 _Third_. We have discussed the problem upon the assumption that the outcome of the litigation may be substantially affected by whether the issue of immunity is decided by a judge or a jury. But clearly there is not present here the certainty that a different result would follow, or even the strong possibility that this would be the case. There are factors present here which might reduce that possibility. The trial judge in the federal system has powers denied the judges of many States to comment on the weight of evidence and credibility of witnesses, and discretion to grant a new trial if the verdict appears to him to be against the weight of the evidence. We do not think the likelihood of a different result is so strong as to require the federal practice of jury determination of disputed factual issues to yield to the state rule in the interest of uniformity of outcome.
 
-## The Rules Enabling Act
+## Choice of Law Under the Rules Enabling Act
 
-### The Rules Enabling Act, 28 U.S.C. §2071
+### The Rules Enabling Act, 28 U.S.C. §2071 et seq.
+
+#### § 2071--Rule-making power generally
 
 ::: {.legalcode}
+- (a\) The Supreme Court and all courts established by Act of Congress may from time to time prescribe rules for the conduct of their business. Such rules shall be consistent with Acts of Congress and rules of practice and procedure prescribed under section 2072 of this title.
+- (b\) Any rule prescribed by a court, other than the Supreme Court, under subsection (a) shall be prescribed only after giving appropriate public notice and an opportunity for comment. Such rule shall take effect upon the date specified by the prescribing court and shall have such effect on pending proceedings as the prescribing court may order.
+- (c\) 
+	- (1\) A rule of a district court prescribed under subsection (a) shall remain in effect unless modified or abrogated by the judicial council of the relevant circuit.
+	- (2\) Any other rule prescribed by a court other than the Supreme Court under subsection (a) shall remain in effect unless modified or abrogated by the Judicial Conference.
+- (d\) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Court under subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
+- (e\) If the prescribing court determines that there is an immediate need for a rule, such court may proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
+- (f\) No rule may be prescribed by a district court other than under this section.
+:::
 
-#### Rules of procedure and evidence; power to prescribe
+#### § 2072--Rules of procedure and evidence; power to prescribe
 
+::: {.legalcode}
 - (a\) The Supreme Court shall have the power to prescribe general rules of practice and procedure and rules of evidence for cases in the United States district courts (including proceedings before magistrate judges thereof) and courts of appeals.
 - (b\) Such rules shall not abridge, enlarge or modify any substantive right. All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.
 - (c\) Such rules may define when a ruling of a district court is final for the purposes of appeal under section 1291 of this title.
+:::
 
+#### § 2073--Rules of procedure and evidence; method of prescribing
+
+::: {.legalcode}
+- (a\) 
+	- (1\) The Judicial Conference shall prescribe and publish the procedures for the consideration of proposed rules under this section.
+	- (2\) The Judicial Conference may authorize the appointment of committees to assist the Conference by recommending rules to be prescribed under sections 2072 and 2075 of this title. Each such committee shall consist of members of the bench and the professional bar, and trial and appellate judges.
+- (b\) The Judicial Conference shall authorize the appointment of a standing committee on rules of practice, procedure, and evidence under subsection (a) of this section. Such standing committee shall review each recommendation of any other committees so appointed and recommend to the Judicial Conference rules of practice, procedure, and evidence and such changes in rules proposed by a committee appointed under subsection (a)(2) of this section as may be necessary to maintain consistency and otherwise promote the interest of justice.
+- (c\) 
+	- (1\) Each meeting for the transaction of business under this chapter by any committee appointed under this section shall be open to the public, except when the committee so meeting, in open session and with a majority present, determines that it is in the public interest that all or part of the remainder of the meeting on that day shall be closed to the public, and states the reason for so closing the meeting. Minutes of each meeting for the transaction of business under this chapter shall be maintained by the committee and made available to the public, except that any portion of such minutes, relating to a closed meeting and made available to the public, may contain such deletions as may be necessary to avoid frustrating the purposes of closing the meeting.
+	- (2\) Any meeting for the transaction of business under this chapter, by a committee appointed under this section, shall be preceded by sufficient notice to enable all interested persons to attend.
+- (d\) In making a recommendation under this section or under section 2072 or 2075, the body making that recommendation shall provide a proposed rule, an explanatory note on the rule, and a written report explaining the body's action, including any minority or other separate views.
+- (e\) Failure to comply with this section does not invalidate a rule prescribed under section 2072 or 2075 of this title.
+:::
+
+#### § 2074--Rules of procedure and evidence; submission to Congress
+
+::: {.legalcode}
+- (a\) The Supreme Court shall transmit to the Congress not later than May 1 of the year in which a rule prescribed under section 2072 is to become effective a copy of the proposed rule. Such rule shall take effect no earlier than December 1 of the year in which such rule is so transmitted unless otherwise provided by law. The Supreme Court may fix the extent such rule shall apply to proceedings then pending, except that the Supreme Court shall not require the application of such rule to further proceedings then pending to the extent that, in the opinion of the court in which such proceedings are pending, the application of such rule in such proceedings would not be feasible or would work injustice, in which event the former rule applies.
+- (b\) Any such rule creating, abolishing, or modifying an evidentiary privilege shall have no force or effect unless approved by Act of Congress.
 :::
 
 ### Hanna v. Plumer (U.S. 1967) 
 
-#### Chief Justice Warren delivered the opinion of the Court.
+[Chief Justice Warren delivered the opinion of the Court.]{.case-h1}
 
 The question to be decided is whether, in a civil action where the jurisdiction of the United States district court is based upon diversity of citizenship between the parties, service of process shall be made in the manner prescribed by state law or that set forth in Rule 4(d)(1) of the Federal Rules of Civil Procedure.
 
@@ -324,7 +351,7 @@ It remains to apply what has been said to the present case. The Massachusetts ru
 
 This matter is before the Court on Plaintiffs' Motion to Amend Complaint. For the reasons stated below, the Motion is granted in part and denied in part.
 
-#### Factual and Procedural Background
+[Factual and Procedural Background]{.case-h1}
 
 The "Facts" section of the proposed amended complaint is exactly the same as found in the original Complaint. For the sake of brevity, the Court incorporates the "Facts" section found in its Report and Recommendation into this Order. The proposed amended complaint also contained the same claim for fraud as found in the original Complaint. Defendants did not move to dismiss the common law fraud claim as part of their Motion to Dismiss. The claim alleged that Defendants committed fraud by knowingly making false representations to Plaintiffs for the purpose of inducing them to purchase an ILKB franchise.In addition, the fraud claim alleges that these representations proved to be untrue; Plaintiffs reasonably relied on this information in deciding to purchase an ILKB franchise, and as a result Plaintiffs have suffered damages of no less than $500,000.
 
@@ -346,7 +373,7 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
-#### Legal Standard
+[Legal Standard]{.case-h1}
 
 The Court held oral argument during which it sua sponte raised the issue of the appropriate standard for adding punitive damages claims. Both parties had initially addressed in their written submissions the appropriateness of amending the Complaint to add a claim for punitive damages under Minnesota Statutes Sections 549.191 and 549.20. The Court ordered the parties to file supplemental pleadings with respect to their positions regarding whether Minn. Stat. §549.191, or Rule 15 of the Federal Rules of Civil Procedure, applies to a motion to amend to add a claim for punitive damages. Both parties filed supplemental briefs and agree, based on recent decisions within this District, that Rule 15, and not Minn. Stat. §549 applies to the present motion to amend. That said, the parties disagree about whether the proposed amended complaint plausibly sets forth a claim for punitive damages under Minn. Stat. §549.20.
 
@@ -418,13 +445,13 @@ Peggy sues Sterling Cooper in federal court, asserting a claim for breach of con
 
 In her complaint, Peggy seeks compensatory damages for her loss of employment. 
 
-#### Part A
+[Part A]{.case-h1}
 
 Under Hudson state law, compensatory damages for wrongful termination in breach of an employment contract are limited to an amount equal to three times the plaintiff's annual earnings (wages or salary) in their last year of employment. In contrast, in cases for wrongful termination under federal law, there is no such cap on the amount of compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-#### Part B
+[Part B]{.case-h1}
 
 Under Hudson state law, a complaint for breach of contract must include an itemized statement showing the basis and amount of compensatory damages sought. In contract, under FRCP Rule 8(a)(3), the "demand for relief sought" requires only a general statement that the plaintiff seeks compensatory damages. 
 
@@ -443,7 +470,7 @@ Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges 
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 
-#### Part A
+[Part A]{.case-h1}
 
 FRCP Rule 8(a)(3) provides that a complaint must include "a demand for the relief sought, which may include relief in the alternative or different types of relief." Under this rule, a plaintiff may request both legal remedies (usually money damages) and equitable relief (such as an injunction) in the same complaint. 
 
@@ -453,7 +480,7 @@ Carbolic objects that Carlill's request for both money damages and an injunction
 
 _Should the court apply state or federal law on this issue?_ 
 
-#### Part B
+[Part B]{.case-h1}
 
 Under Euphoria state law, a consumer asserting a fraud claim based on an allegedly false advertisement must plead and prove the following elements:
 
