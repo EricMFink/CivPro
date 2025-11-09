@@ -44,8 +44,6 @@ A judgment based on an earlier judgment is not nullified automatically by reason
 
 ## Claim Preclusion
 
-::: {.legalcode}
-
 ### Rest. (2d) of Judgments § 17
 
 ::: {.legalcode}
@@ -485,8 +483,6 @@ Here, JC Lee asserts that she was not a party to the prior suits and argues, wit
 Even where parties are in privity, the Court must consider whether the interests of the party absent in the prior action were adequately represented. In _Headwaters Inc.,_ the Ninth Circuit considered the notice the nonparty had and the level of protection the district court afforded the nonparty's interests. Here, JC Lee, a nonparty in _Abadin_ and _SLMI,_ asserts that her interest is to "vindicate and clear title to Stan Lee's intellectual property" as assigned by the 1998 Agreement. As the prior courts considered this very question and JC Lee is no stranger to this dispute, JC Lee's interests were adequately represented. Accordingly, the Court finds the third factor satisfied.
 
 As POW has established all three factors, the Court finds that all claims in this matter are barred by res judicata. Accordingly, the Court grants the motion to dismiss. The Court dismisses with prejudice all claims in the FAC.
-
-::: {.legalcode}
 
 ### Rest. (2d) of Judgments § 26 
 

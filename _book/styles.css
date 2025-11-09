@@ -119,6 +119,7 @@ a:active {
 
 /* Blockquotes */
 .blockquote {
+	color: #191919;
 	margin: .5rem 0 .5rem 0;
 	padding: 0 2rem 0 2rem;
 	max-width: 40rem;
@@ -692,6 +693,10 @@ footer.footer .nav-footer, #quarto-header > nav {
 .callout ul {
 	font-family: "Adelle-Sans", sans-serif;
 	font-weight: 300;
+}
+
+.callout .blockquote {
+	font-size: .8rem;
 }
 
 hr {
