@@ -1,0 +1,36 @@
+# Pleading {.unnumbered}
+
+1. The Carbolic Smoke Bomb Co. sells a product that the company claims will prevent colds and flu. Carlil buys one of the company's smoke balls, uses it according to the directions, but nevertheless becomes ill with the flu. Carlil sues the company for fraud. The elements of Carlil's fraud claim are as follows: (1) The defendant made representations about the nature and quality of its product, knowing that those representations were false, (2) the defendant made those representations with the intent to induce purchases of its product, (3) the plaintiff bought the product in reliance on the false representations, and (4) the plaintiff suffered damages as a result of the false representations. Carlil's complaint includes these allegations:
+ 
+- Defendant manufactures and sells a product called the Carbolic Smoke Ball. Defendant's packaging and advertisements for the Carbolic Smoke Ball contain fraudulent claims about the nature and quality of the product. 
+- Plaintiff purchased a Carbilic Smoke Ball and used it as directed, but became ill with the flu. As a result, she incurred damages including medical expenses and pain & suffering. 
+
+If the company files a motion to dismiss under FRCP Rule 12(b)(6), how should the court rule?
+
+a. Grant the motion, because it is implausible that Carlil would have believed the company's advertisements.
+
+b. Grant the motion, because Carlil has not provided sufficient detail in support of her claim.
+
+c. Deny the motion, because the complaint contains a short and plain statement of the grounds for relief.
+
+d. Deny the motion, because Carlil may be able to prove the elements of her claim at trial.
+
+The correct answer is B. Under Rule 9, allegations of fraud require more specific pleading. It is not enough for Carlil to allege that the Company made fraudulent claims about the product. She must say what those claims were. In addition, an element of the fraud claim is that the plaintiff bought the product in reliance on the defendant's false claims. Carlil only alleges that she bought and used the product, without alleging she did so based on the allegedly fraudulent claims about the product. 
+
+2. In October 2013, Priscilla bought a set of cordless power tools manufactured by Drecker Tools, Inc. The set included a power drill, a circular saw, and a rotary sander, along with a charger and battery pack that fits each of the tools. In May 2019, while Priscilla was using the drill, the bit came loose and lodged in her eye. In July 2019, Priscilla sued Drecker for negligence. In her complaint, Priscilla alleged that the accident resulted from a defect in the drill's design and/or manufacture. In August 2019, Drecker filed and served its answer, admitting that it manufactured the drill but denying that there was any defect in the design or manufacture. 
+
+In September 2019, Priscilla's house was destroyed in a fire that started when the charger exploded while Priscilla was charging the battery pack. In November 2019, Priscilla moves for leave to amend her complaint. The proposed amended complaint asserts these new allegations & claims against Drecker: 
+
+- A design and/or manufacturing defect in the charger caused the explosion and fire that destroyed Priscilla's house. 
+- The instructions that came with the drill did not warn against using it without wearing eye protection, and Drecker's negligent failure to provide such a warning contributed to Priscilla's injury from the flying drill bit. 
+
+Under the applicable state law, the statute of limitations for these claims is 6 years from the date of purchase of the product, which in this case ran out in October 2019. If Drecker opposes the motion, should the court grant leave to amend?
+
+a. No, because the amendment would be futile since the statute of limitations has run out for both new claims. 
+
+b. Yes, but only to add the design/manufacturing defect claim based on the charger explosion, because Priscilla knew or should have known about the lack of a warning against the using the drill without eye protection before she filed her original complaint. 
+
+c. Yes, but only to add the claim for negligent failure to warn based on the injury from the flying drill bit, because the claim based on the charge explosion is barred by the statute of limitations.
+
+d. Yes, for both claims. 
+

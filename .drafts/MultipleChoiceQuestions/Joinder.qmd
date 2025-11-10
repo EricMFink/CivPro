@@ -1,0 +1,50 @@
+# Pleading {.unnumbered}
+
+1. Andrea has a weekend house in the Pennsylvania countryside. Bart owns a goat farm adjacent to Andrea's vacation house. Bart's goats have repeatedly slipped through the gap and bathed in a creek that runs through Andrea's property, fouling the creek with their droppings. After this happens for the tenth time, an enraged Andrea shoots and kills the offending goat. Several days later, after searching in vain for his missing goat, Bart notices the animal's carcass next to the creek on Andrea's property. Bart rushes into Andrea's yard, accusing her of killing his goat. A fight ensures, in the course of which, Bart hits Andrea over the head with a shovel. 
+
+Andrea sues Bart, asserting two claims: (1) battery, alleging that Bart intentionally hit her with the shovel, and (2) trespass, seeking damages for the cost of cleaning up the mess that Bart's goat left in the creek. Is joinder of these claims proper? 
+
+a. Yes, even if the claims arose from two distinct transactions or occurrences. 
+
+b. Yes, because there is a factual connection between the two incidents giving rise to the claims.  
+
+c. No, because the two claims are based on logically distinct conduct that occurred days apart. 
+
+d. No, because  a plaintiff may not combine tort and property claims in the same suit. 
+
+2. Same facts as previous question. Assume that Andrea asserts only the claim for battery based on her injuries from being hit with the shovel. In his answer, Bart denies intentionally hitting Andrea with the shovel and alleges that he did so accidentally while trying to wrest the shovel away from Andrea after she hit him with it. Bart also asserts two counterclaims: (1) a claim for battery, alleging that Andrea intentionally hit him with the shovel after he accused her of killing his goat (“Claim 1”), and (2) a claim for trespass to chattel, seeking damages for the loss of the goat (“Claim 2”). Which of the following is correct?
+
+a. Both claims are compulsory counterclaims. 
+
+b. Both claims are permissive counterclaims. 
+
+c. Claim 1 is a compulsory counterclaim, and Claim 2 is a permissive counterclaim.  
+
+d. Claim 1 is a compulsory counterclaim, and Claim 2 is not a proper counterclaim. 
+   
+3. Adele buys a new boat, and hires Belinda to transport it to Adele's lake house. While Belinda is en route, she is involved in a collision with Craig, who is driving a brand new Cadillac. Craig and Belinda both sustain serious injuries in the collision, and both of their vehicles, along with the boat, are totaled. Adele sues Craig for the damage to her boat, which she alleges was caused by Craig's negligence. Craig denies that he was negligent, and alleges that the accident was caused by Belinda's negligence. Which of the following is true? 
+
+I) Craig may join Belinda as a third party defendant, asserting claims against Belinda for his personal injuries and the damage to his car. 
+
+II) Craig may assert a counterclaim against Adele, alleging that Adele is vicarioualy liable for Belinda's negligence because Belinda was acting as Adele's agent in transporting the boat.
+
+III) If Craig asserts a counterclaim against Adele seeking to hold her vicariously liable for Belinda's negligence, he may join Belinda as a co-defendant seeking to hold her liable for her own negligence. 
+	
+a. I, II, & III
+b. I & II 
+c. II & III 
+d. II only 
+
+The correct answer is C. Craig may only join Belinda as a third party defendant (I) to assert a claim for contribution or indemnification on Adele's claim, not to assert a claim for the damage to his own vehicle and injuries. Craig's counterclaim against Adele (II) arises out of the same occurrence as Adele's claim against Craig, so it is a compulsory counterclaim. Craig may also join Belinda as a co-defendant on that claim (III), because his claims against Adele and Belinda arise out of the same occurrence and will involve at least one common question of law or fact (i.e. whether Belinda was negligent). 
+
+4. Anton sues Beverly for breach of contract. Anton also has a claim against Claire, Beverly's spouse, for defamation. Anton wants to sue Beverly & Claire together in the same suit. Would joinder of Beverly & Claire as co-defendants in the same action be proper?
+
+a. Yes, because as a married couple Beverly & Claire have common interests in any claims in which they are parties. 
+
+b. Yes, if the court concludes that the interests of judicial economy and convenience to the parties would be served by deciding the claims together. 
+
+c. No, if the claims against Beverly & Claire arise from different transactions and occurrences.
+
+d. No, because a plaintiff may not join co-defendants where the plaintiff asserts a contract claim against one defendant and a tort claim against the other defendant.
+
+The correct answer is C. Under RUle 20, a plaintiff may join co-defendants only if the plaintiff has a claim against each co-defendant arising out of the same transaction/occurrence and there is at least one common question of law or fact. Neither of those conditions is satisfied here. 

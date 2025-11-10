@@ -1,0 +1,31 @@
+# Subject Matter Jurisdiction {.unnumbered}
+
+1. In which of the following cases would a federal court have diversity jurisdiction under 28 U.S.C. § 1332 (assuming all claims arise under state law)? 
+
+a. Abel (VA) sues Baker (NC), Charlie (TN), Davis (VA), and Edwards (SC), for breach of contract arising out of a real estate deal among the five parties. Under the applicable state law and the contract terms, the defendants are jointly and severally liable for the alleged breach. Abel seeks $80,000 in damages. 
+
+b. Betty (NC) sues Dupree (VA) seeking $50,000 in damages for fraud, alleging that a diamond ring Dupree sold her was really made of glass. In the same action, Betty also asserts an unrelated negligence claim against Dupree, seeking $50,000 for property damage and personal injuries she sustained when a drunken Dupree crashed into Betty's car. 
+
+c. Neff (CA) is in possession of a painting valued at $75,000. Pennoyer (OR) sues Neff, to recover the painting, which he claims Neff borrowed but failed to return as promised. 
+
+d. None of the above.  
+
+2. Perry (NC) has a homeowner's insurance policy from Dependable Ins. Co. (DE), which he bought through a local agent, Delilah (NC). Perry submits a claim for coverage after a broken water main under his front yard results in property damage costing $50,000 to repair. Dependable denies the claim, asserting that the policy does not cover "flood damage". Perry sues Dependable for breach of contract & bad faith denial of an insurance claim under state law. He seeks $50,000 in compensatory damages and another $50,000 in punitive damages. If Perry files in DE state court, may Dependable remove to federal court? 
+
+a. Yes, provided state law would allow recovery of punitive damages. 
+
+b. Yes, if Dependable raises a defense based on federal law. 
+
+c. No, because Delilah, the Dependable agent who sold the policy, is a citizen of NC. 
+
+d. None of the Above. 
+
+3. While Goldilocks (NC) is visiting her Grandmother (VA), Wolf (NC) breaks into Grandmother's house and devours her. Goldilocks manages to escape before Wolf has her for dessert. Goldilocks is named executor of Grandmother's estate. In her representative capacity as executor, Goldilocks brings a wrongful death action in federal court against Wolf on behalf of Grandmother's estate, seeking $100,000 in damages. In the same suit, Goldilocks also asserts her own emotional distress claim against Wolf, seeking $25,000 in damages. Which of the following is correct?  
+
+a. The court has have diversity jurisdiction over both claims. 
+
+b. The court has diversity jurisdiction over the wrongful death claim and may exercise supplemental jurisdiction over the emotional distress claim. 
+
+c. The court has diversity jurisdiction over the wrongful death claim, but must remand the emotional distress claim to state court. 
+
+d. The court must dismiss both claims for lack of subject matter jurisdiction. 

@@ -1,0 +1,23 @@
+1. Gene sues Employer, alleging that he was fired in violation of the terms of his employment contract. Employer moves for summary judgment, supporting the motion with affidavits, deposition testimony, and documentary evidence that Employer contends show there is no genuine dispute of material fact surrounding the circumstances of Gene's firing, and that Employer is entitled to judgment in his favor as a matter of law because the facts do not establish any contractual breach. What must Gene do to avoid summary judgment in favor of Employer?
+
+a. Produce evidence in admissible form showing the existence of a genuine issue of material fact regarding the discharge.
+
+b. Point to the parts of Gene's pleadings that allege a breach of contract.
+
+c. Show that evidence already in the record supports a reasonable inference in Gene's favor.
+
+d. Show that evidence already in the record, or additional evidence provided in response to the summary judgment motion, would, if offered in admissible form at trial, support a reasonable inference in Gene's favor.
+
+The correct answer is D. As the plaintiff, Gene will have the burden of proof at trial on the elements of his claim. On a motion for summary judgment, Gene has the burden of production, regardless of whether he is the moving party or non-moving party. To meet that burden, he must point to evidence that would, if offered in admissible form at trial, be sufficient to establish the relevant element(s) of this claim. The evidence doesn't not have to be in admissible form at the summary judgment stage, as long as Gene could offer that evidence in admissible form at trial. 
+
+2. Pam hires Deb to install a ceiling fan in her home. A few weeks after Deb completes the job, the ceiling fan comes loose and falls down, hitting and injuring Pam, who was unlucky enough to be standing underneath it at the time. Pam sues Deb in federal court for negligence in the installation of the fan. After the parties have conducted discovery, Deb moves for summary judgment, supporting the motion with an affidavit from an expert engineer who examines the fan and ceiling and opines that the fan was correctly installed, but that the ceiling material was weakened as a result of internal decay not visible to Deb at the time she installed the fan. Pam responds, opposing Deb's motion for summary judgment and seeking summary judgment in Pam's favor. In support, Pam offers an affidavit from her own expert who examined the ceiling and found no decay, and concludes that the fan had merely been attached to the sheet rock, not to a ceiling beam as would have been appropriate given the weight of the fan. Pam's expert further opines that, had there been decay sufficient to weaken the ceiling, a competent fan installer would have identified it. How should the court rule?
+
+a. Grant Pam's motion, if the court determines that her expert is more credible.
+
+b. Grant Deb's motion, if the court determines that her expert is more credible.
+
+c. Deny both motions, because neither has adequate evidentiary support.
+
+d. Deny both motions, because there is a genuine issue of material fact.
+
+The correct answer is D. Where each party has offered evidence that could support a jury finding in their favor at trial, there is a genuine issue of material fact and the court may not grant summary judgment. It is up to the jury to decide which expert is credible and more persuasive. 
