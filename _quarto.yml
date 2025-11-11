@@ -53,7 +53,6 @@ book:
       - 02-Main/chap6.qmd
       - 02-Main/chap7.qmd
       - 02-Main/chap8.qmd
-      - 02-Main/chap9.qmd
       - 03-Back/references.qmd
       - 03-Back/ack.qmd
       - 03-Back/colophon.qmd
@@ -64,7 +63,7 @@ book:
       - 04-Appendix/personal-jurisdiction.qmd
       - 04-Appendix/subject-matter-jurisdiction.qmd
       - 04-Appendix/choice-of-law.qmd
-      - 04-Appendix/pleadings.qmd
+      - 04-Appendix/pleading.qmd
       - 04-Appendix/preclusion.qmd
       - 04-Appendix/summary-judgment.qmd
     - part: Practice Exam Questions
@@ -77,6 +76,7 @@ book:
         - 04-Appendix/exam6.qmd
         - 04-Appendix/exam7.qmd
         - 04-Appendix/exam8.qmd
+        - 04-Appendix/exam9.qmd
         - 04-Appendix/sample-multiple-choice.qmd
     - links.qmd
 
