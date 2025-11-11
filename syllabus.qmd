@@ -95,101 +95,147 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ### 1\. Foundations of Civil Procedure
 
-_Casebook:_ chap. 1; _Clermont:_ chap. 1 & 2[^syllabus3] 
+_Clermont:_ chap. 1 & 2[^syllabus3] 
 
 _Click & Learn_: Basic Skills & Fundamentals
 
-**Sept. 3:** At the Threshold; Civil Litigation in Federal Court, _Casebook_ §§ 1.1 & 1.2
+#### September 3
+
+- At the Threshold; Civil Litigation in Federal Court, _Casebook_ §§ 1.1 & 1.2
 
 ### 2\. Parties and Claims
 
-_Casebook:_ chap. 2; _Clermont:_ chap. 6 
+_Clermont:_ chap. 6 
 
 _Click & Learn_: Unit 6 
 
-**Sept. 5 & 8:** Permissive Joinder of Claims & Parties, _Casebook_: §§ 2.1 & 2.2 
+#### September 5 & 8
 
-**Sept. 10 & 12:** Counterclaims, _Casebook_: § 2.3 
+- Permissive Joinder of Claims & Parties, _Casebook_: §§ 2.1 & 2.2 
 
-**Sept. 15:** Crossclaims, _Casebook_: § 2.4 
+#### September 10 & 12
 
-**Sept. 17 & 19:** Third-Party Defendants & Claims, _Casebook_: § 2.5 
+- Counterclaims, _Casebook_: § 2.3 
 
-**Sept. 22:** Required Parties, _Casebook_: chap. 2: § 2.6 
+#### September 15
+
+- Crossclaims, _Casebook_: § 2.4 
+
+#### September 17 & 19
+
+- Third-Party Defendants & Claims, _Casebook_: § 2.5 
+
+#### September 22
+
+- Required Parties, _Casebook_: chap. 2: § 2.6 
 
 ### 3\. Personal Jurisdiction
 
-_Casebook:_ chap. 3; _Clermont:_ chap. 4: §§ 4.2-4.4 
+_Clermont:_ chap. 4: §§ 4.2-4.4 
 
 _Click & Learn_: Unit 1 
 
-**Sept. 26:** Due Process and State Power, _Casebook_: § 3.1 
+#### September 26
 
-**Sept. 29 & Oct. 1:** Specific Jurisdiction, _Casebook_: § 3.2 
+- Due Process and State Power, _Casebook_: § 3.1 
 
-**Oct. 3:** General Jurisdiction, Consent, & Long-Arm Statutes, _Casebook_: §§ 3.3-3.5
+#### September 29 & Oct. 1
+
+- Specific Jurisdiction, _Casebook_: § 3.2 
+
+#### October 3
+
+- General Jurisdiction, Consent, & Long-Arm Statutes, _Casebook_: §§ 3.3-3.5
 
 ### 4\. Subject Matter Jurisdiction
 
-_Casebook:_ chap. 4; _Clermont:_ chap. 4: § 4.1 
+_Clermont:_ chap. 4: § 4.1 
 
 _Click & Learn_: Unit 3 
 
-**Oct. 6:** Federal Question Jurisdiction, _Casebook_: § 4.1 
+#### October 6
 
-**Oct. 8 & 13:** Diversity Jurisdiction, _Casebook_: § 4.2 
+- Federal Question Jurisdiction, _Casebook_: § 4.1 
 
-**Oct. 15 & 17:** Supplemental Jurisdiction, _Casebook_: § 4.3 
+#### October 8 & 13
 
-**Oct. 20:** Removal, _Casebook_: § 4.4 
+- Diversity Jurisdiction, _Casebook_: § 4.2 
+
+#### October 15 & 17
+
+- Supplemental Jurisdiction, _Casebook_: § 4.3 
+
+#### October 20
+
+- Removal, _Casebook_: § 4.4 
 
 ### 5\. Choice of Governing Law
 
-_Casebook:_ chap. 5; _Clermont:_ chap. 3 
+_Clermont:_ chap. 3 
 
 _Click & Learn_: Unit 9 
 
-**Oct. 22 & 24:** Rules of Decision Act & Erie, _Casebook_: § 5.1 
+#### October 22 & 24
 
-**Oct. 27 & 29:** Rules Enabling Act & Hanna, _Casebook_: § 5.2 & 5.3 
+- Rules of Decision Act & Erie, _Casebook_: § 5.1 
+
+#### October 27 & 29
+
+- Rules Enabling Act & Hanna, _Casebook_: § 5.2 & 5.3 
 
 ### 6\. Pleading
 
-_Casebook:_ chap. 6; _Clermont:_ chap. 2: § 2.2(A) 
+_Clermont:_ chap. 2: § 2.2(A) 
 
 _Click & Learn_: Unit 5 
 
-**Oct. 31**: Pleading Under the FRCP, _Casebook_: §§ 6.1
+#### October 31
 
-**Nov. 3 & 5**: Claims for Relief, _Casebook_: §§ 6.2
+- Pleading Under the FRCP, _Casebook_: §§ 6.1
 
-**Nov. 7:** Responsive Pleading, _Casebook_: § 6.3 
+#### November 3 & 5
 
-**Nov. 10:** Amended Pleadings, _Casebook_: § 6.4 
+- Claims for Relief, _Casebook_: §§ 6.2
 
-**Nov. 12:** Truthfulness and Good Faith, _Casebook_: § 6.5 
+#### November 7
+
+- Responsive Pleading, _Casebook_: § 6.3 
+
+#### November 10
+
+- Amended Pleadings, _Casebook_: § 6.4 
+
+#### November 12
+
+- Truthfulness and Good Faith, _Casebook_: § 6.5 
 
 ### 7\. Preclusion
 
-_Casebook:_ chap. 7; _Clermont:_ chap. 5 
+_Clermont:_ chap. 5 
 
 _Click & Learn_: Unit 10 (part 1 only) 
 
-**Nov. 14 & 17:** General Principles & Claim Preclusion, _Casebook_: §§ 7.1 & 7.2 
+#### November 14 & 17
 
-**Nov. 19 & 21:** Issue Preclusion, _Casebook_: § 7.3 
+- General Principles & Claim Preclusion, _Casebook_: §§ 7.1 & 7.2 
+
+#### November 19 & 21
+
+- Issue Preclusion, _Casebook_: § 7.3 
 
 ### 8\. Summary Judgment
 
-_Casebook:_ chap. 8; _Clermont:_ chap. 2: § 2.2 
+_Clermont:_ chap. 2: § 2.2 
 
 _Click & Learn_: Unit 8 (part 1: sec. III only) 
 
-**Nov. 24:** Standard & Burden of Production, _Casebook_: §§ 8.1 & 8.2 
+#### November 24
+
+- Standard & Burden of Production, _Casebook_: §§ 8.1 & 8.2 
 
 ---
 
-**TBA:** Final Review
+**December 5:** Final Review
 
 **Dec. 8:** Final Exam
 
