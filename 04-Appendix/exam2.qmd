@@ -24,7 +24,6 @@ In this case, the most Parker may recover is $5300 ($5000 for the federal CCPA c
 Parker bring his suit in the U.S. District Court for the Southern District of New York. _Assume that the court has personal jurisdiction over both defendants and do not discuss that issue_.
 
 1. Is joinder of the Bugle and Jameson as co-defendants proper under the Federal Rules of Civil Procedure? 
-
 2. Does the federal court have subject matter jurisdiction over the suit? _Assume that the court has personal jurisdiction over any additional parties and do not discuss that issue_.
 
 ### Part B
@@ -32,11 +31,8 @@ Parker bring his suit in the U.S. District Court for the Southern District of Ne
 Regardless of your answer to the previous question, assume that the federal court had subject matter jurisdiction over the suit as initially filed. For each of the following additional claims, explain (i) whether joinder would be proper under the Federal Rules of Civil Procedure, and (ii) whether the federal court would have subject matter jurisdiction over the claim. 
 
 1. A claim by Betty Brant (a citizen of New Jersey), intervening in the suit as a co-plaintiff against the Bugle, alleging that she was fired from her job at the Bugle in violation of a state whistleblower statute after threatening to expose the credit card scam to state authorities. She seeks damages equal to one year’s salary ($50,000), the maximum permitted under the statute. 
-
 2. A claim by the Bugle against Jameson, alleging that Jameson breached his employment contract by concocting the scheme to boost his salary through artificially inflated circulation figures, and seeking recovery of $50,000 in excess salary that Jameson received. 
-
 3. A personal injury claim (under state law) by Parker against the Bugle, alleging that the Bugle t-shirt Parker bought was treated with toxic chemicals that caused a severe skin condition, for which Parker seeks a total of $70,000 in compensatory and punitive damages.
- 
 4. A claim by the Bugle against ZF Corp. (incorporated and having its principal place of business in New York), which manufactured the Bugle t-shirts, for indemnification on Parker’s personal injury claim (assume, regardless of your answer to the previous question, that Parker’s personal injury claim against the Bugle is properly joined). 
 
 ## Model Answers {.unnumbered}

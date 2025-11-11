@@ -389,41 +389,11 @@ img {
 .syllabus ul { 
 	list-style-type: disc;
 }
+/*
 .syllabus li {
-	font-size: 1rem;
 	margin-bottom: .5rem;
 }
-.syllabus table {
-	margin: 2rem 0 1rem 0;
-	max-width: 100%;
-}
-.syllabus table p {
-	font-size: 0.9rem;
-	margin: 0 0 0 0; 
-}
-.syllabus th {
-	font-size: 1rem;
-	font-weight: 400;
-}
-.syllabus th p {
-	font-size: 1rem;
-	font-weight: 400;
-}
-.syllabus td {
-	font-size: 1rem;
-}
-.syllabus td p {
-	font-size: 1rem;
-}
-.syllabus table ol {
-	margin: 0rem 0 0.5rem 0;
-}
-.syllabus table ol li {
-	font-family: "Adelle Sans", sans-serif;
-	font-size: 1rem;
-	font-weight: 400;
-}
-
+*/
 /* Casebook Cover */
 .cover {
 	margin: 4rem auto 0 auto;

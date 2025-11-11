@@ -100,13 +100,10 @@ In _Asahi_, Justice Brennan opined that, even where the minimum contacts test is
 
 The reasonableness analysis turns on four factors:
 
-1) The defendant's interest in not being required to defend in a remote and inconvenient forum,
-
-2) The plaintiff's interest in obtaining relief,
-
-3) The forum state's interest in protecting persons within its borders, and in avoiding the burdens of litigation unrelated to the state, and 
-
-4) The interstate judicial system's interest in respecting the sovereignty of the several states. 
+1. The defendant's interest in not being required to defend in a remote and inconvenient forum,
+2. The plaintiff's interest in obtaining relief,
+3. The forum state's interest in protecting persons within its borders, and in avoiding the burdens of litigation unrelated to the state, and 
+4. The interstate judicial system's interest in respecting the sovereignty of the several states. 
 
 In this case, the facts do not indicate that the exercise of jurisdiction in Gotham would be unduly onerous for either defendant. Lyndon operates a boutique there, and thus has an ongoing connection with the state. Burnley too presumably has some ongoing connection with Gotham as a center of the fashion industry. And both defendants chose to promote and showcase their products in that state.
 

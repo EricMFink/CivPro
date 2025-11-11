@@ -25,9 +25,7 @@ Are the ICARA and state-law tort claims properly joined and does the federal cou
 Assume that the claims against Lopez and STCH are properly joined, and that the court has both subject matter and personal jurisdiction. For each of the following claims, explain (i) whether joinder would be proper, and (ii) whether the federal court would have subject matter jurisdiction:
 
 1. A state law claim by STCH against Lopez for contribution in the event STCH is found liable to Sanchez for damages.
-
 2. A state law claim by STCH against DCS for indemnification on Sanchez’s tort claims. 
-
 3. A state law claim by STCH against DCS for reimbursement of $80,000 in expenses that STCH has incurred in the course of caring for children (other than the Sanchez children) placed in its care by DCS. 
 
 ## Model Answers {.unnumbered}
