@@ -13,6 +13,7 @@ body {
 	background-color: #fffaf0;
 	quotes: "‘" "’";
 }
+
 /* HEADINGS */
 /* Chapter */
 h1 {
@@ -81,6 +82,7 @@ p {
 	margin: .5rem 0 .5rem 0;
 }
 
+/* Blockquotes */
 .blockquote {
 	color: #191919;
 	margin: .5rem 0 .5rem 0;
@@ -94,13 +96,77 @@ p {
 	line-height: 1.2;
 }
 
+/* Lists */
 ol, ul {
 	margin: 0 0 0 0;
 	padding-left: 2.5rem;
 }
 
-/* Styles for cases & readings */
+/* Links */
+a {
+	color: #002D72;
+	text-decoration: none;
+}
+a:link {
+	color: #002D72;
+}
+a:visited {
+	color: #002D72;
+}
+a:hover {
+	color: #4b9cd3 !important;
+}
+a:active {
+	color: #002D72;
+}
 
+/* Figures & Images */
+#fig-cover img {
+	background-color: #fffaf0;
+	border: 1px solid #191919;
+}
+.figure-img {
+	max-width: 100%;
+	max-height: 65vh;
+	margin: 0 auto 0 auto;
+}
+.quarto-figure {
+	position: relative;
+	max-width: 100%;
+	margin: 1.5rem auto 1.5rem auto;
+}
+figure > p:first-child {
+	max-width: 100%;
+	margin: 0 auto 0 auto;
+}
+.quarto-figure > figure {
+	max-width: 100%;
+	margin: 0 auto 0 auto;
+}
+.panel-caption, .figure-caption, figcaption {
+	color: #191919;
+	font-size: .825rem;
+	text-align: center;
+	margin-bottom: .825rem;
+}
+figcaption {
+	font-family: "Adelle-Sans",sans-serif;
+	color: #191919;
+	font-size: .7rem;
+	text-align: center;
+	max-width: 50%;
+	margin: 0 auto 0 auto;
+}
+img {
+	vertical-align: middle;
+}
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+	margin: .5rem 0 .25rem 0;
+}
+
+/* Styles for cases & readings */
 /* Case section headings */
 .case-h1 {
 	font-family: "Literata",serif;
@@ -114,7 +180,6 @@ ol, ul {
 	display: block;
 	list-style: outside none none !important;
 }
-
 .case-h2 {
 	font-family: "Literata",serif;
 	font-size: 1rem;
@@ -137,26 +202,6 @@ ol, ul {
 	margin: 1.25rem auto .5rem auto;
 	padding: 0 0 0 0;
 	list-style: outside none none !important;
-}
-.case .blockquote {
-	color: #191919;
-	margin: .5rem 0 .5rem 0;
-	padding: 0 2rem 0 2rem;
-	border: none;
-}
-.case .blockquote p {
-	color: #191919;
-	font-size: 0.9rem;
-	font-style: normal;
-	line-height: 1.3;
-	border: none;
-}
-.case ol, ul {
-	margin: 0 0 0 0;
-	padding-left: 2.5rem;
-}
-.case li {
-	margin-top: .5rem;
 }
 
 /* List style for statutes, etc. */
@@ -185,35 +230,34 @@ ol, ul {
 	margin-top: .5rem;
 }
 
-/* Links */
-a {
-	color: #002D72;
-	text-decoration: none;
+/* Callouts */
+.callout.callout-style-default .callout-body {
+	font-size: .9rem;
+	font-weight: 400;
 }
-/* unvisited link */
-a:link {
-	color: #002D72;
+.callout p {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: .9rem;
+	font-weight: 300;
 }
-/* visited link */
-a:visited {
-	color: #002D72;
+.callout h4 {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: 1.1rem;
 }
-/* mouse over link */
-a:hover {
-	color: #4b9cd3 !important;
+.callout h5 {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: 1rem;
+	font-style: italic;
 }
-/* selected link */
-a:active {
-	color: #002D72;
+.callout ul {
+	font-family: "Adelle-Sans", sans-serif;
+	font-weight: 300;
 }
-/* Wrap long URLs in references */
-#refs a {
-	word-wrap: break-word;
-	overflow-wrap: break-word;
+.callout .blockquote {
+	font-size: .8rem;
 }
 
 /* Home Page */
-
 .home {
 	font-family: "Literata",serif;
 	margin: 0 0 0 0;
@@ -268,7 +312,6 @@ a:active {
 	margin:  0 0 0.2rem 0;
 	padding: 0 0 0 0;
 }
-
 .home img {
 	margin: 2rem 0 0 0;
 }
@@ -276,7 +319,7 @@ a:active {
 /* Syllabus */
 .syllabus {
 	font-family: "Literata",serif;
-	font-size: .8rem;
+	font-size: 1rem;
 	margin: 0 0 0 0;
 	display: block;
 }
@@ -298,7 +341,7 @@ a:active {
 .syllabus h3 {
 	font-family: "Literata", serif;
 	color: #191919;
-	font-size: 1.1rem;
+	font-size: 1.2rem;
 	font-weight: 400;
 	font-style: normal;
 	margin: 1rem 0 0 0;
@@ -306,10 +349,10 @@ a:active {
 }
 .syllabus h4 {
 	font-family: "Adelle Sans", sans-serif;
-	font-size: .7rem;
+	font-size: .9rem;
 	font-weight: 400;
 	font-style: normal;
-	margin: 1rem 0 0 0;
+	margin: 1rem 0 0.5rem 0;
 }
 .syllabus h5 {
 	font-family: "Literata", serif;
@@ -328,29 +371,27 @@ a:active {
 .syllabus-header {
 	margin-bottom: 2rem;
 }
-.syllabus-header p {
+.syllabus-header h2 {
 	font-family: "Adelle Sans", sans-serif;
+	margin: 2rem 0 1rem 0;
+}
+.syllabus-header h3 {
+	font-family: "Adelle Sans", sans-serif;
+	font-size: 1rem;
+}
+.syllabus-header p {
 	font-size: 0.8rem;
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal;
 	margin: 0.2rem 0 0rem 0;
 }
-/*
-.syllabus a {
-	font-family: "Lft-Etica-Mono", monospace;
-	font-size: .8rem;
-}
-
-*/
-
 .syllabus ul { 
 	list-style-type: disc;
 }
 .syllabus li {
-	font-size: .9rem;
+	font-size: 1rem;
 	margin-bottom: .5rem;
 }
-
 .syllabus table {
 	margin: 2rem 0 1rem 0;
 	max-width: 100%;
@@ -383,11 +424,9 @@ a:active {
 }
 
 /* Casebook Cover */
-
 .cover {
 	margin: 4rem auto 0 auto;
 }
-
 .cover h2 {
 	font-family: "Adelle Sans", sans-serif;
 	color: #800000;
@@ -407,13 +446,11 @@ a:active {
 }
 
 /* Frontispiece */
-
 .frontispiece {
 	margin: 4rem auto 0 auto;
 }
 
 /* Title page */
-
 .titlepage {
 	font-family: "Literata",serif;
 	text-align: right;
@@ -527,7 +564,6 @@ a:active {
 }
 
 /* Epigraph */
-/* Epigraph Quote */
 .epigraph {
 	margin: 8rem 0 0 0;
 }
@@ -637,6 +673,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 	text-align: center;
 	min-height: 1rem;
 }
+
 /* Icons */
 .fa-classic, .fa-regular, .fa-solid, .far, .fas {
 	font-family: "Font Awesome 6 Free";
@@ -665,6 +702,11 @@ footer.footer .nav-footer, #quarto-header > nav {
 }
 
 /* SPANS & SPECIAL ELEMENTS*/
+hr {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
 .theme-color {
 	color: #800000;
 }
@@ -712,41 +754,6 @@ footer.footer .nav-footer, #quarto-header > nav {
 	color: #191919;
 	padding: 4px 6px;
 }
-.callout.callout-style-default .callout-body {
-	font-size: .9rem;
-	font-weight: 400;
-}
-.callout p {
-	font-family: "Adelle-Sans", sans-serif;
-	font-size: .9rem;
-	font-weight: 300;
-}
-
-.callout h4 {
-	font-family: "Adelle-Sans", sans-serif;
-	font-size: 1.1rem;
-}
-
-.callout h5 {
-	font-family: "Adelle-Sans", sans-serif;
-	font-size: 1rem;
-	font-style: italic;
-}
-
-.callout ul {
-	font-family: "Adelle-Sans", sans-serif;
-	font-weight: 300;
-}
-
-.callout .blockquote {
-	font-size: .8rem;
-}
-
-hr {
-	width: 50%;
-	margin-left: auto;
-	margin-right: auto;
-}
 
 /* 404 PAGE */
 .gevalt {
@@ -772,9 +779,7 @@ hr {
 	display: block;
 }
 
-/* TUFTE STYLES */
-
-/* Margin content */
+/* Margin notes and references */
 .column-margin {
 	color: #191919;
 	font-size: .625rem;
@@ -799,7 +804,7 @@ hr {
 	font-size: smaller;
 }
 .column-margin.column-container > :not(.collapse):first-child {
-	padding-top: 1em;
+	padding-top: 1.5em;
 	padding-bottom: .5em;
 	display: block;
 }
@@ -814,8 +819,13 @@ hr {
 	color: #006400;
 	font-weight: 300;
 }
+/* Wrap long URLs in references */
+#refs a {
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
 
-/* Sidebar */
+/* Sidebar & Navbar */
 #quarto-sidebar {
 	background: transparent;
 }
@@ -825,13 +835,10 @@ hr {
 }
 .sidebar {
 	font-family: "Adelle-Sans",sans-serif;
-	
 }
-/* Hide scrollbar for Chrome, Safari and Opera */
 .sidebar::-webkit-scrollbar {
 	display: none;
 }
-/* Hide scrollbar for IE, Edge and Firefox */
 .sidebar {
 	-ms-overflow-style: none;  /* IE and Edge */
 	scrollbar-width: none;  /* Firefox */
@@ -893,7 +900,6 @@ header .chapter-title {
 .dropdown-text {
 	color: #800000;
 }
-
 .sidebar-title .sidebar-tools-main {
 	margin-top: .5rem;
 
@@ -937,7 +943,6 @@ header .chapter-title {
 .sidebar-title a:active {
 	color: #800000;
 }
-
 .quarto-secondary-nav-title, .title {
 	font-family: "Adelle-Sans",sans-serif;
 	color: #800000; 
@@ -957,51 +962,4 @@ div.sidebar-item-container .active, div.sidebar-item-container :hover, div.sideb
 }
 nav[role=doc-toc] {
 	padding-bottom: 100px;
-}
-
-/* Figures & Images */
-#fig-cover img {
-	background-color: #fffaf0;
-	border: 1px solid #191919;
-}
-.figure-img {
-	max-width: 100%;
-	max-height: 65vh;
-	margin: 0 auto 0 auto;
-}
-.quarto-figure {
-	position: relative;
-	max-width: 100%;
-	margin: 1.5rem auto 1.5rem auto;
-}
-figure > p:first-child {
-	max-width: 100%;
-	margin: 0 auto 0 auto;
-}
-.quarto-figure > figure {
-	max-width: 100%;
-	margin: 0 auto 0 auto;
-}
-.panel-caption, .figure-caption, figcaption {
-	color: #191919;
-	font-size: .825rem;
-	text-align: center;
-	margin-bottom: .825rem;
-}
-figcaption {
-	font-family: "Adelle-Sans",sans-serif;
-	color: #191919;
-	font-size: .7rem;
-	text-align: center;
-	max-width: 50%;
-	margin: 0 auto 0 auto;
-}
-img {
-	vertical-align: middle;
-}
-
-.img-fluid {
-	max-width: 100%;
-	height: auto;
-	margin: .5rem 0 .25rem 0;
 }
