@@ -1,4 +1,4 @@
-# Civil Procedure {.unnumbered}
+# Syllabus {.unnumbered}
 
 [{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
 
@@ -6,35 +6,37 @@
 
 ::: {.syllabus-header}
 
-##### {{< var institution >}}
+## {{< var subject >}} {.unnumbered}
 
-##### {{< var term >}}
+{{< var institution >}}
 
-##### {{< var room >}}
+{{< var term >}}
 
-##### {{< var meets >}}
+{{< var room >}}
 
-###### [{{< var repo-name >}}]({{< var repo-url >}})
+{{< var meets >}}
 
-#### Professor
+[{{< var repo-name >}}]({{< var repo-url >}})
 
-##### {{< var author >}}
+### Professor
 
-##### {{< var phone >}}
+{{< var author >}}
 
-###### [{{< var email >}}](mailto:{{< var email >}})
+{{< var phone >}}
 
-##### Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
+[{{< var email >}}](mailto:{{< var email >}})
 
-#### Teaching Assistants {.unnumbered}
+Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
 
-##### {{< var ta >}}
+### Teaching Assistants {.unnumbered}
 
-###### [{{< var ta-email >}}](mailto:{{< var ta-email >}})
+{{< var ta >}}
 
-##### {{< var ta2 >}}
+[{{< var ta-email >}}](mailto:{{< var ta-email >}})
 
-###### [{{< var ta2-email >}}](mailto:{{< var ta2-email >}})
+{{< var ta2 >}}
+
+[{{< var ta2-email >}}](mailto:{{< var ta2-email >}})
 
 :::
 
