@@ -894,17 +894,17 @@ Guy brings a workers’ compensation claim for the injury to his foot. Sterling 
 
 The Workers’ Compensation Claims Board makes the following findings of fact & conclusions of law:
 
-> 1. Guy was injured while attending a work-related function at Sterling Cooper’s office.
-> 2. The proximate cause of Guy’s injury was the operation of a riding mower in the office by another Sterling Cooper employee, who was intoxicated.
-> 3. Guy could not have anticipated that Lois would drive the mower over his foot, and could not readily have moved out of the way in time to avoid the accident.
-> 4. While an injured employee’s contributory negligence may provide an employer with a defense to a claim under the worker’s compensation statute, Guy was not negligent in connection with the accident. 
-> 5. The mower was not defective in its design. 
-> 6. The mower did not include any warning against operation indoors or while intoxicated. 
-> 7. As a matter of law, neither a design defect nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
+1. Guy was injured while attending a work-related function at Sterling Cooper’s office.
+2. The proximate cause of Guy’s injury was the operation of a riding mower in the office by another Sterling Cooper employee, who was intoxicated.
+3. Guy could not have anticipated that Lois would drive the mower over his foot, and could not readily have moved out of the way in time to avoid the accident.
+4. While an injured employee’s contributory negligence may provide an employer with a defense to a claim under the worker’s compensation statute, Guy was not negligent in connection with the accident. 
+5. The mower was not defective in its design. 
+6. The mower did not include any warning against operation indoors or while intoxicated. 
+7. As a matter of law, neither a design defect nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
 
 Based on these findings, the Board granted Guy’s claim. Sterling Cooper appeals the Board’s decision to the Hudson Court of Appeals, which affirms the Board’s ruling. Under Hudson law, when a decision by the Board has been affirmed on appeal, the Board’s decision has the same preclusive effect as a court judgment. 
 
 Guy then files a lawsuit in Hudson federal court against Elke Corp. (which has jurisdiction based on diversity of citizenship), alleging that a design defect and lack of a warning against operation of the mower indoors or while intoxicated were responsible for his injury. 
 
-(a) May Elke rely on the decision of the Workers' Compensation Claims Board to preclude Guy from asserting that the mower's design was defective?
-(b) May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?
+a. _May Elke rely on the decision of the Workers' Compensation Claims Board to preclude Guy from asserting that the mower's design was defective?_
+b. _May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?_

@@ -1,5 +1,7 @@
 # Practice Exam Question 8: Essay (Choice of Law) {.unnumbered}
 
+## Question {.unnumbered}
+
 Carl Carpenter (a citizen of NC) enjoys furniture making as a hobby. He orders some exotic wood from Tennessee Timber (a business incorporated and based in TN) for a new project. Tennessee Timber's standard form sales contract includes the following forum selection clause:
 
 > Any suit involving this Agreement and/or any claims or disputes relating to the agreements and transactions between the parties shall be brought in either (i) the Circuit Court of Knox County in the State of Tennessee or (ii) the U.S. District Court for the Eastern District of Tennessee, and the buyer hereby submits to the jurisdiction and venue of that Court.

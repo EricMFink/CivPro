@@ -98,9 +98,12 @@ p {
 
 /* Lists */
 ol, ul {
-	margin: 0 0 0 0;
-	padding-left: 2.5rem;
+	margin: .25rem 0 .25rem 0;
+	padding-left: 2rem;
 	font-size: .9rem;
+}
+li {
+	margin-bottom: .5rem;
 }
 
 /* Links */
@@ -386,14 +389,7 @@ img {
 	font-style: normal;
 	margin: 0.2rem 0 0rem 0;
 }
-.syllabus ul { 
-	list-style-type: disc;
-}
-/*
-.syllabus li {
-	margin-bottom: .5rem;
-}
-*/
+
 /* Casebook Cover */
 .cover {
 	margin: 4rem auto 0 auto;

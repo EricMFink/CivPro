@@ -1,5 +1,7 @@
 # Practice Exam Question 9: Essay (Pleading) & Multiple Choice {.unnumbered}  
 
+## Questions {.unnumbered}  
+
 The American Cricket Association (“ACA”) is a professional sports league established two years ago. Walter Wicket, a venture capitalist and cricket fanatic, founded the ACA and is the President and CEO. 
 
 The ACA will hold its inaugural season in the summer of 2024, with eight teams scheduled to compete. To ensure that every team has a home field suitable for professional-level cricket, the ACA is developing new cricket grounds in each city. The ACA will own those facilities and lease them to the teams. 
@@ -8,11 +10,11 @@ The Gate City Googlies, based in Greensboro, North Carolina, are one of the team
 
 ![Complaint p.1](ACA_Complaint_1.jpg)
 
-![Complaint p.1](ACA_Complaint_2.jpg)
+![Complaint p.2](ACA_Complaint_2.jpg)
 
-![Complaint p.1](ACA_Complaint_3.jpg)
+![Complaint p.3](ACA_Complaint_3.jpg)
 
-![Complaint p.1](ACA_Complaint_4.jpg)
+![Complaint p.4](ACA_Complaint_4.jpg)
 
 In response to the complaint, Wicket files a motion under FRCP Rule 12(b)(6) to dismiss the claim seeking to hold him personally liable for the alleged breach of contract. 
 
@@ -21,8 +23,6 @@ Ordinarily, corporate shareholders are not personally liable for a breach of con
 - Disregard of corporate formalities, such as failing to file annual reports with the state, failing to keep corporate records, or making corporate decisions without involvement or approval by the board of directors;
 - Intentional undercapitalization (providing the corporation with inadequate assets) or siphoning (transferring assets out of the corporation) that leaves the corporation unable to pay operating expenses, debts, and liabilities;
 - Failure to respect the separate personality of the corporation, such as commingling of corporate and personal funds, or personal use of corporate property.
-
-## Questions {.unnumbered}  
 
 ### Part A: Essay {.unnumbered}  
 

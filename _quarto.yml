@@ -37,8 +37,7 @@ book:
   chapters: 
     - text: Home
       href: index.qmd
-    - text: Syllabus
-      href: syllabus.qmd
+    - syllabus.qmd
     - part: Casebook
       chapters:
       - 01-Front/frontispiece.qmd
