@@ -1,0 +1,86 @@
+# Practice Exam Question 10: Essay (Preclusion) {.unnumbered}
+
+## Question 1
+
+The United Novelty & Explosive Workers Union ("Union") represents employees at Acme Corp., pursuant to the National Labor Relations Act ("NLRA", a federal statute). A collective bargaining agreement ("CBA") between the Union and Acme governs the terms and conditions of employment for Acme employees. The CBA provides that any disputes arising under the CBA must be resolved through a contractual grievance procedure, culminating in binding arbitration between the Union (as representative of the employee) and Acme. Arbitration is the exclusive remedy for any alleged breaches of the CBA, i.e. neither the Union nor the employee may bring a civil lawsuit over such a dispute. But the grievance and arbitration procedure does not apply to claims based on federal or state statutes.
+
+The CBA also provides that Acme may not discharge an employee without good cause. An employee who believes they have been fired without good cause may ask the Union to pursue a grievance on their behalf. The arbitrator's jurisdiction is limited to disputes based on the CBA itself. If the arbitrator finds that the employee was fired without good cause, the exclusive remedy is reinstatement with back pay.
+
+Wilma Wolf, an Acme employee represented by the Union, was fired for allegedly falsifying her time records. Wolf denied falsifying the time records and initiated a grievance, which the Union took to arbitration. In accordance with the CBA, Wolf was suspended without pay, pending the outcome of the arbitration.
+
+At the arbitration hearing (similar to a trial before a judge, but with more relaxed procedures and without the extensive discovery available in a civil suit), Acme and the Union introduced evidence regarding the alleged falsification of Wolf's time records. The arbitrator found that Wolf did not falsify the time records, and that there was not good cause for discharge as required under the CBA. Accordingly, the arbitrator sustained the grievance and ordered Acme to reinstate Wolf to her former position with back pay for the period of her suspension. Acme sought judicial review in federal court, which confirmed the arbitrator's decision. Under the applicable law, an arbitration decision may have claim and issue preclusive effect in subsequent civil suits if it is confirmed by a court.
+
+Wolf then filed a lawsuit against Acme in federal court, asserting an employment discrimination claim under Title VII ("FLSA", a federal statute). In her complaint, Wolf alleges that the real reason she was fired was in retaliation for complaining about sexual harassment by her supervisor at Acme (something that was not raised in the arbitration). Wolf seeks compensatory and punitive damages, as provided under the Title VII.
+
+_Is Wolf's lawsuit barred by claim preclusion based on the arbitration decision?_
+
+### Model Answer
+
+Claim preclusion requires a prior judgment between the same parties that was valid, final, and on the merits. If those requirements are satisfied, then claim preclusion applies to all claims that were or could have been decided in the prior matter. In this case, the application of claim preclusion depends on whether the decision in the grievance arbitration is a prior judgment with preclusive effect, whether the arbitration and the civil suit involve the same parties, and whether the arbitration and the civil suit involve the same claim.
+
+#### Valid, Final, and On the Merits
+
+A judgment is valid if the court or other tribunal had jurisdiction over the subject matter and parties. A judgment is final if it fully disposes of the action and there is nothing left for the court to do. A judgment is on the merits if it is based on the elements of the claims or affirmative defenses, rather than some procedural ground such as lack of jurisdiction.
+
+In this case, the Union and Acme contractually agreed to submit all grievances arising under the CBA to arbitration, and there is nothing to suggest that the arbitrator lacked jurisdiction to decide the grievance over Wolf's firing. So the decision was presumably valid.
+
+The arbitrator decided the grievance in favor of Wolf and ordered Acme to reinstate her with back pay. That decision fully resolved the grievance, and was thus final.
+
+The basis for the arbitrator's decision was that Acme failed to show good cause to fire Wolf, as required under the CBA. That was decision on the merits, i.e. a determination of the parties' substantive rights and duties, rather than on procedural grounds.
+
+Because the prior judgment was issued by an arbitrator, there is an additional requirement: it must have been confirmed by a court. That is also true in this case.
+
+#### Same Parties
+
+Claim preclusion only applies between the same parties, in the same positions, as in the subsequent suit. That is, in both actions, the same party must assert a claim against the same opposing party. This requirement is known as mutuality of preclusion, i.e. both parties are bound by the prior judgment. Where the claimant in the subsequent action is not identical to the claimant in the prior action, mutuality may still be satisfied where a party in the first action represented the same legal interest as a party in the second action. This may be based on a contractual or other legal relationship between the two, such as a guardian as litem for a minor or the administrator of a decedent's estate.
+
+Here, the parties to the two actions are not strictly identical. In the civil suit, Wolf is the plaintiff and Acme the defendant. The parties to the arbitration were Acme and the Union, not Wolf herself. However, the Union acted in a representative capacity, seeking a remedy on behalf of Wolf under the collective bargaining agreement. Accordingly, the mutuality requirement is satisfied here.
+
+#### Same Claim
+
+For purposes of claim preclusion, a claim includes all causes of action arising from the same transaction or occurrence. Courts generally take a pragmatic approach: rather than focusing on the source of the rights & duties at stake, the particular injuries or wrongful acts alleged, or the specific remedies sought, the question is whether there is a sufficient logical connection among the causes of action that it makes sense for them to be litigated together. For example, where a plaintiff alleges that the defendant's negligence caused a collision between the parties' cars, the plaintiff's claims for personal injury and for property damage are both part of the same claim; if the plaintiff asserts only the personal injury claim in the first suit, and that suit ends in a valid and final judgment on the merits in favor of either party, the plaintiff may not subsequently bring the property damage claim.
+
+Here, the grievance under the CBA and the retaliation claim under Title VII both arise from the same occurrence: Acme's termination of Wolf's employment. Under the logical relationship approach, this is enough to treat the two causes of action as part of the same claim. It doesn't matter that they rest on different legal theories & rights (contractual protection against being fired without cause v. statutory protection against discrimination and retaliation) or involve different facts (the Title VII claim involves facts, not relevant to the arbitration, about whether Wolf complained about harassment and whether that was the real motive for her being fired).
+
+However, claim preclusion will only bar a previously unasserted cause of action if the claimant could have asserted that cause of action in the prior forum. In this case, the arbitrator had exclusive jurisdiction over grievances based the Union contract, but no jurisdiction over claims arising under federal statutes like Title VII. If Wolf wished to pursue both causes of action, she had no choice but to do so in separate actions before different tribunals. Moreover, even if Wolf could have asserted her retaliation claim in the arbitration, the only remedy available under the CBA would have been back pay. Wolf would still be permitted to bring a separate action in court to seek additional statutory remedies available under Title VII, including punitive damages.
+
+## Question 2
+
+Regardless of your answer to the previous question, assume that Wolf's lawsuit is not barred by claim preclusion.
+
+In its answer to Wolf's complaint, Acme denies that Wolf ever complained about sexual harassment and asserts that Wolf was fired for falsifying her time records (which, if true, would be a defense to the Title VII claim).
+
+_Does issue preclusion apply to the issue of whether Wolf falsified her time records?_
+
+### Model Answer
+
+Issue preclusion prevents the relitigation of legal and factual issues that were conclusively decided in a prior action. Issue preclusion may be asserted offensively, i.e. by a claimant, to establish an element of a claim, or defensively, i.e. by a defending party, to defeat an element of a claim or support an affirmative defense.
+
+As with claim preclusion, the prior judgment must have been valid and final, which have the same meaning as for claim preclusion (see answer to Question 1). But the prior judgment doesn't necessarily have to be on the merits. A judgment based on procedural grounds, such as lack of jurisdiction, may still support preclusion on any issues of fact or law that were actually and necessarily decided.
+
+For issue preclusion, the issue must also have been actually litigated and essential to the prior judgment. An issue is actually litigated if the parties contest and offer evidence on the issue at trial or in a dispositive motion. Issue preclusion will not apply if the parties do not contest the issue, e.g. if the defendant admits to a factual allegation, or the parties stipulate to certain facts.
+
+An issue is essential to the judgment if a different resolution of the issue would have resulted in a different outcome. For example, suppose A sues B for negligence. B defends on two grounds: first, that B was not negligent, and second, that even if B was negligent, A was also negligent. Assume the court finds that B was negligent and A was not negligent, and enters judgment in favor of A. Both findings are essential to the judgment, because if either was decided the other way, A would have lost. But suppose the court finds that B was not negligent and A was negligent, and enters judgment in favor of B. In this case, the finding that A was negligent is not essential to the judgment, because a contrary decision on that issue would not change the outcome. 
+
+The mutuality requirement is relaxed for issue preclusion. The party against whom issue preclusion is asserted must have been a party, and the issue must have been decided against them, in the prior action. But the party asserting issue preclusion may be a new party. This is called non-mutual issue preclusion. Non-mutual defensive issue preclusion is generally allowed, if the party against whom preclusion is asserted had a full and fair opportunity to litigate the issue in the prior action. For non-mutual offensive issue preclusion, courts will also consider additional factors to ensure fairness:
+
+- Whether the new party could have joined as a party to the prior action, but chose to wait and see what happened;
+- Whether the stakes in the prior action were so low that the repeat party had little incentive to contest the issue fully;
+- Whether the repeat party lacked important procedural opportunities in the prior forum that might have made a difference to the determination of the issue;
+- Whether there were inconsistent determinations of the issue in multiple prior actions.
+
+#### Valid & Final Judgment
+
+As explained in the answer to Question 1, the arbitrator had jurisdiction over the contract dispute between the parties, the arbitrator's decision fully and finally resolved that dispute, and the decision was affirmed by a federal court. Accordingly, the prior judgment was valid and final.
+
+#### Same Issue, Actually Litigated, & Essential to Judgment
+
+The issue of whether Wolf falsified her time records is the same in both cases. In the first case, it was the central issue, arising as the alleged basis for Acme's firing of Wolf. In the second case, it arises in the context of Acme's defense to the Title VII claim, that they fired Wolf because of the time records and not because of complaints about sexual harassment.
+
+In the arbitration, the parties contested and offered evidence on this issue. Based on the evidence, the arbitrator found that Wolf did not falsify her time records, concluded that Acme lacked good cause to fire Wolf, and ordered her reinstatement with back pay. If the arbitrator had found to the contrary, that Wolf did falsify her time records, the result would have been a decision in favor of Acme.
+
+Accordingly, the issue was both actually litigated and essential to the judgment in the prior action.
+
+#### Mutuality
+
+As previously explained (see answer to Question 1), mutuality is satisfied here, because the Union represented Wolf's legal interests under the CBA in the prior arbitration. Even if Wolf was a "new" party, the fairness factors would likely weigh in favor of allowing Wolf to assert non-mutual offensive issue preclusion here. Like the plaintiff in _Parklane Hosiery_, who could not have joined as a co-plaintiff with the SEC in the prior suit, Wolf could not have joined as a party in the prior arbitration; like the defendant in _Parklane Hosiery_, the stakes for Acme in the prior action (having to reinstate Wolf with back pay) were sufficient to give Acme an incentive to fully contest the issue; and there are no prior inconsistent findings on the issue. Acme's best argument would be that the limited discovery and more informal procedures in the arbitration meant they did not have a full and fair opportunity to litigate the issue. But unless they can show there was evidence they would have obtained and introduced that could have changed the outcome, it’s unlikely this would outweigh the other factors.
