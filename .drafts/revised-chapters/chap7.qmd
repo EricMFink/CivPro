@@ -915,17 +915,19 @@ We conclude, therefore, that none of the considerations that would justify a ref
 
 ## Review Questions 
 
-### Question 1
+### Question 1 
 
-Peggy is fired from her job at the Sterling Cooper advertising agency (located in the State of Hudson). Her boss, Don told her the reason for her firing was poor performance, but Peggy believes the real reason was her refusal to have an affair with Don, who made repeated and unwelcome advances.
+In 2015, Olivia Cromwell purchased a $10,000 municipal bond issued by the City of Greensboro. The bonds had a ten year maturity date (i.e. when repayment of the principal amount is due), with annual interest payments of $1000 until maturity. For the first five years, the City made the annual payments to Cromwell as they were due. But in 2021, the City failed to pay, citing exigencies resulting from the Covid-19 epidemic. Cromwell sued for the missed payment and the court decided in her favor, entering judgment against the City for $1000. In 2022, the City again failed to pay and Cromwell brought another suit. This time, the City argued that Cromwell's claim should be dismissed, based on the 2021 judgment. 
 
-Peggy sues Sterling Cooper in Hudson state court, asserting a claim for wrongful discharge. Sterling Cooper moves to dismiss on the grounds that Hudson law does not recognize a claim for wrongful discharge, except where the plaintiff was employed under a contract requiring cause for termination. The court, finding that complaint did not allege that Peggy had such an employment contract, granted the motion to dismiss with prejudice. 
-
-Peggy then brings another suit, this time in Hudson federal court, against both Sterling Cooper and Don, asserting claims for employment discrimination under Title VII (a federal statute). In her new complaint, Peggy alleges that she was fired because she rejected Don's unwanted sexual advances. In the federal suit, Peggy seeks damages for emotional distress, punitive damages, and attorney fees (as permitted under Title VII). 
-
-_Does claim preclusion apply to the claim against Sterling Cooper? To the claim against Don?_
+_Does claim preclusion bar Cromwell's suit?_ See [_Cromwell v. Sac_](https://scholar.google.com/scholar_case?case=10684984855662825707), 94 U.S. 351 (1876). 
 
 ### Question 2
+
+To finance the purchase of a new car, Bill Jones took out a loan from the [Morris Plan Bank](https://en.wikipedia.org/wiki/Morris_Plan_Banks), with a five-year term payable in monthly installments of $600. The loan agreement included the following provision: The loan agreement contained the following provision: "The full outstanding balance of this loan becomes immediately due and payable if the borrower fails to make timely payment of any installment." After Jones missed two consecutive monthly payments, the Bank filed suit against Jones for $1200. Despite being served with the complaint and summons, Jones failed to respond and the court entered a default judgment against him for $1200. The judgment was satisfied by execution on Jones's bank account. A few months later, Jones missed another payment and the Bank filed another suit. This time, Jones appeared and asserted a defense of claim preclusion, based on the prior judgment. 
+
+_Does claim preclusion bar the Banks's suit?_ See [_Jones v. Morris Plan Bank_](https://scholar.google.com/scholar_case?case=5462632825799591944), 168 Va. 284 (1937)
+
+### Question 3
 
 Sterling Cooper recently gained a new client, Elke Corp., which manufactures a line of gardening and lawn care equipment. To celebrate, the agency holds an office party, at which several employees, including Ken and Lois, consume excessive quantities of liquor. Ken urges Lois to take an Elke riding lawn mower for a spin around the office. Lois passes out and loses control of the mower, driving it into another Sterling Cooper employee, Guy, whose foot is shredded into mulch-sized bits by the mower’s blades. Trudy, a guest at the party, is splattered with blood and bits of flesh from Guy’s foot, and is terribly distraught. The mower finally comes to a stop when it collides into a wall. Lois is thrown from the mower, breaking her leg in the fall. 
 
@@ -952,15 +954,3 @@ Guy then files a lawsuit in Hudson federal court against Elke Corp. (which has j
 
 a. _May Elke rely on the decision of the Workers' Compensation Claims Board to preclude Guy from asserting that the mower's design was defective?_
 b. _May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?_
-
-### Question 3 
-
-In 2015, Oliver Cromwell purchased a municipal bond issue by the City of Greensboro. Under the terms of the bond, the City was to pay bondholders $1000 annually for 10 years (representing installment payments of the principal plus interest). For the first five years (2016-2020), the City made the payments to Cromwell on the due dates. But in 2021, the City failed to pay, citing exigencies resulting from the Covid-19 epidemic. Cromwell brought a suit in North Carolina state court, which ruled in favor of Cromwell and issued a judgment against the City for $1000. In 2022, the City again failed to pay, and Cromwell brought another suit. This time, the City argued that Cromwell's claim should be dismissed, based on the 2021 judgment. 
-
-_Does claim preclusionbar Cromwell's suit?_ (See Cromwell v. Sac)
-
-### Question 4 
-
-CAR LOAN WITH ACCELERATION CLAUSE. BUYER DEFAULTS ON LOAN PAYMENT. LENDER SUES FOR MISSED INSTALLMENT AND WINS. BUYER DEFAULTS ON ANOTHER PAYMENT AND LENDER SUES AGAIN. BUYER ASSERTS CLAIM PRECLUSION. 
-
-_Does claim preclusion bar the lender's suit?_ (See CASE NAME)
