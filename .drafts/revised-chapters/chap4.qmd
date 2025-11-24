@@ -32,7 +32,7 @@ The appellees (husband and wife), being residents and citizens of Kentucky, brou
 
 The bill alleged that in September, 1871, plaintiffs, while passengers upon the defendant railroad, were injured by the defendant's negligence, and released their respective claims for damages in consideration of the agreement for transportation during their lives, expressed in the contract. It is alleged that the contract was performed by the defendant up to January 1, 1907, when the defendant declined to renew the passes. The bill then alleges that the refusal to comply with the contract was based solely upon that part of the act of Congress of June 29, 1906,["act of Congress of June 29, 1906": The [Hepburn Act](https://www.archives.gov/legislative/features/hepburn) gave the Interstate Commerce Commission regulatory authority over railroad shipping and passenger rates. The Act also restricted the practice of giving rate rebates and free passes.]{.aside} which forbids the giving of free passes or free transportation. The bill further alleges: First, that the act of Congress referred to does not prohibit the giving of passes under the circumstances of this case; and, second, that, if the law is to be construed as prohibiting such passes, it is in conflict with the 5th Amendment of the Constitution, because it deprives the plaintiffs of their property without due process of law. The defendant demurred to the bill. The judge of the circuit court overruled the demurrer, entered a decree for the relief prayed for, and the defendant appealed directly to this court.
 
-[Opinion]{.case-h1}
+[Opinion]{.casesection}
 
 Two questions of law were brought here by appeal. They are, first, whether that part of the act of Congress of June 29, 1906, which forbids the giving of free passes or the collection of any different compensation for transportation of passengers than that specified in the tariff filed, makes it unlawful to perform a contract for transportation of persons, who in good faith, before the passage of the act, had accepted such contract in satisfaction of a valid cause of action against the railroad; and, second, whether the statute, if it should be construed to render such a contract unlawful, is in violation of the Fifth Amendment of the Constitution of the United States. We do not deem it necessary, however, to consider either of these questions, because, in our opinion, the court below was without jurisdiction of the cause. Neither party has questioned that jurisdiction, but it is the duty of this court to see to it that the jurisdiction of the Circuit Court, which is defined and limited by statute, is not exceeded. This duty we have frequently performed of our own motion.
 
@@ -58,7 +58,7 @@ Apart from the case for which he is remembered today, Erasmus Mottley was appare
 
 The question is whether want of a federal cause of action to try claims of title to land obtained at a federal tax sale precludes removal to federal court of a state action with nondiverse parties raising a disputed issue of federal title law. We answer no, and hold that the national interest in providing a federal forum for federal tax litigation is sufficiently substantial to support the exercise of federal-question jurisdiction over the disputed issue on removal, which would not distort any division of labor between the state and federal courts, provided or assumed by Congress.
 
-[I]{.case-h1}
+[I]{.casesection}
 
 In 1994, the Internal Revenue Service seized Michigan real property belonging to petitioner Grable & Sons Metal Products, Inc., to satisfy Grable's federal tax delinquency. Title 26 U.S.C. §6335 required the IRS to give notice of the seizure, and there is no dispute that Grable received actual notice by certified mail before the IRS sold the property to respondent Darue Engineering & Manufacturing. Although Grable also received notice of the sale itself, it did not exercise its statutory right to redeem the property within 180 days of the sale, and after that period had passed, the Government gave Darue a quitclaim deed.["quitclaim deed": "a document by which a grantor conveys his or her present interest, if any, in a given parcel of real property to a grantee without representing, covenanting, or warranting that the title is good." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quitclaim_deed).]{.aside}
 
@@ -68,7 +68,7 @@ Darue removed the case to Federal District Court as presenting a federal questio
 
 The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether _Merrell Dow Pharmaceuticals Inc. v. Thompson_, 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction. We now affirm.
 
-[II]{.case-h1}
+[II]{.casesection}
 
 Darue was entitled to remove the quiet title action if Grable could have brought it in federal district court originally, 28 U.S.C. §1441(a), as a civil action "arising under the Constitution, laws, or treaties of the United States," §1331. This provision for federal-question jurisdiction is invoked by and large by plaintiffs pleading a cause of action created by federal law. There is, however, another longstanding, if less frequently encountered, variety of federal "arising under" jurisdiction, this Court having recognized for nearly 100 years that in certain cases federal-question jurisdiction will lie over state-law claims that implicate significant federal issues. The doctrine captures the commonsense notion that a federal court ought to be able to hear claims recognized under state law that nonetheless turn on substantial questions of federal law, and thus justify resort to the experience, solicitude, and hope of uniformity that a federal forum offers on federal issues.
 
@@ -80,7 +80,7 @@ But even when the state action discloses a contested and substantial federal que
 
 These considerations have kept us from stating a "single, precise, all-embracing" test for jurisdiction over federal issues embedded in state-law claims between nondiverse parties. We have not kept them out simply because they appeared in state raiment, but neither have we treated "federal issue" as a password opening federal courts to any state action embracing a point of federal law. Instead, the question is, does a state-law claim necessarily raise a stated federal issue, actually disputed and substantial, which a federal forum may entertain without disturbing any congressionally approved balance of federal and state judicial responsibilities.
 
-[III]{.case-h1}
+[III]{.casesection}
 
 This case warrants federal jurisdiction. Grable's state complaint must specify "the facts establishing the superiority of its claim," and Grable has premised its superior title claim on a failure by the IRS to give it adequate notice, as defined by federal law. Whether Grable was given notice within the meaning of the federal statute is thus an essential element of its quiet title claim, and the meaning of the federal statute is actually in dispute; it appears to be the only legal or factual issue contested in the case. The meaning of the federal tax provision is an important issue of federal law that sensibly belongs in a federal court. The Government has a strong interest in the "prompt and certain collection of delinquent taxes," and the ability of the IRS to satisfy its claims from the property of delinquents requires clear terms of notice to allow buyers like Darue to satisfy themselves that the Service has touched the bases necessary for good title. The Government thus has a direct interest in the availability of a federal forum to vindicate its own administrative action, and buyers (as well as tax delinquents) may find it valuable to come before judges used to federal tax matters. Finally, because it will be the rare state title case that raises a contested matter of federal law, federal jurisdiction to resolve genuine disagreement over federal tax title provisions will portend only a microscopic effect on the federal-state division of labor.
 
@@ -273,7 +273,7 @@ They contend that the case does not satisfy the amount-in-controversy requiremen
 
 For the reasons that follow, I agree that the defendants' counterclaim damages do not count toward the amount-in-controversy requirement. But the record is currently insufficient to determine whether the value of the declaratory relief that the Trustees seek exceeds $75,000. Accordingly, I will hold the remainder of the motion in abeyance pending further submissions from the parties.
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 "Any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending." 28 U.S.C. §1441(a).
 
@@ -441,7 +441,7 @@ The question of power will ordinarily be resolved on the pleadings. But the issu
 
 This appeal concerns the availability of subject matter jurisdiction for permissive counterclaims. It also demonstrates the normal utility of early decision of a motion for class certification. Defendant-Appellant Ford Motor Credit Company ("Ford Credit") appeals from the June 14, 2002, judgment of the United States District Court for the Southern District of New York (Lawrence M. McKenna, District Judge) dismissing for lack of jurisdiction its permissive counterclaims against three of the four Plaintiffs-Appellees and its conditional counterclaims against members of the putative class that the Plaintiffs-Appellees seek to certify. We conclude that supplemental jurisdiction authorized by 28 U.S.C. §1367 may be available for the permissive counterclaims, but that the District Court's discretion under subsection 1367(c) should not be exercised in this case until a ruling on the Plaintiffs' motion for class certification. We therefore vacate and remand.
 
-[Background]{.case-h1}
+[Background]{.casesection}
 
 Plaintiffs-Appellees Joyce Jones, Martha L. Edwards, Lou Cooper, and Vincent E. Jackson ("Plaintiffs"), individually and as class representatives, sued Ford Credit alleging racial discrimination under the Equal Credit Opportunity Act ("ECOA"). They had purchased Ford vehicles under Ford Credit's financing plan. They alleged that the financing plan discriminated against African-Americans. Although the financing rate was primarily based on objective criteria, Ford Credit permitted its dealers to mark up the rate, using subjective criteria to assess non-risk charges. The Plaintiffs alleged that the mark-up policy penalized African-American customers with higher rates than those imposed on similarly situated Caucasian customers.
 
@@ -455,7 +455,7 @@ To resolve his uncertainty, Judge McKenna initially ruled that the counterclaims
 
 On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 54(b) in favor of the Plaintiffs, dismissing Ford Credit's counterclaims without prejudice. Ford Credit appeals from this decision.
 
-[Is There Jurisdiction over the Permissive Counterclaims?]{.case-h1}
+[Is There Jurisdiction over the Permissive Counterclaims?]{.casesection}
 
 For several decades federal courts have asserted that permissive counterclaims require an independent basis of jurisdiction, _i.e_., that the counterclaim must be maintainable in a federal district court on some jurisdictional basis that would have sufficed had it been brought in a separate action. The origin of this proposition, the questioning of it before the statutory authorization of supplemental jurisdiction in section 1367, and the impact of that provision upon the proposition all merit careful consideration.
 
@@ -465,7 +465,7 @@ The explicit extension to the limit of Article III of a federal court's jurisdic
 
 We share the view that section 1367 has displaced, rather than codified, whatever validity inhered in the earlier view that a permissive counterclaim requires independent jurisdiction (in the sense of federal question or diversity jurisdiction). The issue in this case therefore becomes whether supplemental jurisdiction is available for Ford Credit's counterclaims.
 
-[Application of Section 1367's Standards for Supplemental Jurisdiction]{.case-h1}
+[Application of Section 1367's Standards for Supplemental Jurisdiction]{.casesection}
 
 Whether or not the Gibbs "common nucleus" standard provides the outer limit of an Article III "case," and is therefore a requirement for entertaining a permissive counterclaim that otherwise lacks a jurisdictional basis, the facts of Ford Credit's counterclaims and those of the Plaintiffs' ECOA claims satisfy that standard, even though the relationship is not such as would make the counterclaims compulsory. The counterclaims and the underlying claim bear a sufficient factual relationship (if one is necessary) to constitute the same "case" within the meaning of Article III and hence of section 1367. Both the ECOA claim and the debt collection claims originate from the Plaintiffs' decisions to purchase Ford cars.
 
@@ -531,13 +531,13 @@ These consolidated cases[In this opinion, the Court decided two cases: _Rosario 
 
 We hold that, where the other elements of jurisdiction are present and at least one named plaintiff in the action satisfies the amount-in-controversy requirement, §1367 does authorize supplemental jurisdiction over the claims of other plaintiffs in the same Article III case or controversy, even if those claims are for less than the jurisdictional amount specified in the statute setting forth the requirements for diversity jurisdiction.
 
-[I]{.case-h1}
+[I]{.casesection}
 
 [A] 9-year-old girl sued Star-Kist in a diversity action in the United States District Court for the District of Puerto Rico, seeking damages for unusually severe injuries she received when she sliced her finger on a tuna can. Her family joined in the suit, seeking damages for emotional distress and certain medical expenses. The District Court granted summary judgment to Star-Kist, finding that none of the plaintiffs met the minimum amount-in-controversy requirement. The Court of Appeals for the First Circuit, however, ruled that the injured girl, but not her family members, had made allegations of damages in the requisite amount.
 
 The Court of Appeals then addressed whether, in light of the fact that one plaintiff met the requirements for original jurisdiction, supplemental jurisdiction over the remaining plaintiffs' claims was proper under §1367. The court held that §1367 authorizes supplemental jurisdiction only when the district court has original jurisdiction over the action, and that in a diversity case original jurisdiction is lacking if one plaintiff fails to satisfy the amount-in-controversy requirement.
 
-[II]{.case-h1}
+[II]{.casesection}
 
 The district courts of the United States, as we have said many times, are "courts of limited jurisdiction. They possess only that power authorized by Constitution and statute," In order to provide a federal forum for plaintiffs who seek to vindicate federal rights, Congress has conferred on the district courts original jurisdiction in federal-question cases—civil actions that arise under the Constitution, laws, or treaties of the United States. 28 U.S.C. §1331. In order to provide a neutral forum for what have come to be known as diversity cases, Congress also has granted district courts original jurisdiction in civil actions between citizens of different States, between U. S. citizens and foreign citizens, or by foreign states against U. S. citizens. §1332. To ensure that diversity jurisdiction does not flood the federal courts with minor disputes, §1332(a) requires that the matter in controversy in a diversity case exceed a specified amount, currently $75,000.
 

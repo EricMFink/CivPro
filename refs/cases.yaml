@@ -1,0 +1,690 @@
+---
+references:
+- id: AmadorCountyCalUs_DCCir2014
+  authority: D.C. Cir.
+  citation-key: AmadorCountyCalUs_DCCir2014
+  container-title: F. 3d
+  issued:
+    - year: 2014
+  page: '901'
+  title: Amador County, Cal. v. Us Dept. of the Interior
+  type: legal_case
+  volume: '772'
+
+- id: BurdineMetropolitanDirectProperty_EDKy2018
+  authority: E.D. Ky.
+  citation-key: BurdineMetropolitanDirectProperty_EDKy2018
+  issued:
+    - year: 2018
+      month: 11
+      day: 1
+  number: 3:17-cv-00093-GFVT
+  title: Burdine v. Metropolitan Direct Property and Casualty Ins. Co.
+  type: legal_case
+
+- id: ByrdBlueRidgeRural_US1958
+  authority: U.S.
+  citation-key: ByrdBlueRidgeRural_US1958
+  container-title: US
+  issued:
+    - year: 1958
+  page: '525'
+  title: Byrd v. Blue Ridge Rural Elec. Cooperative, Inc.
+  type: legal_case
+  volume: '356'
+
+- id: CamachoMajorLeagueBaseball_SDCal2013
+  authority: S.D. Cal.
+  citation-key: CamachoMajorLeagueBaseball_SDCal2013
+  issued:
+    - year: 2013
+      month: 12
+      day: 19
+  jurisdiction: SD California
+  number: Case No. 12-cv-2859-L(BGS)
+  title: Camacho v. Major League Baseball
+  type: legal_case
+
+- id: CarnivalCruiseLinesInc_US1991
+  authority: U.S.
+  citation-key: CarnivalCruiseLinesInc_US1991
+  container-title: US
+  issued:
+    - year: 1991
+  page: '585'
+  title: Carnival Cruise Lines, Inc. v. Shute
+  type: legal_case
+  volume: '499'
+
+- id: ColbornForestGoodEats_DistCourt2020
+  authority: Dist. Court
+  citation-key: ColbornForestGoodEats_DistCourt2020
+  issued:
+    - year: 2020
+      month: 9
+      day: 18
+  jurisdiction: North Carolina
+  number: 5:19-CV-431-D
+  title: Colborn v. Forest Good Eats, Llc
+  type: legal_case
+
+- id: CompleteBusinessSolutionsGroup_EDPa2020
+  authority: E.D. Pa.
+  citation-key: CompleteBusinessSolutionsGroup_EDPa2020
+  issued:
+    - year: 2020
+      month: 7
+      day: 18
+  number: 20-724
+  title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops
+  type: legal_case
+
+- id: CraneCityArlingtonTexas_5thCir2022
+  authority: 5th Cir.
+  citation-key: CraneCityArlingtonTexas_5thCir2022
+  container-title: F. 4th
+  issued:
+    - year: 2022
+      month: 9
+      day: 30
+  page: '453'
+  title: Crane v. City of Arlington, Texas
+  type: legal_case
+  volume: '50'
+
+- id: DaimlerAgBauman_US2014
+  authority: U.S.
+  citation-key: DaimlerAgBauman_US2014
+  container-title: US
+  issued:
+    - year: 2014
+  page: '117'
+  title: Daimler Ag v. Bauman
+  type: legal_case
+  volume: '571'
+
+- id: DoeClintonCounty_WDMich2025
+  authority: W.D. Mich.
+  citation-key: DoeClintonCounty_WDMich2025
+  issued:
+    - year: 2025
+      month: 4
+      day: 28
+  number: 1:25-cv-368
+  title: Doe v. Clinton County
+  type: legal_case
+
+- id: DolphinKickboxingCoFranchoice_DMinn2020
+  authority: D. Minn.
+  citation-key: DolphinKickboxingCoFranchoice_DMinn2020
+  issued:
+    - year: 2020
+      month: 5
+      day: 6
+  jurisdiction: Minnesota
+  number: Case No. 19-cv-1477 (MJD/ECW)
+  title: Dolphin Kickboxing Co. v. Franchoice, Inc.
+  type: legal_case
+
+- id: ErieCoTompkins_US1938
+  authority: U.S.
+  citation-key: ErieCoTompkins_US1938
+  container-title: US
+  issued:
+    - year: 1938
+  page: '64'
+  title: Erie R. Co. v. Tompkins
+  type: legal_case
+  volume: '304'
+
+- id: ExxonMobilCorpAllapattah_US2005
+  authority: U.S.
+  citation-key: ExxonMobilCorpAllapattah_US2005
+  container-title: US
+  issued:
+    - year: 2005
+  page: '546'
+  title: Exxon Mobil Corp. v. Allapattah Services, Inc.
+  type: legal_case
+  volume: '545'
+
+- id: FordMotorCoMontana_US2021
+  authority: U.S.
+  citation-key: FordMotorCoMontana_US2021
+  container-title: US
+  issued:
+    - year: 2021
+  page: '351'
+  title: Ford Motor Co. v. Montana Eighth Judicial Dist. Court
+  type: legal_case
+  volume: '592'
+
+- id: GinwrightExeterFinanceCorp_DMd2017
+  authority: D. Md.
+  citation-key: GinwrightExeterFinanceCorp_DMd2017
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2017
+      month: 11
+      day: 28
+  jurisdiction: D. Maryland
+  page: '674'
+  title: Ginwright v. Exeter Finance Corp.
+  type: legal_case
+  volume: '280'
+
+- id: GrableSonsMetalProducts_US2005
+  authority: U.S.
+  citation-key: GrableSonsMetalProducts_US2005
+  container-title: US
+  issued:
+    - year: 2005
+  page: '308'
+  title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
+  type: legal_case
+  volume: '545'
+
+- id: HanksCoan_MDNC1999
+  authority: M.D.N.C.
+  citation-key: HanksCoan_MDNC1999
+  issued:
+    - year: 1999
+      month: 8
+      day: 17
+  number: 1:99CV00119
+  title: Hanks v Coan
+  type: legal_case
+
+- id: HannaPlumer_US1967
+  authority: U.S.
+  citation-key: HannaPlumer_US1967
+  container-title: US
+  issued:
+    - year: 1967
+  page: '460'
+  title: Hanna v. Plumer
+  type: legal_case
+  volume: '380'
+
+- id: HernandezAssetAcceptanceLLC_DColorado2013
+  authority: D. Colorado
+  citation-key: HernandezAssetAcceptanceLLC_DColorado2013
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2013
+      month: 9
+      day: 10
+  jurisdiction: D. Colorado
+  page: '1194'
+  title: Hernandez v. Asset Acceptance, LLC
+  type: legal_case
+  volume: '970'
+
+- id: HunterEarthgrainsCoBakery_4thCircuit2001
+  authority: 4th Circuit
+  citation-key: HunterEarthgrainsCoBakery_4thCircuit2001
+  container-title: F. 3d
+  issued:
+    - year: 2001
+  page: '144'
+  title: Hunter v. Earthgrains Co. Bakery
+  type: legal_case
+  volume: '281'
+
+- id: InternationalShoeCoWashington_US1945
+  authority: U.S.
+  citation-key: InternationalShoeCoWashington_US1945
+  container-title: US
+  issued:
+    - year: 1945
+  page: '310'
+  title: International Shoe Co. v. Washington
+  type: legal_case
+  volume: '326'
+
+- id: JanjuaNeufeld_9thCircuit2019
+  authority: 9th Circuit
+  citation-key: JanjuaNeufeld_9thCircuit2019
+  container-title: F. 3d
+  issued:
+    - year: 2019
+      month: 8
+      day: 9
+  page: '1061'
+  title: Janjua v. Neufeld
+  type: legal_case
+  volume: '933'
+
+- id: JohnsonCricketCouncilUSA_EDNC2023
+  authority: E.D.N.C.
+  citation-key: JohnsonCricketCouncilUSA_EDNC2023
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2023
+      month: 8
+      day: 24
+  jurisdiction: North Carolina
+  page: '276'
+  title: Johnson v. Cricket Council USA, Inc.
+  type: legal_case
+  volume: '658'
+
+- id: JohnsonGriffin_6thCircuit2023
+  authority: 6th Circuit
+  citation-key: JohnsonGriffin_6thCircuit2023
+  container-title: F. 4th
+  issued:
+    - year: 2023
+  page: '429'
+  title: Johnson v. Griffin
+  type: legal_case
+  volume: '85'
+
+- id: JohnsonSpencer_10thCircuit2020
+  authority: 10th Circuit
+  citation-key: JohnsonSpencer_10thCircuit2020
+  container-title: F. 3d
+  issued:
+    - year: 2020
+      month: 2
+      day: 13
+  page: '680'
+  title: Johnson v. Spencer
+  type: legal_case
+  volume: '950'
+
+- id: JonesFordMotorCredit_2ndCir2004
+  authority: 2nd Cir.
+  citation-key: JonesFordMotorCredit_2ndCir2004
+  container-title: F. 3d
+  issued:
+    - year: 2004
+      month: 2
+      day: 5
+  page: '205'
+  title: Jones v. Ford Motor Credit Co.
+  type: legal_case
+  volume: '358'
+
+- id: KirkcaldyRichmondCountyBd_MDNC2002
+  authority: M.D.N.C.
+  citation-key: KirkcaldyRichmondCountyBd_MDNC2002
+  container-title: F.R.D.
+  issued:
+    - year: 2002
+  page: '289'
+  title: Kirkcaldy v. Richmond County Bd. of Ed
+  type: legal_case
+  volume: '212'
+
+- id: LeePOWEntertainmentInc_CDCal2020
+  authority: C.D. Cal.
+  citation-key: LeePOWEntertainmentInc_CDCal2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+      month: 6
+      day: 25
+  jurisdiction: CD California
+  page: '1220'
+  title: Lee v. POW! Entertainment, Inc.
+  type: legal_case
+  volume: '468'
+
+- id: LehmanRevolutionPortfolioLLC_1stCir1999
+  authority: 1st Cir.
+  citation-key: LehmanRevolutionPortfolioLLC_1stCir1999
+  container-title: F. 3d
+  issued:
+    - year: 1999
+      month: 1
+      day: 27
+  page: '389'
+  title: Lehman v. Revolution Portfolio LLC
+  type: legal_case
+  volume: '166'
+
+- id: LouisvilleNashvilleCoMottley_US1908
+  authority: U.S.
+  citation-key: LouisvilleNashvilleCoMottley_US1908
+  container-title: US
+  issued:
+    - year: 1908
+  page: '149'
+  title: Louisville & Nashville R. Co. v. Mottley
+  type: legal_case
+  volume: '211'
+
+- id: MalloryNorfolkSouthernRy_US2023
+  authority: U.S.
+  citation-key: MalloryNorfolkSouthernRy_US2023
+  container-title: US
+  issued:
+    - year: 2023
+  page: '122'
+  title: Mallory v. Norfolk Southern Ry. Co.
+  type: legal_case
+  volume: '600'
+
+- id: McGeeInternationalLifeIns_US1957
+  authority: U.S.
+  citation-key: McGeeInternationalLifeIns_US1957
+  container-title: US
+  issued:
+    - year: 1957
+  page: '220'
+  title: McGee v. International Life Ins. Co.
+  type: legal_case
+  volume: '355'
+
+- id: MineWorkersGibbs_US1966
+  authority: U.S.
+  citation-key: MineWorkersGibbs_US1966
+  container-title: US
+  issued:
+    - year: 1966
+  page: '715'
+  title: Mine Workers v. Gibbs
+  type: legal_case
+  volume: '383'
+
+- id: MooreBaker_11thCircuit1993
+  authority: 11th Circuit
+  citation-key: MooreBaker_11thCircuit1993
+  container-title: F. 2d
+  issued:
+    - year: 1993
+      month: 4
+      day: 30
+  page: '1129'
+  title: Moore v. Baker
+  type: legal_case
+  volume: '989'
+
+- id: MosleyGeneralMotorsCorp_EDMissouri1980
+  authority: E.D. Missouri
+  citation-key: MosleyGeneralMotorsCorp_EDMissouri1980
+  container-title: F. Supp.
+  issued:
+    - year: 1980
+      month: 9
+      day: 30
+  jurisdiction: ED Missouri
+  page: '583'
+  title: Mosley v. General Motors Corp.
+  type: legal_case
+  volume: '497'
+
+- id: NationalSatelliteSportsInc_6thCircuit2001
+  authority: 6th Circuit
+  citation-key: NationalSatelliteSportsInc_6thCircuit2001
+  container-title: F. 3d
+  issued:
+    - year: 2001
+  page: '900'
+  title: National Satellite Sports, Inc. v. Eliadis, Inc.
+  type: legal_case
+  volume: '253'
+
+- id: NBAPropertiesIncHanwjh_7thCircuit2022
+  authority: 7th Circuit
+  citation-key: NBAPropertiesIncHanwjh_7thCircuit2022
+  container-title: F. 4th
+  issued:
+    - year: 2022
+  page: '614'
+  title: NBA Properties, Inc. v. Hanwjh
+  type: legal_case
+  volume: '46'
+
+- id: OttawaTownshipBoardTrustees_NDOhio2017
+  authority: N.D. Ohio
+  citation-key: OttawaTownshipBoardTrustees_NDOhio2017
+  issued:
+    - year: 2017
+      month: 7
+      day: 10
+  jurisdiction: ND Ohio
+  number: Case No. 3:17CV228
+  title: Ottawa Township Board of Trustees v. New Par
+  type: legal_case
+
+- id: OttawaTownshipBoardTrustees_NDOhio2017a
+  authority: N.D. Ohio
+  citation-key: OttawaTownshipBoardTrustees_NDOhio2017a
+  issued:
+    - year: 2017
+      month: 10
+      day: 10
+  jurisdiction: ND Ohio
+  number: Case No. 3:17CV228
+  title: Ottawa Township Board of Trustees v. New Par
+  type: legal_case
+
+- id: PaceTimmermannsRanchSaddle_7thCir2014
+  authority: 7th Cir.
+  citation-key: PaceTimmermannsRanchSaddle_7thCir2014
+  container-title: F. 3d
+  issued:
+    - year: 2014
+  page: '748'
+  title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
+  type: legal_case
+  volume: '795'
+
+- id: PalacioCitySpringfield_DMass2014
+  authority: D. Mass.
+  citation-key: PalacioCitySpringfield_DMass2014
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2014
+      month: 6
+      day: 9
+  jurisdiction: D. Massachusetts
+  page: '163'
+  title: Palacio v. City of Springfield
+  type: legal_case
+  volume: '25'
+
+- id: ParklaneHosieryCoShore_US1978
+  authority: U.S.
+  citation-key: ParklaneHosieryCoShore_US1978
+  container-title: US
+  issued:
+    - year: 1978
+  page: '322'
+  title: Parklane Hosiery Co. v. Shore
+  type: legal_case
+  volume: '439'
+
+- id: PassaroVirginia_4thCircuit2019
+  authority: 4th Circuit
+  citation-key: PassaroVirginia_4thCircuit2019
+  container-title: F. 3d
+  issued:
+    - year: 2019
+      month: 8
+      day: 16
+  page: '243'
+  title: Passaro v. Virginia
+  type: legal_case
+  volume: '935'
+
+- id: PennoyerNeff_US1878
+  authority: U.S.
+  citation-key: PennoyerNeff_US1878
+  container-title: US
+  issued:
+    - year: 1878
+  page: '714'
+  title: Pennoyer v. Neff
+  type: legal_case
+  volume: '95'
+
+- id: ReisRoboticsUSAInc_NDIll2006
+  authority: N.D. Ill.
+  citation-key: ReisRoboticsUSAInc_NDIll2006
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2006
+      month: 11
+      day: 6
+  jurisdiction: ND Illinois
+  page: '897'
+  title: Reis Robotics USA, Inc. v. Concept Industries
+  type: legal_case
+  volume: '462'
+
+- id: ReNageleisen_EDKentuckyBankr2014
+  authority: E.D. Kentucky, Bankr.
+  citation-key: ReNageleisen_EDKentuckyBankr2014
+  container-title: BR
+  issued:
+    - year: 2014
+      month: 12
+      day: 30
+  jurisdiction: ED Kentucky
+  page: '522'
+  title: In re Nageleisen
+  type: legal_case
+  volume: '523'
+
+- id: ShiftletAllstateInsuranceCo_DSC2006
+  authority: D.S.C.
+  citation-key: ShiftletAllstateInsuranceCo_DSC2006
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2006
+      month: 8
+      day: 10
+  jurisdiction: D. South Carolina
+  page: '763'
+  title: Shiftlet v. Allstate Insurance Co.
+  type: legal_case
+  volume: '451'
+
+- id: SmithSafemarineCorp_MDLouisiana2024
+  authority: M.D. Louisiana
+  citation-key: SmithSafemarineCorp_MDLouisiana2024
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2024
+      month: 9
+      day: 18
+  jurisdiction: MD Louisiana
+  page: '687'
+  title: Smith v. Safemarine Corp.
+  type: legal_case
+  volume: '749'
+
+- id: StoutVincent_5thCir2018
+  accessed:
+    - year: 2025
+      month: 8
+      day: 11
+  authority: 5th Cir.
+  citation-key: StoutVincent_5thCir2018
+  container-title: Fed. Appx.
+  issued:
+    - year: 2018
+  page: '468'
+  title: Stout v. Vincent
+  type: legal_case
+  volume: '717'
+
+- id: SullivanBlakeFedexGroundPackage_WDPa2020
+  authority: W.D. Pa.
+  citation-key: SullivanBlakeFedexGroundPackage_WDPa2020
+  issued:
+    - year: 2020
+      month: 1
+      day: 31
+  jurisdiction: WD Pennsylvania
+  number: Civil Action No. 18-1698
+  title: Sullivan-Blake v. Fedex Ground Package System, Inc.
+  type: legal_case
+
+- id: SwiftTyson_US1842
+  authority: U.S.
+  citation-key: SwiftTyson_US1842
+  container-title: US
+  issued:
+    - year: 1842
+  page: '1'
+  title: Swift v. Tyson
+  type: legal_case
+  volume: '41'
+
+- id: TaylorSturgell_US2008
+  authority: U.S.
+  citation-key: TaylorSturgell_US2008
+  container-title: US
+  issued:
+    - year: 2008
+  page: '880'
+  title: Taylor v. Sturgell
+  type: legal_case
+  volume: '553'
+
+- id: TurtonVirginiaDepartmentEducation_EDVa2015
+  authority: E.D. Va.
+  citation-key: TurtonVirginiaDepartmentEducation_EDVa2015
+  issued:
+    - year: 2015
+      month: 1
+      day: 15
+  jurisdiction: ED Virginia
+  number: Civil Action No. 3:14cv446
+  title: Turton v. Virginia Department of Education
+  type: legal_case
+
+- id: WilliamsEstatesLLC_MDNC2023
+  authority: M.D.N.C.
+  citation-key: WilliamsEstatesLLC_MDNC2023
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2023
+      month: 3
+      day: 23
+  jurisdiction: MD North Carolina
+  page: '466'
+  title: Williams v. The Estates LLC
+  type: legal_case
+  volume: '663'
+
+- id: WilliamsMitchell_4thCircuit2024
+  authority: 4th Circuit
+  citation-key: WilliamsMitchell_4thCircuit2024
+  container-title: F. 4th
+  issued:
+    - year: 2024
+      month: 11
+      day: 26
+  page: '85'
+  title: Williams v. Mitchell
+  type: legal_case
+  volume: '122'
+
+- id: WorldWideVolkswagenCorpWoodson_US1979
+  authority: U.S.
+  citation-key: WorldWideVolkswagenCorpWoodson_US1979
+  container-title: US
+  issued:
+    - year: 1979
+  page: '286'
+  title: World-Wide Volkswagen Corp. v. Woodson
+  type: legal_case
+  volume: '444'
+
+- id: ZielinskiPhiladelphiaPiers_EDPa1956
+  authority: E.D. Pa.
+  citation-key: ZielinskiPhiladelphiaPiers_EDPa1956
+  container-title: F. Supp.
+  issued:
+    - year: 1956
+  jurisdiction: ED Pennsylvania
+  page: '408'
+  title: Zielinski v. Philadelphia Piers
+  type: legal_case
+  volume: '139'
+...

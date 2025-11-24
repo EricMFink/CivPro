@@ -68,7 +68,7 @@ A civil action is commenced by filing a complaint with the court.
 
 ### Doe v. Clinton County (W.D. Mich. 2025) 
 
-[Order Striking Complaint]{.case-h1}
+[Order Striking Complaint]{.casesection}
 
 Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers".[The first page of the complaint is reproduced below. Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. Butterick (2015) is a very useful guide to producing attractive, reader-friendly, legal documents.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
 
@@ -224,7 +224,7 @@ We review a district court's dismissal under Rule 12(b)(6) _de novo_ and view th
 
 Before us on appeal is the district court's dismissal of Williams' retaliation, conspiracy, and IIED claims, which will each be addressed in turn.
 
-[A.]{.case-h1}
+[A.]{.casesection}
 
 A plaintiff seeking to recover for First and Sixth Amendment retaliation must allege that (1) he engaged in protected activity, (2) the defendant took some action that adversely affected his constitutional rights, and (3) there was a causal relationship between his protected activity and the defendant's conduct. We begin by addressing the first and third elements, which are straightforwardly satisfied.
 
@@ -246,7 +246,7 @@ Viewed in the light most favorable to Williams and at this stage of the proceedi
 
 Williams has thus alleged a First and Sixth Amendment retaliation claim sufficient to survive a motion to dismiss, and the district court's opinion granting Defendants' motions on this claim must be reversed.
 
-[B.]{.case-h1}
+[B.]{.casesection}
 
 To state a claim for civil conspiracy under 42 U.S.C. §1983, a plaintiff must allege that defendants "acted jointly in concert and that some overt act was done in furtherance of the conspiracy which resulted in [his] deprivation of a constitutional right."
 
@@ -378,7 +378,7 @@ Although the analysis of the control element does not depend on the presence or 
 
 This is a diversity action governed by Illinois law in which Plaintiff Reis Robotics USA, Inc. ("Reis") filed a complaint against Defendant Concept Industries, Inc. ("Concept"), seeking redress for breach of contract. Concept has answered the complaint, asserted six affirmative defenses, and brought seven counterclaims against Reis. Reis now moves to strike and dismiss Concept's affirmative defenses; strike portions of Concept's answer; and dismiss Concept's counterclaims. For the reasons set forth below, Reis's motions are granted in part and denied in part.
 
-[Background]{.case-h1}
+[Background]{.casesection}
 
 The following facts are taken from Reis's complaint. Reis, an Illinois corporation, manufactures and supplies industrial robotics equipment. Concept, a Michigan corporation, manufactures and supplies automotive parts. On or about February 24, 2005, the parties entered into a contractual arrangement for Concept to purchase from Reis a robotic laser cutting machine (the "Laser") and associated fixtures for trimming three separate automotive parts: the Hush Panel, JS Dash Silencer, and JS Dash Close Out Panel. The pertinent contract documents are an "Order Acknowledgment" executed by Reis and an "Amended Purchase Order" executed by Concept. For ease of reference, we refer to these documents collectively as "the Agreement."
 
@@ -408,7 +408,7 @@ As for the JS Dash Silencer fixtures, Concept alleges that it only authorized Re
 
 Concept also raises counterclaims against Reis for: (1) fraudulent inducement; (2) misrepresentation; (3) unjust enrichment; (4) promissory estoppel; (5) breach of contract; (6) breach of express warranty; and (7) overpayment. All of the claims are premised on the Laser's inability to achieve the cycle time allegedly discussed by the parties. 
 
-[Motion to Strike and Dismiss Affirmative Defenses]{.case-h1}
+[Motion to Strike and Dismiss Affirmative Defenses]{.casesection}
 
 We turn first to Reis's motion to strike and dismiss various portions of Concept's affirmative defenses.
 
@@ -432,7 +432,7 @@ Concept's fifth affirmative defense states: "Reis's claims are barred or limited
 
 Concept's sixth affirmative defense states: "Concept reserves the right to add additional affirmative defenses as they become known through discovery." This is not a proper affirmative defense. If at some later point in the litigation Concept believes that the addition of another affirmative defense is warranted, it may seek leave to amend its pleadings pursuant to Rule 15(a); such a request will be judged by the appropriate standards, including the limitations set forth in Rule 12(b) and (h). Accordingly, Concept's sixth affirmative defense is stricken with prejudice.
 
-[Motion to Strike Portions of Defendant's Answer]{.case-h1}
+[Motion to Strike Portions of Defendant's Answer]{.casesection}
 
 Reis next moves to strike various portions of Concept's answer for failing to comply with Rule 8. Rule 8 provides in relevant part:
 
@@ -493,7 +493,7 @@ Further, because the proposed additional defense of arson is a complete defense 
 
 This matter is before the Court on Plaintiffs' Motion to Amend Complaint. For the reasons stated below, the Motion is granted in part and denied in part.
 
-[Factual and Procedural Background]{.case-h1}
+[Factual and Procedural Background]{.casesection}
 
 The "Facts" section of the proposed amended complaint is exactly the same as found in the original Complaint. For the sake of brevity, the Court incorporates the "Facts" section found in its Report and Recommendation into this Order. The proposed amended complaint also contained the same claim for fraud as found in the original Complaint. Defendants did not move to dismiss the common law fraud claim as part of their Motion to Dismiss. The claim alleged that Defendants committed fraud by knowingly making false representations to Plaintiffs for the purpose of inducing them to purchase an ILKB franchise.In addition, the fraud claim alleges that these representations proved to be untrue; Plaintiffs reasonably relied on this information in deciding to purchase an ILKB franchise, and as a result Plaintiffs have suffered damages of no less than $500,000.
 
@@ -515,7 +515,7 @@ The only substantive addition to the proposed amended complaint is Count V seeki
 
 According to the proposed amended complaint, as a result of Defendants' deliberate disregard of Plaintiffs' rights, Plaintiffs are entitled to punitive damages.
 
-[Legal Standard]{.case-h1}
+[Legal Standard]{.casesection}
 
 Rule 15(a) sets the general standard for amending pleadings in Federal court. Fed. R. Civ. P. 15. Rule 15(a) provides that leave to amend "shall be freely given when justice so requires." The determination as to whether to grant leave to amend is entrusted to the sound discretion of the trial court.The Eighth Circuit has held that although amendment of a pleading "should be allowed liberally to ensure that a case is decided on its merits there is no absolute right to amend."
 
@@ -531,7 +531,7 @@ The relevant legal basis for punitive damages under Minnesota law provides:
 >
 > > (2\) deliberately proceeds to act with indifference to the high probability of injury to the rights or safety of others.
 
-[Analysis]{.case-h1}
+[Analysis]{.casesection}
 
 With respect to Rule 15, Defendants argue that the Motion should be denied because it is futile. Plaintiffs' amendment is not futile if the proposed amended complaint contains "sufficient factual matter, accepted as true, to 'state a claim to relief that is plausible on its face.'" Here, the question is whether the proposed amended complaint plausibly alleges facts showing that the acts of Defendants show deliberate disregard for the rights or safety of others where:
 
@@ -670,7 +670,7 @@ After considering these motions, this Court entered an Order dismissing the Amen
 
 Andriano filed his Motion for Rule 11 Sanctions on September 9, 2014, before the Order dismissing the Amended Complaint was entered, and the Order provides that: "the Court retains jurisdiction to decide Defendant Patrick T. Andriano's Motion for Sanctions pursuant to Rule 11."
 
-[Legal Standard Under Rule 11]{.case-h1}
+[Legal Standard Under Rule 11]{.casesection}
 
 Fed. R. Civ. P. 11 provides in relevant part:
 
@@ -694,7 +694,7 @@ The text of Rule 11 teaches that "to harass or to cause unnecessary delay or nee
 
 Andriano argues that the claims against him: (1) lack legal basis; (2) lack factual basis; and (3) were filed for an improper purpose. He also notes that Plaintiffs and their counsel were put on notice after the Amended Complaint was filed that their claims against him lacked factual and legal support, but that they nevertheless continued to pursue those claims. Andriano now seeks Rule 11 Sanctions, asking this Court to "enter an order imposing the maximum sanctions permitted by law against plaintiffs and their counsel." 
 
-[Alleged Lack of Legal Basis]{.case-h2}
+[Alleged Lack of Legal Basis]{.casesubsection}
 
 Andriano argues that the claims against him lacked legal basis because: (1) the Court lacks subject matter jurisdiction over the claims against him; and (2) the claims are "fatally flawed as a matter of law." 
 
@@ -710,7 +710,7 @@ Andriano also correctly asserts that, "at no point have plaintiffs identified wh
 
 The law of Virginia is quite clear on this subject. Plaintiff's counsel has not shown that any prefiling legal research was undertaken in an effort to find legal support for the "special relationship" assertions in the Amended Complaint. And, given the clear and settled nature of Virginia law on the subject, it is difficult to conclude that any such research was undertaken. On this record then, the Court finds that there was no prefiling inquiry into the law that applies to the special relationship assertions in the Amended Complaint.
 
-[Factual Basis]{.case-h2}
+[Factual Basis]{.casesubsection}
 
 Next, Andriano asserts that Plaintiffs' claims against him are factually unsupported. In short, Andriano argues that the "Complaint fails to set forth specific factual allegations supporting Plaintiffs' purported claims" and Plaintiffs' counsel failed to make an effort to determine that their claims are factually supported. Andriano argues that it is not enough that Plaintiffs allege that Mr. Andriano was "present at certain unspecified meetings and that he provided legal advice to his clients." 
 
@@ -718,7 +718,7 @@ In response, Plaintiffs' counsel asserts that counsel attended fifty or more IEP
 
 That record shows a substantial basis for the allegations about Adriano's presence at, and his observed conduct during, some of the meetings alleged in the Amended Complaint. However, the record now shows that the allegation that Adriano was not counsel for the School Board of Essex and Nottoway Counties. Thus, "even a cursory investigation" would have revealed that Adriano did not represent the school boards for either Nottoway County or Essex County and that he was not involved in the development of IEPs for the student-plaintiffs attending schools in those counties. In sum, there was not an adequate investigation into the factual basis for allegations to the contrary.
 
-[Improper Purpose]{.case-h2}
+[Improper Purpose]{.casesubsection}
 
 Finally, Andriano argues that Plaintiff's claims against him are not asserted for any proper purpose. In support, Andriano cites the fact that plaintiffs sought monetary damages in excess of $20,000,000.00 based on "putative claims that do not contain common factual issues or common questions of law." Additionally, Andriano suggests that, if Plaintiffs truly had a proper purpose in filing their Complaint, they would not have failed to exhaust administrative remedies, would not have waited until some of the student-plaintiffs failed to be enrolled in the defendant school systems, and would not have sought such an exorbitant sum of money. Id.
 
@@ -728,11 +728,11 @@ Andriano cites Kunstler as an example of a similar case where the "primary motiv
 
 As discussed above, the subjective views of Andriano about Plaintiffs' purpose in filing the suit are irrelevant to the analysis. Rather, the Court must determine Plaintiff's purpose based on objective or otherwise reliable evidence. There is no direct evidence on which to make such a finding. However, the Court's findings on the existence of reasonable factual and legal support for claims can affect the analysis under this prong of Rule 11. In that regard, where "counsel willfully files a baseless complaint, a court may properly infer that it was filed ... for some purpose other than to vindicate rights through the judicial process."
 
-[Are Sanctions Appropriate?]{.case-h2}
+[Are Sanctions Appropriate?]{.casesubsection}
 
 Given the findings that there was a lack of legal support for, and a lack of legal inquiry into, the special relationship theory that lies at the core of claims against Adriano, and considering the public statements of Plaintiffs' counsel, the Court concludes that sanctions are appropriate.
 
-[Appropriate Sanction(s) and Possible Need for a Hearing]{.case-h2}
+[Appropriate Sanction(s) and Possible Need for a Hearing]{.casesubsection}
 
 Sanctions under Rule 11 may be monetary or nonmonetary, and only "the least severe sanction adequate to serve the purposes of Rule 11 Should be imposed. The case law makes clear that the primary purpose of Rule 11 is to deter improper litigation rather than to compensate the opposing party for the costs of defending the lawsuit. In fashioning a sanction, the court should consider: (1) the reasonableness of the opposing party's attorney's fees; (2) the minimum to deter; (3) ability to pay; and (4) factors related to the severity of the Rule 11 violation. The court may also "consider factors such as the offending party's history, experience, and ability, the severity of the violation, the degree to which malice or bad faith contributed to the violation, the risk of chilling, the type of litigation involved, and other factors as deemed appropriate in individual circumstances." 
 
@@ -838,7 +838,7 @@ Courts must comply with certain procedural requirements before imposing sanction
 
 Consistent with Rule 11(c)(3), the Court issued its Show Cause Order in November 2022 and provided Mr. Shaw, Mr. Matheny, and the moving defendants with an opportunity to be heard. All have taken advantage of the opportunity to submit evidence and briefs.
 
-[Fed R. Civ. P. 11(b)(2) and (3)]{.case-h1}
+[Fed R. Civ. P. 11(b)(2) and (3)]{.casesection}
 
 By signing a motion, an attorney certifies that "the claims, defenses, and other legal contentions" contained within "are warranted by existing law or by a nonfrivolous argument," Fed. R. Civ. P. 11(b)(2), and that "the factual contentions have evidentiary support" or "will likely have evidentiary support" after further discovery or investigation. Fed. R. Civ. P. 11(b)(3). Rule 11 "imposes on any party who signs a pleading, motion, or other paper ... an affirmative duty to conduct a reasonable inquiry into the facts and the law before filing." "The applicable standard is one of reasonableness under the circumstances."
 
@@ -886,13 +886,13 @@ This might be true; both Mr. Shaw and Mr. Matheny say so. But it is no excuse. M
 
 The Court finds by clear and convincing evidence that both Mr. Shaw and Mr. Matheny violated Federal Rule of Civil Procedure 11(b)(2) and (3) when they filed the motion for attorney's fees without legal or factual support and without undertaking a reasonable investigation into the law.
 
-[Fed R. Civ. P. 11(b)(1)]{.case-h1}
+[Fed R. Civ. P. 11(b)(1)]{.casesection}
 
 Rule 11 requires attorneys to certify that motions are "not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation." Fed. R. Civ. P. 11(a)-(b)(1). The subjective opinion of an injured party that the motion was made to harass is insufficient to show an attorney had an improper purpose under Rule 11(b)(1); "instead, such improper purposes must be derived from the motive of the signer." This analysis must focus on the purpose of the filing, not its consequences.
 
 A district court may consider a wide variety of evidence in making its determination, including the attorney's subjective beliefs about the motion, "circumstantial facts surrounding the filing," "the outrageous nature of the claims made" in the motion, and the attorney's "experience in a particular area of law." As previously noted, the Court may impose an appropriate sanction on any attorney, law firm, or party that "is responsible for the violation."
 
-[Mr. Shaw]{.case-h2}
+[Mr. Shaw]{.casesubsection}
 
 Many facts show that Mr. Shaw filed the motion for attorney's fees with an improper purpose. First, the motion lacked a basis in law or in fact, as detailed in the Show Cause Order, and earlier in this Order. The fact that a filing lacked a basis in law or in fact strongly supports a finding of improper purpose under Rule 11(b).
 
@@ -916,11 +916,11 @@ Finally, Mr. Shaw's course of conduct is indicative of a general willingness to 
 
 Viewing all of the evidence as a whole, the Court finds by clear and convincing evidence that Mr. Shaw filed the motion for attorney's fees for an improper purpose and that by filing it he violated Rule 11(b)(1).
 
-[Mr. Matheny]{.case-h2}
+[Mr. Matheny]{.casesubsection}
 
 Although Mr. Matheny was responsible for the conduct of the litigation and was required to review and sign all pleadings and papers, the Court will not find him in violation of Rule 11(b)(1). The evidence establishes that Mr. Shaw drafted and filed the motion. The facts show that Mr. Matheny was inattentive, irresponsible, and shirked his professional and ethical duties in accepting a role where he did not have any oversight or review and in not reviewing this motion. Perhaps the evidence would support a finding that he personally filed the motion for an improper purpose, but the Court declines to so find in its discretion, given the overall context.
 
-[The Moving Defendants]{.case-h2}
+[The Moving Defendants]{.casesubsection}
 
 Craig Brooksby, one of the Group 1 defendants, is "the primary individual defendant" and "the primary contact for nearly all of the Limited Liability Company defendants," including for those defendants in Group 1 and Group 2. He made the litigation decisions for these defendant entities while Mr. Shaw and Mr. Matheny represented them. The Court finds by clear and convincing evidence that Mr. Brooksby is responsible for the filing of the motion for attorney's fees and that he had the same improper purpose as Mr. Shaw, in violation of Rule 11(b)(1).
 
@@ -936,7 +936,7 @@ Mr. Brooksby's actions and inactions satisfy the Court by clear and convincing e
 
 The Court will not sanction any of the other moving defendants. Mr. Brooksby is the litigant running the show. He is the defendant personally responsible for the Rule 11 violation, not the LLCs he controls.
 
-[Sanctions]{.case-h1}
+[Sanctions]{.casesection}
 
 When a court "determines that Rule 11(b) has been violated," it "may impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is responsible for the violation." Fed. R. Civ. P. 11(c)(1). Determination of an appropriate Rule 11 sanction is discretionary. However, the sanction imposed "must be limited to what suffices to deter repetition of the conduct or comparable conduct by others similarly situated." Fed. R. Civ. P. 11(c)(4).
 
@@ -946,7 +946,7 @@ While Rule 11 itself does not list the factors that courts should consider in se
 
 Sanctions may be monetary or non-monetary. _See_ Fed. R. Civ. P. 11(c)(4). Because the Court initiated these proceedings _sua sponte,_ monetary sanctions are limited to penalties payable to the court; attorney's fees or other monetary sanction payable to a party are not available. _See_ Fed. R. Civ. P. 11(c)(4). In deciding the amount of a monetary sanction, courts consider the minimum necessary to deter, the sanctioned party's ability to pay, and the severity of the violation. Nonmonetary sanctions vary widely depending on the facts. They include, _inter alia,_ reprimands, warnings, orders to undergo continuing legal education, circulation of the Rule 11 Order to members of the offending attorney's firm, suspensions, and disbarment.
 
-[Mr. Matheny]{.case-h2}
+[Mr. Matheny]{.casesubsection}
 
 As to Mr. Matheny, the appropriate sanction for violating Rule 11(b)(2) and (3) is to make this Order public and to impose a fine. A public finding that he has violated Rule 11 will, by itself, have an effect on his reputation and serve to deter others from similar misconduct. It is necessary here.
 
@@ -956,7 +956,7 @@ A fine of $2,500 for the Rule 11 violation is roughly equivalent to the attorney
 
 The Court appreciates that Mr. Matheny has offered to pay plaintiffs' counsel $1,420 to cover some of the attorney's fees incurred by the plaintiffs in connection with the motion. But when Rule 11 proceedings are initiated by the Court, the Court cannot require a financial sanction payable to a party. Fed. R. Civ. P. 11(c)(4).
 
-[Mr. Shaw]{.case-h2}
+[Mr. Shaw]{.casesubsection}
 
 The Court will direct that a copy of this Order is sent to the Utah Supreme Court and the Utah State Bar. Mr. Shaw's misconduct should not be hidden and should be public, to protect the public and to deter other lawyers from similar violations. Given his disregard of previous public court orders pointing out his failures and reminding him to follow the rules, a public reprimand or warning is clearly insufficient. A financial sanction is also appropriate.
 
@@ -968,7 +968,7 @@ The Court concludes that a fine of $25,000 is necessary and appropriate to deter
 
 The plaintiffs have suggested that "disgorgement of the excessive fees" Mr. Shaw apparently charged the moving defendants "is an appropriate sanction under both Rule 11 and 28 U.S.C. §1927." But disgorgement is typically used in this circuit as a sanction for civil contempt. And any monetary sanctions imposed under Rule 11 must be payable into the court because the Court initiated the present action. In this procedural context, it is not an appropriate sanction.
 
-[Mr. Brooksby]{.case-h2}
+[Mr. Brooksby]{.casesubsection}
 
 As to Mr. Brooksby, it was clear from his testimony at trial that he lives in his wallet; under ordinary circumstances, a fine would be appropriate for his violation of Rule 11(b)(1) and would hit where it matters most to him. But Mr. Brooksby has declared under oath that he has no money and no assets, and that he never paid a nickel towards a multi-million-dollar judgment entered against him in Nevada state court in 2010. The facts of the case show his ongoing efforts to protect and hide assets through complicated corporate structures. The defendants he controls had to be threatened with contempt during the litigation before they paid a fairly small attorney's fee imposed as a discovery sanction. Given this, the Court has serious doubts that Mr. Brooksby will ever pay any fine ordered or that imposition of a fine will have any deterrent effect on Mr. Brooksby.
 
@@ -976,7 +976,7 @@ Therefore, the Court will require Mr. Brooksby to pay in a currency of which he 
 
 In determining the amount of time, the Court has considered the nine hours plaintiffs' counsel spent responding to the violative motion for attorney's fees and the resulting Show Cause Order, and the amount of time needed to make the sanction meaningful and to deter other litigants who may be judgment-resistant from engaging in similar harassing tactics. The Court will require Mr. Brooksby to observe six days of court proceedings, which should end up being roughly triple the time spent by plaintiffs' counsel, and the Court will stretch out the observation dates over two months to serve as an ongoing reminder of the consequences of sanctionable behavior. Mr. Brooksby shall be present in the courtroom whenever court is in session on the specified days, until court is concluded for the day. The Court will impose necessary restrictions on his behavior and conduct to increase the chance that he pays attention and to decrease the chance that he distracts others. Mr. Brooksby is warned that if he fails to appear as directed, an order for his arrest will be issued pending a show cause hearing for contempt of court.
 
-[Conclusion]{.case-h1}
+[Conclusion]{.casesection}
 
 Steven W. Shaw filed the motion for attorney's fees with no legal or factual support and for improper purposes, and he vexatiously multiplied the proceedings in bad faith. Craig Brooksby is responsible for the filing of the motion because he also had an improper purpose of harassing the plaintiffs and their lawyers. Mr. Matheny is equally responsible for the filing of a motion without legal and factual support. Sanctions are appropriate to deter these three men and others who might be tempted to break the rules and abuse the litigation process.
 

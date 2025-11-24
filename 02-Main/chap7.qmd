@@ -116,7 +116,7 @@ In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for
 
 Cheyenne, the Estate, and Officer Spencer each moved the district court under Federal Rule of Civil Procedure 12(b)(6) to dismiss the 2017 Action because its claims are precluded by the judgments in the 1991 and 1992 Actions. The district court granted those motions and denied Mr. Johnson's later motions for reconsideration of and relief from that dismissal. We affirm in part and reverse in part the district court's dismissal of the 2017 Action. More specifically, we affirm the dismissal of the claims against Cheyenne and the Estate because the judgment in the 1991 Action—in which they were the defendants—is entitled to claim-preclusive effect. We reverse, however, the dismissal of the claims against Officer Spencer because the judgment in the 1992 Action—in which he was the defendant—was not on the merits and, thus, is not entitled to claim-preclusive effect. 
 
-[Factual Background]{.case-h1}
+[Factual Background]{.casesection}
 
 Late one night in June 1989, Mr. Johnson ran into a female acquaintance at a bar in Cheyenne and returned with her to the apartment that she shared with her boyfriend, who was away at the time. They drank wine and smoked marijuana in her living room, and Mr. Johnson used his driver's license and picture I.D., which were enclosed in a clear plastic sleeve, to separate marijuana leaves from their stems and seeds for the joints that they smoked. Mr. Johnson and his female acquaintance then left her apartment in her car and visited multiple bars in downtown Cheyenne. Mr. Johnson, however, forgot his license and picture I.D. on the coffee table in his acquaintance's living room.
 
@@ -138,9 +138,9 @@ At trial, the acquaintance testified that Mr. Johnson broke into her apartment a
 
 Mr. Johnson remained imprisoned for twenty-four years. Then, in August 2013, he was declared actually innocent by a Wyoming court after improved DNA testing revealed that the seminal fluid samples in the acquaintance's sexual-assault kit did not match his DNA but, rather, the DNA of the acquaintance's then-boyfriend. According to Mr. Johnson, the Cheyenne Police Department should not have believed the acquaintance and her boyfriend when they told the police that the boyfriend was out of town for work on the night she was sexually assaulted.
 
-[Procedural Background]{.case-h1}
+[Procedural Background]{.casesection}
 
-[The 1991 Action]{.case-h2}
+[The 1991 Action]{.casesubsection}
 
 While incarcerated, Mr. Johnson filed at least two federal civil-rights actions in Wyoming federal district court against those he claimed were responsible for his conviction. The first of these actions was a suit he filed in forma pauperis in 1991 against the City of Cheyenne and Detective Stanford, among other parties. Within seven days of the filing of his original complaint, Mr. Johnson also filed a demand for a jury trial. He then amended his complaint, alleging, inter alia, that Cheyenne had failed to train its officers in proper methods of investigation and that Detective Stanford had violated his constitutional rights during the investigation by, for example, the manner in which the detective interrogated him.
 
@@ -150,7 +150,7 @@ At the beginning of the new evidentiary hearing, the magistrate judge denied the
 
 Mr. Johnson appealed, and a panel of our court entered an order and judgment affirming the district court's judgment.  
 
-[The 1992 Action]{.case-h2}
+[The 1992 Action]{.casesubsection}
 
 While his 1991 Action was pending, Mr. Johnson filed another federal civil-rights action—this time a 42 U.S.C. §1983 suit against Officer Spencer. Mr. Johnson alleged that Officer Spencer had violated his due-process rights "by knowingly and willfully giving false testimony at his original jury trial" about the eyeglasses that his acquaintance said that he had worn and she had found in her bedroom. He also moved the district court for leave to proceed in forma pauperis.
 
@@ -158,7 +158,7 @@ Before Officer Spencer filed any responsive document, the district court entered
 
 On appeal, we affirmed, noting that the district court had "dismissed the action as factually frivolous under 28 U.S.C. §1915(d)." In doing so, we stated that "Mr. Johnson's lawsuit is based upon an indisputably meritless legal theory because a testifying police officer is entitled to absolute immunity." Thus, "dismissal was appropriate." 
 
-[The 2017 Action]{.case-h2}
+[The 2017 Action]{.casesubsection}
 
 After he was exonerated, Mr. Johnson filed a third federal civil-rights action, i.e., the 2017 Action under §1983. He alleged that Cheyenne, Detective Stanford, Officer Spencer, and unnamed members of Cheyenne's police department violated his constitutional rights. In particular, he alleged that the defendants suppressed photographs of the crime scene that would have exonerated him, failed to preserve those photographs, fabricated evidence by prompting the acquaintance to identify him as the intruder who broke into her apartment, and, as to Cheyenne, failed to have adequate policies and training for its officers.
 
@@ -170,7 +170,7 @@ The central question in this appeal is whether the judgments in the prior litiga
 
 We address in Part B whether the judgments in the 1991 and 1992 Actions have claim-preclusive effect on the 2017 Action. We conclude that the judgment in the 1991 Action—in which Detective Stanford and Cheyenne were defendants—has claim-preclusive effect. But we conclude that the judgment in the 1992 Action—in which Officer Spencer was the defendant—does not have claim-preclusive effect because that case was not decided "on the merits." We, thus, do the following: (1) reverse the district court's order granting Officer Spencer's Rule 12(b)(6) motion to dismiss the 2017 Action and remand for further proceedings, and (2) affirm the district court's order granting the Estate's and Cheyenne's Rule 12(b)(6) motions to dismiss the 2017 Action.
 
-[The Defendants' Rule 12(b)(6) Motions in the 2017 Action]{.case-h1}
+[The Defendants' Rule 12(b)(6) Motions in the 2017 Action]{.casesection}
 
 In the following discussion, we address (1) our standard of review, (2) the general framework governing claim-preclusion, and (3) how that law applies to the 1991 and 1992 Actions. We conclude that the district court correctly held that the 1991 Action has claim-preclusive effect on the 2017 Action, but erred in holding that the 1992 Action has such effect. We, thus, affirm in part and reverse in part.
 
@@ -182,11 +182,11 @@ In this case, Mr. Johnson concedes that the district court correctly ruled that 
 
 In the following discussion, as indicated, we focus on whether the 1991 Action provided Mr. Johnson with a "full and fair opportunity to litigate" and whether the 1992 Action was adjudicated "on the merits." As to the 1991 Action, we conclude that Mr. Johnson had a "full and fair opportunity to litigate" his claims because the decision to conduct a bench trial that ostensibly deprived him of that opportunity presented a procedural issue that he had a full and fair opportunity to litigate before the district court, but then waived on appeal, even though he could have fully and fairly litigated it there as well. As to the 1992 Action, in contrast, we conclude that Mr. Johnson correctly contends that the action was not adjudicated "on the merits" because the district court expressly dismissed it as frivolous under the then-applicable 28 U.S.C. §1915(d). Accordingly, we affirm the district court's dismissal of the claims precluded by the 1991 Action—i.e., those against the Estate and Cheyenne—but reverse its dismissal of the claims ostensibly precluded by the 1992 Action—i.e., those against Officer Spencer.
 
-[The 1991 Action is entitled to claim-preclusive effect.]{.case-h1}
+[The 1991 Action is entitled to claim-preclusive effect.]{.casesection}
 
 The parties dispute whether the 1991 Action is entitled to claim-preclusive effect and, more specifically, whether it constituted a "full and fair opportunity to litigate." Mr. Johnson also argues that, even if the 1991 Action might give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject both arguments and, thus, uphold the district court's dismissal of the claims against Cheyenne and the Estate, i.e., the parties to the 1991 Action.
 
-[The "Full and Fair Opportunity to Litigate" Requirement]{.case-h2}
+[The "Full and Fair Opportunity to Litigate" Requirement]{.casesubsection}
 
 The "full and fair opportunity to litigate" inquiry is a "narrow exception" that "applies only where the requirements of due process were not afforded—where a party shows 'a deficiency that would undermine the fundamental fairness of the original proceedings.'" "The fairness of the prior proceeding 'is determined by examining any procedural limitations, the party's incentive to fully litigate the claim, and whether effective litigation was limited by the nature or relationship of the parties.'" Here, Mr. Johnson argues, that the district court's decision in the 1991 Action to convene a bench trial instead of a jury trial was a procedural limitation that denied him a "full and fair opportunity to litigate" his claims. We disagree.
 
@@ -198,7 +198,7 @@ As in _Hanley_, so too here. Mr. Johnson had a full and fair opportunity to liti
 
 In sum, it is clear to us that Mr. Johnson cannot escape from the claim-preclusive effect of the 1991 Action based on a procedural argument that was previously litigated and adjudicated in that action and that he had an opportunity to appeal before that judgment became final. Consequently, we reject Mr. Johnson's contention that the 1991 Action did not provide him with a "full and fair opportunity to litigate."
 
-[Cheyenne and the Estate carried their burden on the claim-preclusion defense.]{.case-h2}
+[Cheyenne and the Estate carried their burden on the claim-preclusion defense.]{.casesubsection}
 
 Mr. Johnson also contends that, even if the 1991 Action could give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject this argument.
 
@@ -210,7 +210,7 @@ It is beyond cavil that claim preclusion is an affirmative defense, as to which 
 
 In sum, we reject Mr. Johnson's argument that Cheyenne and the Estate have failed to muster legally sufficient proof to establish claim preclusion as to the 1991 Action.
 
-[Heck v. Humphrey Redux]{.case-h2}
+[Heck v. Humphrey Redux]{.casesubsection}
 
 Mr. Johnson also returns to an iteration of his _Heck_ argument. He argues that, under _Heck_, he could not have brought the claims in his 2017 Action until he was exonerated in 2013 and so the district court erred in deeming those claims precluded by his earlier actions. 
 
@@ -224,11 +224,11 @@ We, thus, reject Mr. Johnson's argument that the claims in the 2017 Action were 
 
 In sum, we hold that the claims in the 2017 Action against Cheyenne and the Estate are precluded by the 1991 Action. We, thus, affirm the dismissal of those claims.
 
-[The 1992 Action is not entitled to claim-preclusive effect.]{.case-h1}
+[The 1992 Action is not entitled to claim-preclusive effect.]{.casesection}
 
 With respect to the 1992 Action, Mr. Johnson primarily disputes the first element of claim preclusion, i.e., whether there was "a final judgment on the merits." We recount the relevant procedural history before agreeing with Mr. Johnson that the 1992 Action was not adjudicated "on the merits" and, therefore, did not have claim-preclusive effect on the 2017 Action. We, thus, reverse the district court's dismissal of the claims against Officer Spencer—the only defendant in the 1992 Action—and remand for further proceedings on those claims. Because we conclude that the 1992 Action was not adjudicated "on the merits," we need not entertain Mr. Johnson's separate argument that the 1992 Action did not afford him a "full and fair opportunity to litigate."
 
-[Relevant Procedural History]{.case-h2}
+[Relevant Procedural History]{.casesubsection}
 
 Mr. Johnson's 1992 Action was a §1983 suit alleging that Officer Spencer violated his due-process rights by providing false testimony about his eyeglasses at his criminal trial. The district court dismissed the complaint sua sponte with prejudice as frivolous, (1) noting that in the 1991 Action it had "concluded there were no facts justifying the plaintiff's claims that his constitutional rights were violated" and (2) holding that "the present complaint was simply another attempt by plaintiff to revisit the same claim that has previously been dismissed." The court reviewed the exhibits that Mr. Johnson had submitted with his complaint and concluded that they did not "establish even the slightest indication that Officer Spencer made false, or inconsistent statements at the trial." The court, in conclusion, observed that Mr. Johnson had "made no new argument in his complaint" and, thus, held that his complaint was "frivolous and completely devoid of merit." 
 
@@ -236,7 +236,7 @@ Further, the district court stated that "even assuming Mr. Johnson's constitutio
 
 On appeal from that judgment, we noted that the district court "dismissed the action as factually frivolous" and affirmed on the ground that "Mr. Johnson's lawsuit is based upon an indisputably meritless legal theory because a testifying police officer is entitled to absolute immunity." 
 
-[The "On the Merits" Requirement]{.case-h2}
+[The "On the Merits" Requirement]{.casesubsection}
 
 As mentioned, a successful claim-preclusion defense requires "a final judgment on the merits in the earlier action." Mr. Johnson argues that the 1992 Action was not an adjudication "on the merits" because the suit was dismissed as frivolous. We agree.
 
@@ -256,7 +256,7 @@ Finally, the parties dispute whether an order with two holdings, one "on the mer
 
 In sum, because it was not an adjudication on the merits, we conclude that the 1992 Action cannot operate with claim-preclusive effect on the 2017 Action. We, thus, reverse the district court's order dismissing the 2017 Action's claims against Officer Spencer. Because we reverse that order based on the "on the merits" element of claim preclusion, we need not and do not address whether the district court's order was also erroneous because it determined that the 1992 Action provided Mr. Johnson with a "full and fair opportunity to litigate."
 
-[Conclusion]{.case-h1}
+[Conclusion]{.casesection}
 
 We acknowledge the terrible reality that Mr. Johnson must have faced during the twenty-four years that he was wrongly incarcerated. As the Supreme Court has stated, however, the doctrine of claim preclusion "serves vital public interests beyond any individual judge's ad hoc determination of the equities in a particular case." Thus, for the reasons we have provided, in the 2017 Action, we affirm the dismissal of the claims against the Estate and Cheyenne, but reverse the dismissal of the claims against Officer Spencer and remand for further proceedings consistent with this opinion. 
 
@@ -312,7 +312,7 @@ The virtual representation question we examine in this opinion arises in the fol
 
 We disapprove the doctrine of preclusion by "virtual representation," and hold, based on the record as it now stands, that the judgment against Herrick does not bar Taylor from maintaining this suit.
 
-[I]{.case-h1}
+[I]{.casesection}
 
 The Freedom of Information Act (FOIA or Act) accords "any person" a right to request any records held by a federal agency. No reason need be given for a FOIA request, and unless the requested materials fall within one of the Act's enumerated exemptions, the agency must "make the records promptly available" to the requester. If an agency refuses to furnish the requested records, the requester may file suit in federal court and obtain an injunction "ordering the production of any agency records improperly withheld." 
 
@@ -342,7 +342,7 @@ The D.C. Circuit affirmed.
 
 We granted certiorari, to resolve the disagreement among the Circuits over the permissibility and scope of preclusion based on "virtual representation."
 
-[II]{.case-h1}
+[II]{.casesection}
 
 The preclusive effect of a federal-court judgment is determined by federal common law. For judgments in federal-question cases— for example, Herrick's FOIA suit—federal courts participate in developing "uniform federal rules" of res judicata, which this Court has ultimate authority to determine and declare. The federal common law of preclusion is, of course, subject to due process limitations.
 
@@ -368,7 +368,7 @@ Fifth, a party bound by a judgment may not avoid its preclusive force by relitig
 
 Sixth, in certain circumstances a special statutory scheme may "expressly foreclose successive litigation by nonlitigants... if the scheme is otherwise consistent with due process." Examples of such schemes include bankruptcy and probate proceedings, and _quo warranto_ actions["_Quo warranto_ is Latin for 'by what warrant' (or authority). A writ of _quo warranto_ is a common law remedy which is used to challenge a person's right to hold a public or corporate office." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quo_warranto)]{.aside} or other suits that, "under the governing law, may be brought only on behalf of the public at large".
 
-[III]{.case-h1}
+[III]{.casesection}
 
 Reaching beyond these six established categories, some lower courts have recognized a "virtual representation" exception to the rule against nonparty preclusion. Decisions of these courts, however, have been far from consistent. Some Circuits use the label, but define "virtual representation" so that it is no broader than the recognized exception for adequate representation. But other courts, including the Eighth, Ninth, and D.C\. Circuits, apply multifactor tests for virtual representation that permit nonparty preclusion in cases that do not fit within any of the established exceptions.
 
@@ -394,7 +394,7 @@ The FAA next argues that "the threat of vexatious litigation is heightened" in p
 
 But we are not convinced that this risk justifies departure from the usual rules governing nonparty preclusion. First, _stare decisis_ will allow courts swiftly to dispose of repetitive suits brought in the same circuit. Second, even when _stare decisis_ is not dispositive, "the human tendency not to waste money will deter the bringing of suits based on claims or issues that have already been adversely determined against others." This intuition seems to be borne out by experience: The FAA has not called our attention to any instances of abusive FOIA suits in the Circuits that reject the virtual representation theory respondents advocate here.
 
-[IV]{.case-h1}
+[IV]{.casesection}
 
 For the foregoing reasons, we disapprove the theory of virtual representation on which the decision below rested. The preclusive effects of a judgment in a federal-question case decided by a federal court should instead be determined according to the established grounds for nonparty preclusion described in this opinion. 
 
@@ -420,13 +420,13 @@ We reject Fairchild's suggestion. Claim preclusion, like issue preclusion, is an
 
 Defendant POW! Entertainment, Inc., ("POW") filed a motion to dismiss the amended complaint filed by Plaintiff Joan Celia Lee ("JC Lee"). POW argues that JC Lee's amended complaint is barred by the doctrines of res judicata, collateral estoppel, and statute of limitations. For the reasons discussed below, the Court GRANTS POW's Motion to Dismiss.
 
-[Present Lawsuit]{.case-h1}
+[Present Lawsuit]{.casesection}
 
 JC Lee is the daughter and trustee for the estate of comic book author Stan Lee. Stan Lee is responsible for co-creating comic book characters such as Spider-Man, the X-Men, Iron Man, and many others. POW, a Delaware corporation, claims that Stan Lee assigned to it the rights to his intellectual property.
 
 JC Lee seeks to enforce the terms of an agreement made in 1998 (the "1998 Agreement") between Stan Lee and Stan Lee Entertainment, Inc. ("SLEI"). Specifically, JC Lee contends that, under the terms of the 1998 Agreement, Stan Lee assigned full and complete title to his name, likeness, and creator rights to SLEI in perpetuity. As such, JC Lee seeks declaratory and injunctive relief that SLEI, owns the rights to Stan Lee's intellectual property, name, and likeness, and asserts a cause of action against POW for cybersquatting in violation of 15 U.S.C. §1125(d). 
 
-[Factual Background]{.case-h1}
+[Factual Background]{.casesection}
 
 After departing from Marvel in August 1998, Stan Lee formed SLEI, to which he allegedly "conveyed clear title to his name, likeness and all creator rights" on October 15, 1998. In January 2001, Stan Lee accused Stan Lee Media, Inc. ("SLMI"), successor-in-interest to SLEI, of being "in complete breach of the salary and benefit provisions, _inter alia,_ of the 1998 Agreement so that he was justified in terminating the agreement." Subsequently, due to a lack of operating capital caused by a series of unfortunate events, SLMI filed for Chapter 11 bankruptcy. 
 
@@ -434,7 +434,7 @@ Following the bankruptcy filing, in 2001, Stan Lee and others formed POW. JC Lee
 
 When Stan Lee died in November 2018, JC Lee, as his only heir and trustee of his estate, became the successor-in-interest of Stan Lee's alleged obligations relating to the 1998 Agreement. She files suit "to ensure the Lee Trust is able to perform the duties it assumed under Stan Lee's 1998 Agreement and act in accord with the obligations under the Assignment by obtaining a Declaratory Judgment to the effect all rights, title and interest to Stan Lee's Name and likeness and Brand, along with copyrights and trademarks now reside with SLEI in association with the Lee Trust."
 
-[Prior Litigation]{.case-h1}
+[Prior Litigation]{.casesection}
 
 The 1998 Agreement between Stan Lee and SLMI has been the subject of numerous cases in federal courts throughout the country.  _See_  _Abadin v. Marvel Entm't, Inc.,_; _Lee v. Marvel Enters., Inc_.; _Stan Lee Media Inc. v. Lee_ ("SLM I"); _Stan Lee Media, Inc. v. Walt Disney Co._ ("SLM II"); _Disney Enters., Inc. v. Entm't Theatre Grp.
 
@@ -446,11 +446,11 @@ In 2013, the District of Colorado cited the aforementioned cases and similarly h
 
 Despite the numerous failed attempts to enforce the 1998 Agreement, SLMI allegedly filed suit against Stan Lee's estate and reached a settlement that was adopted by a court, although she fails to provide further details. JC Lee now files this suit to satisfy the estate's obligation under the terms of that settlement to "correct the breach of the agreement" and "remedy the results of the various invalid assignments made by Stan Lee." The Court infers that SLMI has entered into a settlement prompting JC Lee to file this suit for declaratory relief, though neither the substance of the settlement nor the judgment have been provided to the Court.
 
-[Res Judicata]{.case-h1}
+[Res Judicata]{.casesection}
 
 POW moves to dismiss all of JC Lee's claims arguing that her claims are barred by res judicata, also known as claim preclusion. Res judicata bars lawsuits based on "any claims that were raised or could have been raised in a prior action." Res judicata applies to bar a suit where there is "(1) an identity of claims; (2) a final judgment on the merits; and (3) identity or privity between parties."
 
-[Identity or Privity Between Parties]{.case-h2}
+[Identity or Privity Between Parties]{.casesubsection}
 
 [T]he parties in the current action must be identical to or in privity with the parties from the prior actions. _Abadin_ was filed by SLMI's shareholders derivatively on behalf of SLMI against Marvel Entertainment, Inc. and others. In _SLMI II,_ SLMI filed suit against the Walt Disney Corporation and others. In the matter before the Court, JC Lee, in her role as the trustee of Stan Lee's estate, files suit against POW. As the parties are not identical, they must be in privity for res judicata to apply. "Privity may exist if there is substantial identity between parties, that is, when there is sufficient commonality of interest." The Ninth Circuit has stated that "privity is a flexible concept dependent on the particular relationship between the parties." For example, "privity between parties exists when a party is so identified in interest with a party to former litigation that he represents precisely the same right in respect to the subject matter involved."
 
@@ -482,7 +482,7 @@ Antonio Passaro Jr. is a former Special Agent with the Virginia State Police. He
 
 The district court dismissed Passaro's ADA claim, concluding that it was barred by state sovereign immunity. The court then granted summary judgment for the Commonwealth on the Title VII claims, concluding they were barred by the claim-preclusive effect of a state-court judgment upholding the outcome of an administrative grievance Passaro had filed. We affirm the district court's dismissal of the ADA claim because the Commonwealth has not waived its sovereign immunity from that claim. But we reverse the district court's decision that claim preclusion bars Passaro's Title VII claims.
 
-[I.]{.case-h1}
+[I.]{.casesection}
 
 Passaro worked as a Trooper with the Department of State Police until his promotion to Special Agent. In 2008, he transferred to the department's High Tech Crimes Unit, where he investigated child-pornography cases. Starting in 2010, he began receiving disciplinary notices for infractions arising from his alleged failure to follow proper procedures and to manage his caseload. The episode that ultimately led to Passaro's termination was an investigation he conducted in April and May 2012, which the department claims he bungled.
 
@@ -504,7 +504,7 @@ After the stay was lifted, the Commonwealth moved for summary judgment, arguing 
 
 Passaro timely appeals. He argues that the district court erred in dismissing his ADA claim because the Commonwealth has waived its state sovereign immunity. He also argues that claim preclusion does not bar his Title VII claims, asserting that the Commonwealth also waived this defense and, alternatively, that claim preclusion does not apply.
 
-[III.]{.case-h1}
+[III.]{.casesection}
 
 We reverse the district court's ruling at summary judgment that claim preclusion bars Passaro's Title VII claims. State law governs whether a prior state-court judgment has issue- or claim-preclusive effect on a Title VII action. Under Virginia law, it "is firmly established that the party who asserts the defenses of res judicata or collateral estoppel has the burden of proving by a preponderance of the evidence that the claim or issue is precluded by a prior judgment." Here, the Commonwealth asserts that Passaro could have litigated his claims of discrimination and retaliation through the state grievance process, meaning that the state-court judgment (which affirmed the decision on Passaro's grievance) has claim-preclusive effect barring his Title VII claims in full. We disagree.
 
@@ -580,7 +580,7 @@ Eliadis and its co-owners reached a prompt settlement with NSS. NSS and Time War
 
 Time Warner appeals the district court's rulings, claiming that the court erred in failing to give preclusive effect to an adverse judgment against NSS in prior litigation between the parties on an allegedly controlling issue. We AFFIRM the judgment of the district court.
 
-[Factual background]{.case-h1}
+[Factual background]{.casesection}
 
 NSS and Time Warner obtained their respective rights to broadcast the event through separate contracts. New Jersey Sports Productions, Inc., d/b/a Main Events (Main Events), produced the event. It granted Pay Per View Networks, Inc., d/b/a Viewer's Choice (Viewer's Choice), the exclusive right to broadcast the event to residential households. Viewer's Choice, in turn, licensed Time Warner to make the telecast of the event available to residential customers in Ohio. Main Events granted Entertainment by J&J, Inc. (EJJ) a separate exclusive right to broadcast the event to commercial establishments. NSS obtained the right to be the commercial distributor of the event's telecast in Ohio from EJJ.
 
@@ -594,7 +594,7 @@ Time Warner's account records show that Melody Lane Lounge had ordered one earli
 
 NSS hired investigators to visit various commercial establishments to monitor whether those showing the event had obtained the right to do so through NSS as the proper distribution channel. An investigator visited the Melody Lane Lounge on the night in question and ultimately determined that it was broadcasting the event through Time Warner's residential pay-per-view system. The Melody Lane Lounge claims that it would not have chosen to show the event had it been required to pay NSS's high commercial rate. Only 23 patrons were in the bar at the time the event was broadcast.
 
-[Procedural background and prior litigation between the parties]{.case-h1}
+[Procedural background and prior litigation between the parties]{.casesection}
 
 NSS commenced its action in the United States District Court for the Northern District of Ohio in November of 1997. Eliadis, Inc. and its co-owners soon settled with NSS, agreeing to the entry of judgment against them for violating 47 U.S.C. §605, which is part of the Communications Act, and paying $250 in nominal damages. NSS's claim against Time Warner proceeded.
 
@@ -606,7 +606,7 @@ NSS commenced an action against Coach's Corner and its owner in the United State
 
 The district court held a hearing on Time Warner's motion for summary judgment in July of 1998. It issued a bench ruling at that hearing, granting Time Warner's motion for summary judgment on the basis that NSS "failed to state a claim pursuant to the terms of the contracts for distribution at issue in this case as well as 47 U.S.C. §605." NSS did not appeal. Time Warner argues that the _Coach's Corner_ decision precludes NSS from raising the identical §605 claim in the present case.
 
-[NSS is not bound by the decision in Coach's Corner]{.case-h1}
+[NSS is not bound by the decision in Coach's Corner]{.casesection}
 
 NSS brought suit in both this case and in the _Coach's Corner_ case under 47 U.S.C. §605. Section 605 defines what constitutes the unauthorized publication or use of electronic communications. It includes such prohibited practices as the divulgence of wire or radio communications by persons authorized to receive them to others who are not so authorized, and the interception of any radio communication by a person not authorized to receive that communication from the sender. According to §605, "any person aggrieved by any violation of subsection (a) of this section may bring a civil action in a United States district court or in any other court of competent jurisdiction." Furthermore, the statute directs that "the term 'any person aggrieved' shall include any person with proprietary rights in the intercepted communication by wire or radio, including wholesale or retail distributors of satellite cable programming." 
 
@@ -634,7 +634,7 @@ Our circuit has held that a prior decision shall have preclusive effect on an is
 
 In the present case, the district court concluded that Time Warner had failed to establish the second and fourth elements of this test. Because Time Warner and NSS disagree as to whether these four elements were met, an analysis of each is necessary in order to decide if the district court erred by failing to give preclusive effect to the _Coach's Corner_ decision.
 
-[1\. Identity of issues]{.case-h1}
+[1\. Identity of issues]{.casesection}
 
 Time Warner argues that the _Coach's Corner_ court was faced with the precise threshold question that the district court encountered in the current case. This question is whether NSS has standing to sue under §605; in particular, whether NSS had a proprietary interest in the communication that was sent from Time Warner via its authorized residential-cable service to its pay-per-view customers. Time Warner further contends that the bifurcation of the satellite transmission of the Holyfield/Czyz boxing match at issue in _Coach's Corner_ was identical to the manner in which the event in question was sent to Time Warner and NSS in Ohio on December 14, 1996.
 
@@ -642,7 +642,7 @@ NSS counters that there is no identity of issues in these two cases. First, it c
 
 We believe that Time Warner's argument is the more persuasive on this "identity of issues" element. Although HBO and pay-per-view are different subscriber services, the key issue in both cases is the same — the consequences of a commercial establishment gaining access to view a boxing match by being inaccurately listed as a residential customer of Time Warner. As a result, Time Warner has satisfied the first element for issue preclusion.
 
-[2\. Necessary to the outcome of the prior proceeding]{.case-h1}
+[2\. Necessary to the outcome of the prior proceeding]{.casesection}
 
 The district court held that Time Warner failed to establish that NSS's lack of standing under §605 was necessary to the grant of summary judgment for Time Warner in _Coach's Corner._ It determined that the _Coach's Corner_ decision was instead primarily based on the conclusion that NSS was contractually barred from pursuing an action against Time Warner because of the particular language in the license agreements involved in that case. As such, it held that the alternative ground in _Coach's Corner_ for granting Time Warner's motion for summary judgment — namely, that NSS was not a "person aggrieved" under §605 — was not necessary to that court's judgment.
 
@@ -656,11 +656,11 @@ We find NSS's point persuasive because, while it might have won the "battle" ove
 
 This circuit has not decided whether alternative grounds for a judgment are each "necessary to the outcome" for the purposes of issue preclusion in a subsequent case involving only one of the grounds. Based on the actual decision in _Coach's Corner,_ we do not find it necessary to fully resolve this issue at the present time. We do hold, however, that where, as in _Coach's Corner,_ one ground for the decision is clearly primary and the other only secondary, the secondary ground is not "necessary to the outcome" for the purposes of issue preclusion. _Coach's Corner's_ secondary holding that NSS failed to state a claim under §605 was thus not necessary to the granting of Time Warner's motion for summary judgment.
 
-[3\. Final judgment on the merits]{.case-h1}
+[3\. Final judgment on the merits]{.casesection}
 
 Although the district court held that the _Coach's Corner_ decision was a final judgment on the merits for the purpose of issue preclusion, NSS argues that it was not. In particular, it claims that the court's judgment in _Coach's Corner_ was a dismissal of NSS's suit without prejudice for failure to state a claim. This argument is without merit. _Coach's Corner_ granted Time Warner's motion for summary judgment pursuant to Rule 56 of the Federal Rules of Civil Procedure. Furthermore, the district court made clear that its judgment was final. It recognized that "both parties will more than likely have a disagreement over everything I say, pretty much, and you can take it up to the Sixth Circuit and they can tell us whether I was right or wrong." Finally, summary judgment is recognized as a final judgment for the purpose of issue preclusion. Time Warner has therefore satisfied this third element for issue preclusion.
 
-[4\. Full and fair opportunity to litigate]{.case-h1}
+[4\. Full and fair opportunity to litigate]{.casesection}
 
 Turning to the final element, Time Warner contends that the district court in _Coach's Corner_ granted its motion for summary judgment after full briefing and argument, and that both parties had a sufficient opportunity to litigate the §605 issue before that court. NSS, however, argues that the district court in _Coach's Corner_ primarily focused on the question of whether NSS's license agreement contractually barred it from initiating a suit against Time Warner. It therefore contends that the question of whether NSS had a proprietary right in the communication under §605 was secondary. The district court agreed with NSS.
 
@@ -672,7 +672,7 @@ In sum, we agree with the district court that the second element ("necessary to 
 
 This matter is before the Court on the Bank of Kentucky's motion for judgment on the pleadings. In this adversary proceeding, the Bank of Kentucky (Plaintiff) seeks a declaratory judgment that two tracts of real property in which Debtor claims a one-half interest are not property of Debtor's estate, but property of a family partnership in which Debtor is a partner. Further, Plaintiff seeks a determination that a judgment debt, owed to Plaintiff on account of a default judgment finding that the Defendants engaged in a series of transactions to defraud the Bank, is non-dischargeable. For the reasons set forth below, the Motion will be denied.
 
-[Facts and Procedural History]{.case-h1}
+[Facts and Procedural History]{.casesection}
 
 Prior to Debtor's bankruptcy, Debtor was a member of the Nageleisen Family Limited Partnership (the "Partnership"), a partnership organized under Kentucky law and dissolved on February 4, 2013. During the Partnership's existence, the Partnership received various loans from the Bank of Kentucky, none of which were secured by the pieces of property at issue in this adversary proceeding. In 2013, the Partnership transferred title in the real property located at 10324 Decoursey Pike, Ryland Heights, Kentucky, to Debtor and her husband, Alan Nageleisen. Plaintiff then filed suit against Debtor, Alan Nageleisen, and the Partnership in Kenton County Circuit Court, alleging that the transfer of the Decoursey Pike property was a fraudulent conveyance.
 
@@ -702,9 +702,9 @@ Thereafter, Plaintiff filed this adversary proceeding, seeking determinations th
 
 After the Court took the matter under submission, Plaintiff and the Chapter 7 Trustee filed a joint motion for emergency relief from stay in Debtor's main bankruptcy case to sell various pieces of property, including the two properties in dispute in this adversary proceeding, at a foreclosure sale scheduled for November 25, 2014. The joint motion provided that proceeds from the sale of those properties would be held in escrow pending further order from this Court upon the resolution of the adversary proceeding. The Court granted the Trustee's motion.
 
-[Analysis]{.case-h1}
+[Analysis]{.casesection}
 
-[The Decoursey Pike Property]{.case-h2}
+[The Decoursey Pike Property]{.casesubsection}
 
 Plaintiff seeks a declaratory judgment determining that the Decoursey Pike property is not property of the estate. Plaintiff contends in its motion on the pleadings that the state-court judgment which quieted title to the Decoursey Pike property in the partnership precludes Debtor from claiming the Decoursey Pike property as property of the estate.
 
@@ -722,7 +722,7 @@ Section 541 states that the bankruptcy estate is comprised of "all legal or equi
 
 The state-court judgment, while preclusively quieting legal title to the Decoursey Pike property in the Partnership, did not address any possessory interest that Debtor — whose schedules indicate she resides at the property — may have. Therefore, the issue the state court decided is not identical to the issue of whether the estate has an interest under §541 in the Decoursey Pike property. Plaintiff is not entitled to judgment on the pleadings on this count.
 
-[Nondischargeability of the Money Judgment]{.case-h2}
+[Nondischargeability of the Money Judgment]{.casesubsection}
 
 Finally, Plaintiff seeks a determination that the $90,000 judgment debt created in the state-court action is nondischargeable under §523(a)(6) of the Code because it is a debt for a willful and malicious injury. Plaintiff contends that the judgment was for Debtor's intentionally fraudulent conveyance of the Decoursey Pike property, that the state court's determination that Debtor transferred the Decoursey Pike property with intent to defraud creditors has issue-preclusive effect in this proceeding, and that the state court's finding that Debtor intended to defraud creditors satisfies the willfulness and malice elements of §523(a)(6).
 
@@ -758,13 +758,13 @@ In this case we address, as a matter of first impression in our Circuit, the sta
 
 Khalil Janjua ("Janjua"), a noncitizen, was granted asylum in the United States. Shortly thereafter, he applied for adjustment of status, which was denied on the ground that he was inadmissible under 8 U.S.C. §1182(a)(3)(B)(i) for having supported a Tier III terrorist organization. To be eligible for asylum, an applicant must not be inadmissible under §1182(a)(3)(B). Adjustment of status imposes the same requirements. Janjua thus argues that because he was granted asylum —and therefore was necessarily _not_ found inadmissible on account of terrorism-related activities under §1182(a)(3)(B)(i) —issue preclusion bars the government from now denying his adjustment of status application on that ground. The question of whether Janjua was inadmissible on terrorism-related grounds was never raised, contested, or submitted for determination at Janjua's asylum proceeding. Janjua's work for the relevant organization, however, was discussed at length. Assuming without deciding that issue preclusion applies in adjustment of status proceedings, the central question before us is whether the issue of terrorism-related inadmissibility was actually litigated at Janjua's asylum proceeding for purposes of issue preclusion. Because that issue was not raised, contested, or submitted for determination at Janjua's asylum proceeding, it was not actually litigated. Issue preclusion does not bar the government from disputing that issue in Janjua's adjustment of status proceeding. We therefore affirm.
 
-[Factual Background]{.case-h1}
+[Factual Background]{.casesection}
 
 Janjua is a native and citizen of Pakistan. As a Muhajir[^Janjua1] living in Pakistan, Janjua joined the Muhajir Qaumi Movement ("MQM"), a political group. Janjua worked on behalf of the MQM, "attending meetings, organizing rallies, distributing flyers," and advocating for the group's message during elections. As a result of his affiliation with and work for the MQM, Janjua was arrested and beaten by the police and by members of the opposition party numerous times while in Pakistan. Janjua eventually fled Pakistan in July 1998, entering the United States without inspection in Arizona on January 17, 1999.
 
 [^Janjua1]: (n.1 in opinion) "Muhajir" refers to those people who are or are descended from Muslim immigrants from India to Pakistan." 
 
-[Procedural Background]{.case-h1}
+[Procedural Background]{.casesection}
 
 In November 1999, Janjua applied for asylum with the legacy Immigration and Naturalization Service. In January 2000, Janjua's application was rejected, and the government served Janjua with a Notice to Appear ("NTA") in removal proceedings, charging him with inadmissibility under 8 U.S.C. §1182(a)(6)(A)(i), as an alien present in the United States without having been admitted or paroled. The NTA did not charge him with inadmissibility under any terrorism-related inadmissibility grounds.
 
@@ -782,7 +782,7 @@ On July 6, 2017, the district court denied Janjua's motion and granted the gover
 
 [^Janjua2]: (n.2 in opinion) The court further explained that the only remaining issue was whether USCIS had acted arbitrarily or capriciously in recognizing the MQM as a Tier III terrorist organization, which Janjua had not contested and therefore waived.
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 Issue preclusion, also known as collateral estoppel, "bars the relitigation of issues actually adjudicated in previous litigation." For issue preclusion to apply, four conditions must be met: "(1) the issue at stake was identical in both proceedings; (2) the issue was actually litigated and decided in the prior proceedings; (3) there was a full and fair opportunity to litigate the issue; and (4) the issue was necessary to decide the merits." Here, the central question is whether Janjua's inadmissibility for supporting a Tier III terrorist organization was actually litigated in the prior adjudication.[^Janjua3] Assuming without deciding that issue preclusion applies in immigration adjustment of status proceedings, we hold that Janjua's inadmissibility on terrorism-related grounds was not actually litigated, because the issue was not in fact raised, contested, or submitted to the IJ for determination in Janjua's asylum proceeding.
 

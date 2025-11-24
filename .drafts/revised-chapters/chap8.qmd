@@ -24,7 +24,7 @@ While several major cities have restricted the practice, in much of America, pol
 
 To be clear, we apply only settled laws that govern this case today, cast as they are against the larger frame of their play in the streets across the country.
 
-[I.]{.case-h1}
+[I.]{.casesection}
 
 Tavis Crane's estate and the passengers of Crane's car sued Arlington Police Officer Craig Roper and the City of Arlington for the use of excessive force during a traffic stop in violation of the Fourth Amendment. The district court dismissed the passengers' claims, finding that they could not bring claims as bystanders, and granted summary judgment to Roper and the City after determining that Roper was entitled to qualified immunity. We affirm the dismissal of the passengers' claims and vacate the grant of summary judgment on Crane's claims and remand to the district court for further proceedings consistent with this opinion.
 
@@ -48,7 +48,7 @@ Roper claims that Crane shifted the car in gear while the two struggled, and tha
 
 After Roper shot Crane, the car careened down the road and Roper took the keys out of the ignition and steered the car to a stop. Officer Johnson caught up in his squad car and told Roper to pull Crane from the driver's seat and perform CPR. Roper continued to shout and curse at Crane, asking why he had not stopped, but Crane was silent. An autopsy concluded that Crane was shot four times and died of gunshot wounds to his abdomen.
 
-[II.]{.case-h1}
+[II.]{.casesection}
 
 On January 31, 2019, Crane's mother, as the administrator of Crane's estate and on behalf of his surviving children, and the other passengers filed a 42 U.S.C. §1983 claim against the City of Arlington and Officer Roper, individually and in his official capacity. The plaintiffs allege that Roper violated their Fourth Amendment rights and that the City is liable under _Monell v. Department of Social Services._
 
@@ -56,7 +56,7 @@ The City and Roper moved to dismiss the plaintiffs' claims. The district court c
 
 Asserting qualified immunity, Roper then moved for summary judgment, which the district court granted. The district court acknowledged that Valencia Johnson and Roper presented different accounts of when the first shot occurred, but found that "a reasonable jury could not believe the passengers' account of the shooting." Finding Roper entitled to qualified immunity, the district court dismissed Crane's claims against Roper and the City with prejudice. The plaintiffs timely appealed the order on the motion to dismiss and the grant of summary judgment.
 
-[IV.]{.case-h1}
+[IV.]{.casesection}
 
 First, we review the district court's grant of summary judgment. "When a defendant official moves for summary judgment on the basis of qualified immunity, 'the burden then shifts to the plaintiff, who must rebut the defense by establishing a genuine fact issue as to whether the official's allegedly wrongful conduct violated clearly established law.'" All facts must be viewed in the light most favorable to the nonmovant and all justifiable inferences must be drawn in his favor.
 
@@ -68,7 +68,7 @@ What happened inside Crane's car is not visible in the dashcam video. As such, t
 
 The district court found that the gear could change and the car could move only with the conscious intention of Crane. But that conclusion ignores the other plausible explanation that the gears were shifted during the struggle between Crane and Roper, as Crane attempted to comply with Roper, and that the chokehold caused Crane to press down on the accelerator as an attempt to relieve the stress on his neck, as opposed to attempting to flee. When two conclusions are plausible, at the summary judgment stage, we must accept as true that which is most favorable to the nonmovant. The district court erred by applying its own interpretation of the video and accepting Roper's factual account over Crane's of what occurred inside the car. "At the summary judgment stage the judge's function is not himself to weigh the evidence and determine the truth of the matter," that job is reserved for the jury.
 
-[A.]{.case-h2}
+[A.]{.casesubsection}
 
 Next, we must consider whether Roper is entitled to qualified immunity under Crane's account of events. We hold he is not at this stage.
 
@@ -92,7 +92,7 @@ Crane argues, notwithstanding the _Graham_ factors, that Roper created the situa
 
 Under the _Graham_ factors, Roper's use of deadly force was unreasonable. Because Roper's use of force in this situation was unreasonable, violating Crane's Fourth Amendment right, we now turn to the clearly established prong.
 
-[B.]{.case-h2}
+[B.]{.casesubsection}
 
 The second step of the qualified immunity inquiry is asking "whether the violated constitutional right was clearly established at the time of the violation." The purpose of this inquiry is to determine whether the officer "had fair notice that his conduct was unlawful."
 
@@ -104,7 +104,7 @@ Here, under Crane's account, Crane was shot while he was held in a chokehold in 
 
 Because the facts seen in the light most favorable to Crane indicate a violation of a clearly established right and material facts are in dispute, the district court erred in granting summary judgment to Roper and perforce dismissing the City.
 
-[V.]{.case-h1}
+[V.]{.casesection}
 
 We turn to the claims of the three passengers—Jefferson, Valencia Johnson, and Z.C.—against Roper and the City, suing under §1983 and claiming that Roper's actions violated their Fourth Amendment rights. The passengers argue that they are entitled to damages under two theories of liability.
 
@@ -197,7 +197,7 @@ In addition to the materials produced in discovery, the record may also include 
 
 We decide whether the district court erred when granting summary judgment in favor of a police officer on the racial profiling claims of a black couple. The district court found that the couple failed to raise any genuine issue of material fact showing that the officer violated their equal protection rights under the Fourteenth Amendment. We affirm.
 
-[Facts and Proceedings]{.case-h1}
+[Facts and Proceedings]{.casesection}
 
 Cathryn Scott Stout and Raymond Montgomery, Jr., who are black, were traveling together from Memphis, Tennessee in a Lexus sport utility vehicle ("SUV") on Interstate 55 through central Mississippi. Montgomery noticed Mississippi Highway Safety Patrol ("MHSP") cars parked on the median. Soon after they passed the cars, Trooper Patrick Wall drove up along the side of their SUV in the left lane and looked at them. He then dropped behind their vehicle and turned on his lights and siren. Montgomery, who was driving, pulled over, but he did not feel nervous because he was not speeding and he believed he had done nothing wrong.
 
@@ -221,7 +221,7 @@ Stout and Montgomery sued Officer Vincent, seeking injunctive relief and damages
 
 On appeal, Stout and Montgomery raise only one issue: whether the district court erred when concluding there was no genuine issue of material fact that Officer Vincent's actions were impermissibly motivated by race.
 
-[Summary Judgment]{.case-h1}
+[Summary Judgment]{.casesection}
 
 Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has explained that "a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." _Celotex Corp. v. Catrett_. But the moving party has no need to negate its opponents' claims.
 
@@ -229,7 +229,7 @@ If the moving party meets its burden, "the nonmovant must go beyond the pleading
 
 A court must view all evidence "in the light most favorable to the opposing party." In _Tolan v. Cotton_, the Supreme Court stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases.If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
 
-[Fourteenth Amendment Racial Profiling]{.case-h1}
+[Fourteenth Amendment Racial Profiling]{.casesection}
 
 "The Constitution prohibits selective enforcement of the law based on considerations such as race." "The constitutional basis for objecting to intentionally discriminatory application of laws is the Equal Protection Clause." 
 
@@ -267,13 +267,13 @@ Because Appellants failed to provide any evidence that Officer Vincent acted wit
 
 ### Elden v. Nirvana, L.L.C. (C.D.Cal. 2025)
 
-[Background]{.case-h1}
+[Background]{.casesection}
 
 In 1991, Spencer Elden, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" music album.[![](../img/nevermind.jpg) "Nevermind" album cover]{.aside} The album cover depicted plaintiff underwater, "grabbing for a dollar bill" on a fishook that had been superimposed onto the photograph. The "Nevermind" album was released in September 1991, and was widely distributed commercially, becoming "a platinum record only months after its release." 
 
 Plaintiff filed the instant action nearly 30 years after the album's release. Plaintiff brings a claim under 18 U.S.C. § 2255(a), which provides a civil remedy for individuals who were victims of certain enumerated crimes while they were minors. Plaintiff alleges that "Nirvana's Nevermind album cover constitutes commercial child pornography," and that defendants have engaged in "ongoing violations" of multiple provisions of 18 U.S.C. § 2252A—a criminal statute penalizing certain activities relating to child pornography—because they "knowingly possessed, transported, reproduced, advertised, promoted, presented, distributed, provided, and/or obtained" the album cover. According to plaintiff, the continued use of the image on the album cover has "caused, and continues to cause, him serious injury including, without limitation, physical, psychological, financial, and reputational damages." Plaintiff seeks "to recover for injuries ... sustained during the ten years preceding the filing of this action, and injuries he has sustained since then." He requests either actual damages or statutory liquidated damages in the amount of $150,000, punitive damages, and equitable relief, including "an injunction against future sales, marketing or distribution" and "prohibiting the Defendants from continuing to engage in the injurious acts." 
 
-[Statement of Facts]{.case-h1}
+[Statement of Facts]{.casesection}
 
 In 1991, Spencer Elden, then a four-month-old infant, was photographed naked in a pool for the cover of Nirvana's "Nevermind" music album. The album cover depicts a naked baby (plaintiff) floating underwater as he appears to reach for a dollar bill on a fishhook.
 
@@ -291,7 +291,7 @@ The album cover does not identify plaintiff as the infant in the image. In an in
 
 In 2019 or 2020, plaintiff reported the album cover as potential child pornography to the Federal Bureau of Investigations, but the agency declined to investigate. There is nothing in the record to suggest or indicate that any other law enforcement agency has evaluated the image to determine whether it constitutes child pornography. 
 
-[Legal Standard]{.case-h1}
+[Legal Standard]{.casesection}
 
 Rule 56(a) of the Federal Rules of Civil Procedure authorizes the granting of summary judgment "if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." The standard for granting a motion for summary judgment is essentially the same as for granting a directed verdict. Judgment must be entered "if, under the governing law, there can be but one reasonable conclusion as to the verdict." 
 
@@ -301,7 +301,7 @@ If the moving party has sustained its burden, the burden then shifts to the nonm
 
 In determining whether a triable issue of material fact exists, the evidence must be considered in the light most favorable to the nonmoving party. However, summary judgment cannot be avoided by relying solely on "conclusory allegations in an affidavit." "The mere existence of a scintilla of evidence in support of the plaintiff's position" is insufficient to survive summary judgment; "there must be evidence on which the fact finder could reasonably find for the plaintiff."
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 As an initial matter, the court, having carefully reviewed the parties' papers, has serious concerns regarding plaintiff's summary judgment papers. In many instances, plaintiff's briefing failed to comply with the evidentiary requirements for summary judgment motions set forth in Rule 56. For example, plaintiff failed to "cite to relevant evidence to support factual assertions throughout the joint brief" and specifically, "to the exhibit and page number(s) of the evidentiary appendix." Further, when plaintiff does attempt to dispute facts, the evidence plaintiff cites, does not or is otherwise insufficient to establish the presence of a disputed fact. For instance, plaintiff purports to dispute the fact that the album cover "depicts an unclothed baby floating in nondescript blue water and reaching for a dollar bill hanging from a fishhook."[Consider whether the plaintiff might be subject to sanctions under Fed. R. Civ. P. 11(b)(3) for disputing what the photo depicts.]{.aside} But none of the evidence plaintiff cites disputes what the album cover depicts or otherwise establishes the presence of a material issue of fact. Indeed, the vast majority of plaintiff's evidentiary citations in his summary judgment papers are to his SAC. Even though plaintiff's SAC is verified, And although plaintiff argues that his "citations to the Declaration of Robert Fisher within his Second Amended Complaint constitute proper evidence on a summary judgment motion," plaintiff does not cite to any specific portions of the declaration.
 
@@ -327,7 +327,7 @@ The term "child pornography" is defined as "any visual depiction" where "the pro
 
 Although these factors are the typical "starting point," they "are neither exclusive nor conclusive," and instead serve as "general principles" to guide the analysis. The Ninth Circuit has held that "lascivious" is a "commonsensical term," and that courts may consider any other factors relevant to the case. "The inquiry must be case-specific and based on the overall content of the visual depiction." In other words, the question of whether an image can fairly be considered child pornography demands a holistic, practical, commonsense approach. Although the test for obscenity is stricter and doesn't apply here, child pornography tends to have a similar quality as obscenity—there is an element of "you know it when you see it."
 
-[A. The _Dost_ factors.]{.case-h2}
+[A. The _Dost_ factors.]{.casesubsection}
 
 To evaluate the album cover and any purported factual disputes, the court considers the _Dost_ factors in turn. The first and second _Dost_ factors, "whether the focal point of the visual depiction is on the child's genitalia or pubic area," and "whether the setting of the visual depiction is sexually suggestive," are not truly disputed here. First, the focal point of the album cover is not on the baby's genitalia. The photo captures the baby floating, and the lighting and angle of the photo, as well as the baby's prone position, are such that the focal point of the image is on the baby reaching for the dollar bill. The baby's genitalia are in the background of the image, under a shadow, and comprise a small portion of the overall image—they are not the focal point of the album cover. Although plaintiff asserts that "the focal point of the picture is on his genitals and the photographer positioned the camera to make plaintiff's genitals appear enlarged," In other words, neither the image itself nor anything else in the record suggests this is true. 
 
@@ -347,13 +347,13 @@ Plaintiff's contentions that the album cover image was intended to elicit a sexu
 
 In short, having considered all the _Dost_ factors, neither the pose, focal point, setting, nor overall context suggest the album cover features sexually explicit conduct. In other words, other than the fact that plaintiff was nude on the album cover, no other _Dost_ factor comes close to bringing the image within the ambit of the child pornography statute. And when considering plaintiff's nudity in the context of the other _Dost_ factors, all we are left with is the image of a naked baby floating underwater, reaching for a dollar bill. This image—an image that is most analogous to a family photo of a nude child bathing—is plainly insufficient to support a finding of lasciviousness. 
 
-[B. Other Relevant Factors.]{.case-h2}
+[B. Other Relevant Factors.]{.casesubsection}
 
 As noted above, the _Dost_ factors "are neither exclusive nor conclusive, and courts may consider any other factor that may be relevant in a particular case." Defendants argue that the court should consider the full context of the album cover's creation and its subsequent distribution in assessing whether the album cover constitutes child pornography. The court agrees.
 
 As defendants note: (1) "both of Plaintiff's parents were at the photo shoot and the photo was taken by their close friend;" (2) the album cover received "broad commercial distribution" unlike the typical distribution methods for child pornography; (3) millions of people purchased the album and thus possess copies of the image (but presumably do not consider the image to be child pornography); and (4) "no law enforcement agency ever investigated the album cover or the individuals involved." Also, plaintiff has, for many years, embraced and financially benefitted from being featured on the album cover. This includes plaintiff being paid to reenact the photo, selling autographed album-related posters and memorabilia, participating in interviews about the album cover, and even referring to himself as the "Nirvana baby." Plaintiff also tattooed the album's name across his chest, Plaintiff's actions relating to the album over time are difficult to square with his contentions that the album cover constitutes child pornography and that he sustained serious damages as a result of the album cover. In short, the foregoing factors are relevant considerations in the overall context of the photo's creation, intended purpose, and subsequent use, and further support the court's finding that the album cover does not constitute child pornography.
 
-[Conclusion]{.case-h1}
+[Conclusion]{.casesection}
 
 In sum, there are no disputes of material fact, and the _Dost_ and other relevant factors compel a finding that the album cover is not child pornography. 
 

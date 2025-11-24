@@ -1,0 +1,36 @@
+---
+references:
+- id: DiversityCitizenship_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  citation-key: DiversityCitizenship_nd
+  container-title: U.S.C.
+  language: en
+  section: '1332'
+  title: Diversity of Citizenship
+  type: legislation
+  volume: '28'
+
+- id: FederalQuestion_nd
+  citation-key: FederalQuestion_nd
+  container-title: U.S.C.
+  section: '1331'
+  title: Federal Question
+  type: legislation
+  volume: '28'
+
+- id: SupplementalJurisdiction_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  citation-key: SupplementalJurisdiction_nd
+  container-title: U.S.C.
+  language: en
+  section: '1367'
+  title: Supplemental Jurisdiction
+  type: legislation
+  volume: '28'
+...

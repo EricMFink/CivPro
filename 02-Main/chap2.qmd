@@ -153,7 +153,7 @@ To resolve his uncertainty, Judge McKenna initially ruled that the counterclaims
 
 On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 54(b) in favor of the Plaintiffs, dismissing Ford Credit's counterclaims without prejudice. Ford Credit appeals from this decision.
 
-[Are Ford Credit's Counterclaims Permissive?]{.case-h1}
+[Are Ford Credit's Counterclaims Permissive?]{.casesection}
 
 Fed.R.Civ.P. 13(a) defines a compulsory counterclaim as
 
@@ -177,7 +177,7 @@ In its Counterclaim, Exeter alleges that Ginwright breached the original contrac
 
 Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of Civil Procedure 12(b)(1) for lack of subject matter jurisdiction. Ginwright asserts that Exeter has failed to assert any independent basis for jurisdiction over the counterclaim and that this Court may not exercise supplemental jurisdiction over the counterclaim because it is a permissive counterclaim. Exeter counters that, since the enactment of 28 U.S.C. §1367, a court, may exercise supplemental jurisdiction over a permissive counterclaim, and that, in any event, its counterclaim is compulsory.
 
-[Permissive Counterclaim]{.case-h1}
+[Permissive Counterclaim]{.casesection}
 
 In assessing whether a counterclaim is compulsory or permissive, courts consider four inquiries:
 
@@ -219,7 +219,7 @@ Ms. Pace filed a motion to consolidate these two actions. The court granted the 
 
 We hold that Ms. Pace's claims against parties other than Timmermann's were not compulsory counterclaims because Federal Rules of Civil Procedure 13 and 20, in combination, do not compel a litigant to join additional parties to bring what would otherwise be a compulsory counterclaim. We also hold that because Ms. Pace's claim for abuse of process against Timmermann's arose prior to the filing of her counterclaim, it was a mandatory counterclaim. We therefore affirm in part and reverse in part the judgment of the district court and remand the case for further proceedings.
 
-[Background]{.case-h1}
+[Background]{.casesection}
 
 The issues in this case present a somewhat complex procedural situation. For ease of reading, we first will set forth the substantive allegations of each party. Then, we will set forth the procedural history of this litigation in the district court.
 
@@ -249,7 +249,7 @@ On May 2, 2013, Timmermann's and the individual defendants moved to dismiss Ms. 
 
 In December 2013, the district court granted the company's motion to dismiss. The court concluded that Ms. Pace's separate claims were barred because they were compulsory counterclaims that should have been brought in the 2011 action because the claims arose out of the same transaction or occurrence. Noting that her 2013 complaint had indicated that the fear of being indicted caused her emotional distress, the court held that Ms. Pace's claims were in existence when the 2011 action was filed; it therefore rejected Ms. Pace's argument that her abuse-of-process claim was not in existence until she was charged. In the district court's view, the absence of Mr. Pace and the individual defendants from the 2011 action did not preclude the court's conclusion that Ms. Pace's claims were compulsory counterclaims because Mr. Pace and the individual defendants could have been joined in the 2011 action under Federal Rule of Civil Procedure 20.
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 The Paces now appeal the dismissal of the 2013 action. They concede that Ms. Pace's false arrest and emotional distress claims against Timmermann's were compulsory counterclaims and therefore properly dismissed. They contend, however, that Ms. Pace's claims against the individual defendants and Mr. Pace's claims for loss of consortium were not compulsory counterclaims. They also submit that Ms. Pace's abuse of process claim against Timmermann's did not "exist" when the 2011 action was filed and therefore could not have been a compulsory counterclaim.
 
@@ -283,7 +283,7 @@ Ms. Pace was arrested on February 15, 2011. The company's 2011 complaint was fil
 
 Indeed, in alleging an abuse of process, Ms. Pace primarily relies on her 2011 arrest, and not on the fact that she was charged. The complaint alleges that the defendants intentionally injured and caused injury to Ms. Pace by giving "false information to law enforcement and explicitly or implicitly urging the arrest and/or the indictment of [Ms. Pace]." The complaint makes it clear that Ms. Pace could have brought her claim following her 2011 arrest, and thus, her abuse of process claim matured at that time.
 
-[Conclusion]{.case-h1}
+[Conclusion]{.casesection}
 
 We conclude that the district court erred in dismissing the Paces' 2013 complaint in its entirety. Because neither Rule 13 nor Rule 20 provide for compulsory joinder, Ms. Pace's claims against the individual defendants and Mr. Pace's claims for loss of consortium were not compulsory counterclaims. Ms. Pace's abuse of process claim against Timmermann's was in existence when Ms. Pace filed her 2011 answer and counterclaim, and therefore the district court was correct to bar her subsequent abuse of process claim against Timmermann's. 
 
@@ -422,7 +422,7 @@ A right of contribution allows a joint tortfeasor who pays damages beyond their 
 
 This appeal grows out of a triangular 1987 financial transaction that involved the Farm Street Trust (the Trust), its beneficiaries (Barry Lehman and Stuart A. Roffman), and First Mutual Bank for Savings (the Bank). In the ensuing eleven years, the transaction imploded, litigation commenced, the Bank and Lehman became insolvent, parties came and went, and the case was closed and partially reopened. In the end, only a third-party complaint proved ripe for adjudication. Even then, the district court dismissed two of its three counts, but entered summary judgment on the remaining count. The third-party defendant, Roffman, now appeals. After sorting through the muddled record and the case's serpentine procedural history, we affirm.
 
-[Background]{.case-h1}
+[Background]{.casesection}
 
 The historical facts are not seriously disputed. On or about October 19, 1987, the Trust, acting through its trustee, executed a promissory note for $2,800,000 in favor of the Bank in order to fund the purchase of property in Dover, Massachusetts. Lehman and Roffman, each of whom enjoyed a 50% beneficial interest in the Trust, personally guaranteed the note, and Lehman proffered two parcels of real estate as additional collateral. In short order, the Trust defaulted on the loan and the Bank foreclosed on Lehman's properties. Lehman responded by suing the Bank seeking restraint or rescission of the imminent sale of his real estate. The gravamen of his suit was a claim that Roffman had fraudulently introduced a sham investor to the Bank in order to gull it into making the loan, and that the Bank, in swallowing this spurious bait hook, line, and sinker, had failed to exercise due diligence.
 
@@ -432,7 +432,7 @@ The FDIC's third-party complaint contained three counts. The first two sought in
 
 [_Roffman moved to strike the third-party complaint. The trial court denied that motion and Roffman appealed. Meanwhile, Revolution Portfolio LLC ("RP"), to which the FDIC had assigned its interest in the Farm Street Trust debt, replaced the FDIC as the real party in interest._]
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 We must answer the question whether the FDIC's deployment of a third-party complaint against Roffman was proper. In this regard, Roffman asserts that the district court should not have entertained the impleader, and that, therefore, the joined claim on the guaranty should fall of its own weight. We review a district court's decision to permit the filing of a third-party complaint under Fed.R.Civ.P. 14(a) for abuse of discretion.
 
@@ -512,7 +512,7 @@ On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pes
 
 The Court found this motion suitable for determination on the papers submitted and without oral argument. For the following reasons, the Court GRANTS Defendants' motion to dismiss.
 
-[Background [^Camacho1]]{.case-h1}
+[Background [^Camacho1]]{.casesection}
 
 [^Camacho1]: (n.3 in opinion) In the complaint, David Gonzalez Camacho is referred to as 'Gonzalez,' and Daniel Arrellano Pesqueira, who is also once mentioned as 'Daniel Pesqueira Arellano,' is referred to as 'Pesqueira.' The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
 
@@ -532,19 +532,19 @@ Plaintiffs continued their investigation. Either during or after the investigati
 
 Plaintiffs commenced this action on November 30, 2012. They subsequently amended their complaint after it was dismissed without prejudice for lack of subject-matter jurisdiction. They assert the following claims against all of the defendants for: (1) intentional interference with economic relations; (2) intentional interference with prospective economic advantage; (3) negligent interference with economic relations; (4) negligent interference with prospective economic relations; (5) declaratory relief; (6) negligence; and (7) unfair business practices. Defendants now move to dismiss under Rule 12(b)(7). Plaintiffs oppose.
 
-[Legal Standard]{.case-h1}
+[Legal Standard]{.casesection}
 
 A party may move to dismiss a case for "failure to join a party under Rule 19." Fed. R. Civ. P. 12(b)(7). Rule 19 imposes a three-step inquiry: (1) Is the absent party necessary (i.e., required to be joined if feasible) under Rule 19(a)?; (2) If so, is it feasible to order that absent party to be joined?; and (3) If joinder is not feasible, can the case proceed without the absent party, or is the absent party indispensable such that the action must be dismissed? The terms "necessary" and "feasible" are "terms of art in Rule 19 jurisprudence": "Necessary" refers to a party who should be joined if feasible; and "indispensable" refers to "a party whose participation is so important to the resolution of the case that, if the joinder of the party is not feasible, the suit must be dismissed." The failure to join a party under Rule 19 can only lead to dismissal of a suit where the court cannot obtain jurisdiction over the necessary party and that party is determined to be indispensable to the action. _See_ Fed. R .Civ. P. 19(a).
 
 "The Ninth Circuit has held that a court should grant a 12(b)(7) motion to dismiss only if the court determines that joinder would destroy jurisdiction and the nonjoined party is necessary and indispensable." "A motion to dismiss for failure to join an indispensable party requires the moving party to bear the burden in producing evidence in support of the motion." "A Rule 12(b)(7) motion for failure to join an indispensable party demands a fact specific and practical inquiry." "To determine whether Rule 19 requires the joinder of additional parties, the court may consider evidence outside the pleadings."
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 Defendants argue that both the Red Devils and the Mexican League are necessary parties that cannot be feasibly joined to this action because (1) a determination of the validity of Mr. Pesqueira's alleged contracts with the Red Devils is necessary, and (2) joining the parties would vitiate this Court's subject-matter jurisdiction and Plaintiffs cannot establish personal jurisdiction over these absent parties in this Court. Plaintiffs present their claims very differently in their opposition brief compared to the allegations in the complaint. In a disingenuous early-inning strategic shift, they direct the focus of this action on Mr. Gonzalez's agency contract with Mr. Pesqueira, arguing that the Red Devils and Mexican League are "joint tortfeasors" that are not necessary parties to litigate the claims asserted in this action. Plaintiffs swing for the fences, but ultimately come up short.
 
 Upon reviewing the allegations in the complaint, it is clear that the threshold issue in this action is the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils. Plaintiffs proceed with their action under the presumption that those contracts are invalid—because Mr. Pesqueira was a minor at the time the contracts were executed, or because the signatures were "fraudulently lifted from another document and transferred onto these documents." These allegations in the complaint overwhelmingly demonstrate that this entire action hinges on one game-winning issue—the validity of the Red Devils contracts. The Court emphasizes that determining the validity of the alleged contracts between Mr. Pesqueira and the Red Devils is outside the scope of this series. Therefore, the Court rejects the disingenuous shifted premise that Plaintiffs present in their opposition brief, and shall proceed analyzing Defendants' motion while recognizing that the validity of the alleged contracts entered into between Mr. Pesqueira and the Red Devils is the go-ahead run.
 
-[A\. The Red Devils and the Mexican League Are Necessary Parties.]{.case-h2}
+[A\. The Red Devils and the Mexican League Are Necessary Parties.]{.casesubsection}
 
 A party is necessary if: (1) complete relief cannot be granted in the party's absence; or (2) the district court determines that "the absent party's participation is necessary to protect its legally cognizable interests or to protect other parties from a substantial risk of incurring multiple or inconsistent obligations because of those interests." Such a legally cognizable interest must be more than a financial stake in the outcome of the litigation. Defendants demonstrate that the Red Devils and the Mexican League are necessary parties under the latter of the two aforementioned definitions.
 
@@ -562,13 +562,13 @@ Defendants argue that "the Red Devils could still sue others in the Mexican cour
 
 Swing and a miss—strike one.
 
-[B\. Joining the Red Devils and the Mexican League Is Not Feasible.]{.case-h2}
+[B\. Joining the Red Devils and the Mexican League Is Not Feasible.]{.casesubsection}
 
 "If an absentee is a necessary party under Rule 19(a), the second stage is for the court to determine whether it is feasible to order that the absentee be joined." Rule 19(a) sets forth three circumstances in which joinder is not feasible: (1) when venue is improper; (2) when the absentee is not subject to personal jurisdiction; and (3) when joinder would destroy subject matter jurisdiction.
 
 Defendants argue that "the Red Devils and the Mexican League cannot be joined both because their joinder would destroy this Court's subject-matter jurisdiction, and because Plaintiffs cannot establish personal jurisdiction over them in this Court." Plaintiffs do not address feasibility in their opposition brief. In fact, the words "feasible" and "feasibility" do not appear anywhere in their brief. Consequently, Plaintiffs concede that joining the Red Devils and the Mexican League is not feasible under the second and third circumstances that Rule 19 enumerates. They took this pitch and it went right down the middle—strike two.
 
-[C\. The Red Devils and Mexican League Are Indispensable Parties.]{.case-h2}
+[C\. The Red Devils and Mexican League Are Indispensable Parties.]{.casesubsection}
 
 If the necessary party cannot be joined, the court must then determine whether the party is indispensable. Under Rule 19(b), indispensable parties are "persons who not only have an interest in the controversy, but an interest of such a nature that a final decree cannot be made without either affecting that interest, or leaving the controversy in such a condition that its final termination may be wholly inconsistent with equity and good conscience." Rule 19(b) provides the factors that courts should consider in determining if an action should be dismissed because an absent party is indispensable: (1) prejudice to any party or to the absent party; (2) whether relief can be shaped to lessen prejudice; (3) whether an adequate remedy, even if not complete, can be awarded without the absent party; and (4) whether there exists an alternative forum. Furthermore, "no procedural principle is more deeply imbedded in the common law than that, in an action to set aside a lease or a contract, all parties who may be affected by the determination of the action are indispensable." 
 
@@ -580,13 +580,13 @@ Rather, in seeking a determination that the Red Devils contracts are invalid, Pl
 
 Pending before the Court in this collective action under the Fair Labor Standards Act ("FLSA") is FedEx Ground Package System, Inc.'s ("FedEx") Rule 19(a) Motion to Join Pennsylvania Service Providers as Necessary Parties and Rule 19(b) Motion to Dismiss for Failure to Join Indispensable Parties (the "Motion"). In its Motion, FedEx seeks the joinder in this action of companies within Pennsylvania that contracted with FedEx to provide delivery and pickup services ("Service Providers") and dismissal of the remainder of the case as it pertains to opt-in Plaintiffs residing outside of Pennsylvania and Service Providers who employed drivers outside of Pennsylvania.
 
-[Relevant Background]{.case-h1}
+[Relevant Background]{.casesection}
 
 Plaintiffs Angel Sullivan-Blake and Horace Claiborne claim that they were not paid overtime compensation in accordance with the FLSA and have brought this collective action on behalf of themselves and other similarly situated individuals who have been employed by FedEx through intermediary employers, that is, the Service Providers, to perform delivery services on FedEx's behalf. To date, fifty-seven individuals from twenty-six different states have filed their opt-in consent forms to join this action.
 
 On September 30, 2019, the Court conditionally certified a nationwide collective encompassing all individuals outside of Massachusetts who worked as FedEx delivery drivers through the Service Providers since November 27, 2015. Before notice was issued to potential collective members, FedEx filed the pending Motion which has been fully briefed and is ripe for disposition.
 
-[Discussion]{.case-h1}
+[Discussion]{.casesection}
 
 FedEx contends that all Service Providers nationwide are necessary and indispensable parties to this litigation because these providers employ and pay the drivers, set the employment and wage policies and have a direct interest in the outcome. As such, FedEx seeks to join Service Providers located in Pennsylvania as required parties pursuant to Rule 19(a) of the Federal Rules of Civil Procedure. FedEx further asserts that because the Court lacks jurisdiction over the non-Pennsylvania Service Providers who employed Plaintiffs as well as opt-in Plaintiffs residing outside of Pennsylvania, then pursuant to Rule 19(b), these claims must be dismissed since these parties are indispensable and joinder cannot be effected.
 
