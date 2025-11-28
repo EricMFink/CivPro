@@ -105,14 +105,7 @@ $endif$
 % =========
 \usepackage{enumitem}
 \setlistdepth{6}
-
-\setlist[itemize,1]{label=\textbullet}
-\setlist[itemize,2]{label=\textopenbullet}
-\setlist[itemize,3]{label=\textperiodcentered}
-\setlist[itemize,4]{label=\textendash}
-\setlist[itemize,5]{label=\diamond}
-\setlist[itemize,6]{label=\textopenbullet}
-
+\setlist[itemize]{label=\textbullet}
 \setlist{nosep}
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0em}\setlength{\parskip}{0em}}
@@ -123,7 +116,6 @@ $endif$
 
 \usepackage[hang,flushmargin]{footmisc} 
 $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
-%\renewcommand{\footnotesize}{\fontsize{9pt}{11pt}\selectfont} %use to change size of footnotes
 
 % ==============
 % = Hyperlinks =
@@ -153,19 +145,17 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 
 \begin{document}
 
-% Sets default font color without overriding hyperlink colors
 \color{OffBlack}
 
 \singlespacing
 \thispagestyle{empty}
 \begin{flushleft}
 
-\footnotesize{Civil Procedure} \\
-\footnotesize{Eric M. Fink} \\
+\footnotesize{$subject$} \\
+\footnotesize{$author$} \\
 
 \vspace{3mm}
 \Large{$title$} 
-
 
 \setlength{\columnsep}{3em}
 \begin{multicols*}{2}
