@@ -1,10 +1,12 @@
 ---
 title: Syllabus
-professor: "Eric M. Fink"
 revised: 2025-08-24T18:30:43-04:00
 
-subject: Civil Procedure
+subject: Civil Procedureterm: 'Fall 2025'
+room: 'Room 207'
+meets: 'Mondays, Wednesdays, & Fridays, 1:30–3:15 pm'
 repo-url: 'emfink.net/CivPro'
+syllabus: true
 
 author: Eric M. Fink
 phone: 336-279-9334
@@ -14,10 +16,6 @@ institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
-term: 'Fall 2025'
-room: 'Room 207'
-meets: 'Mondays, Wednesdays, & Fridays, 1:30–3:15 pm'
-
 ta: Davi Thornton
 ta-email: dthornton2@elon.edu
 ta2: Kristian Ellis
@@ -25,7 +23,7 @@ ta2-email: kellis12@elon.edu
 
 format:
   pdf:
-    template: syllabus_template.tex
+    template: master.tex
     keep-tex: true
     output-file: CivProSyllabus
 

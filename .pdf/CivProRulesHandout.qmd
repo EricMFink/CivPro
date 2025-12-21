@@ -3,9 +3,11 @@ subject: Civil Procedure
 author: Professor Fink
 title: FRCP & Statutes for Final Exam
 
+rules-handout: true
+
 format:
   pdf:
-    template: rules_template.tex
+    template: master.tex
     keep-tex: true
     output-file: CivProRulesHandout
 
