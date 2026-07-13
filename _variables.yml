@@ -1,4 +1,4 @@
-version: 4.3
+version: 5.0
 
 subject: Civil Procedure
 repo-name: emfink.net/CivPro
@@ -13,12 +13,9 @@ institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
-term: 'Fall 2025'
+term: 'Fall 2026'
 room: 'Room 207'
 meets: 'Mondays, Wednesdays, & Fridays, 1:30–3:15 pm'
 
-ta: Davi Thornton
-ta-email: dthornton2@elon.edu
-
-ta2: Kristian Ellis
-ta2-email: kellis12@elon.edu
+ta: TA NAME
+ta-email: TAEMAIL@elon.edu
