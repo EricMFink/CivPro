@@ -1,0 +1,244 @@
+# Syllabus {.unnumbered}
+
+[{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
+
+::: {.syllabus}
+
+::: {.syllabus-header}
+
+## {{< var subject >}} {.unnumbered}
+
+{{< var institution >}}
+
+{{< var term >}}
+
+{{< var room >}}
+
+{{< var meets >}}
+
+[{{< var repo-name >}}]({{< var repo-url >}})
+
+### Professor
+
+{{< var author >}}
+
+{{< var phone >}}
+
+[{{< var email >}}](mailto:{{< var email >}})
+
+Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
+
+### Teaching Assistants {.unnumbered}
+
+{{< var ta >}}
+
+[{{< var ta-email >}}](mailto:{{< var ta-email >}})
+
+{{< var ta2 >}}
+
+[{{< var ta2-email >}}](mailto:{{< var ta2-email >}})
+
+:::
+
+## Description {.unnumbered}
+
+In this course, you will learn about the procedures for civil suits. Topics to be covered include the scope of a lawsuit, selection of an appropriate forum, presentation of claims and defenses, choice of applicable law, disposition without a trial, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar.
+
+This course is intended to prepare you for legal practice by developing the knowledge and skill required to recognize and analyze procedural issues in civil litigation, advise clients on those issues and the available options, and draft pleadings and motions.
+
+## Course Materials {.unnumbered}
+
+### Required
+
+Civil Procedure: An Open-Source Casebook (v.4.1 2025). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/CivPro/)]{.mono-font}.
+
+[Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 325-138-0701. 
+
+### Suggested
+
+Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). This hornbook provides concise overviews of the topics covered in the course. 
+
+Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.) or _The Glannon Guide to Civil Procedure_ (Aspen 5th ed.). These are two popular study aids for Civil Procedure, presenting similar content in different formats. 
+
+## Policies {.unnumbered}
+
+### Grading
+
+Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
+
+- The Click & Learn assignments are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each unit are indicated by a due date of December 1.[^syllabus1] You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by December 1. Your grade will be based on your highest score for each lesson. 
+- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample questions from past exams are posted on the [course website](https://www.emfink.net/CivPro/). 
+
+[^syllabus1]: Click & Learn lessons without a due date are not required and will not count toward your final grade.
+
+### Attendance
+
+Elon Law School has adopted the following attendance policy for all courses:
+
+> The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
+> 
+> In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the [Office of Student Life](https://www.elon.edu/u/law/students/).
+
+You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation.
+
+### Disability Accommodations
+
+For disability accommodation requests, contact the [Elon Disability Services Office](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/homepage/graduate-student-resources/).
+
+### Honor Code
+
+The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
+
+## Schedule & Assignments {.unnumbered}
+
+(_Note:_ This class will not meet on Sept. 24 and Oct. 10)
+
+### 1\. Foundations of Civil Procedure
+
+_Clermont:_ chap. 1 & 2[^syllabus3] 
+
+_Click & Learn_: Basic Skills & Fundamentals
+
+#### September 3
+
+- At the Threshold; Civil Litigation in Federal Court, _Casebook_ §§ 1.1 & 1.2
+
+### 2\. Parties and Claims
+
+_Clermont:_ chap. 6 
+
+_Click & Learn_: Unit 6 
+
+#### September 5 & 8
+
+- Permissive Joinder of Claims & Parties, _Casebook_: §§ 2.1 & 2.2 
+
+#### September 10 & 12
+
+- Counterclaims, _Casebook_: § 2.3 
+
+#### September 15
+
+- Crossclaims, _Casebook_: § 2.4 
+
+#### September 17 & 19
+
+- Third-Party Defendants & Claims, _Casebook_: § 2.5 
+
+#### September 22
+
+- Required Parties, _Casebook_: chap. 2: § 2.6 
+
+### 3\. Personal Jurisdiction
+
+_Clermont:_ chap. 4: §§ 4.2-4.4 
+
+_Click & Learn_: Unit 1 
+
+#### September 26
+
+- Due Process and State Power, _Casebook_: § 3.1 
+
+#### September 29 & Oct. 1
+
+- Specific Jurisdiction, _Casebook_: § 3.2 
+
+#### October 3
+
+- General Jurisdiction, Consent, & Long-Arm Statutes, _Casebook_: §§ 3.3-3.5
+
+### 4\. Subject Matter Jurisdiction
+
+_Clermont:_ chap. 4: § 4.1 
+
+_Click & Learn_: Unit 3 
+
+#### October 6
+
+- Federal Question Jurisdiction, _Casebook_: § 4.1 
+
+#### October 8 & 13
+
+- Diversity Jurisdiction, _Casebook_: § 4.2 
+
+#### October 15 & 17
+
+- Supplemental Jurisdiction, _Casebook_: § 4.3 
+
+#### October 20
+
+- Removal, _Casebook_: § 4.4 
+
+### 5\. Choice of Governing Law
+
+_Clermont:_ chap. 3 
+
+_Click & Learn_: Unit 9 
+
+#### October 22 & 24
+
+- Rules of Decision Act & Erie, _Casebook_: § 5.1 
+
+#### October 27 & 29
+
+- Rules Enabling Act & Hanna, _Casebook_: § 5.2 & 5.3 
+
+### 6\. Pleading
+
+_Clermont:_ chap. 2: § 2.2(A) 
+
+_Click & Learn_: Unit 5 
+
+#### October 31
+
+- Pleading Under the FRCP, _Casebook_: §§ 6.1
+
+#### November 3 & 5
+
+- Claims for Relief, _Casebook_: §§ 6.2
+
+#### November 7
+
+- Responsive Pleading, _Casebook_: § 6.3 
+
+#### November 10
+
+- Amended Pleadings, _Casebook_: § 6.4 
+
+#### November 12
+
+- Truthfulness and Good Faith, _Casebook_: § 6.5 
+
+### 7\. Preclusion
+
+_Clermont:_ chap. 5 
+
+_Click & Learn_: Unit 10 (part 1 only) 
+
+#### November 14 & 17
+
+- General Principles & Claim Preclusion, _Casebook_: §§ 7.1 & 7.2 
+
+#### November 19 & 21
+
+- Issue Preclusion, _Casebook_: § 7.3 
+
+### 8\. Summary Judgment
+
+_Clermont:_ chap. 2: § 2.2 
+
+_Click & Learn_: Unit 8 (part 1: sec. III only) 
+
+#### November 24
+
+- Standard & Burden of Production, _Casebook_: §§ 8.1 & 8.2 
+
+---
+
+**December 5:** Final Review
+
+**Dec. 8:** Final Exam
+
+[^syllabus3]: Relevant portions of the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to provide context for the assigned reading.
+
+:::

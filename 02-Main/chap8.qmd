@@ -1,18 +1,82 @@
 # Summary Judgment  
 
-## Standard for Summary Judgment
+## Legal Standard & Procedure
 
-### Fed. R. Civ. P. 
-
-#### Rule 56
+### Fed. R. Civ. P. Rule 56
 
 ::: {.legalcode}
 
 - (a\) _Motion for Summary Judgment or Partial Summary Judgment._ A party may move for summary judgment, identifying each claim or defense — or the part of each claim or defense — on which summary judgment is sought. The court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. The court should state on the record the reasons for granting or denying the motion.
 - (b\) _Time to File a Motion._ Unless a different time is set by local rule or the court orders otherwise, a party may file a motion for summary judgment at any time until 30 days after the close of all discovery. 
+- (c\) Procedures.
+	- (1\) _Supporting Factual Positions._ A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
+		- (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
+		- (B\) showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact.
+	- (2\) _Objection That a Fact Is Not Supported by Admissible Evidence._ A party may object that the material cited to support or dispute a fact cannot be presented in a form that would be admissible in evidence.
+	- (3\) _Materials Not Cited._ The court need consider only the cited materials, but it may consider other materials in the record.
+	- (4\) _Affidavits or Declarations._ An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.
+- (d\) _When Facts Are Unavailable to the Nonmovant._ If a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may:
+	- (1\) defer considering the motion or deny it;
+	- (2\) allow time to obtain affidavits or declarations or to take discovery; or
+	- (3\) issue any other appropriate order.
+- (e\) _Failing to Properly Support or Address a Fact._ If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
+	- (1\) give an opportunity to properly support or address the fact;
+	- (2\) consider the fact undisputed for purposes of the motion;
+	- (3\) grant summary judgment if the motion and supporting materials — including the facts considered undisputed — show that the movant is entitled to it; or
+	- (4\) issue any other appropriate order.
+- (f\) OMITTED
 - (g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
+:::
+
+### "Materials in the Record": Discovery 
+
+Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinely disputed must support the assertion by citing to particular parts of materials in the record" or "showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact." The "materials in the record" are produced in the discovery process, governed by FRCP Rules 26-32. 
+
+[Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
+
+#### Rule 26(a)
+
+::: {.legalcode}
+
+- _(1\) Initial Disclosure._
+	- _(A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:_
+		- _(i\) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;_
+		- _(ii\) a copy—or a description by category and location—of all documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment;_
+		- _(iii\) a computation of each category of damages claimed by the disclosing party—who must also make available for inspection and copying as under Rule 34 the documents or other evidentiary material, unless privileged or protected from disclosure, on which each computation is based, including materials bearing on the nature and extent of injuries suffered; and_
+		- _(iv\) for inspection and copying as under Rule 34, any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in the action or to indemnify or reimburse for payments made to satisfy the judgment._
+- _(2\) Disclosure of Expert Testimony._
+	- _(A\) In General. In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705._
+- _(3\) Pretrial Disclosures._
+	- _(A\) In General. In addition to the disclosures required by Rule 26(a)(1) and (2), a party must provide to the other parties and promptly file the following information about the evidence that it may present at trial other than solely for impeachment:_
+		- _(i\) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;_
+		- _(ii\) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and_
+		- _(iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises._
 
 :::
+
+The parties may seek further information through various discovery methods: 
+
+- _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
+- _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
+- _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
+- _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
+- _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
+
+Rule 26(b)(1) defines the scope of discovery: 
+
+::: {.legalcode}
+
+> _Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties’ relative access to relevant information, the parties’ resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable._
+
+:::
+
+Rule 26(b) also sets certain limits on discovery, including "information ... subject to a claim of privilege or of protection as trial-preparation material". Rule 26(d) governs the timing and sequence of requests. 
+
+The court may impose sanctions on parties for failure to make required disclosures or cooperate in the discovery process. [Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37)
+
+In addition to the materials produced in discovery, the record may also include stipulations by the parties, i.e. agreements as to certain facts. The parties may stipulate to facts provisionally, for the purpose of summary judgment only, while reserving the right to contest the facts at trial if the court does not grant summary judgment. 
+
+## Entitlement to Judgment as a Matter of Law
 
 ### Crane v. City of Arlington, Texas (5th Cir. 2022) 
 
@@ -118,80 +182,7 @@ As we affirm the dismissal of the passengers' claims against Roper for a failure
 
 We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summary judgment on Crane's claims and REMAND to the district court for further proceedings consistent with this opinion.
 
-## Burden of Production 
-
-### Fed. R. Civ. P. 
-
-#### Rule 56
-
-::: {.legalcode}
-
-- (c\) Procedures.
-	- (1\) _Supporting Factual Positions._ A party asserting that a fact cannot be or is genuinely disputed must support the assertion by:
-		- (A\) citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations (including those made for purposes of the motion only), admissions, interrogatory answers, or other materials; or
-		- (B\) showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact.
-	- (2\) _Objection That a Fact Is Not Supported by Admissible Evidence._ A party may object that the material cited to support or dispute a fact cannot be presented in a form that would be admissible in evidence.
-	- (3\) _Materials Not Cited._ The court need consider only the cited materials, but it may consider other materials in the record.
-	- (4\) _Affidavits or Declarations._ An affidavit or declaration used to support or oppose a motion must be made on personal knowledge, set out facts that would be admissible in evidence, and show that the affiant or declarant is competent to testify on the matters stated.
-- (d\) _When Facts Are Unavailable to the Nonmovant._ If a nonmovant shows by affidavit or declaration that, for specified reasons, it cannot present facts essential to justify its opposition, the court may:
-	- (1\) defer considering the motion or deny it;
-	- (2\) allow time to obtain affidavits or declarations or to take discovery; or
-	- (3\) issue any other appropriate order.
-- (e\) _Failing to Properly Support or Address a Fact._ If a party fails to properly support an assertion of fact or fails to properly address another party’s assertion of fact as required by Rule 56(c), the court may:
-	- (1\) give an opportunity to properly support or address the fact;
-	- (2\) consider the fact undisputed for purposes of the motion;
-	- (3\) grant summary judgment if the motion and supporting materials — including the facts considered undisputed — show that the movant is entitled to it; or
-	- (4\) issue any other appropriate order.
-
-:::
-
-### "Materials in the Record": Discovery 
-
-Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinely disputed must support the assertion by citing to particular parts of materials in the record" or "showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact." The "materials in the record" are produced in the discovery process, governed by FRCP Rules 26-32. 
-
-[Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
-
-#### Rule 26(a)
-
-::: {.legalcode}
-
-- _(1\) Initial Disclosure._
-	- _(A\) In General. Except as exempted by Rule 26(a)(1)(B) or as otherwise stipulated or ordered by the court, a party must, without awaiting a discovery request, provide to the other parties:_
-		- _(i\) the name and, if known, the address and telephone number of each individual likely to have discoverable information—along with the subjects of that information—that the disclosing party may use to support its claims or defenses, unless the use would be solely for impeachment;_
-		- _(ii\) a copy—or a description by category and location—of all documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment;_
-		- _(iii\) a computation of each category of damages claimed by the disclosing party—who must also make available for inspection and copying as under Rule 34 the documents or other evidentiary material, unless privileged or protected from disclosure, on which each computation is based, including materials bearing on the nature and extent of injuries suffered; and_
-		- _(iv\) for inspection and copying as under Rule 34, any insurance agreement under which an insurance business may be liable to satisfy all or part of a possible judgment in the action or to indemnify or reimburse for payments made to satisfy the judgment._
-- _(2\) Disclosure of Expert Testimony._
-	- _(A\) In General. In addition to the disclosures required by Rule 26(a)(1), a party must disclose to the other parties the identity of any witness it may use at trial to present evidence under Federal Rule of Evidence 702, 703, or 705._
-- _(3\) Pretrial Disclosures._
-	- _(A\) In General. In addition to the disclosures required by Rule 26(a)(1) and (2), a party must provide to the other parties and promptly file the following information about the evidence that it may present at trial other than solely for impeachment:_
-		- _(i\) the name and, if not previously provided, the address and telephone number of each witness—separately identifying those the party expects to present and those it may call if the need arises;_
-		- _(ii\) the designation of those witnesses whose testimony the party expects to present by deposition and, if not taken stenographically, a transcript of the pertinent parts of the deposition; and_
-		- _(iii\) an identification of each document or other exhibit, including summaries of other evidence—separately identifying those items the party expects to offer and those it may offer if the need arises._
-
-:::
-
-The parties may seek further information through various discovery methods: 
-
-- _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
-- _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
-- _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
-- _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
-- _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
-
-Rule 26(b)(1) defines the scope of discovery: 
-
-::: {.legalcode}
-
-> _Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties’ relative access to relevant information, the parties’ resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable._
-
-:::
-
-Rule 26(b) also sets certain limits on discovery, including "information ... subject to a claim of privilege or of protection as trial-preparation material". Rule 26(d) governs the timing and sequence of requests. 
-
-The court may impose sanctions on parties for failure to make required disclosures or cooperate in the discovery process. [Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37)
-
-In addition to the materials produced in discovery, the record may also include stipulations by the parties, i.e. agreements as to certain facts. The parties may stipulate to facts provisionally, for the purpose of summary judgment only, while reserving the right to contest the facts at trial if the court does not grant summary judgment. 
+## Genuine Issue of Material Fact
 
 ### Stout v. Vincent (5th Cir. 2018) 
 

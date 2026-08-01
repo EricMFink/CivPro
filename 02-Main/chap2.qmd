@@ -2,9 +2,7 @@
 
 ## Permissive Joinder of Claims
 
-### Fed. R. Civ. P. 
-
-#### Rule 18
+### Fed. R. Civ. P. Rule 18
 
 ::: {.legalcode}
 
@@ -13,7 +11,7 @@
 
 :::
 
-#### Rule 42
+### Fed. R. Civ. P. Rule 42
 
 ::: {.legalcode}
 
@@ -55,9 +53,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 ## Permissive Joinder of Parties
 
-### Fed. R. Civ. P. 
-
-#### Rule 20
+### Fed. R. Civ. P. Rule 20
 
 ::: {.legalcode}
 
@@ -119,9 +115,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ## Counterclaims
 
-### Fed. R. Civ. P. 
-
-#### Rule 13
+### Fed. R. Civ. P. Rule 13
 
 ::: {.legalcode}
 
@@ -289,9 +283,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ## Crossclaims
 
-### Fed. R. Civ. P. 
-
-#### Rule 13
+### Fed. R. Civ. P. Rule 13
 
 ::: {.legalcode}
 
@@ -340,9 +332,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 ## Third-Party Defendants & Claims
 
-### Fed. R. Civ. P. 
-
-#### Rule 14
+### Fed. R. Civ. P. Rule 14
 
 ::: {.legalcode}
 
@@ -384,11 +374,11 @@ Under the FRCP, neither crossclaims nor third-party claims are compulsory. Conse
 
 Rules 13(g) and 14(a) do not establish a right to indemnification or contribution. That is a matter of substantive law (tort, contract, or statute). These Rules simply govern the procedure for joining such claims where they have some basis in substantive law.
 
-#### Indemnification
+[Indemnification]{.case-section}
 
 A right to indemnification allows a defending party to recover the full amount of a judgment against them (and sometimes defense costs) from another person. Indemnification originated as a common law right, based on tort and agency law. The common law right has been augmented (or in some jurisdictions replaced) by statutory and contractual rights to indemnification.
 
-##### Common Law Indemnification
+[Common Law Indemnification]{.case-subsection}
 
 Common law indemnification applies where a defendant was not actually at fault, but is liable to the plaintiff for another person's conduct, based on their legal status or relationship.
 
@@ -396,7 +386,7 @@ _Example:_ At common law, if an employer was held vicariously liable for harm to
 
 _Example:_ In some states, if a retailer is subject to strict liability for injuries caused by a defective product it sold, the retailer has a common law right to indemnification by the manufacturer or other party actually responsible for the defect, as long as the retailer was not itself also at fault.
 
-##### Statutory Indemnification
+[Statutory Indemnification]{.case-subsection}
 
 Indemnification statutes may codify the common law right or impose a duty to indemnify where it would not apply under common law.
 
@@ -404,7 +394,7 @@ _Example:_ In some states, an employer has a statutory duty to indemnify an empl
 
 _Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code §145](https://delcode.delaware.gov/title8/c001/sc04/).
 
-##### Contractual Indemnification
+[Contractual Indemnification]{.case-subsection}
 
 Parties may enter into agreements that shift ultimate responsibility for judgments, without regard to which one is at fault.
 
@@ -414,7 +404,7 @@ _Example:_ Manufacturers of consumer products may agree to indemnify distributor
 
 Liability insurance is a common type of contractual indemnification agreement. Such policies typically provide that the insurance carrier will pay (subject to limits and conditions in the policy) the cost of judgments and the cost of defense for claims covered by the policy. If there there is a dispute as to whether the policy covers the insured party's potential liability, the insured party may join the insurance carrier as a third-party defendant so that the court can resolve the coverage dispute.
 
-#### Contribution
+[Contribution]{.case-subsection}
 
 A right of contribution allows a joint tortfeasor who pays damages beyond their proportionate share of fault (e.g. under joint and several liability) to seek reimbursement from other joint tortfeasors for their proportionate shares. The right of contribution may be governed by common law or statute. You will learn more about joint & several liability, and contribution among joint tortfeasers, in your Torts class.
 
@@ -478,9 +468,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ## Required Parties
 
-### Fed. R. Civ. P. 
-
-#### Rule 19
+### Fed. R. Civ. P. Rule 19
 
 ::: {.legalcode}
 
@@ -622,13 +610,13 @@ Driftwood goes to meet Lassparri, intending to sign him to a contract with the O
 
 A furious Claypool sues Gottlieb for breach of contract, seeking restitution of the $500,000 she donated to the Opera Company. She also sues Driftwood for breach of contract & fraud over his role in the failure of the Opera Company deal, seeking $50,000 (the amount she paid Driftwood for his services as her agent) plus punitive damages. Claypool brings her suit in federal court (assume that the court would have personal jurisdiction over all parties and subject matter jurisdiction over all claims).
 
-#### Part A
+[Part A]{.case-subsection}
 
 1. Is joinder of Gottlieb and Driftwood as defendants proper under the FRCP?
 2. Assume that Claypool sues only Gottlieb. Gottlieb's defense is that his promise to name the Opera House after Claypool was contingent upon signing Lasparri to a contract with the Opera Company, and that Driftwood's failure to fulfill that part of the deal means that Gottlieb is not contractually obligated to honor his promise to Claypool. Is Driftwood a person required to be joined if feasible under the FRCP? 
 3. Assume instead that Claypool sues only Driftwood. May Gottlieb intervene as a plaintiff to assert a claim against Driftwood for failure to sign Lasparri to a contract with the Opera Company? 
 
-#### Part B
+[Part B]{.case-subsection}
 
 Assume that Claypool sued both Gottlieb & Driftwood and that their joinder as co-defendants was proper under the FRCP. 
 

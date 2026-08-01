@@ -1,10 +1,8 @@
 # Choice of Law in Federal Court
 
-## Choice of Law Under the Rules of Decision Act
+## The Rules of Decision Act
 
-### The Rules of Decision Act
-
-#### 28 U.S.C. § 1652 -- State laws as rules of decision
+### @1652RDA
 
 ::: {.legalcode}
 
@@ -206,11 +204,9 @@ We think that in the circumstances of this case the federal court should not fol
 
 _Third_. We have discussed the problem upon the assumption that the outcome of the litigation may be substantially affected by whether the issue of immunity is decided by a judge or a jury. But clearly there is not present here the certainty that a different result would follow, or even the strong possibility that this would be the case. There are factors present here which might reduce that possibility. The trial judge in the federal system has powers denied the judges of many States to comment on the weight of evidence and credibility of witnesses, and discretion to grant a new trial if the verdict appears to him to be against the weight of the evidence. We do not think the likelihood of a different result is so strong as to require the federal practice of jury determination of disputed factual issues to yield to the state rule in the interest of uniformity of outcome.
 
-## Choice of Law Under the Rules Enabling Act
+## The Rules Enabling Act
 
-### The Rules Enabling Act
-
-#### 28 U.S.C. § 2071 -- Rule-making power generally
+### @2071RuleMakingPower
 
 ::: {.legalcode}
 
@@ -225,7 +221,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### 28 U.S.C. § 2072 -- Rules of procedure and evidence; power to prescribe
+### @2072RulesOfProcedure
 
 ::: {.legalcode}
 
@@ -235,7 +231,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### 28 U.S.C. § 2073 -- Rules of procedure and evidence; method of prescribing
+### @2073MethodOfProscribing
 
 ::: {.legalcode}
 
@@ -251,7 +247,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### 28 U.S.C. § 2074 -- Rules of procedure and evidence; submission to Congress
+### 28 U.S.C. § 2074 -- Rules of procedure and evidence; submission to Congress
 
 ::: {.legalcode}
 
@@ -430,13 +426,13 @@ Peggy sues Sterling Cooper in federal court, asserting a claim for breach of con
 
 In her complaint, Peggy seeks compensatory damages for her loss of employment. 
 
-#### Part A
+[Part A]{.case-section}
 
 Under Hudson state law, compensatory damages for wrongful termination in breach of an employment contract are limited to an amount equal to three times the plaintiff's annual earnings (wages or salary) in their last year of employment. In contrast, in cases for wrongful termination under federal law, there is no such cap on the amount of compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-#### Part B
+[Part B]{.case-section}
 
 Under Hudson state law, a complaint for breach of contract must include an itemized statement showing the basis and amount of compensatory damages sought. In contract, under FRCP Rule 8(a)(3), the "demand for relief sought" requires only a general statement that the plaintiff seeks compensatory damages. 
 
@@ -455,7 +451,7 @@ Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges 
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 
-#### Part A
+[Part A]{.case-section}
 
 FRCP Rule 8(a)(3) provides that a complaint must include "a demand for the relief sought, which may include relief in the alternative or different types of relief." Under this rule, a plaintiff may request both legal remedies (usually money damages) and equitable relief (such as an injunction) in the same complaint. 
 
@@ -465,7 +461,7 @@ Carbolic objects that Carlill's request for both money damages and an injunction
 
 _Should the court apply state or federal law on this issue?_ 
 
-#### Part B
+[Part B]{.case-section}
 
 Under Euphoria state law, a consumer asserting a fraud claim based on an allegedly false advertisement must plead and prove the following elements:
 
