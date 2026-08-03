@@ -2,7 +2,7 @@
 
 ## Permissive Joinder of Claims
 
-### Fed. R. Civ. P. Rule 18
+#### Fed. R. Civ. P. Rule 18
 
 ::: {.legalcode}
 
@@ -11,7 +11,7 @@
 
 :::
 
-### Fed. R. Civ. P. Rule 42
+#### Fed. R. Civ. P. Rule 42
 
 ::: {.legalcode}
 
@@ -23,7 +23,7 @@
 
 :::
 
-### Burdine v. Metropolitan Direct Property and Casualty Ins. Co. (E.D. Ky. 2018) 
+#### @BurdineMetropolitanDirectProperty_EDKy2018
 
 Plaintiff Paulina Brooke Burdine originally filed this lawsuit against defendant Metropolitan Direct Property and Casualty Insurance Company (hereinafter "MetDirect") in Franklin Circuit Court. MetDirect removed the proceedings to this Court pursuant to 28 U.S.C. §1332. Ms. Burdine asserts two claims against MetDirect stemming from two separate automobile accidents. MetDirect moved to sever these claims or, in the alternative, bifurcate the proceedings. For the following reasons, MetDirect's Motion to Sever or Bifurcate is DENIED.
 
@@ -53,7 +53,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 ## Permissive Joinder of Parties
 
-### Fed. R. Civ. P. Rule 20
+#### Fed. R. Civ. P. Rule 20
 
 ::: {.legalcode}
 
@@ -69,7 +69,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 :::
 
-### Mosley v. General Motors Corp. (E.D. Missouri 1980)
+#### @MosleyGeneralMotorsCorp_EDMissouri1980
 
 Nathaniel Mosley and nine other persons joined in bringing this action individually and as class representatives alleging that their rights guaranteed under 42 U.S.C. §2000e et seq. and 42 U.S.C. §1981 were denied by General Motors and Local 25, United Automobile, Aerospace and Agriculture Implement Workers of America Union by reason of their color and race. Each of the ten named plaintiffs had, prior to the filing of the complaint, filed a charge with the Equal Employment Opportunity Commission EEOC asserting the facts underlying these claims. Pursuant thereto, the EEOC made a reasonable cause finding that General Motors, Fisher Body Division and Chevrolet Division, and the Union had engaged in unlawful employment practices in violation of Title VII of the Civil Rights Act of 1964. Accordingly, the charging parties were notified by EEOC of their right to institute a civil action in the appropriate federal district court, pursuant to §706(e) of Title VII, 42 U.S.C. §2000e-5(e).
 
@@ -115,7 +115,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ## Counterclaims
 
-### Fed. R. Civ. P. Rule 13
+#### Fed. R. Civ. P. Rule 13
 
 ::: {.legalcode}
 
@@ -131,7 +131,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 :::
 
-### Jones v. Ford Motor Credit Co. (2nd Cir. 2004)
+#### @JonesFordMotorCredit_2ndCir2004
 
 This appeal concerns the availability of subject matter jurisdiction for permissive counterclaims. It also demonstrates the normal utility of early decision of a motion for class certification. Defendant-Appellant Ford Motor Credit Company ("Ford Credit") appeals from the June 14, 2002, judgment of the United States District Court for the Southern District of New York (Lawrence M. McKenna, District Judge) dismissing for lack of jurisdiction its permissive counterclaims against three of the four Plaintiffs-Appellees and its conditional counterclaims against members of the putative class that the Plaintiffs-Appellees seek to certify. We conclude that supplemental jurisdiction authorized by 28 U.S.C. §1367 may be available for the permissive counterclaims, but that the District Court's discretion under subsection 1367(c) should not be exercised in this case until a ruling on the Plaintiffs' motion for class certification. We therefore vacate and remand.
 
@@ -161,7 +161,7 @@ Although the "logical relationship" test does not require "an absolute identity 
 
 We agree with the District Court that the debt collection counterclaims were permissive rather than compulsory. The Plaintiffs' ECOA claim centers on Ford Credit's mark-up policy, based on subjective factors, which allegedly resulted in higher finance charges on their purchase contracts than on those of similarly situated White customers. Ford Credit's debt collection counterclaims are related to those purchase contracts, but not to any particular clause or rate. Rather, the debt collection counterclaims concern the individual Plaintiffs' non-payment after the contract price was set. Thus, the relationship between the counterclaims and the ECOA claim is "logical" only in the sense that the sale, allegedly on discriminatory credit terms, was the "but for" cause of the non-payment. That is not the sort of relationship contemplated by our case law on compulsory counterclaims. The essential facts for proving the counterclaims and the ECOA claim are not so closely related that resolving both sets of issues in one lawsuit would yield judicial efficiency. Indeed, Ford Credit does not even challenge the ruling that its counterclaims are permissive.
 
-### Ginwright v. Exeter Finance Corp. (D. Md. 2017) 
+#### @GinwrightExeterFinanceCorp_DMd2017
 
 On February 26, 2016, Plaintiff Billy Ginwright filed this action against Defendant Exeter Finance Corporation ("Exeter") for violations of the Telephone Consumer Protection Act ("TCPA"), and the Maryland Telephone Consumer Protection Act ("MTCPA"). On May 11, 2016, Exeter filed its Amended Answer and Counterclaim, alleging that Ginwright breached the contract that led Exeter to seek to collect a debt by telephone. Pending before the Court is Ginwright's Motion to Dismiss Exeter's Counterclaim. For the following reasons, the Motion is granted.
 
@@ -203,7 +203,7 @@ The Court's conclusion is consistent with those of several district courts that 
 
 Exeter's citation to a single district court case reaching the contrary conclusion, _Horton v. Calvary Portfolio Servs._, is unpersuasive. In _Horton,_ the court applied the "logical relationship" test, followed by the United States Court of Appeals for the Ninth Circuit in determining whether a counterclaim is compulsory or permissive, which differs from the Fourth Circuit's four-part inquiry. Moreover, other courts applying a logical relationship test have concluded that a breach of contract counterclaim to a TCPA claim is permissive.
 
-### Pace v. Timmermann’s Ranch and Saddle Shop Inc. (7th Cir. 2014) 
+#### @PaceTimmermannsRanchSaddle_7thCir2014
 
 In 2011, Timmermann's Ranch and Saddle Shop ("Timmermann's") brought an action against its former employee, Jeanne Pace, for conversion, breach of fiduciary duty, fraud, and unjust enrichment. It alleged that Ms. Pace had stolen merchandise and money from the company. Ms. Pace filed her answer and a counterclaim in early 2011.
 
@@ -283,7 +283,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ## Crossclaims
 
-### Fed. R. Civ. P. Rule 13
+#### Fed. R. Civ. P. Rule 13
 
 ::: {.legalcode}
 
@@ -292,7 +292,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 :::
 
-### Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C. 2002) 
+#### @KirkcaldyRichmondCountyBd_MDNC2002
 
 This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
 
@@ -332,7 +332,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 ## Third-Party Defendants & Claims
 
-### Fed. R. Civ. P. Rule 14
+#### Fed. R. Civ. P. Rule 14
 
 ::: {.legalcode}
 
@@ -350,7 +350,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 :::
 
-### Contribution & Indemnification
+#### Contribution & Indemnification
 
 FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them:
 
@@ -390,7 +390,7 @@ _Example:_ In some states, if a retailer is subject to strict liability for inju
 
 Indemnification statutes may codify the common law right or impose a duty to indemnify where it would not apply under common law.
 
-_Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code §2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB).  
+_Example:_ In some states, an employer has a statutory duty to indemnify an employee for civil liability arising from the employee's actions in the course of employment. See, e.g., [Cal. Labor Code §2802](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2802.&lawCode=LAB). 
 
 _Example:_ The business corporations statutes in every state include provisions permitting (subject to certain conditions or limits) corporations to indemnify corporate officers and directors (and sometimes other employees and agents) who are sued based on their corporate roles. Some state's business corporations statutes mandate indemnification of officers and directors who successfully defend against such claims. See, e.g., [8 Del. Code §145](https://delcode.delaware.gov/title8/c001/sc04/).
 
@@ -408,7 +408,7 @@ Liability insurance is a common type of contractual indemnification agreement. S
 
 A right of contribution allows a joint tortfeasor who pays damages beyond their proportionate share of fault (e.g. under joint and several liability) to seek reimbursement from other joint tortfeasors for their proportionate shares. The right of contribution may be governed by common law or statute. You will learn more about joint & several liability, and contribution among joint tortfeasers, in your Torts class.
 
-### Lehman v. Revolution Portfolio LLC (1st Cir. 1999) 
+#### @LehmanRevolutionPortfolioLLC_1stCir1999
 
 This appeal grows out of a triangular 1987 financial transaction that involved the Farm Street Trust (the Trust), its beneficiaries (Barry Lehman and Stuart A. Roffman), and First Mutual Bank for Savings (the Bank). In the ensuing eleven years, the transaction imploded, litigation commenced, the Bank and Lehman became insolvent, parties came and went, and the case was closed and partially reopened. In the end, only a third-party complaint proved ripe for adjudication. Even then, the district court dismissed two of its three counts, but entered summary judgment on the remaining count. The third-party defendant, Roffman, now appeals. After sorting through the muddled record and the case's serpentine procedural history, we affirm.
 
@@ -444,7 +444,7 @@ As a fallback position, Roffman suggests that the third-party complaint against 
 
 There is, moreover, a broader point. A district court must oversee third-party practice with the core purpose of Rule 14(a) in mind: avoiding unnecessary duplication and circuity of action. Requiring a district court to determine the merits of all defenses potentially available to the original defendant as a precondition to allowing that defendant to file a third-party complaint would frustrate this purpose and countervail the efficient allocation of judicial resources. Thus, as long as a third-party action falls within the general contours limned by Rule 14(a), does not contravene customary jurisdictional and venue requirements, and will not work unfair prejudice, a district court should not preclude its prosecution. So here.
 
-### Kirkcaldy v. Richmond County Bd. of Ed (M.D.N.C. 2002)
+#### @KirkcaldyRichmondCountyBd_MDNC2002
 
 Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. §2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
 
@@ -468,7 +468,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ## Required Parties
 
-### Fed. R. Civ. P. Rule 19
+#### Fed. R. Civ. P. Rule 19
 
 ::: {.legalcode}
 
@@ -494,7 +494,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 :::
 
-### Camacho v. Major League Baseball (S.D. Cal. 2013) 
+#### @CamachoMajorLeagueBaseball_SDCal2013
 
 On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants. This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
 
@@ -564,7 +564,7 @@ Plaintiffs' primary arguments addressing indispensability are: (1) Defendants fa
 
 Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, strike three—out.
 
-### Sullivan-Blake v. Fedex Ground Package System, Inc. (W.D. Pa. 2020) 
+#### @SullivanBlakeFedexGroundPackage_WDPa2020
 
 Pending before the Court in this collective action under the Fair Labor Standards Act ("FLSA") is FedEx Ground Package System, Inc.'s ("FedEx") Rule 19(a) Motion to Join Pennsylvania Service Providers as Necessary Parties and Rule 19(b) Motion to Dismiss for Failure to Join Indispensable Parties (the "Motion"). In its Motion, FedEx seeks the joinder in this action of companies within Pennsylvania that contracted with FedEx to provide delivery and pickup services ("Service Providers") and dismissal of the remainder of the case as it pertains to opt-in Plaintiffs residing outside of Pennsylvania and Service Providers who employed drivers outside of Pennsylvania.
 

@@ -8,7 +8,7 @@ The subject matter jurisdiction of the federal courts is governed by the Constit
 
 ## Federal Question Jurisdiction
 
-### U.S. Constitution -- Article 3, sec. 2
+#### U.S. Constitution -- Article 3, sec. 2
 
 ::: {.legalcode}
 
@@ -16,7 +16,7 @@ The judicial power shall extend to all cases, in law and equity, arising under t
 
 :::
 
-###  @1331FederalQuestion
+#### @1331FederalQuestion
 
 ::: {.legalcode}
 
@@ -26,9 +26,9 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 
 
-### @LouisvilleNashvilleCoMottley_US1908
+#### @LouisvilleNashvilleCoMottley_US1908
 
-####  Statement by Justice Moody
+##### Statement by Justice Moody
 
 The appellees (husband and wife), being residents and citizens of Kentucky, brought this suit in equity in the circuit court of the United States for the western district of Kentucky against the appellant, a railroad company and a citizen of the same state.[The remedy that the Mottleys sought was "specific performance", i.e. an order requiring the Railroad to honor the free passes. This is a form a equitable relief, sometimes available instead of money damages, which is the usual legal relief for breach of contract. Prior to the advent of the Federal Rules of Civil Procedure, different procedures applied to suits for equitable relief and suits for legal relief. A suit in equity was commenced by filing a "bill", functionally equivalent to a complaint. You can [read the Mottleys' bill here](../exhibits/Mottley-complaint.pdf).]{.aside} The object of the suit was to compel the specific performance of the following contract:
 
@@ -58,9 +58,9 @@ Apart from the case for which he is remembered today, Erasmus Mottley was appare
 
 :::
 
-###  Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg. (U.S. 2005) 
+#### @GrableSonsMetalProducts_US2005
 
-####  Justice Souter delivered the opinion of the Court.
+##### Justice Souter delivered the opinion of the Court.
 
 The question is whether want of a federal cause of action to try claims of title to land obtained at a federal tax sale precludes removal to federal court of a state action with nondiverse parties raising a disputed issue of federal title law. We answer no, and hold that the national interest in providing a federal forum for federal tax litigation is sufficiently substantial to support the exercise of federal-question jurisdiction over the disputed issue on removal, which would not distort any division of labor between the state and federal courts, provided or assumed by Congress.
 
@@ -98,7 +98,7 @@ Accordingly, _Merrell Dow_ should be read in its entirety as treating the absenc
 
 As already indicated, however, a comparable analysis yields a different jurisdictional conclusion in this case. Although Congress also indicated ambivalence in this case by providing no private right of action to Grable, it is the rare state quiet title action that involves contested issues of federal law. Consequently, jurisdiction over actions like Grable's would not materially affect, or threaten to affect, the normal currents of litigation. Given the absence of threatening structural consequences and the clear interest the Government, its buyers, and its delinquents have in the availability of a federal forum, there is no good reason to shirk from federal jurisdiction over the dispositive and contested federal issue at the heart of the state-law title claim.
 
-###  Understanding Grable
+#### Understanding Grable
 
 In _Grable_, the Supreme Court sought to clarify when a state-law claim with an "essential federal element" falls within the jurisdiction granted under §1331. This is not really an exception to the "well-pleaded complaint" rule in _Mottley_. Under the _Grable_ standard, the federal question must still arise on the face of the complaint, i.e. as one of the elements of the plaintiff's claim, not a defense.
 
@@ -170,7 +170,7 @@ Malpractice claims based on an attorney's conduct in a federal patent suit don't
 
 ## Diversity Jurisdiction
 
-### U.S. Constitution -- Article III, sec. 2
+#### U.S. Constitution -- Article III, sec. 2
 
 ::: {.legalcode}
 
@@ -178,7 +178,7 @@ The judicial power shall extend to all cases ... between citizens of different s
 
 :::
 
-### @1332DiversityOfCitizenship
+#### @1332DiversityOfCitizenship
 
 ::: {.legalcode}
 
@@ -201,7 +201,7 @@ The judicial power shall extend to all cases ... between citizens of different s
 
 :::
 
-###  Hanks v Coan (M.D.N.C. 1999) 
+#### @HanksCoan_MDNC1999 Hanks v Coan (M.D.N.C. 1999) 
 
 This matter comes before the court on Defendant Frances Coan's motion to dismiss Plaintiff's complaint and Defendant John Coan, III's, motion to dismiss, pursuant to Fed.R.Civ.P. 12(b)(1), for lack of subject matter jurisdiction. For the reasons discussed herein, the court will grant Defendants' motions to dismiss.
 
@@ -247,13 +247,13 @@ Applying the facts of the present case to the controlling principles of law, the
 
 Therefore, absent complete diversity of citizenship between Plaintiff and Defendants, the court is without jurisdiction and must dismiss the case.
 
-### Citizenship of Organizational Parties
+#### Citizenship of Organizational Parties
 
 Under the diversity jurisdiction statute, a corporation is a citizen of both the state or country in which it is incorporated and the state or country where it has its principal place of business. 28 U.S.C. §1332(c)(1). In _Hertz Corp. v. Friend_, 559 US 77 (2010), the Supreme Court held that a corporation's "principal place of business" is "the place where the corporation's high level officers direct, control, and coordinate the corporation's activities." Under this "nerve center" test, the principal place of business "will typically be found at a corporation's headquarters."
 
 For unincorporated associations (e.g. a business partnership, labor union, or other organization formed for some common purpose), the traditional rule is that "an unincorporated association's citizenship is that of each of its members." _United Steelworkers of America v. R.H. Bouligny, Inc._ 382 U.S. 145 (1965); _Carden v. Arkoma Associates_, 494 U.S. 185 (1990). But in cases under the "Class Action Fairness Act", an unincorporated association is treated like a corporation, as a citizen of both the state under whose law it is organized and the state of its principal place of business. 28 U.S.C. §1332(d)(10).
 
-###  Ottawa Township Board of Trustees v. New Par (I) (N.D. Ohio 2017) 
+#### @OttawaTownshipBoardTrustees_NDOhio2017
 
 This state-law declaratory-judgment action tests whether the construction of a new cell tower must comply with an Ohio township's zoning regulations.
 
@@ -329,7 +329,7 @@ The Trustees seek a declaratory judgment that the defendants must construct the 
 
 Because the record is silent on these issues, the parties must submit additional briefs and supporting evidence so that I can determine whether this court has subject-matter jurisdiction.
 
-###  Ottawa Township Board of Trustees v. New Par (II) (N.D. Ohio 2017) 
+#### @OttawaTownshipBoardTrustees_NDOhio2017a
 
 This is a state-law declaratory-judgment case.
 
@@ -369,9 +369,9 @@ Moreover, given the Trustees' claim that the defendants are building the tower i
 
 Accordingly, the only evidence in the record establishes that the value of the injunctive relief the Trustees seek exceeds $75,000. I therefore have subject-matter jurisdiction under 28 U.S.C. §1332(a)(1), and I will deny the Trustees' motion to remand.
 
-###  Complete Business Solutions Group, Inc. v. Annie’s Pooch Pops (E.D. Pa. 2020) 
+#### @CompleteBusinessSolutionsGroup_EDPa2020
 
-Pennsylvania law permits a prothonotary of any of its courts of common pleas to enter judgment by confession,[A prothonotary is the chief clerk in most Pennsylvania state courts. "A confession of judgment is a legal device—usually a clause within a contract—in which a debtor agrees to allow a creditor, upon the nonoccurrence of a payment, to obtain a judgment against the debtor, often without advanced notice or a hearing."  [Wex Legal Dictionary](https://www.law.cornell.edu/wex/confession_of_judgment).]{.aside} in ministerial fashion, when a plaintiff files a complaint that, among other requisites, includes a copy of an instrument that the defendant has signed authorizing such judgment. 
+Pennsylvania law permits a prothonotary of any of its courts of common pleas to enter judgment by confession,[A prothonotary is the chief clerk in most Pennsylvania state courts. "A confession of judgment is a legal device—usually a clause within a contract—in which a debtor agrees to allow a creditor, upon the nonoccurrence of a payment, to obtain a judgment against the debtor, often without advanced notice or a hearing." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/confession_of_judgment).]{.aside} in ministerial fashion, when a plaintiff files a complaint that, among other requisites, includes a copy of an instrument that the defendant has signed authorizing such judgment. 
 
 In this case, confessed judgment was entered by the state court against Defendants, dog treat company Annie's Pooch Pops LLC, and its owner, Annie Hartig (hereinafter, "Annie's Pooch Pops"). The defendants removed the case, and filed a petition to strike or open the confessed judgment in this Court. Plaintiff Complete Business Solutions Group, Inc. seeks remand, and a stay of the litigation.
 
@@ -393,9 +393,9 @@ Annie's Pooch Pops have not met their burden in showing the amount-in-controvers
 
 ## Supplemental Jurisdiction
 
-###  Mine Workers v. Gibbs (U.S. 1966) 
+#### @MineWorkersGibbs_US1966
 
-####  Justice Brennan delivered the opinion of the Court.
+##### Justice Brennan delivered the opinion of the Court.
 
 Respondent Paul Gibbs was awarded compensatory and punitive damages in this action against petitioner United Mine Workers of America (UMW) for alleged violations of §303 of the Labor Management Relations Act, 1947,[[§303 of the Labor Management Relations Act ("LMRA")](https://www.law.cornell.edu/uscode/text/29/187) authorizes suits to recover damages for injury to business or property resulting from certain unlawful conduct by a labor union. The federal court had subject matter jurisdiction over the §303 claim, because it arises under federal law (the LMRA).]{.aside} and of the common law of Tennessee. The case grew out of the rivalry between the United Mine Workers and the Southern Labor Union over representation of workers in the southern Appalachian coal fields. Tennessee Consolidated Coal Company, not a party here, laid off 100 miners of the UMW's Local 5881 when it closed one of its mines in southern Tennessee during the spring of 1960. Late that summer, Grundy Company, a wholly owned subsidiary of Consolidated, hired respondent as mine superintendent to attempt to open a new mine on Consolidated's property at nearby Gray's Creek through use of members of the Southern Labor Union. As part of the arrangement, Grundy also gave respondent a contract to haul the mine's coal to the nearest railroad loading point.
 
@@ -423,7 +423,7 @@ That power need not be exercised in every case in which it is found to exist. It
 
 The question of power will ordinarily be resolved on the pleadings. But the issue whether pendent jurisdiction has been properly assumed is one which remains open throughout the litigation. Pretrial procedures or even the trial itself may reveal a substantial hegemony of state law claims, or likelihood of jury confusion, which could not have been anticipated at the pleading stage. Although it will of course be appropriate to take account in this circumstance of the already completed course of the litigation, dismissal of the state claim might even then be merited. For example, it may appear that the plaintiff was well aware of the nature of his proofs and the relative importance of his claims; recognition of a federal court's wide latitude to decide ancillary questions of state law does not imply that it must tolerate a litigant's effort to impose upon it what is in effect only a state law case. Once it appears that a state claim constitutes the real body of a case, to which the federal claim is only an appendage, the state claim may fairly be dismissed.
 
-###  @1367SupplementalJurisdiction
+#### @1367SupplementalJurisdiction
 
 ::: {.legalcode}
 
@@ -439,7 +439,7 @@ The question of power will ordinarily be resolved on the pleadings. But the issu
 
 :::
 
-###  Jones v. Ford Motor Credit Co. (2nd Cir. 2004) 
+#### @JonesFordMotorCredit_2ndCir2004
 
 This appeal concerns the availability of subject matter jurisdiction for permissive counterclaims. It also demonstrates the normal utility of early decision of a motion for class certification. Defendant-Appellant Ford Motor Credit Company ("Ford Credit") appeals from the June 14, 2002, judgment of the United States District Court for the Southern District of New York (Lawrence M. McKenna, District Judge) dismissing for lack of jurisdiction its permissive counterclaims against three of the four Plaintiffs-Appellees and its conditional counterclaims against members of the putative class that the Plaintiffs-Appellees seek to certify. We conclude that supplemental jurisdiction authorized by 28 U.S.C. §1367 may be available for the permissive counterclaims, but that the District Court's discretion under subsection 1367(c) should not be exercised in this case until a ruling on the Plaintiffs' motion for class certification. We therefore vacate and remand.
 
@@ -491,7 +491,7 @@ Whether Ford Credit's counterclaims "predominate" over the Plaintiffs' claims an
 
 Accordingly, we remand this case with directions to rule on the class certification motion, and then, in light of that ruling, to proceed to determine whether to exercise or decline supplemental jurisdiction.
 
-###  Ginwright v. Exeter Finance Corp. (D. Md. 2017) 
+#### @GinwrightExeterFinanceCorp_DMd2017
 
 On February 26, 2016, Plaintiff Billy Ginwright filed this action against Defendant Exeter Finance Corporation ("Exeter") for violations of the Telephone Consumer Protection Act ("TCPA"), 47 U.S.C. §227 (2012), and the Maryland Telephone Consumer Protection Act ("MTCPA"). On May 11, 2016, Exeter filed its Amended Answer and Counterclaim, alleging that Ginwright breached the contract that led Exeter to seek to collect a debt by telephone. Pending before the Court is Ginwright's Motion to Dismiss Exeter's Counterclaim. For the following reasons, the Motion is granted.
 
@@ -525,9 +525,9 @@ The contrary view is that the "same case or controversy" requirement under §136
 
 :::
 
-###  Exxon Mobil Corp. v. Allapattah Services, Inc. (U.S. 2005) 
+#### @ExxonMobilCorpAllapattah_US2005
 
-####  Justice Kennedy delivered the opinion of the Court.
+##### Justice Kennedy delivered the opinion of the Court.
 
 These consolidated cases[In this opinion, the Court decided two cases: _Rosario Ortega v. Star-Kist Foods, Inc._ and _Allapattah Services, Inc. v. Exxon Corp._. The portions of the opinion included here pertain to _Rosario Ortega_, which involved a young girl who was severely injured by a sharp edge on a tuna fish can. The _Allapattah_ case raised the same issue in the context of a class action suit.]{.aside} present the question whether a federal court in a diversity action may exercise supplemental jurisdiction over additional plaintiffs whose claims do not satisfy the minimum amount-in-controversy requirement, provided the claims are part of the same case or controversy as the claims of plaintiffs who do allege a sufficient amount in controversy. Our decision turns on the correct interpretation of 28 U.S.C. §1367. The question has divided the Courts of Appeals, and we granted certiorari to resolve the conflict.
 
@@ -577,31 +577,31 @@ And so we circle back to the original question. When the well-pleaded complaint 
 
 It follows from this conclusion that the threshold requirement of §1367(a) is satisfied in cases, like those now before us, where some, but not all, of the plaintiffs in a diversity action allege a sufficient amount in controversy. We hold that §1367 by its plain text overruled _Clark_ and _Zahn_ and authorized supplemental jurisdiction over all claims by diverse parties arising out of the same Article III case or controversy, subject only to enumerated exceptions not applicable in the cases now before us.
 
-###  Supplemental Jurisdiction Analysis
+#### Supplemental Jurisdiction Analysis
 
 ![Supplemental Jurisdiction](../img/1367.png){width=75%}
 
 ## Review Questions 
 
-###  Question 1
+#### Question 1
 
 Peter, a lifelong resident of Pennsylvania, worked as a delivery driver in Pennsylvania for Dreadful Express Corp. (DreadEx), which is incorporated and has its corporate headquarters in Pennsylvania. When Peter retired, he bought a second home in Florida, where he spends most of the year, returning to Pennsylvania for the summers. DreadEx owes Peter $80,000 in commissions earned during his final year of work. When the company fails to pay, Peter sues for breach of contract, filing his claim in the U.S. District Court for the Eastern District of Pennsylvania. 
 
 _Does the court have subject-matter jurisdiction?_
 
-###  Question 2
+#### Question 2
 
 Pam, a lifelong resident of North Carolina, files a products liability action seeking $150,000 in damages against Danger Corp. in the U.S. District Court for the Middle District of North Carolina. Danger is incorporated in Delaware, has its sole manufacturing & distribution facility is in South Carolina, and its corporate offices (where all significant business decisions are made) in North Carolina. 
 
 _Does the court have subject-matter jurisdiction?_
 
-###  Question 3
+#### Question 3
 
 Tri-State Landscaping, based in Johnson City, Tennessee, is organized as an unincorporated business partnership under Tennessee law. Of Tri-State's three partners, two are lifelong residents of Tennessee, the other a lifelong resident of North Carolina. The company provides residential and commercial landscaping services in eastern Tennessee, southwestern Virginia, and northwestern North Carolina. Pat, a lifelong resident of Virginia, hires Tri-State to maintain the lawn and garden at her Abingdon, Virginia home. Dissatisfied with the work, Pat sues Tri-State for breach of contract, filing the action in the U.S. District Court for the Western District of Virginia. As permitted under the applicable state law, Pat names Tri-State itself (not the individual partners) as the sole defendant. 
 
 _Does the court has subject-matter jurisdiction?_ 
 
-###  Question 4
+#### Question 4
 
 Eleanor (domiciled in the state of Keystone) is employed by Bombco, Inc. (“Bombco”), a munitions manufacturer (incorporated in Delaware with its sole place of business in Keystone). Bombco sells most of its products to the U.S. Defense Department for use by the U.S. military. 
 
@@ -609,7 +609,7 @@ During her first six months of work, Eleanor has been paid at the rate of $20/ho
 
 Believing that she has been underpaid, Eleanor decides to sue Bombco for $4800 (representing the alleged underpayment of $5/hour for the 960 hours she worked during the six month period). The DCWFA does not provide for a private right of action for employees who believe they have not been paid at the applicable prevailing wage rate. Instead, Eleanor asserts a claim under the state Wage Payment & Collection Law (“WPCL”), which provides that an employer must pay all wages earned by employees on regularly scheduled paydays. The WPCL also provides than an employee may bring a civil lawsuit to collect any unpaid wages. A plaintiff suing under the WPCL must allege and prove the following:
 
-1. The applicable rate of pay for the period subject to the suit,  
+1. The applicable rate of pay for the period subject to the suit, 
 2. The total amount of wages earned during the same period, and 
 3. The total amount of alleged underpayment during the same period.
 

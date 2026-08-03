@@ -1,8 +1,8 @@
-# Summary Judgment  
+# Summary Judgment 
 
 ## Legal Standard & Procedure
 
-### Fed. R. Civ. P. Rule 56
+#### Fed. R. Civ. P. Rule 56
 
 ::: {.legalcode}
 
@@ -28,13 +28,13 @@
 - (g\) _Failing to Grant All the Requested Relief._ If the court does not grant all the relief requested by the motion, it may enter an order stating any material fact — including an item of damages or other relief — that is not genuinely in dispute and treating the fact as established in the case.
 :::
 
-### "Materials in the Record": Discovery 
+#### "Materials in the Record": Discovery 
 
 Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinely disputed must support the assertion by citing to particular parts of materials in the record" or "showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact." The "materials in the record" are produced in the discovery process, governed by FRCP Rules 26-32. 
 
 [Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
 
-#### Rule 26(a)
+##### Rule 26(a)
 
 ::: {.legalcode}
 
@@ -78,7 +78,7 @@ In addition to the materials produced in discovery, the record may also include 
 
 ## Entitlement to Judgment as a Matter of Law
 
-### Crane v. City of Arlington, Texas (5th Cir. 2022) 
+#### @CraneCityArlingtonTexas_5thCir2022
 
 In 1996, the Supreme Court approved the use of pretextual stops in _Whren v. United States._ Since then, pretextual stops have become a cornerstone of law enforcement practice. Police officers follow a suspicious person until they identify a traffic violation to make a lawful stop, even though the officer intends to use the stop to investigate a hunch that, by itself, would not amount to reasonable suspicion or probable cause. Often pulled over for minor traffic violations, these stops create grounds for violent—and often deadly—encounters that disproportionately harm people of color.
 
@@ -184,7 +184,7 @@ We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summar
 
 ## Genuine Issue of Material Fact
 
-### Stout v. Vincent (5th Cir. 2018) 
+#### @StoutVincent_5thCir2018
 
 We decide whether the district court erred when granting summary judgment in favor of a police officer on the racial profiling claims of a black couple. The district court found that the couple failed to raise any genuine issue of material fact showing that the officer violated their equal protection rights under the Fourteenth Amendment. We affirm.
 
@@ -272,7 +272,7 @@ Although Appellants dispute Trooper Wall's report that they were acting nervous 
 
 Because Appellants failed to provide any evidence that Officer Vincent acted with discriminatory intent or treated them unequally, they cannot show there are any genuine issues of fact warranting a trial on their Fourteenth Amendment claim of racial profiling. Accordingly, we conclude the district court did not err when it granted summary judgment in favor of Officer Vincent.
 
-### Elden v. Nirvana, L.L.C. (C.D.Cal. 2025)
+#### @EldenNirvanaLlc_DistCourt2025 Elden v. Nirvana, L.L.C. (C.D.Cal. 2025)
 
 [Background]{.casesection}
 
@@ -375,17 +375,17 @@ Sally Schlimazel (domiciled in Florida), was injured when she cut her foot on a 
 
 The evidentiary record based on discovery includes the following evidence: 
 
-#### Summary of Sally Schlimazel Deposition Testimony
+##### Summary of Sally Schlimazel Deposition Testimony
 
 Schlimazel testified in her deposition that she cut her bare foot on the “outside bottom edge of the chair where the base meets the sides,” resulting in severe lacerations. She later examined the chair and determined that the edge was “razor sharp, sharp enough that if you were to rub your finger across the bottom outside edge of the chair, you would shave skin off your finger.” The chrome was flush with the plywood but the edge was sharp all the way around the 360 degrees of the base.
 
 Schlimazel went to the emergency room, where a doctor found that Schlimazel had a severed tendon. Following the doctor’s advice, Schlimazel underwent surgery, followed by six months of physical therapy. 
 
-#### Summary of Freddie Frankel Affidavit
+##### Summary of Freddie Frankel Affidavit
 
 Schlimazel submitted a sworn affidavit from her neighbor. Freddie Frankel. Frankel stated in the affidavit that he bought the chair at a Miami furniture store a few years before the incident. He’d never noticed the sharp edge on the chair, and as far as he knew, nobody had ever been injured by it before. 
 
-#### Summary of Milo Mebelmacher Deposition Testimony:
+##### Summary of Milo Mebelmacher Deposition Testimony:
 
 Milo Mebelmacher, founder and president of Mebelmacher Designs, testified in his deposition that he designed the Swivel Tub Chair. Mebelmacher licensed the design to Hahn, Inc., which is the exclusive licensed manufacturer of the chairs. 
 
@@ -401,7 +401,7 @@ If the chair were manufactured with the chrome veneer extending beyond the plywo
 
 A designer’s role is to make a conceptual sketch, to provide a full-sized detail and working sketch, and to supervise the making of a model. The purpose of the supervision is to assure that the finished product looks right. The designer’s responsibilities are “aesthetic and not engineering.” The manufacturer’s inspectors occasionally “let something go through that isn’t exactly right.” In all factories some quality problems get through. Other than the present action, Mebelmacher has not received a single complaint of injury involving any of its furniture designs.
 
-#### Summary of Julius Hahn Deposition Testimony
+##### Summary of Julius Hahn Deposition Testimony
 
 Julius Hahn, founder and president of Hahn, Inc., testified that his company manufactures the Swivel Tub Chair at its High Point, North Carolina factory. Hahn distributes the chairs to various retailers around the country, including the Miami store where Mr. Frankel bought the chair allegedly responsible for Schlimazel’s injury. 
 

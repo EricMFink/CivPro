@@ -2,9 +2,9 @@
 
 ## General Principles
 
-### Rest. (2d) of Judgments 
+#### Rest. (2d) of Judgments 
 
-#### § 13. Requirement of Finality 
+##### § 13. Requirement of Finality 
 
 ::: {.legalcode}
 
@@ -12,7 +12,7 @@ The rules of res judicata are applicable only when a final judgment is rendered.
 
 :::
 
-#### § 14. Effective Date of Final Judgment
+##### § 14. Effective Date of Final Judgment
 
 ::: {.legalcode}
 
@@ -20,7 +20,7 @@ For purposes of res judicata, the effective date of a final judgment is the date
 
 :::
 
-#### § 15. Inconsistent Judgments
+##### § 15. Inconsistent Judgments
 
 ::: {.legalcode}
 
@@ -28,7 +28,7 @@ When in two actions inconsistent final judgments are rendered, it is the later, 
 
 :::
 
-#### § 16. Judgment Based Upon a Judgment That Is Subsequently Reversed
+##### § 16. Judgment Based Upon a Judgment That Is Subsequently Reversed
 
 ::: {.legalcode}
 
@@ -38,9 +38,9 @@ A judgment based on an earlier judgment is not nullified automatically by reason
 
 ## Claim Preclusion
 
-### Rest. (2d) of Judgments 
+#### Rest. (2d) of Judgments 
 
-#### § 17. Effects of Former Adjudication—General Rules
+##### § 17. Effects of Former Adjudication—General Rules
 
 ::: {.legalcode}
 
@@ -51,7 +51,7 @@ A valid and final personal judgment is conclusive between the parties, except on
 
 :::
 
-#### § 18. Judgment for Plaintiff—The General Rule of Merger
+##### § 18. Judgment for Plaintiff—The General Rule of Merger
 
 ::: {.legalcode}
 
@@ -62,7 +62,7 @@ When a valid and final personal judgment is rendered in favor of the plaintiff:
 
 :::
 
-#### § 19. Judgment for Defendant—The General Rule of Bar
+##### § 19. Judgment for Defendant—The General Rule of Bar
 
 ::: {.legalcode}
 
@@ -70,7 +70,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 :::
 
-#### § 20. Judgment for Defendant—Exceptions to the General Rule of Bar
+##### § 20. Judgment for Defendant—Exceptions to the General Rule of Bar
 
 ::: {.legalcode}
 
@@ -82,7 +82,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 :::
 
-#### § 21. Judgment for Defendant on His Counterclaim
+##### § 21. Judgment for Defendant on His Counterclaim
 
 ::: {.legalcode}
 
@@ -91,7 +91,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 :::
 
-#### § 22. Effect of Failure to Interpose Counterclaim
+##### § 22. Effect of Failure to Interpose Counterclaim
 
 ::: {.legalcode}
 
@@ -102,7 +102,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 :::
 
-#### § 23. Judgment for Plaintiff on Defendant’s Counterclaim
+##### § 23. Judgment for Plaintiff on Defendant’s Counterclaim
 
 ::: {.legalcode}
 
@@ -110,7 +110,7 @@ Where the defendant interposes a claim as a counterclaim and a valid and final j
 
 :::
 
-### Johnson v. Spencer (10th Circuit 2020) 
+#### @JohnsonSpencer_10thCircuit2020
 
 In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for which he was then incarcerated. In 2017, after his release, Mr. Johnson brought suit under 42 U.S.C. §1983 against the City of Cheyenne, Wyoming ("Cheyenne"), the Estate of Detective George Stanford ("the Estate"), and Officer Alan Spencer alleging that they were responsible for violations of his constitutional rights that contributed to his conviction ("2017 Action"). While incarcerated, however, Mr. Johnson had unsuccessfully brought similar suits against Cheyenne and Detective Stanford in 1991 ("1991 Action") and against Officer Spencer in 1992 ("1992 Action"). The central question on appeal is what effect the judgments against Mr. Johnson in his 1991 and 1992 Actions have on his 2017 Action.
 
@@ -148,7 +148,7 @@ About a month after the defendants answered his amended complaint, Mr. Johnson r
 
 At the beginning of the new evidentiary hearing, the magistrate judge denied the defendants' motions for summary judgment, which they had filed after the first evidentiary hearing, because there were genuine disputes of material fact. The magistrate judge indicated that he would be making the relevant findings of fact based on the evidence proffered at the hearing, and Mr. Johnson, again, did not object. The magistrate judge then conducted a bench trial and issued Findings of Fact and Recommendations, advising in the end "that Mr. Johnson's complaint be denied with prejudice." Mr. Johnson filed objections to the magistrate judge's report. The district court overruled his objections and adopted the magistrate judge's recommendations, dismissing Mr. Johnson's claims with prejudice.
 
-Mr. Johnson appealed, and a panel of our court entered an order and judgment affirming the district court's judgment.  
+Mr. Johnson appealed, and a panel of our court entered an order and judgment affirming the district court's judgment. 
 
 [The 1992 Action]{.casesubsection}
 
@@ -260,9 +260,9 @@ In sum, because it was not an adjudication on the merits, we conclude that the 1
 
 We acknowledge the terrible reality that Mr. Johnson must have faced during the twenty-four years that he was wrongly incarcerated. As the Supreme Court has stated, however, the doctrine of claim preclusion "serves vital public interests beyond any individual judge's ad hoc determination of the equities in a particular case." Thus, for the reasons we have provided, in the 2017 Action, we affirm the dismissal of the claims against the Estate and Cheyenne, but reverse the dismissal of the claims against Officer Spencer and remand for further proceedings consistent with this opinion. 
 
-### Rest. (2d) of Judgments 
+#### Rest. (2d) of Judgments 
 
-#### § 24. Dimensions of "Claim" for Purposes of Merger or Bar—General Rule Concerning "Splitting" 
+##### § 24. Dimensions of "Claim" for Purposes of Merger or Bar—General Rule Concerning "Splitting" 
 
 ::: {.legalcode}
 
@@ -273,7 +273,7 @@ The general rule of this Section is exemplified in §25, and is subject to the e
 
 :::
 
-#### § 25. Exemplifications of General Rule Concerning Splitting
+##### § 25. Exemplifications of General Rule Concerning Splitting
 
 ::: {.legalcode}
 
@@ -284,7 +284,7 @@ The rule of §24 applies to extinguish a claim by the plaintiff against the defe
 
 :::
 
-### Hernandez v. Asset Acceptance, LLC (D. Colorado 2013) 
+#### @HernandezAssetAcceptanceLLC_DColorado2013
 
 Ms. Hernandez claims that the Defendant, a debt collection agency, violated the Fair Debt Collection Practice Act (FDCPA), when it failed to communicate to Experian, a credit reporting agency that she disputed a debt she had incurred. Ms. Hernandez allegedly incurred a debt with Xcel Energy and defaulted on the debt. The account was transferred to the Defendant for collection. In May 2011, Ms. Hernandez reviewed a copy of her Experian credit report and saw the Defendant's entry for the Xcel account on the report. On May 5, 2011, she called the Defendant to dispute the account. In June, August, October, and November 2011, the Defendant allegedly failed to communicate to Experian that Ms. Hernandez's Xcel Energy account was disputed. Ms. Hernandez asserts that this "Complaint and Jury Demand only seeks relief for activity that occurred after August 7, 2011." She seeks statutory damages available under the FDCPA, as well as attorney fees and costs.
 
@@ -302,9 +302,9 @@ Finally, the Court sees no reason why Ms. Hernandez could not have moved to amen
 
 For the forgoing reasons, the Plaintiff's Objections are OVERRULED and the Recommendation is ADOPTED to the extent it recommends that the Plaintiff's claims be dismissed. The Defendant's Motion to Dismiss is GRANTED and the Plaintiff's claims in this case are DISMISSED in their entirety, with prejudice. The Clerk of the Court shall close this case.
 
-### Taylor v. Sturgell (U.S. 2008) 
+#### @TaylorSturgell_US2008
 
-#### Justice Ginsburg delivered the opinion of the Court.
+##### Justice Ginsburg delivered the opinion of the Court.
 
 "It is a principle of general application in Anglo-American jurisprudence that one is not bound by a judgment _in personam_ in a litigation in which he is not designated as a party or to which he has not been made a party by service of process." Several exceptions, recognized in this Court's decisions, temper this basic rule. In a class action, for example, a person not named as a party may be bound by a judgment on the merits of the action, if she was adequately represented by a party who actively participated in the litigation. In this case, we consider for the first time whether there is a "virtual representation" exception to the general rule against precluding nonparties. Adopted by a number of courts, including the courts below in the case now before us, the exception so styled is broader than any we have so far approved.
 
@@ -416,7 +416,7 @@ On remand, Fairchild suggests, Taylor should bear the burden of proving he is no
 
 We reject Fairchild's suggestion. Claim preclusion, like issue preclusion, is an affirmative defense. Ordinarily, it is incumbent on the defendant to plead and prove such a defense, and we have never recognized claim preclusion as an exception to that general rule. We acknowledge that direct evidence justifying nonparty preclusion is often in the hands of plaintiffs rather than defendants. In these situations, targeted interrogatories or deposition questions can reduce the information disparity. We see no greater cause here than in other matters of affirmative defense to disturb the traditional allocation of the proof burden.
 
-### Lee v. POW! Entertainment, Inc. (C.D. Cal. 2020) 
+#### @LeePOWEntertainmentInc_CDCal2020
 
 Defendant POW! Entertainment, Inc., ("POW") filed a motion to dismiss the amended complaint filed by Plaintiff Joan Celia Lee ("JC Lee"). POW argues that JC Lee's amended complaint is barred by the doctrines of res judicata, collateral estoppel, and statute of limitations. For the reasons discussed below, the Court GRANTS POW's Motion to Dismiss.
 
@@ -436,7 +436,7 @@ When Stan Lee died in November 2018, JC Lee, as his only heir and trustee of his
 
 [Prior Litigation]{.casesection}
 
-The 1998 Agreement between Stan Lee and SLMI has been the subject of numerous cases in federal courts throughout the country.  _See_  _Abadin v. Marvel Entm't, Inc.,_; _Lee v. Marvel Enters., Inc_.; _Stan Lee Media Inc. v. Lee_ ("SLM I"); _Stan Lee Media, Inc. v. Walt Disney Co._ ("SLM II"); _Disney Enters., Inc. v. Entm't Theatre Grp.
+The 1998 Agreement between Stan Lee and SLMI has been the subject of numerous cases in federal courts throughout the country. _See_ _Abadin v. Marvel Entm't, Inc.,_; _Lee v. Marvel Enters., Inc_.; _Stan Lee Media Inc. v. Lee_ ("SLM I"); _Stan Lee Media, Inc. v. Walt Disney Co._ ("SLM II"); _Disney Enters., Inc. v. Entm't Theatre Grp.
 
 Notably, in 2010, the Southern District of New York held that the 1998 Agreement was terminated by Stan Lee in 2001 per his correspondence with SLMI indicating that SLMI breached the salary and benefit provisions in the agreement. Furthermore, the court held that the statute of limitations to challenge the termination had lapsed by 2010, and that, even if not expressly terminated, the 1998 Agreement had expired in 2005 pursuant to California Labor Code section 2855a, which limits the duration of personal services contracts to seven years. 
 
@@ -460,9 +460,9 @@ Even where parties are in privity, the Court must consider whether the interests
 
 As POW has established all three factors, the Court finds that all claims in this matter are barred by res judicata. Accordingly, the Court grants the motion to dismiss. The Court dismisses with prejudice all claims in the FAC.
 
-### Rest. (2d) of Judgments 
+#### Rest. (2d) of Judgments 
 
-#### § 26. Exceptions to the General Rule Concerning Splitting
+##### § 26. Exceptions to the General Rule Concerning Splitting
 
 ::: {.legalcode}
 
@@ -476,7 +476,7 @@ As POW has established all three factors, the Court finds that all claims in thi
 
 :::
 
-### Passaro v. Virginia (4th Circuit 2019) 
+#### @PassaroVirginia_4thCircuit2019
 
 Antonio Passaro Jr. is a former Special Agent with the Virginia State Police. He claims that he faced unlawful discrimination based on his mental disability (post-traumatic stress disorder) and national origin (Italian-American). He also claims that he was unlawfully fired in retaliation for filing a complaint with the Equal Employment Opportunity Commission ("EEOC"). This conduct, he claims, violated the Americans with Disabilities Act of 1990 ("ADA") and Title VII of the Civil Rights Act of 1964 ("Title VII"). He has sued the Commonwealth of Virginia and the Virginia Department of State Police (together, "the Commonwealth"), seeking relief that includes compensatory damages, reinstatement, and back pay.
 
@@ -536,9 +536,9 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 ## Issue Preclusion
 
-### Rest. (2d) of Judgments 
+#### Rest. (2d) of Judgments 
 
-#### § 17. Effects of Former Adjudication—General Rules 
+##### § 17. Effects of Former Adjudication—General Rules 
 
 ::: {.legalcode}
 
@@ -548,7 +548,7 @@ A valid and final personal judgment is conclusive between the parties, except on
 
 :::
 
-#### § 27. Issue Preclusion—General Rule
+##### § 27. Issue Preclusion—General Rule
 
 ::: {.legalcode}
 
@@ -556,7 +556,7 @@ When an issue of fact or law is actually litigated and determined by a valid and
 
 :::
 
-#### § 28. Exceptions to the General Rule of Issue Preclusion
+##### § 28. Exceptions to the General Rule of Issue Preclusion
 
 ::: {.legalcode}
 
@@ -570,7 +570,7 @@ Although an issue is actually litigated and determined by a valid and final judg
 
 :::
 
-### National Satellite Sports, Inc. v. Eliadis, Inc. (6th Circuit 2001) 
+#### @NationalSatelliteSportsInc_6thCircuit2001
 
 On the night of December 14, 1996, the Melody Lane Lounge, a commercial bar located in Massillon, Ohio, showed the live broadcast of a boxing match between Riddick Bowe and Andrew Golota (the event). National Satellite Sports, Inc. (NSS) had obtained the exclusive right to broadcast the event to commercial establishments in Ohio. Time Warner Entertainment Company, L.P. had obtained the exclusive right to broadcast the event on a pay-per-view basis to its Ohio residential customers. The Melody Lane Lounge, erroneously listed as a residential customer of Time Warner, ordered the event through Time Warner's service.
 
@@ -615,7 +615,7 @@ In its motion before the court in _Coach's Corner,_ Time Warner argued that it w
 The district court granted Time Warner's motion for summary judgment in the _Coach's Corner_ case. In articulating its reasoning from the bench on July 13, 1998, the court held that NSS had failed to state a claim under _both_ the contracts at issue in that case _and_ under 47 U.S.C. §605. The pertinent parts of the _Coach's Corner_ ruling were as follows:
 
 > With regard to the ruling, NSS has failed to state a claim pursuant to the terms of the contracts at issue in this case as well as 47 United States Code Section 605.
->  
+> 
 > Paragraph 14(e) of the Television Licensing Agreement provides for the enforcement of unauthorized display of the closed circuit television feed. That also provides that Joe Hand Promotions the licensor of the event could not assert any piracy claim without prior notice.
 > 
 > The agreement provides that a sublicensee NSS has no rights to enforceability, quote, "It being understood that your sublicensee shall have no right to commence or settle any claim or litigation hereunder."
@@ -668,7 +668,7 @@ We believe that Time Warner has the more persuasive argument on this issue. Noth
 
 In sum, we agree with the district court that the second element ("necessary to the outcome") has not been met, but disagree that the fourth element ("full and fair opportunity to litigate") was lacking. But because all four elements must be satisfied before the prior opinion will be given preclusive effect, NSS is not bound by the decision in _Coach's Corner._ 
 
-### In re Nageleisen (E.D. Kentucky, Bankr. 2014) 
+#### @ReNageleisen_EDKentuckyBankr2014
 
 This matter is before the Court on the Bank of Kentucky's motion for judgment on the pleadings. In this adversary proceeding, the Bank of Kentucky (Plaintiff) seeks a declaratory judgment that two tracts of real property in which Debtor claims a one-half interest are not property of Debtor's estate, but property of a family partnership in which Debtor is a partner. Further, Plaintiff seeks a determination that a judgment debt, owed to Plaintiff on account of a default judgment finding that the Defendants engaged in a series of transactions to defraud the Bank, is non-dischargeable. For the reasons set forth below, the Motion will be denied.
 
@@ -752,7 +752,7 @@ The state court's judgment awarding damages for Debtor's fraudulent conveyance r
 
 Accordingly, the Court holds that the state court's finding of fraudulent intent was not necessary to the state court's judgment under Kentucky law, and that finding will not be given preclusive effect. As a result, it is unnecessary to consider whether other elements of Kentucky's test for issue preclusion are met. Plaintiff is not entitled to judgment on the pleadings on the question of willful and malicious injury, and therefore not entitled to judgment on the pleadings on the nondischargeability count of its complaint.
 
-### Janjua v. Neufeld (9th Circuit 2019) 
+#### @JanjuaNeufeld_9thCircuit2019
 
 In this case we address, as a matter of first impression in our Circuit, the standard for determining whether an issue was "actually litigated" in a previous adjudication for purposes of issue preclusion, also known as collateral estoppel. We hold that an issue was actually litigated only if it was raised, contested, and submitted for determination in the prior adjudication.
 
@@ -806,9 +806,9 @@ To be sure, Janjua's membership in and work for the MQM were discussed at length
 
 Janjua's reliance on _Paulo v. Holder,_ 669 F.3d 911 (9th Cir. 2011), is misplaced. There, the petitioner's eligibility for INA §212(c) relief from removal was raised, contested, and submitted for determination in the first proceeding; in the second, the government advanced a new _argument_ as to why he was ineligible. Issue preclusion applied because "the fact that a particular _argument_ against Paulo's eligibility was not made by the government and not addressed by the district court does not mean that the _issue_ of Paulo's eligibility for §212(c) relief was not decided." Here, however, the government's challenge to Janjua's admissibility in the adjustment of status proceeding is not merely a new _argument;_ rather, the _issue_ of terrorism-related inadmissibility was never disputed in the asylum proceeding. Thus, it was not actually litigated and issue preclusion cannot apply.
 
-### Rest. (2d) of Judgments 
+#### Rest. (2d) of Judgments 
 
-#### § 29. Issue Preclusion in Subsequent Litigation with Others 
+##### § 29. Issue Preclusion in Subsequent Litigation with Others 
 
 ::: {.legalcode}
 
@@ -825,9 +825,9 @@ A party precluded from relitigating an issue with an opposing party, in accordan
 
 :::
 
-### Parklane Hosiery Co. v. Shore (U.S. 1978) 
+#### @ParklaneHosieryCoShore_US1978
 
-#### Justice Stewart delivered the opinion of the Court.
+##### Justice Stewart delivered the opinion of the Court.
 
 This case presents the question whether a party who has had issues of fact adjudicated adversely to it in an equitable action may be collaterally estopped from relitigating the same issues before a jury in a subsequent legal action brought against it by a new party.
 
@@ -847,7 +847,7 @@ Collateral estoppel, like the related doctrine of res judicata,[^Parklane5] has 
 
 [^Parklane5]: (n.5 in Opinion) Under the doctrine of res judicata, a judgment on the merits in a prior suit bars a second suit involving the same parties or their privies based on the same cause of action. Under the doctrine of collateral estoppel, on the other hand, the second action is upon a different cause of action and the judgment in the prior suit precludes relitigation of issues actually litigated and necessary to the outcome of the first action.
 
-[^Parklane7]:  (n. 7 in Opinion) It is a violation of due process for a judgment to be binding on a litigant who was not a party or a privy and therefore has never has an opportunity to be heard.
+[^Parklane7]: (n. 7 in Opinion) It is a violation of due process for a judgment to be binding on a litigant who was not a party or a privy and therefore has never has an opportunity to be heard.
 
 By failing to recognize the obvious difference in position between a party who has never litigated an issue and one who has fully litigated and lost, the mutuality requirement was criticized almost from its inception. Recognizing the validity of this criticism, the Court in _Blonder-Tongue Laboratories, Inc. v. University of Illinois Foundation_ abandoned the mutuality requirement, at least in cases where a patentee seeks to relitigate the validity of a patent after a federal court in a previous lawsuit has already declared it invalid. The "broader question" before the Court, however, was "whether it is any longer tenable to afford a litigant more than one full and fair opportunity for judicial resolution of the same issue." The Court strongly suggested a negative answer to that question:
 
@@ -859,7 +859,7 @@ First, offensive use of collateral estoppel does not promote judicial economy in
 
 A second argument against offensive use of collateral estoppel is that it may be unfair to a defendant. If a defendant in the first action is sued for small or nominal damages, he may have little incentive to defend vigorously, particularly if future suits are not foreseeable. Allowing offensive collateral estoppel may also be unfair to a defendant if the judgment relied upon as a basis for the estoppel is itself inconsistent with one or more previous judgments in favor of the defendant.[^Parklane14] Still another situation where it might be unfair to apply offensive estoppel is where the second action affords the defendant procedural opportunities unavailable in the first action that could readily cause a different result.[^Parklane15] 
 
-[^Parklane14]:  (n. 14 in Opinion) In Professor Currie's familiar example, a railroad collision injures 50 passengers all of whom bring separate actions against the railroad. After the railroad wins the first 25 suits, a plaintiff wins in suit 26. Professor Currie argues that offensive use of collateral estoppel should not be applied so as to allow plaintiffs 27 through 50 automatically to recover.
+[^Parklane14]: (n. 14 in Opinion) In Professor Currie's familiar example, a railroad collision injures 50 passengers all of whom bring separate actions against the railroad. After the railroad wins the first 25 suits, a plaintiff wins in suit 26. Professor Currie argues that offensive use of collateral estoppel should not be applied so as to allow plaintiffs 27 through 50 automatically to recover.
 
 [^Parklane15]: (n.15 in Opinion) If, for example, the defendant in the first action was forced to defend in an inconvenient forum and therefore was unable to engage in full scale discovery or call witnesses, application of offensive collateral estoppel may be unwarranted. Indeed, differences in available procedures may sometimes justify not allowing a prior judgment to have estoppel effect in a subsequent action even between the same parties, or where defensive estoppel is asserted against a plaintiff who has litigated and lost. The problem of unfairness is particularly acute in cases of offensive estoppel, however, because the defendant against whom estoppel is asserted typically will not have chosen the forum in the first action.
 
@@ -871,7 +871,7 @@ We conclude, therefore, that none of the considerations that would justify a ref
 
 ## Review Questions 
 
-### Question 1
+#### Question 1
 
 Peggy is fired from her job at the Sterling Cooper advertising agency (located in the State of Hudson). Her boss, Don told her the reason for her firing was poor performance, but Peggy believes the real reason was her refusal to have an affair with Don, who made repeated and unwelcome advances.
 
@@ -881,7 +881,7 @@ Peggy then brings another suit, this time in Hudson federal court, against both 
 
 _Does claim preclusion apply to the claim against Sterling Cooper? To the claim against Don?_
 
-### Question 2
+#### Question 2
 
 Sterling Cooper recently gained a new client, Elke Corp., which manufactures a line of gardening and lawn care equipment. To celebrate, the agency holds an office party, at which several employees, including Ken and Lois, consume excessive quantities of liquor. Ken urges Lois to take an Elke riding lawn mower for a spin around the office. Lois passes out and loses control of the mower, driving it into another Sterling Cooper employee, Guy, whose foot is shredded into mulch-sized bits by the mower’s blades. Trudy, a guest at the party, is splattered with blood and bits of flesh from Guy’s foot, and is terribly distraught. The mower finally comes to a stop when it collides into a wall. Lois is thrown from the mower, breaking her leg in the fall. 
 
