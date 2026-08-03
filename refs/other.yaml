@@ -8,7 +8,7 @@ references:
   ISBN: 978-1-59839-262-3
   issued:
     - year: 2015
-  language: English
+  language: en
   number-of-pages: '240'
   publisher: Thomson Reuters
   publisher-place: Houston, TX
@@ -22,7 +22,7 @@ references:
       given: William R
   citation-key: Casto1987
   container-title: Tul. L. Rev.
-  container-title-short: Tul. L. Rev.
+  container-title-short: Tul Rev
   issued:
     - year: 1987
   page: '907'
@@ -41,7 +41,7 @@ references:
   ISBN: 978-0-14-143972-3
   issued:
     - year: 2003
-  language: English
+  language: en
   number-of-pages: '1036'
   publisher: Penguin Classics
   publisher-place: London New York
@@ -59,6 +59,7 @@ references:
       given: Austin
   citation-key: Felstiner1980
   container-title: Law & Society Review
+  container-title-short: Law Soc. Rev.
   issued:
     - year: 1980
   page: '631'
@@ -74,7 +75,7 @@ references:
       given: Brian L
   citation-key: Frye2018
   container-title: Akron L. Rev.
-  container-title-short: Akron L. Rev.
+  container-title-short: Akron Rev
   issued:
     - year: 2018
   page: '531'
@@ -161,7 +162,7 @@ references:
   ISBN: 978-0-226-45812-0
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '264'
   publisher: University of Chicago Press
   publisher-place: Chicago ; London
@@ -181,11 +182,11 @@ references:
       given: William P.
   citation-key: LaPiana1986
   container-title: Suffolk University Law Review
-  container-title-short: Suffolk U. L. Rev.
+  container-title-short: Suffolk Univ. Law Rev.
   issue: '4'
   issued:
     - year: 1986
-  language: eng
+  language: en
   page: 771–832
   source: HeinOnline
   title: >-
@@ -202,7 +203,7 @@ references:
       given: David
   citation-key: Marcus2009
   container-title: Ga. L. Rev.
-  container-title-short: Ga. L. Rev.
+  container-title-short: Ga Rev
   issued:
     - year: 2009
   page: '433'
@@ -220,6 +221,7 @@ references:
       given: Jack
   citation-key: Metzler2017
   container-title: The Journal of Appellate Practice and Process
+  container-title-short: J. Appell. Pract. Process
   issue: '2'
   issued:
     - year: 2017
@@ -238,6 +240,7 @@ references:
       given: Wendy
   citation-key: Perdue1987
   container-title: Washington Law Review
+  container-title-short: Wash. Law Rev.
   issue: '3'
   issued:
     - year: 1987
@@ -259,6 +262,7 @@ references:
       given: Wendy
   citation-key: Perdue2024
   container-title: University of Pittsburgh Law Review
+  container-title-short: Univ. Pittsburgh Law Rev.
   issued:
     - year: 2024
       month: 1
@@ -281,6 +285,7 @@ references:
       given: George
   citation-key: Rutherglen2001
   container-title: The Supreme Court Review
+  container-title-short: Supreme Court Rev.
   DOI: 10.1086/scr.2001.3109692
   ISSN: 0081-9557
   issued:
@@ -304,12 +309,12 @@ references:
       given: Logan Everett
   citation-key: Sawyer2001
   container-title: George Mason Law Review
-  container-title-short: Geo. Mason L. Rev.
+  container-title-short: George Mason Law Rev.
   issue: '1'
   issued:
     - year: 2001
     - year: 2002
-  language: eng
+  language: en
   page: 59–96
   source: HeinOnline
   title: >-
@@ -326,6 +331,7 @@ references:
       given: Alfred B.
   citation-key: Teton1940
   container-title: Illinois Law Review
+  container-title-short: Ill. Law Rev.
   issued:
     - year: 1940
   page: '519'
@@ -355,6 +361,7 @@ references:
       given: Charles
   citation-key: Warren1923
   container-title: Harvard Law Review
+  container-title-short: Harv. Law Rev.
   DOI: 10.2307/1328407
   ISSN: 0017811X
   issue: '1'

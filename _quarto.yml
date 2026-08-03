@@ -80,6 +80,15 @@ book:
         - 04-Appendix/sample-multiple-choice.qmd
     - links.qmd
 
+filters:
+  - citetools
+bibliography_cases: refs/cases.yaml
+bibliography_statutes: refs/statutes.yaml
+bibliography_other: refs/other.yaml
+csl: refs/casebook.csl
+nocite: |
+  @*
+
 format:
   html:
     theme:
@@ -88,10 +97,10 @@ format:
     css: styles.css
     title-block-style: none
     reference-location: margin
-    citation-location: margin
+    citation-location: document
     toc: true
     number-sections: true
-    number-depth: 2
+    number-depth: 3
     toc-location: left
     toc-depth: 4
     callout-icon: false

@@ -50,9 +50,9 @@ This course is intended to prepare you for legal practice by developing the know
 
 ### Required
 
-Civil Procedure: An Open-Source Casebook (v.4.1 2025). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/CivPro/)]{.mono-font}.
+Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/CivPro/)]{.mono-font}.
 
-[Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 325-138-0701. 
+[Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 123-456-7890. 
 
 ### Suggested
 
@@ -151,6 +151,9 @@ _Click & Learn_: Unit 1
 
 - General Jurisdiction, Consent, & Long-Arm Statutes, _Casebook_: §§ 3.3-3.5
 
+#### Friday, October 2
+
+- Personal Jurisdiction Review
 
 ### 4\. Subject Matter Jurisdiction
 
@@ -158,17 +161,21 @@ _Clermont:_ chap. 4: § 4.1
 
 _Click & Learn_: Unit 3 
 
-#### Friday, October 2
+#### Monday, October 5 
 
 - Federal Question Jurisdiction, _Casebook_: § 4.1 
 
-#### Wednesday, Monday, October 5 & Wednesday, October 7
+#### Wednesday, October 7 & Friday, October 9 
 
 - Diversity Jurisdiction, _Casebook_: § 4.2 
 
-#### Monday, Friday, October 9 & Monday, October 12 
+#### Monday, October 12 & Wednesday, October 14
 
 - Supplemental Jurisdiction, _Casebook_: §§ 4.3
+
+#### Monday, October 19
+
+- Subject Matter Jurisdiction Review
 
 ### 5\. Choice of Governing Law
 
@@ -180,15 +187,19 @@ _Click & Learn_: Unit 9
 
 - Rules of Decision Act & Erie, _Casebook_: § 5.1 
 
-#### Monday, October 26 & Wednesday, October 28
+#### Monday, October 26
 
 - Rules Enabling Act & Hanna, _Casebook_: § 5.2 & 5.3 
+
+#### Wednesday, October 28
+
+- Choice of Governing Law Review
 
 ### 6\. Pleading
 
 _Clermont:_ chap. 2: § 2.2(A) 
 
-_Click & Learn_: Unit 5 
+_Click & Learn_: Unit 5, parts ??
 
 #### Friday, October 30
 
@@ -198,27 +209,35 @@ _Click & Learn_: Unit 5
 
 - Assessing the Sufficiency of a Claim, _Casebook_: §§ 6.2
 
-#### Friday, November 6 & Monday, November 9
+#### Friday, November 6
 
 - Answers & Defenses; Amended Pleadings _Casebook_: §§ 6.3, 6.4
 
-#### Wednesday, November 11 & Friday, November 13
+#### Monday, November 9
 
 - Truthfulness and Good Faith, _Casebook_: § 6.5 
+
+#### Wednesday, November 11 
+
+- Pleading Review
 
 ### 7\. Preclusion
 
 _Clermont:_ chap. 5 
 
-_Click & Learn_: Unit 10 (part 1 only) 
+_Click & Learn_: Unit 10, part 1 only
 
-#### November 11 & 13
+#### Friday, November 13
 
 - General Principles & Claim Preclusion, _Casebook_: §§ 7.1 & 7.2 
 
-#### Monday, November 16 & Wednesday, November 18
+#### Monday, November 16
 
 - Issue Preclusion, _Casebook_: § 7.3 
+
+#### Wednesday, November 18
+
+- Preclusion Review
 
 ### 8\. Summary Judgment
 
@@ -232,9 +251,9 @@ _Click & Learn_: Unit 8 (part 1: sec. III only)
 
 ---
 
-**December 5:** Final Review
+**Date TBA** Final Review
 
-**Dec. 8:** Final Exam
+**Date TBA** Final Exam
 
 [^syllabus3]: Relevant portions of the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to provide context for the assigned reading.
 

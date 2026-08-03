@@ -1,36 +1,140 @@
 ---
 references:
-- id: DiversityCitizenship_nd
-  accessed:
-    - year: 2025
-      month: 11
-      day: 24
-  citation-key: DiversityCitizenship_nd
+- id: '@1652RDA'
+  citation-key: '@1652RDA'
   container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1652'
+  title: State Law as Rules of Decision
+  type: legislation
+  volume: '28'
+
+- id: 1331FederalQuestion
+  citation-key: 1331FederalQuestion
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1331'
+  title: Federal Question
+  type: legislation
+  volume: '28'
+
+- id: 1332DiversityCitizenship
+  citation-key: 1332DiversityCitizenship
+  container-title: U.S.C.
+  container-title-short: U.S.C.
   language: en
   section: '1332'
   title: Diversity of Citizenship
   type: legislation
   volume: '28'
 
-- id: FederalQuestion_nd
-  citation-key: FederalQuestion_nd
+- id: 1367SupplementalJurisdiction
+  citation-key: 1367SupplementalJurisdiction
   container-title: U.S.C.
-  section: '1331'
-  title: Federal Question
-  type: legislation
-  volume: '28'
-
-- id: SupplementalJurisdiction_nd
-  accessed:
-    - year: 2025
-      month: 11
-      day: 24
-  citation-key: SupplementalJurisdiction_nd
-  container-title: U.S.C.
+  container-title-short: U.S.C.
   language: en
   section: '1367'
   title: Supplemental Jurisdiction
   type: legislation
   volume: '28'
+
+- id: 1441Removal
+  citation-key: 1441Removal
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1441'
+  title: Removal of Civil Actions
+  type: legislation
+  volume: '28'
+
+- id: 1445NonremovableActions
+  citation-key: 1445NonremovableActions
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1445'
+  title: Nonremovable Actions
+  type: legislation
+  volume: '28'
+
+- id: 1446ProcedureForRemoval
+  citation-key: 1446ProcedureForRemoval
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1446'
+  title: Procedure for Removal
+  type: legislation
+  volume: '28'
+
+- id: 1447ProcedureAfterRemoval_nd
+  citation-key: 1447ProcedureAfterRemoval_nd
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1447'
+  title: Procedure After Removal
+  type: legislation
+  volume: '28'
+
+- id: 2071RuleMakingPower
+  citation-key: 2071RuleMakingPower
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2071'
+  title: Rule-making power generally
+  type: legislation
+  volume: '28'
+
+- id: 2072RulesOfProcedure
+  citation-key: 2072RulesOfProcedure
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2072'
+  title: Rules of procedure and evidence; power to prescribe
+  type: legislation
+  volume: '28'
+
+- id: 2073MethodOfProscribing
+  citation-key: 2073MethodOfProscribing
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2073'
+  title: Rules of procedure and evidence; method of proscribing
+  type: legislation
+  volume: '28'
+
+- id: CaliforniaLongArm
+  citation-key: CaliforniaLongArm
+  container-title: Cal. Code Civ. Proc.
+  section: '410.10'
+  title: Jurisdiction Exerciseable
+  type: legislation
+
+- id: NYLongArm
+  citation-key: NYLongArm
+  container-title: NY CPLR
+  section: '302'
+  title: Personal Jurisdiction by Act of Non-Domiciliaries
+  type: legislation
+
+- id: USConstitutionAmendment14
+  citation-key: USConstitutionAmendment14
+  title: U.S. Constitution, Amendment XIV
+  type: legislation
+
+- id: USConstitutionAmendment5
+  citation-key: USConstitutionAmendment5
+  title: U.S. Constitution, Amendment V
+  type: legislation
+
+- id: USConstitutionArticle3
+  citation-key: USConstitutionArticle3
+  title: U.S. Constitution, Article III
+  type: legislation
 ...

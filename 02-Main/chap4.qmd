@@ -1,12 +1,10 @@
 # Subject Matter Jurisdiction
 
-The subject matter jurisdiction of the federal courts is governed by the Constitution (which defines the permissible extent of jurisdiction) and statutes (which authorize the exercise of some, but not all, of the jurisdiction permitted under the Constitution). A plaintiff may file a suit in federal court only if there is federal subject matter jurisdiction over each claim asserted. 
+The subject matter jurisdiction of the federal courts is governed by the Constitution (which defines the permissible extent of jurisdiction) and statutes (which authorize the exercise of some, but not all, of the jurisdiction permitted under the Constitution). Except for certain matters over which federal jurisdiction is exclusive,[^exclusive_jurisdiction] state courts generally have concurrent jurisdiction, giving plaintiffs a choice of forum. If a plaintiff opts to sue in state court, the defendant may (provided federal subject matter jurisdiction and other conditions are satisfied) override that choice by removing the action to federal court. The conditions and procedures for removal are governed by federal statute. 28 U.S.C. §§ 1441 et seq.[^removal]
 
-State courts generally concurrent jurisdiction over claims that satisfy federal subject matter jurisdiction, including most claims arising under federal law.[^smj1] Plaintiffs may bring suits asserting such claims in state court, even though a federal court would also have subject matter jurisdiction over the action. In such cases, the defendant may be able to remove the suit to federal court. The conditions and procedures for removal are governed by federal statute. 28 U.S.C. §§ 1441 et seq.[^smj2]
+[^exclusive_jurisdiction]: Notable examples of exclusive federal jurisdiction include suits between states, suits involving ambassadors or other high public officials, suits in admiralty (the body of law governing maritime claims), and claims arising under federal bankruptcy, intellectual property (patents, copyrights, & trademarks), antitrust, securities, and labor-management relations laws. Sometimes, as with antitrust and trademarks, state law may also provide an additional or alternative cause of action. In a few areas, such as patents and labor-management relations, federal law completely preempts any claims under state law. 
 
-[^smj1]: There are a few exceptions, where federal courts have exclusive jurisdiction. Notable examples include claims arising under federal bankruptcy, intellectual property (patents, copyrights, & trademarks), antitrust, securities and banking regulation, and labor-management relations statutes. Federal courts also have exclusive jurisdiction over suits between states, suits involving ambassadors or other high public officials, and suits in admiralty (the body of law governing maritime claims). If a suit in state court asserts any of these claims, they should be dismissed for lack of subject matter jurisdiction. 
-
-[^smj2]: Removal is a one-way street. If a plaintiff files a suit in federal court, the defendant may not "remove" or "remand" the case to state court. The only option is to move for dismissal for lack of federal subject matter jurisdiction under Fed. R. Civ. P. Rule 12(b)(1). Such dismissals are usually "without prejudice", meaning the plaintiff may refile the suit in state court. If federal subject matter jurisdiction is satisfied, the case remains in federal court.
+[^removal]: Removal is a one-way street. If a plaintiff files a suit in federal court, the defendant may not "remove" or "remand" the case to state court. The only option is to move for dismissal for lack of federal subject matter jurisdiction under Fed. R. Civ. P. Rule 12(b)(1). Such dismissals are usually "without prejudice", meaning the plaintiff may refile the suit in state court. If federal subject matter jurisdiction is satisfied, the case remains in federal court.
 
 ## Federal Question Jurisdiction
 
@@ -26,7 +24,9 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 :::
 
-###  Louisville & Nashville R. Co. v. Mottley (U.S. 1908) 
+
+
+### @LouisvilleNashvilleCoMottley_US1908
 
 ####  Statement by Justice Moody
 
