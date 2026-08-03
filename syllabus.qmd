@@ -91,7 +91,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ## Schedule & Assignments {.unnumbered}
 
-(_Note:_ This class will not meet on Sept. 24 and Oct. 10)
+_Note:_ This class will not meet on Sept. 7, Sept.21, and Oct. 16. 
 
 ### 1\. Foundations of Civil Procedure
 
@@ -99,7 +99,7 @@ _Clermont:_ chap. 1 & 2[^syllabus3]
 
 _Click & Learn_: Basic Skills & Fundamentals
 
-#### September 3
+#### Monday, August 31
 
 - At the Threshold; Civil Litigation in Federal Court, _Casebook_ §§ 1.1 & 1.2
 
@@ -109,25 +109,29 @@ _Clermont:_ chap. 6
 
 _Click & Learn_: Unit 6 
 
-#### September 5 & 8
+#### Wednesday, September 2 
 
 - Permissive Joinder of Claims & Parties, _Casebook_: §§ 2.1 & 2.2 
 
-#### September 10 & 12
+#### Friday, September 4 
 
 - Counterclaims, _Casebook_: § 2.3 
 
-#### September 15
+#### Wednesday, September 9 
 
 - Crossclaims, _Casebook_: § 2.4 
 
-#### September 17 & 19
+#### Friday, September 11
 
 - Third-Party Defendants & Claims, _Casebook_: § 2.5 
 
-#### September 22
+####  Monday, September 14 
 
 - Required Parties, _Casebook_: chap. 2: § 2.6 
+
+#### Wednesday, September 16 
+
+- Joinder Review
 
 ### 3\. Personal Jurisdiction
 
@@ -135,17 +139,18 @@ _Clermont:_ chap. 4: §§ 4.2-4.4
 
 _Click & Learn_: Unit 1 
 
-#### September 26
+#### Friday, September 18 & Wednesday, September 23
 
-- Due Process and State Power, _Casebook_: § 3.1 
+- Constitutional Limits: Due Process, _Casebook_: § 3.1 
 
-#### September 29 & Oct. 1
+#### Friday, September 25 & Monday, September 28
 
 - Specific Jurisdiction, _Casebook_: § 3.2 
 
-#### October 3
+#### Wednesday, September 30
 
 - General Jurisdiction, Consent, & Long-Arm Statutes, _Casebook_: §§ 3.3-3.5
+
 
 ### 4\. Subject Matter Jurisdiction
 
@@ -153,21 +158,17 @@ _Clermont:_ chap. 4: § 4.1
 
 _Click & Learn_: Unit 3 
 
-#### October 6
+#### Friday, October 2
 
 - Federal Question Jurisdiction, _Casebook_: § 4.1 
 
-#### October 8 & 13
+#### Wednesday, Monday, October 5 & Wednesday, October 7
 
 - Diversity Jurisdiction, _Casebook_: § 4.2 
 
-#### October 15 & 17
+#### Monday, Friday, October 9 & Monday, October 12 
 
-- Supplemental Jurisdiction, _Casebook_: § 4.3 
-
-#### October 20
-
-- Removal, _Casebook_: § 4.4 
+- Supplemental Jurisdiction, _Casebook_: §§ 4.3
 
 ### 5\. Choice of Governing Law
 
@@ -175,11 +176,11 @@ _Clermont:_ chap. 3
 
 _Click & Learn_: Unit 9 
 
-#### October 22 & 24
+#### Wednesday, October 21 & Friday, October 23
 
 - Rules of Decision Act & Erie, _Casebook_: § 5.1 
 
-#### October 27 & 29
+#### Monday, October 26 & Wednesday, October 28
 
 - Rules Enabling Act & Hanna, _Casebook_: § 5.2 & 5.3 
 
@@ -189,23 +190,19 @@ _Clermont:_ chap. 2: § 2.2(A)
 
 _Click & Learn_: Unit 5 
 
-#### October 31
+#### Friday, October 30
 
 - Pleading Under the FRCP, _Casebook_: §§ 6.1
 
-#### November 3 & 5
+#### Monday, November 2 & Wednesday, November 4
 
-- Claims for Relief, _Casebook_: §§ 6.2
+- Assessing the Sufficiency of a Claim, _Casebook_: §§ 6.2
 
-#### November 7
+#### Friday, November 6 & Monday, November 9
 
-- Responsive Pleading, _Casebook_: § 6.3 
+- Answers & Defenses; Amended Pleadings _Casebook_: §§ 6.3, 6.4
 
-#### November 10
-
-- Amended Pleadings, _Casebook_: § 6.4 
-
-#### November 12
+#### Wednesday, November 11 & Friday, November 13
 
 - Truthfulness and Good Faith, _Casebook_: § 6.5 
 
@@ -215,11 +212,11 @@ _Clermont:_ chap. 5
 
 _Click & Learn_: Unit 10 (part 1 only) 
 
-#### November 14 & 17
+#### November 11 & 13
 
 - General Principles & Claim Preclusion, _Casebook_: §§ 7.1 & 7.2 
 
-#### November 19 & 21
+#### Monday, November 16 & Wednesday, November 18
 
 - Issue Preclusion, _Casebook_: § 7.3 
 
@@ -229,7 +226,7 @@ _Clermont:_ chap. 2: § 2.2
 
 _Click & Learn_: Unit 8 (part 1: sec. III only) 
 
-#### November 24
+#### Friday, November 20
 
 - Standard & Burden of Production, _Casebook_: §§ 8.1 & 8.2 
 
