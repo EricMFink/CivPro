@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.2" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
     <title>Casebook Bibliography</title>
 	<id>https://emfink.net/Zotero/CSL-styles/indig-casebook.csl</id>
@@ -12,7 +12,7 @@
     <category citation-format="in-text"/>
     <category field="law"/>
     <summary>Reference style for casebooks, with inline short cites (case_name-date; author-title-date) and bibliography. Based on Bluebook Law Review and Chicago author-date</summary>
-    <updated>2025-08-12T09:50:55-04:00</updated>
+    <updated>2026-08-04T06:15:27-0400-04:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
@@ -140,10 +140,10 @@
       </else-if>
       <else-if type="legislation">
 	  	<group delimiter=" ">
-        	<text variable="title" suffix=", "/>
 			<text variable="volume"/>
         	<text variable="container-title"/>
         	<text variable="section" prefix="§ "/>
+        	<text variable="title" prefix=" &amp;#x2013; "/>
 		</group>
 	  </else-if>
       <else-if type="hearing">
