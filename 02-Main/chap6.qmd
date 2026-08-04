@@ -145,7 +145,7 @@ Each page of plaintiff's complaint appears on an e-filing which is dominated by 
 
 ![Doe v. Clinton County Complaint](../img/DragonComplaint.jpg){ width=66% }
 
-#### @SmithSafemarineCorp_MDLouisiana2024
+#### @SmithSafemarineCorp_MDLa2024
 
 **Summary of the Facts.** _Plaintiff sued multiple defendants—including Archer Daniels Midland Company ("ADM"), ARTCO Stevedoring ("ARTCO"), Riverside Shipping ("Riverside"), and Phoenix Bulk Carriers ("Phoenix Bulk")—in connection with injuries he sustained while working aboard a container ship called the M/V Eva Paris. Defendants filed motions for a more definite statement under Rule 12(e), contending that the complaint contained insufficient factual detail regarding each defendants' role in the accident and the basis for liability._
 
@@ -311,7 +311,7 @@ All of that means PLCAA prevents Mexico's suit from going forward. The kinds of 
 
 And that conclusion, we note, well accords with PLCAA's core purpose. Recall that Congress enacted the statute to halt a flurry of lawsuits attempting to make gun manufacturers pay for the downstream harms resulting from misuse of their products. In a "findings" and "purposes" section, Congress explained that PLCAA was meant to stop those suits—to prevent manufacturers (and sellers) from being held "liable for the harm caused by those who criminally or unlawfully misuse firearms." Mexico's suit closely resembles the ones Congress had in mind: It seeks to recover from American firearms manufacturers for the downstream damage Mexican cartel members wreak with their guns. Of course, the law Congress wrote includes the predicate exception, which allows some suits falling within PLCAA's general ban to proceed. But that exception, if Mexico's suit fell within it, would swallow most of the rule. We doubt Congress intended to draft such a capacious way out of PLCAA, and in fact it did not. The predicate exception allows for accomplice liability only when a plaintiff makes a plausible allegation that a gun manufacturer "participated in" a firearms violation "as in something that it wished to bring about" and sought to make succeed. Because Mexico's complaint fails to do so, the defendant manufacturers retain their PLCAA-granted immunity.
 
-#### @WilliamsMitchell_4thCircuit2024
+#### @WilliamsMitchell_4thCir2024
 
 This case, now before us after the district court's grant of motions to dismiss based on the insufficiency of the pleadings, involves a series of interactions between Plaintiff Brandon Williams and Norfolk, Virginia, police officers. Officer John D. McClanahan first falsely charged Williams with misdemeanor trespassing. He then perjured himself at trial to obtain a conviction. On appeal, Williams exposed McClanahan's perjury through a recording he had taken of the incident, and the state appellate court ordered the charge dismissed. Two weeks later, Norfolk police officers, including McClanahan, responded to an accident in which Williams had been hit by a speeding drunk driver. They recognized him immediately as "the guy that gave McClanahan a ration of shit." The officers allegedly falsified information on the accident report with the intent of depriving Williams of his property right to sue the other driver.
 
@@ -527,7 +527,7 @@ Under the Federal Rules, parties may amend their pleadings to add or omit claims
 
 :::
 
-#### @HunterEarthgrainsCoBakery_4thCircuit2001
+#### @HunterEarthgrainsCoBakery_4thCir2001
 
 By Order of October 23, 2000, appellant Pamela A\. Hunter, a practicing attorney in Charlotte, North Carolina, and an active member of the North Carolina State Bar, was suspended from practice in the Western District of North Carolina for five years. Ms. Hunter appeals this suspension, imposed upon her pursuant to Rule 11 of the Federal Rules of Civil Procedure. As explained below, we conclude that her appeal has merit, and we vacate her suspension from practice by the district court.
 

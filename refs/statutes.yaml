@@ -89,8 +89,8 @@ references:
   type: legislation
   volume: '28'
 
-- id: 2072RulesOfProcedure
-  citation-key: 2072RulesOfProcedure
+- id: 2072RulesofProcedure
+  citation-key: 2072RulesofProcedure
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
@@ -99,8 +99,8 @@ references:
   type: legislation
   volume: '28'
 
-- id: 2073MethodOfProscribing
-  citation-key: 2073MethodOfProscribing
+- id: 2073MethodofProscribing
+  citation-key: 2073MethodofProscribing
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
@@ -109,8 +109,8 @@ references:
   type: legislation
   volume: '28'
 
-- id: 2074RulesProcedureEvidence
-  citation-key: 2074RulesProcedureEvidence
+- id: 2074SubmissiontoCongress
+  citation-key: 2074SubmissiontoCongress
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en

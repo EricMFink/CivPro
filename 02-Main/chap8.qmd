@@ -32,7 +32,7 @@
 
 Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinely disputed must support the assertion by citing to particular parts of materials in the record" or "showing that the materials cited do not establish the absence or presence of a genuine dispute, or that an adverse party cannot produce admissible evidence to support the fact." The "materials in the record" are produced in the discovery process, governed by FRCP Rules 26-32. 
 
-[Rule 26](https://www.law.cornell.edu/rules/frcp/rule_26) sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
+Rule 26 sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
 
 ##### Rule 26(a)
 
@@ -56,11 +56,11 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 The parties may seek further information through various discovery methods: 
 
-- _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination ([Rule 30](https://www.law.cornell.edu/rules/frcp/rule_30)) or written questions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_31)); deposition testimony may be admitted in court under certain conditions ([Rule 31](https://www.law.cornell.edu/rules/frcp/rule_32));
-- _Interrogatories_: written questions directed to a party ([Rule 33](https://www.law.cornell.edu/rules/frcp/rule_33));
-- _Requests for production of documents or things_ ([Rule 34](https://www.law.cornell.edu/rules/frcp/rule_34));
-- _Physical and mental examinations of a party_ ([Rule 35](https://www.law.cornell.edu/rules/frcp/rule_35)); 
-- _Requests for admission_ ([Rule 36](https://www.law.cornell.edu/rules/frcp/rule_36)).
+- _Depositions_: recorded testimony of parties and other potential witnesses, either by oral examination (Rule 30) or written questions (Rule 31); deposition testimony may be admitted in court under certain conditions (Rule 31);
+- _Interrogatories_: written questions directed to a party (Rule 33);
+- _Requests for production of documents or things_ (Rule 34);
+- _Physical and mental examinations of a party_ (Rule 35); 
+- _Requests for admission_ (Rule 36).
 
 Rule 26(b)(1) defines the scope of discovery: 
 
@@ -72,7 +72,7 @@ Rule 26(b)(1) defines the scope of discovery:
 
 Rule 26(b) also sets certain limits on discovery, including "information ... subject to a claim of privilege or of protection as trial-preparation material". Rule 26(d) governs the timing and sequence of requests. 
 
-The court may impose sanctions on parties for failure to make required disclosures or cooperate in the discovery process. [Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37)
+Rule 37 authorizes the court to impose sanctions on parties for failure to make required disclosures or cooperate in the discovery process. 
 
 In addition to the materials produced in discovery, the record may also include stipulations by the parties, i.e. agreements as to certain facts. The parties may stipulate to facts provisionally, for the purpose of summary judgment only, while reserving the right to contest the facts at trial if the court does not grant summary judgment. 
 
@@ -178,10 +178,6 @@ Second, the passengers claim that Roper used excessive force when he pointed his
 
 There is no express requirement for a physical injury in an excessive force claim, but even if the passengers stated a plausible claim for psychological injuries, Roper is entitled to qualified immunity. "Fourth Amendment jurisprudence has long recognized that the right to make an arrest or investigatory stop necessarily carries with it the right to use some degree of physical coercion or threat thereof to effect it." We previously held that pointing a gun can be reasonable given the circumstances, and that "the momentary fear experienced by the plaintiff when a police officer pointed a gun at him did not rise to the level of a constitutional violation." Here, there was no unreasonable use of force against the passengers, so no constitutional injury occurred.
 
-As we affirm the dismissal of the passengers' claims against Roper for a failure to state a claim in the absence of a constitutional injury, we also affirm the dismissal of their claims against the City.
-
-We AFFIRM the dismissal of the passengers' claims and VACATE the grant of summary judgment on Crane's claims and REMAND to the district court for further proceedings consistent with this opinion.
-
 ## Genuine Issue of Material Fact
 
 #### @StoutVincent_5thCir2018
@@ -216,17 +212,17 @@ On appeal, Stout and Montgomery raise only one issue: whether the district court
 
 [A. Summary Judgment]{.casesubsection}
 
-Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has explained that "a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." _Celotex Corp. v. Catrett_. But the moving party has no need to negate its opponents' claims.
+Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law." Fed. R. Civ. P. 56(a). The Supreme Court has explained that "a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions of the record which it believes demonstrate the absence of a genuine issue of material fact." But the moving party has no need to negate its opponents' claims.
 
 If the moving party meets its burden, "the nonmovant must go beyond the pleadings and designate specific facts showing that there is a genuine issue for trial." The nonmovant's "burden is not satisfied with some metaphysical doubt as to the material facts, by conclusory allegations, by unsubstantiated assertions, or by only a scintilla of evidence."
 
-A court must view all evidence "in the light most favorable to the opposing party." In _Tolan v. Cotton_, the Supreme Court stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases.If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
+A court must view all evidence "in the light most favorable to the opposing party." The Supreme Court [has] stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases. If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
 
 _B. Qualified Immunity_
 
-The Supreme Court has articulated a two-part question for any qualified immunity determination: First, “\[t\]aken in the light most favorable to the party asserting the injury, do the facts alleged show the officer's conduct violated a constitutional right?” ![](https://i1.next.westlaw.com/StaticContent_2511.2.2003/images/th_indigo/delivery/flag_red_striped_small.png?ignoreDeliveryNewLine)[_Saucier v. Katz_, 533 U.S. 194, 201, 121 S.Ct. 2151, 150 L.Ed.2d 272 (2001)](https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001518729&pubNum=0000708&originatingDoc=I3aa19850105a11e8b7ce8230219a322d&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=14704008c3bf41fba62e60d24de647df&contextData=(sc.Default)). Second, we ask “\[w\]hether the allegedly violated constitutional rights were clearly established at the time of the incident; and, if so, whether the conduct of the defendants was objectively unreasonable in light of that then clearly established law.” ![](https://i1.next.westlaw.com/StaticContent_2511.2.2003/images/th_indigo/delivery/flag_yellow_small.png?ignoreDeliveryNewLine)[_Tarver v. City of Edna_, 410 F.3d 745, 750 (5th Cir. 2005)](https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=2006664131&pubNum=0000506&originatingDoc=I3aa19850105a11e8b7ce8230219a322d&refType=RP&fi=co_pp_sp_506_750&originationContext=document&transitionType=DocumentItem&ppcid=14704008c3bf41fba62e60d24de647df&contextData=(sc.Default)#co_pp_sp_506_750) (internal quotation marks omitted). An official's qualified immunity defense prevails “\[i\]f no constitutional right would have been violated were the allegations established.” ![](https://i1.next.westlaw.com/StaticContent_2511.2.2003/images/th_indigo/delivery/flag_red_striped_small.png?ignoreDeliveryNewLine)[_Saucier_, 533 U.S. at 201, 121 S.Ct. 2151](https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001518729&pubNum=0000708&originatingDoc=I3aa19850105a11e8b7ce8230219a322d&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=14704008c3bf41fba62e60d24de647df&contextData=(sc.Default)).
+The Supreme Court has articulated a two-part question for any qualified immunity determination: First, “taken in the light most favorable to the party asserting the injury, do the facts alleged show the officer's conduct violated a constitutional right?” Second, we ask “whether the allegedly violated constitutional rights were clearly established at the time of the incident; and, if so, whether the conduct of the defendants was objectively unreasonable in light of that then clearly established law.” An official's qualified immunity defense prevails “if no constitutional right would have been violated were the allegations established.”
 
-“The Plaintiff bears the burden of proving that a government official is not entitled to qualified immunity.” ![](https://i1.next.westlaw.com/StaticContent_2511.2.2003/images/th_indigo/delivery/flag_yellow_small.png?ignoreDeliveryNewLine)[_Michalik v. Hermann_, 422 F.3d 252, 258 (5th Cir. 2005)](https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=2007143793&pubNum=0000506&originatingDoc=I3aa19850105a11e8b7ce8230219a322d&refType=RP&fi=co_pp_sp_506_258&originationContext=document&transitionType=DocumentItem&ppcid=14704008c3bf41fba62e60d24de647df&contextData=(sc.Default)#co_pp_sp_506_258). This burden is not easy to meet because qualified immunity “provides ample protection to all but the plainly incompetent or those who knowingly violated the law.” ![](https://i1.next.westlaw.com/StaticContent_2511.2.2003/images/th_indigo/delivery/flag_yellow_small.png?ignoreDeliveryNewLine)[_Malley v. Briggs_, 475 U.S. 335, 341, 106 S.Ct. 1092, 89 L.Ed.2d 271 (1986)](https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=1986111440&pubNum=0000708&originatingDoc=I3aa19850105a11e8b7ce8230219a322d&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=14704008c3bf41fba62e60d24de647df&contextData=(sc.Default)).
+“The Plaintiff bears the burden of proving that a government official is not entitled to qualified immunity.” This burden is not easy to meet because qualified immunity “provides ample protection to all but the plainly incompetent or those who knowingly violated the law.”
 
 [B. Qualified Immunity]{.casesubsection}
 
@@ -272,7 +268,7 @@ Although Appellants dispute Trooper Wall's report that they were acting nervous 
 
 Because Appellants failed to provide any evidence that Officer Vincent acted with discriminatory intent or treated them unequally, they cannot show there are any genuine issues of fact warranting a trial on their Fourteenth Amendment claim of racial profiling. Accordingly, we conclude the district court did not err when it granted summary judgment in favor of Officer Vincent.
 
-#### @EldenNirvanaLlc_DistCourt2025 Elden v. Nirvana, L.L.C. (C.D.Cal. 2025)
+#### @EldenNirvanaLlc_CDCal2025
 
 [Background]{.casesection}
 

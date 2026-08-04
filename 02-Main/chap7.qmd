@@ -214,7 +214,7 @@ A party precluded from relitigating an issue with an opposing party, in accordan
 
 ### Claim Preclusion
 
-#### @JohnsonSpencer_10thCircuit2020
+#### @JohnsonSpencer_10thCir2020
 
 In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for which he was then incarcerated. In 2017, after his release, Mr. Johnson brought suit under 42 U.S.C. §1983 against the City of Cheyenne, Wyoming ("Cheyenne"), the Estate of Detective George Stanford ("the Estate"), and Officer Alan Spencer alleging that they were responsible for violations of his constitutional rights that contributed to his conviction ("2017 Action"). While incarcerated, however, Mr. Johnson had unsuccessfully brought similar suits against Cheyenne and Detective Stanford in 1991 ("1991 Action") and against Officer Spencer in 1992 ("1992 Action"). The central question on appeal is what effect the judgments against Mr. Johnson in his 1991 and 1992 Actions have on his 2017 Action.
 
@@ -364,7 +364,7 @@ In sum, because it was not an adjudication on the merits, we conclude that the 1
 
 We acknowledge the terrible reality that Mr. Johnson must have faced during the twenty-four years that he was wrongly incarcerated. As the Supreme Court has stated, however, the doctrine of claim preclusion "serves vital public interests beyond any individual judge's ad hoc determination of the equities in a particular case." Thus, for the reasons we have provided, in the 2017 Action, we affirm the dismissal of the claims against the Estate and Cheyenne, but reverse the dismissal of the claims against Officer Spencer and remand for further proceedings consistent with this opinion. 
 
-#### @HernandezAssetAcceptanceLLC_DColorado2013
+#### @HernandezAssetAcceptanceLLC_DColo2013
 
 Ms. Hernandez claims that the Defendant, a debt collection agency, violated the Fair Debt Collection Practice Act (FDCPA), when it failed to communicate to Experian, a credit reporting agency that she disputed a debt she had incurred. Ms. Hernandez allegedly incurred a debt with Xcel Energy and defaulted on the debt. The account was transferred to the Defendant for collection. In May 2011, Ms. Hernandez reviewed a copy of her Experian credit report and saw the Defendant's entry for the Xcel account on the report. On May 5, 2011, she called the Defendant to dispute the account. In June, August, October, and November 2011, the Defendant allegedly failed to communicate to Experian that Ms. Hernandez's Xcel Energy account was disputed. Ms. Hernandez asserts that this "Complaint and Jury Demand only seeks relief for activity that occurred after August 7, 2011." She seeks statutory damages available under the FDCPA, as well as attorney fees and costs.
 
@@ -540,7 +540,7 @@ Even where parties are in privity, the Court must consider whether the interests
 
 As POW has established all three factors, the Court finds that all claims in this matter are barred by res judicata. Accordingly, the Court grants the motion to dismiss. The Court dismisses with prejudice all claims in the FAC.
 
-#### @PassaroVirginia_4thCircuit2019
+#### @PassaroVirginia_4thCir2019
 
 Antonio Passaro Jr. is a former Special Agent with the Virginia State Police. He claims that he faced unlawful discrimination based on his mental disability (post-traumatic stress disorder) and national origin (Italian-American). He also claims that he was unlawfully fired in retaliation for filing a complaint with the Equal Employment Opportunity Commission ("EEOC"). This conduct, he claims, violated the Americans with Disabilities Act of 1990 ("ADA") and Title VII of the Civil Rights Act of 1964 ("Title VII"). He has sued the Commonwealth of Virginia and the Virginia Department of State Police (together, "the Commonwealth"), seeking relief that includes compensatory damages, reinstatement, and back pay.
 
@@ -600,7 +600,7 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 ### Issue Preclusion
 
-#### @NationalSatelliteSportsInc_6thCircuit2001
+#### @NationalSatelliteSportsInc_6thCir2001
 
 On the night of December 14, 1996, the Melody Lane Lounge, a commercial bar located in Massillon, Ohio, showed the live broadcast of a boxing match between Riddick Bowe and Andrew Golota (the event). National Satellite Sports, Inc. (NSS) had obtained the exclusive right to broadcast the event to commercial establishments in Ohio. Time Warner Entertainment Company, L.P. had obtained the exclusive right to broadcast the event on a pay-per-view basis to its Ohio residential customers. The Melody Lane Lounge, erroneously listed as a residential customer of Time Warner, ordered the event through Time Warner's service.
 
@@ -698,7 +698,7 @@ We believe that Time Warner has the more persuasive argument on this issue. Noth
 
 In sum, we agree with the district court that the second element ("necessary to the outcome") has not been met, but disagree that the fourth element ("full and fair opportunity to litigate") was lacking. But because all four elements must be satisfied before the prior opinion will be given preclusive effect, NSS is not bound by the decision in _Coach's Corner._ 
 
-#### @ReNageleisen_EDKentuckyBankr2014
+#### @ReNageleisen_EDKyBankr2014
 
 This matter is before the Court on the Bank of Kentucky's motion for judgment on the pleadings. In this adversary proceeding, the Bank of Kentucky (Plaintiff) seeks a declaratory judgment that two tracts of real property in which Debtor claims a one-half interest are not property of Debtor's estate, but property of a family partnership in which Debtor is a partner. Further, Plaintiff seeks a determination that a judgment debt, owed to Plaintiff on account of a default judgment finding that the Defendants engaged in a series of transactions to defraud the Bank, is non-dischargeable. For the reasons set forth below, the Motion will be denied.
 
@@ -782,7 +782,7 @@ The state court's judgment awarding damages for Debtor's fraudulent conveyance r
 
 Accordingly, the Court holds that the state court's finding of fraudulent intent was not necessary to the state court's judgment under Kentucky law, and that finding will not be given preclusive effect. As a result, it is unnecessary to consider whether other elements of Kentucky's test for issue preclusion are met. Plaintiff is not entitled to judgment on the pleadings on the question of willful and malicious injury, and therefore not entitled to judgment on the pleadings on the nondischargeability count of its complaint.
 
-#### @JanjuaNeufeld_9thCircuit2019
+#### @JanjuaNeufeld_9thCir2019
 
 In this case we address, as a matter of first impression in our Circuit, the standard for determining whether an issue was "actually litigated" in a previous adjudication for purposes of issue preclusion, also known as collateral estoppel. We hold that an issue was actually litigated only if it was raised, contested, and submitted for determination in the prior adjudication.
 

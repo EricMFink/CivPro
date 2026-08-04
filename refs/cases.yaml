@@ -52,7 +52,8 @@ references:
 - id: ByrdBlueRidgeRural_US1958
   authority: U.S.
   citation-key: ByrdBlueRidgeRural_US1958
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1958
   page: '525'
@@ -93,6 +94,18 @@ references:
       day: 18
   number: 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops
+  type: legal_case
+
+- id: CorpWorldFederationAdvertisers_NDTex2026
+  authority: N.D. Tex.
+  citation-key: CorpWorldFederationAdvertisers_NDTex2026
+  issued:
+    - year: 2026
+      month: 3
+      day: 26
+  jurisdiction: ND Texas
+  number: Civil Action No. 7:24-CV-0114-B
+  title: X Corp. v. World Federation of Advertisers
   type: legal_case
 
 - id: CraneCityArlingtonTexas_5thCir2022
@@ -143,9 +156,9 @@ references:
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   type: legal_case
 
-- id: EldenNirvanaLlc_DistCourt2025
+- id: EldenNirvanaLLC_CDCal2025
   authority: C.D. Cal.
-  citation-key: EldenNirvanaLlc_DistCourt2025
+  citation-key: EldenNirvanaLLC_CDCal2025
   container-title: F. Supp. 3d
   issued:
     - year: 2025
@@ -242,9 +255,9 @@ references:
   type: legal_case
   volume: '380'
 
-- id: HernandezAssetAcceptanceLLC_DColorado2013
-  authority: D. Colorado
-  citation-key: HernandezAssetAcceptanceLLC_DColorado2013
+- id: HernandezAssetAcceptanceLLC_DColo2013
+  authority: D. Colo.
+  citation-key: HernandezAssetAcceptanceLLC_DColo2013
   container-title: F. Supp. 2d
   issued:
     - year: 2013
@@ -256,9 +269,9 @@ references:
   type: legal_case
   volume: '970'
 
-- id: HunterEarthgrainsCoBakery_4thCircuit2001
-  authority: 4th Circuit
-  citation-key: HunterEarthgrainsCoBakery_4thCircuit2001
+- id: HunterEarthgrainsCoBakery_4thCir2001
+  authority: 4th Cir.
+  citation-key: HunterEarthgrainsCoBakery_4thCir2001
   container-title: F. 3d
   issued:
     - year: 2001
@@ -279,9 +292,9 @@ references:
   type: legal_case
   volume: '326'
 
-- id: JanjuaNeufeld_9thCircuit2019
-  authority: 9th Circuit
-  citation-key: JanjuaNeufeld_9thCircuit2019
+- id: JanjuaNeufeld_9thCir2019
+  authority: 9th Cir.
+  citation-key: JanjuaNeufeld_9thCir2019
   container-title: F. 3d
   issued:
     - year: 2019
@@ -318,9 +331,9 @@ references:
   type: legal_case
   volume: '658'
 
-- id: JohnsonGriffin_6thCircuit2023
-  authority: 6th Circuit
-  citation-key: JohnsonGriffin_6thCircuit2023
+- id: JohnsonGriffin_6thCir2023
+  authority: 6th Cir.
+  citation-key: JohnsonGriffin_6thCir2023
   container-title: F. 4th
   issued:
     - year: 2023
@@ -329,9 +342,9 @@ references:
   type: legal_case
   volume: '85'
 
-- id: JohnsonSpencer_10thCircuit2020
-  authority: 10th Circuit
-  citation-key: JohnsonSpencer_10thCircuit2020
+- id: JohnsonSpencer_10thCir2020
+  authority: 10th Cir.
+  citation-key: JohnsonSpencer_10thCir2020
   container-title: F. 3d
   issued:
     - year: 2020
@@ -430,9 +443,9 @@ references:
   type: legal_case
   volume: '383'
 
-- id: MosleyGeneralMotorsCorp_EDMissouri1980
-  authority: E.D. Missouri
-  citation-key: MosleyGeneralMotorsCorp_EDMissouri1980
+- id: MosleyGeneralMotorsCorp_EDMo1980
+  authority: E.D. Mo.
+  citation-key: MosleyGeneralMotorsCorp_EDMo1980
   container-title: F. Supp.
   issued:
     - year: 1980
@@ -444,9 +457,9 @@ references:
   type: legal_case
   volume: '497'
 
-- id: NationalSatelliteSportsInc_6thCircuit2001
-  authority: 6th Circuit
-  citation-key: NationalSatelliteSportsInc_6thCircuit2001
+- id: NationalSatelliteSportsInc_6thCir2001
+  authority: 6th Cir.
+  citation-key: NationalSatelliteSportsInc_6thCir2001
   container-title: F. 3d
   issued:
     - year: 2001
@@ -455,9 +468,9 @@ references:
   type: legal_case
   volume: '253'
 
-- id: NBAPropertiesIncHanwjh_7thCircuit2022
-  authority: 7th Circuit
-  citation-key: NBAPropertiesIncHanwjh_7thCircuit2022
+- id: NBAPropertiesIncHanwjh_7thCir2022
+  authority: 7th Cir.
+  citation-key: NBAPropertiesIncHanwjh_7thCir2022
   container-title: F. 4th
   issued:
     - year: 2022
@@ -513,9 +526,9 @@ references:
   type: legal_case
   volume: '439'
 
-- id: PassaroVirginia_4thCircuit2019
-  authority: 4th Circuit
-  citation-key: PassaroVirginia_4thCircuit2019
+- id: PassaroVirginia_4thCir2019
+  authority: 4th Cir.
+  citation-key: PassaroVirginia_4thCir2019
   container-title: F. 3d
   issued:
     - year: 2019
@@ -563,9 +576,9 @@ references:
   type: legal_case
   volume: '462'
 
-- id: ReNageleisen_EDKentuckyBankr2014
-  authority: E.D. Kentucky, Bankr.
-  citation-key: ReNageleisen_EDKentuckyBankr2014
+- id: ReNageleisen_EDKyBankr2014
+  authority: E.D. Ky., Bankr.
+  citation-key: ReNageleisen_EDKyBankr2014
   container-title: BR
   issued:
     - year: 2014
@@ -577,9 +590,9 @@ references:
   type: legal_case
   volume: '523'
 
-- id: SmithSafemarineCorp_MDLouisiana2024
-  authority: M.D. Louisiana
-  citation-key: SmithSafemarineCorp_MDLouisiana2024
+- id: SmithSafemarineCorp_MDLa2024
+  authority: M.D. La.
+  citation-key: SmithSafemarineCorp_MDLa2024
   container-title: F. Supp. 3d
   issued:
     - year: 2024
@@ -668,9 +681,9 @@ references:
   type: legal_case
   volume: '663'
 
-- id: WilliamsMitchell_4thCircuit2024
-  authority: 4th Circuit
-  citation-key: WilliamsMitchell_4thCircuit2024
+- id: WilliamsMitchell_4thCir2024
+  authority: 4th Cir.
+  citation-key: WilliamsMitchell_4thCir2024
   container-title: F. 4th
   issued:
     - year: 2024
@@ -704,16 +717,4 @@ references:
   title: World-Wide Volkswagen Corp. v. Woodson
   type: legal_case
   volume: '444'
-
-- id: XCorpWorldFederationAdvertisers_NDTexas2026
-  authority: N.D. Texas
-  citation-key: XCorpWorldFederationAdvertisers_NDTexas2026
-  issued:
-    - year: 2026
-      month: 3
-      day: 26
-  jurisdiction: ND Texas
-  number: Civil Action No. 7:24-CV-0114-B
-  title: X Corp. v. World Federation of Advertisers
-  type: legal_case
 ...

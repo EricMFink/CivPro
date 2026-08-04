@@ -338,7 +338,7 @@ If that is the logic at play here, I cannot help but wonder if we are destined t
 
 None of this is to cast doubt on the outcome of these cases. The parties have not pointed to anything in the Constitution's original meaning or its history that might allow Ford to evade answering the plaintiffs' claims in Montana or Minnesota courts. No one seriously questions that the company, seeking to do business, entered those jurisdictions through the front door. And I cannot see why, when faced with the process server, it should be allowed to escape out the back. The real struggle here isn't with settling on the right outcome in these cases, but with making sense of our personal jurisdiction jurisprudence and _International Shoe_'s increasingly doubtful dichotomy. On those scores, I readily admit that I finish these cases with even more questions than I had at the start. Hopefully, future litigants and lower courts will help us face these tangles and sort out a responsible way to address the challenges posed by our changing economy in light of the Constitution's text and the lessons of history.
 
-#### @JohnsonGriffin_6thCircuit2023
+#### @JohnsonGriffin_6thCir2023
 
 Kathy Griffin, a California-based celebrity and social activist, sent a series of tweets to her two million Twitter followers asserting that Tennessean Samuel Johnson, the CEO of Tennessee-based Visu-Well, had engaged in homophobic conduct. She encouraged her followers to make him "online famous" and tagged his company. She then asked his employer to "remove" him from the Board of Directors and threatened that the "nation would remain vigilant" if it did not. Within a day of her first tweets, the company fired Johnson and removed him from the Board. Johnson and his wife sued Griffin in federal court in Tennessee, claiming (among other things) that she tortiously interfered with his employment. Griffin argued that her tweets did not subject her to the State's personal jurisdiction, and the district court dismissed the case. We disagree and reverse.
 
@@ -446,7 +446,7 @@ _Johnson v. Griffin_ and _Patel v. Stewartson_ both involved defamation suits, f
 
 :::
 
-#### @NBAPropertiesIncHanwjh_7thCircuit2022
+#### @NBAPropertiesIncHanwjh_7thCir2022
 
 The plaintiffs in the underlying litigation are professional or collegiate sports associations who own, or license, trademarks related to their respective sports. The plaintiffs filed this action under the Lanham Act, 15 U.S.C. §1051, et seq., against a list of defendants listed in Schedule A of the complaint. In the complaint, NBA Properties, Inc. alleged that HANWJH, a China-based online retailer, infringed NBA Properties' trademarks by selling counterfeit products in its online stores. After the deadline to answer expired, HANWJH moved to dismiss the complaint for lack of personal jurisdiction. The district court denied the motion and entered a default under Federal Rule of Civil Procedure 55(a). The district court instructed the parties to file any objections to the motion for default judgment. After the deadline expired without objection, the district court entered a final judgment. HANWJH timely appealed. For the reasons set forth in this opinion, we affirm the judgment of the district court.
 

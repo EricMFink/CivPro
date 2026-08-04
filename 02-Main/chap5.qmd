@@ -72,7 +72,7 @@ Holmes sharply criticized the _Swift_ approach to the Rules of Decision Act on p
 
 Holmes stepped down from the Court in 1932 and died in 1935. Three years later, the Court, in an opinion by Justice Louis Brandeis (another important figure in legal pragmatism and realism) overturned _Swift_ and adopted a positivist interpretation of the Rules of Decision Act.
 
-#### @ErieCoTompkins_US1938 Erie R. Co. v. Tompkins (U.S. 1938) 
+#### @ErieCoTompkins_US1938
 
 ##### Justice Brandeis delivered the opinion of the Court.
 
@@ -221,7 +221,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @2072RulesOfProcedure
+#### @2072RulesofProcedure
 
 ::: {.legalcode}
 
@@ -231,7 +231,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @2073MethodOfProscribing
+#### @2073MethodofProscribing
 
 ::: {.legalcode}
 
@@ -247,7 +247,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @2074RulesProcedureEvidence
+#### @2074SubmissiontoCongress
 
 ::: {.legalcode}
 
