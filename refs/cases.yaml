@@ -11,6 +11,30 @@ references:
   type: legal_case
   volume: '772'
 
+- id: AshcroftIqbal_US2009
+  authority: U.S.
+  citation-key: AshcroftIqbal_US2009
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2009
+  page: '662'
+  title: Ashcroft v. Iqbal
+  type: legal_case
+  volume: '556'
+
+- id: BellAtlanticCorpTwombly_US2007
+  authority: U.S.
+  citation-key: BellAtlanticCorpTwombly_US2007
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2007
+  page: '544'
+  title: Bell Atlantic Corp. v. Twombly
+  type: legal_case
+  volume: '550'
+
 - id: BerkChoy_US2026
   authority: U.S.
   citation-key: BerkChoy_US2026
@@ -113,7 +137,7 @@ references:
   issued:
     - year: 2014
   page: '117'
-  title: Daimler Ag v. Bauman
+  title: Daimler A.G. v. Bauman
   type: legal_case
   volume: '571'
 
@@ -139,6 +163,20 @@ references:
   number: Case No. 19-cv-1477 (MJD/ECW)
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   type: legal_case
+
+- id: EldenNirvanaLlc_DistCourt2025
+  authority: C.D. Cal.
+  citation-key: EldenNirvanaLlc_DistCourt2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 9
+      day: 30
+  jurisdiction: CD California
+  page: '1211'
+  title: Elden v. Nirvana, LLC
+  type: legal_case
+  volume: '802'
 
 - id: ErieCoTompkins_US1938
   authority: U.S.
