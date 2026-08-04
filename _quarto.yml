@@ -87,8 +87,6 @@ bibliography_statutes: refs/statutes.yaml
 bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
 citeproc: false
-nocite: |
-  @*
 
 format:
   html:

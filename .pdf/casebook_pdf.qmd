@@ -42,8 +42,6 @@ bibliography_statutes: ../refs/statutes.yaml
 bibliography_other: ../refs/other.yaml
 csl: ../refs/casebook.csl
 citeproc: false
-nocite: |
-  @*
 ---
 
 {{< include ../02-Main/chap1.qmd >}}

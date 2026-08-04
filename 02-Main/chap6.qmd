@@ -2,15 +2,13 @@
 
 ## Pleading Under the FRCP
 
-#### Fed. R. Civ. P.
-
 ::: {.legalcode}
 
-##### Rule 3
+#### Fed. R. Civ. P. Rule 3
 
 A civil action is commenced by filing a complaint with the court.
 
-##### Rule 7
+#### Fed. R. Civ. P. Rule 7
 
 - (a\) Pleadings. Only these pleadings are allowed:
 	- (1\) a complaint;
@@ -27,7 +25,7 @@ A civil action is commenced by filing a complaint with the court.
 		- (C\) state the relief sought.
 	- (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
 
-##### Rule 8
+#### Fed. R. Civ. P. Rule 8
 
 - (a\) Claim for Relief. A pleading that states a claim for relief must contain:
 	- (1\) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
@@ -69,7 +67,7 @@ A civil action is commenced by filing a complaint with the court.
 	- (3\) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
 - (e\) Construing Pleadings. Pleadings must be construed so as to do justice.
 
-##### Rule 9
+#### Fed. R. Civ. P. Rule 9
 
 - (a\) Capacity or Authority to Sue; Legal Existence.
 	- (1\) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
@@ -83,13 +81,13 @@ A civil action is commenced by filing a complaint with the court.
 - (f\) Time and Place. An allegation of time or place is material when testing the sufficiency of a pleading.
 - (g\) Special Damages. If an item of special damage is claimed, it must be specifically stated.
 
-##### Rule 10
+#### Fed. R. Civ. P. Rule 10
 
 - (a\) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
 - (b\) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
 - (c\) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-##### Rule 12
+#### Fed. R. Civ. P. Rule 12
 
 - (a\) Time to Serve a Responsive Pleading.
 	- (1\) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
@@ -403,6 +401,16 @@ In _Fischer_, the North Carolina Court of Appeals cited numerous factual allegat
 
 Although the analysis of the control element does not depend on the presence or absence of any particular factor, Johnson's sole reliance on the factual allegations that Qureshi is the "sole or dominant owner of Cricket Council," "is the President of Cricket Council," and "exercises complete dominion and control over Cricket Council" does not suffice. Without more facts indicating "complete domination, not only of finances, but of policy and business practices ... so that the corporate entity ... had ... no separate mind, will or existence of its own," Johnson's allegations are conclusory and do not plausibly support piercing the corporate veil. Because Johnson's allegations fail under the first "control" element of the instrumentality rule, the court need not address if the breach of contract claim is within the "wrongs" contemplated by the second element or address proximate cause. Thus, the court dismisses Johnson's request to pierce the corporate veil.
 
+::: {.callout-note}
+
+##### Amended Pleadings
+
+Under the Federal Rules, parties may amend their pleadings to add or omit claims and defenses, add or drop parties, alter the relief sought, or revise factual allegations, admissions, or denials. Fed. R. Civ. P. Rule 15 governs the conditions and procedure for amendment, including provisions for "relation back" of amendments where a newly added claim would otherwise be barred by the statute of limitations. 
+
+When a court dismisses a claim under Rule 12(b)(6), it will typically do so "without prejudice", at least in the initial instance, giving the claimant an opportunity to file an amended pleading.
+
+:::
+
 ## Answers & Defenses
 
 #### @ReisRoboticsUSAInc_NDIll2006
@@ -474,33 +482,6 @@ Fed.R.Civ.P. 8(b). Reis argues that Concept has violated Rule 8 by including imp
 Similarly, Reis argues that Paragraphs 15, 16, 20 each contain language that does not comport with Rule 8. Upon review, the Court finds that the last sentence of Paragraph 15, the last two sentences of Paragraph 16, and in Paragraph 20, all of the language following the statement, "Concept denies these allegations as untrue," renders the answers equivocal and improper under Rule 8. Accordingly, Paragraphs 5, 6, 7, 15, 16, and 20 are stricken with leave to amend. In repleading, Concept shall follow Rule 8(b)'s directive that it admit, deny, or state that it is without sufficient knowledge to admit or deny. To the extent Concept must give a qualified answer, Concept must "specify so much of it as is true and material and shall deny only the remainder." _See_ Fed. R.Civ.P. 8(b).
 
 Reis also seeks to strike Concept's prayer for attorneys fees and costs. As a general matter, Illinois follows the "American rule," such that attorneys fees and costs are ordinarily not awarded to the prevailing party unless authorized by statute or provided for by contract. Concept responds that it is merely attempting to preserve its ability to obtain fees should it later be determined that it is entitled to do so. At this early stage of the litigation, the Court cannot determine as a definitive matter that fees and costs are wholly unavailable to Concept. Thus, the Court declines to strike the request for attorneys fees and costs.
-
-## Amended Pleadings
-
-Under the Federal Rules, parties may amend their pleadings to add or omit claims and defenses, add or drop parties, alter the relief sought, or revise factual allegations, admissions, or denials. Rule 15 governs the conditions and procedure for amendment, including provisions for "relation back" of amendments where a newly added claim would otherwise be barred by the statute of limitations. 
-
-#### Fed R. Civ. P. Rule 15
-
-::: {.legalcode}
-
-- (a\) Amendments Before Trial.
-	- (1\) _Amending as a Matter of Course._ A party may amend its pleading once as a matter of course within:
-		- (A\) 21 days after serving it, or
-		- (B\) if the pleading is one to which a responsive pleading is required, 21 days after service of a responsive pleading or 21 days after service of a motion under Rule 12(b), (e), or (f), whichever is earlier.
-	- (2\) _Other Amendments._ In all other cases, a party may amend its pleading only with the opposing party's written consent or the court's leave. The court should freely give leave when justice so requires.
-	- (3\) _Time to Respond._ Unless the court orders otherwise, any required response to an amended pleading must be made within the time remaining to respond to the original pleading or within 14 days after service of the amended pleading, whichever is later.
-- (b\) Amendments During and After Trial.
-	- (1\) _Based on an Objection at Trial._ If, at trial, a party objects that evidence is not within the issues raised in the pleadings, the court may permit the pleadings to be amended. The court should freely permit an amendment when doing so will aid in presenting the merits and the objecting party fails to satisfy the court that the evidence would prejudice that party's action or defense on the merits. The court may grant a continuance to enable the objecting party to meet the evidence.
-	- (2\) _For Issues Tried by Consent._ When an issue not raised by the pleadings is tried by the parties’ express or implied consent, it must be treated in all respects as if raised in the pleadings. A party may move—at any time, even after judgment—to amend the pleadings to conform them to the evidence and to raise an unpleaded issue. But failure to amend does not affect the result of the trial of that issue.
-- (c\) Relation Back of Amendments.
-	- (1\) _When an Amendment Relates Back._ An amendment to a pleading relates back to the date of the original pleading when:
-		- (A\) the law that provides the applicable statute of limitations allows relation back;
-		- (B\) the amendment asserts a claim or defense that arose out of the conduct, transaction, or occurrence set out—or attempted to be set out—in the original pleading; or
-		- (C\) the amendment changes the party or the naming of the party against whom a claim is asserted, if Rule 15(c)(1)(B) is satisfied and if, within the period provided by Rule 4(m) for serving the summons and complaint, the party to be brought in by amendment:
-			- (i\) received such notice of the action that it will not be prejudiced in defending on the merits; and
-			- (ii\) knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity.
-
-:::
 
 ## Truthfulness & Good Faith
 

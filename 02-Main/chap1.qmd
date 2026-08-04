@@ -164,7 +164,7 @@ Although federal courts are located in every state, they are not the only forum 
 
 ## The Federal Rules of Civil Procedure
 
-#### FRCP Rule 1
+#### Fed. R. Civ. P. Rule 1
 
 ::: {.legalcode}
 
@@ -172,7 +172,7 @@ These rules govern the procedure in all civil actions and proceedings in the Uni
 
 :::
 
-#### FRCP Rule 2
+#### Fed. R. Civ. P. Rule 2
 
 ::: {.legalcode}
 

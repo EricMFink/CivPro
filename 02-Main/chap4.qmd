@@ -172,7 +172,7 @@ Malpractice claims based on an attorney's conduct in a federal patent suit don't
 
 ## Diversity Jurisdiction
 
-#### @1332DiversityOfCitizenship
+#### @1332DiversityCitizenship
 
 ::: {.legalcode}
 
