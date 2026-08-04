@@ -34,10 +34,6 @@ Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-small
 
 [{{< var ta-email >}}](mailto:{{< var ta-email >}})
 
-{{< var ta2 >}}
-
-[{{< var ta2-email >}}](mailto:{{< var ta2-email >}})
-
 :::
 
 ## Description {.unnumbered}
