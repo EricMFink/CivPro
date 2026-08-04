@@ -16,7 +16,7 @@ The sociology of law has been dominated by studies of officials and formal insti
 
 [II. Where Disputes Come From and How They Develop]{.casesection}
 
- Assume a population living downwind from a nuclear test site. Some portion of that population has developed cancer as a result of the exposure and some has not. Some of those stricken know that they are sick and some do not. In order for disputes to emerge and remedial action to be taken, an unperceived injurious experience (unPIE, for short) must be transformed into a perceived injurious experience (PIE). The uninformed cancer victims must learn that they are sick. The transformation perspective directs our attention to the differential transformation of unPIEs into PIEs. It urges us to examine, in this case, differences in class, education, work situation, social networks, etc. between those who become aware of their cancer and those who do not, as well as attend to the possible manipulation of information by those responsible for the radiation.
+Assume a population living downwind from a nuclear test site. Some portion of that population has developed cancer as a result of the exposure and some has not. Some of those stricken know that they are sick and some do not. In order for disputes to emerge and remedial action to be taken, an unperceived injurious experience (unPIE, for short) must be transformed into a perceived injurious experience (PIE). The uninformed cancer victims must learn that they are sick. The transformation perspective directs our attention to the differential transformation of unPIEs into PIEs. It urges us to examine, in this case, differences in class, education, work situation, social networks, etc. between those who become aware of their cancer and those who do not, as well as attend to the possible manipulation of information by those responsible for the radiation.
 
 This first transformation—saying to oneself that a particular experience has been injurious—we call _naming_. Though hard to study empirically, naming may be the critical transformation; the level and kind of disputing in a society may turn more on what is initially perceived as an injury than on any later decision. For instance, asbestosis only became an acknowledged "disease" _and_ the basis of a claim for compensation when shipyard workers stopped taking for granted that they would have trouble breathing after ten years of installing insulation and came to view their condition as a problem.
 
@@ -164,7 +164,7 @@ Although federal courts are located in every state, they are not the only forum 
 
 ## The Federal Rules of Civil Procedure
 
-#### Rule 1
+#### FRCP Rule 1
 
 ::: {.legalcode}
 
@@ -172,7 +172,7 @@ These rules govern the procedure in all civil actions and proceedings in the Uni
 
 :::
 
-#### Rule 2
+#### FRCP Rule 2
 
 ::: {.legalcode}
 

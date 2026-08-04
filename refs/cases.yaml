@@ -1,16 +1,5 @@
 ---
 references:
-- id: AmadorCountyCalUs_DCCir2014
-  authority: D.C. Cir.
-  citation-key: AmadorCountyCalUs_DCCir2014
-  container-title: F. 3d
-  issued:
-    - year: 2014
-  page: '901'
-  title: Amador County, Cal. v. Us Dept. of the Interior
-  type: legal_case
-  volume: '772'
-
 - id: AshcroftIqbal_US2009
   authority: U.S.
   citation-key: AshcroftIqbal_US2009
@@ -93,18 +82,6 @@ references:
   title: Carnival Cruise Lines, Inc. v. Shute
   type: legal_case
   volume: '499'
-
-- id: ColbornForestGoodEats_DistCourt2020
-  authority: Dist. Court
-  citation-key: ColbornForestGoodEats_DistCourt2020
-  issued:
-    - year: 2020
-      month: 9
-      day: 18
-  jurisdiction: North Carolina
-  number: 5:19-CV-431-D
-  title: Colborn v. Forest Good Eats, Llc
-  type: legal_case
 
 - id: CompleteBusinessSolutionsGroup_EDPa2020
   authority: E.D. Pa.
@@ -307,6 +284,18 @@ references:
   type: legal_case
   volume: '933'
 
+- id: JarrusGovernorMichigan_EDMich2025
+  authority: E.D. Mich.
+  citation-key: JarrusGovernorMichigan_EDMich2025
+  issued:
+    - year: 2025
+      month: 12
+      day: 2
+  jurisdiction: ED Michigan
+  number: Case No. 25-cv-11168
+  title: Jarrus v. Governor of Michigan
+  type: legal_case
+
 - id: JohnsonCricketCouncilUSA_EDNC2023
   authority: E.D.N.C.
   citation-key: JohnsonCricketCouncilUSA_EDNC2023
@@ -430,17 +419,6 @@ references:
   type: legal_case
   volume: '355'
 
-- id: MillerRegionsBank_NDAla2026
-  authority: N.D. Ala.
-  citation-key: MillerRegionsBank_NDAla2026
-  issued:
-    - year: 2026
-      month: 5
-      day: 21
-  number: Case No. 2:24-cv-1324-HDM
-  title: Miller v. Regions Bank
-  type: legal_case
-
 - id: MineWorkersGibbs_US1966
   authority: U.S.
   citation-key: MineWorkersGibbs_US1966
@@ -451,19 +429,6 @@ references:
   title: Mine Workers v. Gibbs
   type: legal_case
   volume: '383'
-
-- id: MooreBaker_11thCircuit1993
-  authority: 11th Circuit
-  citation-key: MooreBaker_11thCircuit1993
-  container-title: F. 2d
-  issued:
-    - year: 1993
-      month: 4
-      day: 30
-  page: '1129'
-  title: Moore v. Baker
-  type: legal_case
-  volume: '989'
 
 - id: MosleyGeneralMotorsCorp_EDMissouri1980
   authority: E.D. Missouri
@@ -535,20 +500,6 @@ references:
   title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
   type: legal_case
   volume: '795'
-
-- id: PalacioCitySpringfield_DMass2014
-  authority: D. Mass.
-  citation-key: PalacioCitySpringfield_DMass2014
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2014
-      month: 6
-      day: 9
-  jurisdiction: D. Massachusetts
-  page: '163'
-  title: Palacio v. City of Springfield
-  type: legal_case
-  volume: '25'
 
 - id: ParklaneHosieryCoShore_US1978
   authority: U.S.
@@ -624,20 +575,6 @@ references:
   type: legal_case
   volume: '523'
 
-- id: ShiftletAllstateInsuranceCo_DSC2006
-  authority: D.S.C.
-  citation-key: ShiftletAllstateInsuranceCo_DSC2006
-  container-title: F. Supp. 2d
-  issued:
-    - year: 2006
-      month: 8
-      day: 10
-  jurisdiction: D. South Carolina
-  page: '763'
-  title: Shiftlet v. Allstate Insurance Co.
-  type: legal_case
-  volume: '451'
-
 - id: SmithSafemarineCorp_MDLouisiana2024
   authority: M.D. Louisiana
   citation-key: SmithSafemarineCorp_MDLouisiana2024
@@ -701,18 +638,6 @@ references:
   type: legal_case
   volume: '553'
 
-- id: TurtonVirginiaDepartmentEducation_EDVa2015
-  authority: E.D. Va.
-  citation-key: TurtonVirginiaDepartmentEducation_EDVa2015
-  issued:
-    - year: 2015
-      month: 1
-      day: 15
-  jurisdiction: ED Virginia
-  number: Civil Action No. 3:14cv446
-  title: Turton v. Virginia Department of Education
-  type: legal_case
-
 - id: WilliamsEstatesLLC_MDNC2023
   authority: M.D.N.C.
   citation-key: WilliamsEstatesLLC_MDNC2023
@@ -762,16 +687,4 @@ references:
   number: Civil Action No. 7:24-CV-0114-B
   title: X Corp. v. World Federation of Advertisers
   type: legal_case
-
-- id: ZielinskiPhiladelphiaPiers_EDPa1956
-  authority: E.D. Pa.
-  citation-key: ZielinskiPhiladelphiaPiers_EDPa1956
-  container-title: F. Supp.
-  issued:
-    - year: 1956
-  jurisdiction: ED Pennsylvania
-  page: '408'
-  title: Zielinski v. Philadelphia Piers
-  type: legal_case
-  volume: '139'
 ...
