@@ -4,17 +4,13 @@
 
 #### U.S Constitution
 
-[Amendment V]{.case-section}
-
 ::: {.legalcode}
+
+##### Amendment V
 
 - No person shall ... be deprived of life, liberty, or property, without due process of law;
 
-:::
-
-[Amendment IV]{.case-section}
-
-::: {.legalcode}
+##### Amendment IV
 
 - § 1 ... nor shall any state deprive any person of life, liberty, or property, without due process of law;
 

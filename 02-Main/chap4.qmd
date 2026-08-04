@@ -1,20 +1,24 @@
 # Subject Matter Jurisdiction
 
-The subject matter jurisdiction of the federal courts is governed by the Constitution (which defines the permissible extent of jurisdiction) and statutes (which authorize the exercise of some, but not all, of the jurisdiction permitted under the Constitution). Except for certain matters over which federal jurisdiction is exclusive,[^exclusive_jurisdiction] state courts generally have concurrent jurisdiction, giving plaintiffs a choice of forum. If a plaintiff opts to sue in state court, the defendant may (provided federal subject matter jurisdiction and other conditions are satisfied) override that choice by removing the action to federal court. The conditions and procedures for removal are governed by federal statute. 28 U.S.C. §§ 1441 et seq.[^removal]
+#### U.S. Constitution 
 
-[^exclusive_jurisdiction]: Notable examples of exclusive federal jurisdiction include suits between states, suits involving ambassadors or other high public officials, suits in admiralty (the body of law governing maritime claims), and claims arising under federal bankruptcy, intellectual property (patents, copyrights, & trademarks), antitrust, securities, and labor-management relations laws. Sometimes, as with antitrust and trademarks, state law may also provide an additional or alternative cause of action. In a few areas, such as patents and labor-management relations, federal law completely preempts any claims under state law. 
+::: {.legalcode}
+
+- The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;--to all cases affecting ambassadors, other public ministers and consuls;--to all cases of admiralty and maritime jurisdiction;--to controversies to which the United States shall be a party;--to controversies between two or more states;--between a state and citizens of another state;--between citizens of different states;--between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.
+
+- In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
+
+:::
+
+Article III of the Constitution identifies certain types of cases over which federal courts may exercise jurisdiction. Within the bounds set by Article III, Congress may authorize federal courts to exercise some or all of that jurisdiction. Some statutes authorize the exercise of jurisdiction over broad categories of cases, such as those arising under federal law, 28 U.S.C. § 1331, and those between citizens of different states, 28 U.S.C. § 1332. Provisions authorizing federal jurisdiction are also sometimes included in statutes establishing particular causes of action, e.g. 29 U.S. Code § 185 (authorizing federal jurisdiction over suits for violation of collective bargaining agreements under the National Labor Relations Act).
+
+Except for certain matters over which federal jurisdiction is exclusive,[^exclusive_jurisdiction] state courts generally have concurrent jurisdiction, giving plaintiffs a choice of forum. If a plaintiff opts to sue in state court, the defendant may (provided federal subject matter jurisdiction and other conditions are satisfied) override that choice by removing the action to federal court.[^removal] The conditions and procedures for removal are governed by federal statute. 28 U.S.C. §§ 1441 et seq.
+
+[^exclusive_jurisdiction]: Notable examples of exclusive federal jurisdiction include suits between states, suits involving ambassadors or other high public officials, suits in admiralty (the body of law governing maritime claims), and suits arising under certain areas of federal law such as bankruptcy, intellectual property (patents, copyrights, & trademarks), antitrust, securities, and labor-management relations. Sometimes, as with antitrust and trademarks, state law may provide additional or alternative causes of action, over which state courts have jurisdiction. In a few areas, such as patents and labor-management relations, federal law completely preempts state law, making federal court the sole available forum.
 
 [^removal]: Removal is a one-way street. If a plaintiff files a suit in federal court, the defendant may not "remove" or "remand" the case to state court. The only option is to move for dismissal for lack of federal subject matter jurisdiction under Fed. R. Civ. P. Rule 12(b)(1). Such dismissals are usually "without prejudice", meaning the plaintiff may refile the suit in state court. If federal subject matter jurisdiction is satisfied, the case remains in federal court.
 
 ## Federal Question Jurisdiction
-
-#### U.S. Constitution -- Article 3, sec. 2
-
-::: {.legalcode}
-
-The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority; 
-
-:::
 
 #### @1331FederalQuestion
 
@@ -23,8 +27,6 @@ The judicial power shall extend to all cases, in law and equity, arising under t
 The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
 
 :::
-
-
 
 #### @LouisvilleNashvilleCoMottley_US1908
 
@@ -170,14 +172,6 @@ Malpractice claims based on an attorney's conduct in a federal patent suit don't
 
 ## Diversity Jurisdiction
 
-#### U.S. Constitution -- Article III, sec. 2
-
-::: {.legalcode}
-
-The judicial power shall extend to all cases ... between citizens of different states; and between a state, or the citizens thereof, and foreign states, citizens or subjects.
-
-:::
-
 #### @1332DiversityOfCitizenship
 
 ::: {.legalcode}
@@ -201,7 +195,7 @@ The judicial power shall extend to all cases ... between citizens of different s
 
 :::
 
-#### @HanksCoan_MDNC1999 Hanks v Coan (M.D.N.C. 1999) 
+#### @HanksCoan_MDNC1999
 
 This matter comes before the court on Defendant Frances Coan's motion to dismiss Plaintiff's complaint and Defendant John Coan, III's, motion to dismiss, pursuant to Fed.R.Civ.P. 12(b)(1), for lack of subject matter jurisdiction. For the reasons discussed herein, the court will grant Defendants' motions to dismiss.
 
@@ -565,7 +559,7 @@ We also find it unconvincing to say that the definitional indivisibility theory 
 
 The contamination theory, as we have noted, can make some sense in the special context of the complete diversity requirement because the presence of nondiverse parties on both sides of a lawsuit eliminates the justification for providing a federal forum. The theory, however, makes little sense with respect to the amount-in-controversy requirement, which is meant to ensure that a dispute is sufficiently important to warrant federal-court attention. The presence of a single nondiverse party may eliminate the fear of bias with respect to all claims, but the presence of a claim that falls short of the minimum amount in controversy does nothing to reduce the importance of the claims that do meet this requirement.
 
-It is fallacious to suppose, simply from the proposition that §1332 imposes both the diversity requirement and the amount-in-controversy requirement, that the contamination theory germane to the former is also relevant to the latter. There is no inherent logical connection between the amount-in-controversy requirement and §1332 diversity jurisdiction. After all, federal-question jurisdiction once had an amount-in-controversy requirement as well. If such a requirement were revived under §1331, it is clear beyond peradventure that §1367(a) provides supplemental jurisdiction over federal-question cases where some, but not all, of the federal-law claims involve a sufficient amount in controversy. In other words, §1367(a) unambiguously overrules the holding and the result in _Clark._ If that is so, however, it would be quite extraordinary to say that §1367 did not also overrule _Zahn,_ a case that was premised in substantial part on the holding in _Clark.
+It is fallacious to suppose, simply from the proposition that §1332 imposes both the diversity requirement and the amount-in-controversy requirement, that the contamination theory germane to the former is also relevant to the latter. There is no inherent logical connection between the amount-in-controversy requirement and §1332 diversity jurisdiction. After all, federal-question jurisdiction once had an amount-in-controversy requirement as well. If such a requirement were revived under §1331, it is clear beyond peradventure that §1367(a) provides supplemental jurisdiction over federal-question cases where some, but not all, of the federal-law claims involve a sufficient amount in controversy. In other words, §1367(a) unambiguously overrules the holding and the result in _Clark._ If that is so, however, it would be quite extraordinary to say that §1367 did not also overrule _Zahn,_ a case that was premised in substantial part on the holding in _Clark_.
 
 We also reject the argument that while the presence of additional claims over which the district court lacks jurisdiction does not mean the civil action is outside the purview of §1367(a), the presence of additional parties does. The basis for this distinction is not altogether clear, and it is in considerable tension with statutory text. Section 1367(a) applies by its terms to any civil action of which the district courts have original jurisdiction, and the last sentence of §1367(a) expressly contemplates that the court may have supplemental jurisdiction over additional parties. So it cannot be the case that the presence of those parties destroys the court's original jurisdiction, within the meaning of §1367(a), over a civil action otherwise properly before it. Also, §1367(b) expressly withholds supplemental jurisdiction in diversity cases over claims by plaintiffs joined as indispensable parties under Rule 19. If joinder of such parties were sufficient to deprive the district court of original jurisdiction over the civil action within the meaning of §1367(a), this specific limitation on supplemental jurisdiction in §1367(b) would be superfluous. The argument that the presence of additional parties removes the civil action from the scope of §1367(a) also would mean that §1367 left the _Finley_ result undisturbed. _Finley,_ after all, involved a Federal Tort Claims Act suit against a federal defendant and state-law claims against additional defendants not otherwise subject to federal jurisdiction. Yet all concede that one purpose of §1367 was to change the result reached in _Finley.
 
@@ -576,6 +570,25 @@ To the extent that the omission of Rule 20 plaintiffs from the list of §1367(b)
 And so we circle back to the original question. When the well-pleaded complaint in district court includes multiple claims, all part of the same case or controversy, and some, but not all, of the claims are within the court's original jurisdiction, does the court have before it "any civil action of which the district courts have original jurisdiction"? It does. Under §1367, the court has original jurisdiction over the civil action comprising the claims for which there is no jurisdictional defect. No other reading of §1367 is plausible in light of the text and structure of the jurisdictional statute. Though the special nature and purpose of the diversity requirement mean that a single nondiverse party can contaminate every other claim in the lawsuit, the contamination does not occur with respect to jurisdictional defects that go only to the substantive importance of individual claims.
 
 It follows from this conclusion that the threshold requirement of §1367(a) is satisfied in cases, like those now before us, where some, but not all, of the plaintiffs in a diversity action allege a sufficient amount in controversy. We hold that §1367 by its plain text overruled _Clark_ and _Zahn_ and authorized supplemental jurisdiction over all claims by diverse parties arising out of the same Article III case or controversy, subject only to enumerated exceptions not applicable in the cases now before us.
+
+::: {.callout-note}
+
+The Court interpreted § 1367 to permit supplemental jurisdiction over claims by multiple plaintiffs against the same defendant, provided complete diversity is preserved, without requiring each plaintiff to satisfy the statutory amount in controversy under § 1332 (as long as at least one does). What about the inverse: Claims by one plaintiff against multiple defendants?
+
+Consider this example: 
+
+- P (a citizen of NC), D1 (a citizen of DC), & D2 (also a citizen of SC) are parties to a contract. 
+- P sues D1 and D2 for breach, seeking $80,000 against D1 and $50,000 against D2. 
+- D1 asserts a crossclaim against D2 for breach of the same contract, seeking $30,000. 
+
+![Claims by a single plaintiff against multiple defendants under §1367(b)](..img/1367b-co-defendants.png){width=60%}
+
+The court would have diversity jurisdiction (§ 1332) over P's claim against D1 standing on its own. Joinder of D2 does not destroy complete diversity. But the claim against D2 does not satisfy § 1332's amount in controversy requirement. 
+
+1. May the court exercise supplemental jurisdiction over P's claim against D2? Does § 1367(b) give a clear answer? 
+2. What about D1's crossclaim against D2 (assuming D2 is properly joined and the court has jurisdiction on same basis over P's claim against D2)? 
+
+:::
 
 #### Supplemental Jurisdiction Analysis
 

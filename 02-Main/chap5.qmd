@@ -206,7 +206,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ## The Rules Enabling Act
 
-#### @2071RuleMakingPower
+##### @2071RuleMakingPower
 
 ::: {.legalcode}
 
