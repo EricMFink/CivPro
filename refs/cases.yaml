@@ -96,18 +96,6 @@ references:
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops
   type: legal_case
 
-- id: CorpWorldFederationAdvertisers_NDTex2026
-  authority: N.D. Tex.
-  citation-key: CorpWorldFederationAdvertisers_NDTex2026
-  issued:
-    - year: 2026
-      month: 3
-      day: 26
-  jurisdiction: ND Texas
-  number: Civil Action No. 7:24-CV-0114-B
-  title: X Corp. v. World Federation of Advertisers
-  type: legal_case
-
 - id: CraneCityArlingtonTexas_5thCir2022
   authority: 5th Cir.
   citation-key: CraneCityArlingtonTexas_5thCir2022

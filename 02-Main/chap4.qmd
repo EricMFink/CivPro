@@ -581,7 +581,7 @@ Consider this example:
 - P sues D1 and D2 for breach, seeking $80,000 against D1 and $50,000 against D2. 
 - D1 asserts a crossclaim against D2 for breach of the same contract, seeking $30,000. 
 
-![Claims by a single plaintiff against multiple defendants under §1367(b)](..img/1367b-co-defendants.png){width=60%}
+![Claims by a single plaintiff against multiple defendants](../img/1367b-codefendants.png){width=60%}
 
 The court would have diversity jurisdiction (§ 1332) over P's claim against D1 standing on its own. Joinder of D2 does not destroy complete diversity. But the claim against D2 does not satisfy § 1332's amount in controversy requirement. 
 

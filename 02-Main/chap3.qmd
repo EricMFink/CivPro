@@ -420,7 +420,7 @@ If Stewartson bears the burden to show this prong, he made a prima facie showing
  
 If the plaintiffs bear the burden to show this prong, they fail. The plaintiffs argue that Stewartson "has maintained a personal crusade" against anyone involved in the Nevada 2020 presidential election, including Patel and Mike Flynn, and that he thus targeted Patel as a Nevadan and directed content about him towards Nevadans. They point to Stewartson's post about Flynn's counsel, Jesse Binnall, flipping "fake electors in Nevada" to "trade for immunity" and Stewartson's post about Patel working for Flynn. The plaintiffs also argue that Stewartson has contacts with Nevada because he criticized Caesars Palace for initially agreeing to host a conservative convention regarding election fraud and because he seemingly anticipated a trial for this case in Nevada.[^patel3] Stewartson's criticism of a Nevadan business and people involved in the Nevada 2020 presidential election are "random, fortuitous, or attenuated" contacts with people affiliated with the state and do not establish a connection between Stewartson and Nevada itself. Even if these contacts were not random or fortuitous, as discussed below, the plaintiffs' claims here do not arise out of or relate to the Caesars Palace or election fraud posts, so they cannot support the exercise of personal jurisdiction under the second prong of the specific personal jurisdiction test.
 
-[^patel3]: (n.3 in opinion) The plaintiffs allege that Stewartson wrote a post on X which stated, "Googly-eyed Kremlin bitch @FBIDirectorKash will have to come back to Nevada for the trial where I explain in full detail to the judge why I was dead serious when I said he's a 'chud.'" Stewartson explains that he made this post after I had entered default judgment and that it therefore indicated his intent to fight the default judgment, not litigate the trial on its merits. Regardless, Stewartson anticipating the possibility of a trial in Nevada does not create a connection between Stewartson and Nevada and does not constitute consent to jurisdiction in Nevada. Moreover, the plaintiffs' claims do not arise out of or relate to this post.
+[^patel3]: (n.3 in opinion) The plaintiffs allege that Stewartson wrote a post on X which stated, "Googly-eyed Kremlin bitch \@FBIDirectorKash will have to come back to Nevada for the trial where I explain in full detail to the judge why I was dead serious when I said he's a 'chud.'" Stewartson explains that he made this post after I had entered default judgment and that it therefore indicated his intent to fight the default judgment, not litigate the trial on its merits. Regardless, Stewartson anticipating the possibility of a trial in Nevada does not create a connection between Stewartson and Nevada and does not constitute consent to jurisdiction in Nevada. Moreover, the plaintiffs' claims do not arise out of or relate to this post.
  
 The plaintiffs' allegations arise out of Stewartson's allegedly defamatory posts on X and Substack, which are about the plaintiffs, who are Nevadan residents. They allege that Stewartson's X followers include Nevada residents and that he tagged Patel, a Nevadan resident, but they do not allege that Stewartson interacted with or tagged his Nevadan followers in relation to the allegedly defamatory posts. Tagging Patel, who happens to be a Nevadan resident, in posts that have nothing to do with Nevada activities or entities does not target a Nevadan audience, and therefore does not create a contact between Stewartson and Nevada. Rather, it creates a contact with Patel himself and "the plaintiff cannot be the only link between the defendant and the forum."
  
@@ -882,7 +882,7 @@ Within the outer bounds allowed under the constitutional due process standard, t
 
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
-_@NYLongArm_
+@NYLongArm
 
 ::: {.legalcode}
 
@@ -910,7 +910,7 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
 
-_@CaliforniaLongArm_
+@CaliforniaLongArm
 
 ::: {.legalcode}
 
