@@ -82,12 +82,12 @@ book:
 
 filters:
   - citetools
-bibliography_cases: refs/cases.json
-bibliography_statutes: refs/statutes.json
-bibliography_other: refs/other.json
+bibliography_cases: refs/cases.yaml
+bibliography_statutes: refs/statutes.yaml
+bibliography_other: refs/other.yaml
+csl: refs/casebook.csl
 nocite: |
   @*
-csl: refs/casebook.csl
 
 format:
   html:
