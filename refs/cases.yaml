@@ -75,7 +75,8 @@ references:
 - id: CarnivalCruiseLinesInc_US1991
   authority: U.S.
   citation-key: CarnivalCruiseLinesInc_US1991
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1991
   page: '585'
@@ -110,7 +111,8 @@ references:
 - id: DaimlerAgBauman_US2014
   authority: U.S.
   citation-key: DaimlerAgBauman_US2014
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2014
   page: '117'
@@ -158,7 +160,8 @@ references:
 - id: ErieCoTompkins_US1938
   authority: U.S.
   citation-key: ErieCoTompkins_US1938
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1938
   page: '64'
@@ -169,7 +172,8 @@ references:
 - id: ExxonMobilCorpAllapattah_US2005
   authority: U.S.
   citation-key: ExxonMobilCorpAllapattah_US2005
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2005
   page: '546'
@@ -180,7 +184,8 @@ references:
 - id: FordMotorCoMontana_US2021
   authority: U.S.
   citation-key: FordMotorCoMontana_US2021
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2021
   page: '351'
@@ -205,7 +210,8 @@ references:
 - id: GrableSonsMetalProducts_US2005
   authority: U.S.
   citation-key: GrableSonsMetalProducts_US2005
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2005
   page: '308'
@@ -227,7 +233,8 @@ references:
 - id: HannaPlumer_US1967
   authority: U.S.
   citation-key: HannaPlumer_US1967
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1967
   page: '460'
@@ -263,7 +270,8 @@ references:
 - id: InternationalShoeCoWashington_US1945
   authority: U.S.
   citation-key: InternationalShoeCoWashington_US1945
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1945
   page: '310'
@@ -389,7 +397,8 @@ references:
 - id: LouisvilleNashvilleCoMottley_US1908
   authority: U.S.
   citation-key: LouisvilleNashvilleCoMottley_US1908
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1908
   page: '149'
@@ -400,7 +409,8 @@ references:
 - id: MalloryNorfolkSouthernRy_US2023
   authority: U.S.
   citation-key: MalloryNorfolkSouthernRy_US2023
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2023
   page: '122'
@@ -408,21 +418,11 @@ references:
   type: legal_case
   volume: '600'
 
-- id: McGeeInternationalLifeIns_US1957
-  authority: U.S.
-  citation-key: McGeeInternationalLifeIns_US1957
-  container-title: US
-  issued:
-    - year: 1957
-  page: '220'
-  title: McGee v. International Life Ins. Co.
-  type: legal_case
-  volume: '355'
-
 - id: MineWorkersGibbs_US1966
   authority: U.S.
   citation-key: MineWorkersGibbs_US1966
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1966
   page: '715'
@@ -504,7 +504,8 @@ references:
 - id: ParklaneHosieryCoShore_US1978
   authority: U.S.
   citation-key: ParklaneHosieryCoShore_US1978
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1978
   page: '322'
@@ -539,7 +540,8 @@ references:
 - id: PennoyerNeff_US1878
   authority: U.S.
   citation-key: PennoyerNeff_US1878
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1878
   page: '714'
@@ -589,6 +591,18 @@ references:
   type: legal_case
   volume: '749'
 
+- id: SmithWessonBrandsEstados_US2025
+  authority: U.S.
+  citation-key: SmithWessonBrandsEstados_US2025
+  container-title: S. Ct.
+  container-title-short: Ct
+  issued:
+    - year: 2025
+  page: '1556'
+  title: Smith & Wesson Brands v. Estados Unidos Mexicanos
+  type: legal_case
+  volume: '145'
+
 - id: StoutVincent_5thCir2018
   accessed:
     - year: 2025
@@ -619,7 +633,8 @@ references:
 - id: SwiftTyson_US1842
   authority: U.S.
   citation-key: SwiftTyson_US1842
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1842
   page: '1'
@@ -630,7 +645,8 @@ references:
 - id: TaylorSturgell_US2008
   authority: U.S.
   citation-key: TaylorSturgell_US2008
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2008
   page: '880'
@@ -665,10 +681,23 @@ references:
   type: legal_case
   volume: '122'
 
+- id: WoodWard_SDOhio1879
+  authority: S.D. Ohio
+  citation-key: WoodWard_SDOhio1879
+  container-title: F.Cas.
+  container-title-short: F.Cas.
+  issued:
+    - year: 1879
+  page: '479'
+  title: Wood v. Ward
+  type: legal_case
+  volume: '30'
+
 - id: WorldWideVolkswagenCorpWoodson_US1979
   authority: U.S.
   citation-key: WorldWideVolkswagenCorpWoodson_US1979
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1979
   page: '286'
