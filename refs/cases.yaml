@@ -430,6 +430,17 @@ references:
   type: legal_case
   volume: '355'
 
+- id: MillerRegionsBank_NDAla2026
+  authority: N.D. Ala.
+  citation-key: MillerRegionsBank_NDAla2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 21
+  number: Case No. 2:24-cv-1324-HDM
+  title: Miller v. Regions Bank
+  type: legal_case
+
 - id: MineWorkersGibbs_US1966
   authority: U.S.
   citation-key: MineWorkersGibbs_US1966

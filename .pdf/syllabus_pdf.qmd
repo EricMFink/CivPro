@@ -22,7 +22,7 @@ ta-email: bturner16@elon.edu
 
 format:
   pdf:
-    template: master.tex
+    template: syllabus.tex
     keep-tex: true
     output-file: CivProSyllabus
 

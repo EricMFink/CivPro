@@ -468,100 +468,6 @@ Under the Federal Rules, parties may amend their pleadings to add or omit claims
 
 :::
 
-#### @TurtonVirginiaDepartmentEducation_EDVa2015
-
-Counsel for the 28 plaintiffs in this case filed the Amended Complaint on July 11, 2014. The Complaint generally alleges various incidents of discrimination against black and special education students in a number of local school divisions and includes both federal and state law claims. The Virginia Department of Education, Chesterfield, Essex, Henrico, and Nottoway County Public Schools, specific principals and teachers, and two attorneys, including Patrick T. Andriano ("Andriano"), the proponent of the current Motion for Rule 11 Sanctions, are among those named as defendants in the suit.
-
-Andriano is an attorney with Reed Smith, LLP "who represented the Henrico and Chesterfield County School Boards regarding issues with Individualized Education Plans ("IEP") developed for five of the Plaintiffs who are or were students in certain public schools in either Henrico County or Chesterfield County." The Amended Complaint asserted claims against Andriano "individually and in his official capacity as counsel for school districts in Central Virginia, including Henrico County Public Schools, Chesterfield County Public Schools, Essex County Public Schools and Nottoway County Public Schools." 
-
-The Amended Complaint alleges that Andriano was "present in many IEP meetings in Henrico and Chesterfield Counties wherein he advised school officials to violate federal and state special education laws... ." It is then alleged that Andriano's actions and omissions "resulted in conspiracy to violate federal and state education laws, and amounted to Negligence, Gross Negligence, Reckless Disregard, and/or Breach of Duty Arising from Special Relationship. Specifically, the acts and omissions attributed to Andriano and alleged in the Amended Complaint include:
-
-> 1\. Denying parents access to their child's school records;
-> 
-> 2\. Advising school officials to conduct IEP meetings when parents were not present and did not waive their right to present in violation of federal law;
-> 
-> 3\. Advising school officials that it was appropriate to bring criminal charges against parents who were vocal about the violations of federal and state education laws related to their children and who disagreed with placement decisions made by the school IEP team;
-> 
-> 4\. Engaging in conduct in IEP meetings that essentially amounted to the bullying and harassment of parents who tried to participate in the meeting;
-> 
-> 5\. Advising school officials to disregard the recommendations of a treating physician with regard to the needs of the SPED student; and
-> 
-> 6\. Conspiring with officials to deny students their right to a FAPE (free appropriate public education) in the least restrictive environment
-
-Many of the Defendants, including Adriano, filed Motions to Dismiss based on various legal theories.
-
-After considering these motions, this Court entered an Order dismissing the Amended Complaint as to all defendants without prejudice on September 23, 2014. In so doing, the Court found that the Complaint violated Fed. R. Civ. P. 8(a) (2) and Fed R. Civ. P. 10(b). The motions to dismiss pursuant to Rules 12(b)(1) and/or 12(b)(6) were denied as moot.
-
-Andriano filed his Motion for Rule 11 Sanctions on September 9, 2014, before the Order dismissing the Amended Complaint was entered, and the Order provides that: "the Court retains jurisdiction to decide Defendant Patrick T. Andriano's Motion for Sanctions pursuant to Rule 11."
-
-[Legal Standard Under Rule 11]{.casesection}
-
-Fed. R. Civ. P. 11 provides in relevant part:
-
-> By presenting to the court a pleading the attorney or unrepresented party is certifying that to the best of that person's knowledge, information, and belief formed after an inquiry reasonable under circumstances:
-> 
-> 1\. it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation;
-> 
-> 2\. the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and
-> 
-> 3\. the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery.
-
-Violation of any one of these prescriptions is sufficient to trigger the mandatory imposition of a sanction. Andriano argues that Plaintiffs and their attorneys have violated all three. 
-
-In situations like these where multiple types of Rule 11 violations are alleged, the Fourth Circuit instructs that district courts consider whether the claims advanced in the pleading are supported by the facts and the law (or a reasonable argument for extending, modifying, or reversing the law) before making a determination of improper purpose. That approach is logical because "whether the pleading has a foundation in fact or is well grounded in law will often influence the determination of the signer's purpose. Additionally, the inquiry under Rule 11(b)(1), which focuses on the signer's central purpose for filing the pleading, is somewhat different than the inquiry under Rule 11(b)(2) and (b)(3), both of which focus on the reasonableness of the signer's inquiry into the factual and legal bases for the claim(s).
-
-When sanctions are sought pursuant to Rule 11(b) (2) and (b) (3), the standard is one of "objective reasonableness" and the court must focus on "whether a reasonable attorney in like circumstances could believe his actions to be factually and legally justified." When engaging in this analysis, the court is tasked with assessing "what was reasonable to believe at the time the pleading was filed." As the rule itself indicates, the relevant circumstances must be considered, and factors such as time pressures and attorney experience may influence the court's reasonableness determination. If, pursuant to this analysis, the court determines that the signer "failed to conduct a reasonable inquiry into the applicable law" and/or facts prior to filing the pleading or motion at issue, Rule 11 sanctions are mandated. 
-
-When a sanction is sought under Rule 11(b) (1), the assessment is made using an "objective standard of reasonableness" in that it is not appropriate to consider the "consequences of the signer's act, subjectively viewed by the signer's opponent." However, it is appropriate to consider "the signer's subjective beliefs to determine the signer's purpose in filing the suit, if such beliefs are revealed through an admission that the signer knew the motion or pleading was baseless but filed it nonetheless."
-
-The text of Rule 11 teaches that "to harass or to cause unnecessary delay or needless increase in the costs of litigation" are all examples of improper purposes. However, those examples are not exclusive. The governing principle is that a complaint must be filed with the sincere and central purpose of vindicating rights in court. If not, its purpose is improper under Rule 11. When a complaint is filed for the proper purpose of vindicating rights _and_ one or more other purposes of which the Court "does not approve," sanctions are only appropriate if "the added purpose is undertaken in bad faith or is so excessive as to eliminate a proper purpose." 
-
-Andriano argues that the claims against him: (1) lack legal basis; (2) lack factual basis; and (3) were filed for an improper purpose. He also notes that Plaintiffs and their counsel were put on notice after the Amended Complaint was filed that their claims against him lacked factual and legal support, but that they nevertheless continued to pursue those claims. Andriano now seeks Rule 11 Sanctions, asking this Court to "enter an order imposing the maximum sanctions permitted by law against plaintiffs and their counsel." 
-
-[Alleged Lack of Legal Basis]{.casesubsection}
-
-Andriano argues that the claims against him lacked legal basis because: (1) the Court lacks subject matter jurisdiction over the claims against him; and (2) the claims are "fatally flawed as a matter of law." 
-
-First, Andriano argues, as he did in his Motion to Dismiss Pursuant to Rule 12(b)(1), that this Court "lacks diversity jurisdiction and lacks federal question jurisdiction to adjudicate purely state law claims brought by Virginia residents against a Virginia resident." Plaintiffs concede that their claims against Mr. Andriano "are in the form of state law claims," but argue that the claims against Mr. Andriano "are so intertwined with the conduct involved in the federal law claims outlined in the Amended Complaint, that they must be reviewed in conjunction with the federal matters." Adriano's jurisdictional argument fails because the Amended Complaint was based on federal question jurisdiction as to defendants other than Adriano and because 28 U.S.C. §1367(a) provides for pendant party jurisdiction over Adriano. And, supplemental jurisdiction over claims against a non-diverse party exists if the supplemental claim at issue arises from the same case or controversy i.e., "if the state and federal claims derive from a common nucleus of operative fact" and are such that "the plaintiff would ordinary be expected to try all of them in one judicial proceeding." 
-
-Plaintiffs' counsel frames her argument on the subject matter jurisdiction issue by asserting that there was a "direct correlation" between the asserted federal claims against other defendants and that the claims against Adriano were "intertwined" with those other claims. It thus appears that a reasonable attorney in like circumstances could have similarly believed that there was subject matter jurisdiction over the claims brought against Andriano.
-
-Second, Andriano argues that the Court lacks subject matter jurisdiction because Plaintiffs failed to exhaust all administrative remedies before filing suit. Plaintiffs provide an explanation for why they did not exhaust all administrative remedies, citing the number of students whose rights were repeatedly and egregiously violated. Specifically, Plaintiffs contend that it would have been "futile" to seek a remedy in an administrative proceeding and argues for "an extension of federal law in the Fourth Circuit to include a much needed exception to the requirement to exhaust all administrative remedies." That argument, as to its merits, is unsupported by any citation to decisional law. Counsel's cogitation that an exception is needed to the rather well-settled exhaustion doctrine cannot be the basis upon which to conclude that an exception is warranted under legal principles. Thus, the Court cannot find that there was a reasonable basis for the failure to exhaust administrative remedies.
-
-Third, Andriano argues that Plaintiffs' state law claims against him lack legal basis and could not be based on a reasonable inquiry into the applicable law. However, the only state common law claim that Andriano found worthy of a detailed review is the claim based on "breach of duty arising from a special relationship." On that point, Andriano asserts that "even a cursory review of the applicable Virginia law would have revealed to Plaintiffs' counsel that no such special relationship could ever exist." In support, Andriano cites numerous Virginia decisions holding that, "in providing legal representation, an attorney's sole duty is to his or her client, and not to any third party." Based on the fundamental nature of this "bedrock rule," Andriano argues that "Plaintiffs' counsel either knew the applicable law and chose to ignore it, or failed to conduct even the most basic research to determine what the applicable law is." 
-
-Andriano also correctly asserts that, "at no point have plaintiffs identified what, if any, legal research they claim was performed prior to filing the Complaint or Amended Complaint against Mr. Andriano." 
-
-The law of Virginia is quite clear on this subject. Plaintiff's counsel has not shown that any prefiling legal research was undertaken in an effort to find legal support for the "special relationship" assertions in the Amended Complaint. And, given the clear and settled nature of Virginia law on the subject, it is difficult to conclude that any such research was undertaken. On this record then, the Court finds that there was no prefiling inquiry into the law that applies to the special relationship assertions in the Amended Complaint.
-
-[Factual Basis]{.casesubsection}
-
-Next, Andriano asserts that Plaintiffs' claims against him are factually unsupported. In short, Andriano argues that the "Complaint fails to set forth specific factual allegations supporting Plaintiffs' purported claims" and Plaintiffs' counsel failed to make an effort to determine that their claims are factually supported. Andriano argues that it is not enough that Plaintiffs allege that Mr. Andriano was "present at certain unspecified meetings and that he provided legal advice to his clients." 
-
-In response, Plaintiffs' counsel asserts that counsel attended fifty or more IEP meetings at which Andriano was present ten or more times, and counsel has recordings of these meetings evidencing Andriano's attempt to bully, harass, and intimidate parents and improperly advise administrators and teachers to violate federal law. In addition, Plaintiffs' counsel asserts she has spent "in excess of 200 hours attending IEP meetings, reviewing school records and IEP documents and meetings with parents." 
-
-That record shows a substantial basis for the allegations about Adriano's presence at, and his observed conduct during, some of the meetings alleged in the Amended Complaint. However, the record now shows that the allegation that Adriano was not counsel for the School Board of Essex and Nottoway Counties. Thus, "even a cursory investigation" would have revealed that Adriano did not represent the school boards for either Nottoway County or Essex County and that he was not involved in the development of IEPs for the student-plaintiffs attending schools in those counties. In sum, there was not an adequate investigation into the factual basis for allegations to the contrary.
-
-[Improper Purpose]{.casesubsection}
-
-Finally, Andriano argues that Plaintiff's claims against him are not asserted for any proper purpose. In support, Andriano cites the fact that plaintiffs sought monetary damages in excess of $20,000,000.00 based on "putative claims that do not contain common factual issues or common questions of law." Additionally, Andriano suggests that, if Plaintiffs truly had a proper purpose in filing their Complaint, they would not have failed to exhaust administrative remedies, would not have waited until some of the student-plaintiffs failed to be enrolled in the defendant school systems, and would not have sought such an exorbitant sum of money. Id.
-
-Andriano alleges that Plaintiffs "primary motives were to gain publicity, and to embarrass teachers, principals, and state and county officials." Id. Of course, if that allegation is true, sanctions would be mandated because the only proper central purpose for filing a complaint is to vindicate rights in court, not to gain publicity or embarrass officials into acting as Plaintiffs' counsel think they should. To support his contention, Andriano cites counsel's public statements which include, "We took a chance because there was not a lot of case law on doing something like this, but something had to be done to wake up the defendants and get the information out there." 
-
-Andriano cites Kunstler as an example of a similar case where the "primary motives in filing the complaint were to gain publicity, to embarrass state and county officials ..." However, in Kunstler, the "district court concluded that plaintiffs' counsel never intended to litigate the §1983 action," and that determination clearly supported the award of sanctions based on improper purpose. Here, it is not clear that Plaintiffs never intended to follow through with and litigate their claims against Andriano, and the Court cannot conclude that counsel used the threat of litigation as a mere bargaining chip.
-
-As discussed above, the subjective views of Andriano about Plaintiffs' purpose in filing the suit are irrelevant to the analysis. Rather, the Court must determine Plaintiff's purpose based on objective or otherwise reliable evidence. There is no direct evidence on which to make such a finding. However, the Court's findings on the existence of reasonable factual and legal support for claims can affect the analysis under this prong of Rule 11. In that regard, where "counsel willfully files a baseless complaint, a court may properly infer that it was filed ... for some purpose other than to vindicate rights through the judicial process."
-
-[Are Sanctions Appropriate?]{.casesubsection}
-
-Given the findings that there was a lack of legal support for, and a lack of legal inquiry into, the special relationship theory that lies at the core of claims against Adriano, and considering the public statements of Plaintiffs' counsel, the Court concludes that sanctions are appropriate.
-
-[Appropriate Sanction(s) and Possible Need for a Hearing]{.casesubsection}
-
-Sanctions under Rule 11 may be monetary or nonmonetary, and only "the least severe sanction adequate to serve the purposes of Rule 11 Should be imposed. The case law makes clear that the primary purpose of Rule 11 is to deter improper litigation rather than to compensate the opposing party for the costs of defending the lawsuit. In fashioning a sanction, the court should consider: (1) the reasonableness of the opposing party's attorney's fees; (2) the minimum to deter; (3) ability to pay; and (4) factors related to the severity of the Rule 11 violation. The court may also "consider factors such as the offending party's history, experience, and ability, the severity of the violation, the degree to which malice or bad faith contributed to the violation, the risk of chilling, the type of litigation involved, and other factors as deemed appropriate in individual circumstances." 
-
-There is not a sufficient record on which to make the determination of what a reasonable sanction would be. Counsel shall confer and advise the Court, by January 31, 2015, how such a record can be framed. Alternatively, counsel could agree on a sanction and propose it for consideration.
-
 #### @HunterEarthgrainsCoBakery_4thCircuit2001
 
 By Order of October 23, 2000, appellant Pamela A\. Hunter, a practicing attorney in Charlotte, North Carolina, and an active member of the North Carolina State Bar, was suspended from practice in the Western District of North Carolina for five years. Ms. Hunter appeals this suspension, imposed upon her pursuant to Rule 11 of the Federal Rules of Civil Procedure. As explained below, we conclude that her appeal has merit, and we vacate her suspension from practice by the district court.
@@ -803,6 +709,8 @@ In determining the amount of time, the Court has considered the nine hours plain
 [Conclusion]{.casesection}
 
 Steven W. Shaw filed the motion for attorney's fees with no legal or factual support and for improper purposes, and he vexatiously multiplied the proceedings in bad faith. Craig Brooksby is responsible for the filing of the motion because he also had an improper purpose of harassing the plaintiffs and their lawyers. Mr. Matheny is equally responsible for the filing of a motion without legal and factual support. Sanctions are appropriate to deter these three men and others who might be tempted to break the rules and abuse the litigation process.
+
+#### Miller v. Regions Bank
 
 ## Review Questions 
 

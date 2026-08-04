@@ -52,6 +52,7 @@ book:
       - 02-Main/chap6.qmd
       - 02-Main/chap7.qmd
       - 02-Main/chap8.qmd
+      - 03-Back/references.qmd
       - 03-Back/ack.qmd
       - 03-Back/colophon.qmd
     - part: Visuals
@@ -84,6 +85,8 @@ filters:
 bibliography_cases: refs/cases.json
 bibliography_statutes: refs/statutes.json
 bibliography_other: refs/other.json
+nocite: |
+  @*
 csl: refs/casebook.csl
 
 format:
