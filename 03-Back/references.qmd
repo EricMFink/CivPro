@@ -4,17 +4,17 @@
 
 ### Cases
 
-::: {#refs-cases}
+::: {#refs_cases}
 :::
 
 ### Statutes
 
-::: {#refs-statutes}
+::: {#refs_statutes}
 :::
 
 ### Books, Articles, & Other Publications
 
-::: {#refs-other}
+::: {#refs_other}
 :::
 
 :::

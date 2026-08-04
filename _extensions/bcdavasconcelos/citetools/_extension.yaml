@@ -11,6 +11,6 @@ contributes:
   format:
     common:
       verbosity: ERROR
-      citeproc: true
+      citeproc: false
       link-citations: false
       validate-yaml: false

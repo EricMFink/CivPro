@@ -81,11 +81,10 @@ book:
     - links.qmd
 
 filters:
-  - multibib
-validate-yaml: false
-cases: refs/cases.yaml
-statutes: refs/statutes.yaml
-other: refs/other.yaml
+  - citetools
+bibliography_cases: refs/cases.yaml
+bibliography_statutes: refs/statutes.yaml
+bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
 
 format:
