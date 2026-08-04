@@ -86,6 +86,8 @@ bibliography_cases: refs/cases.yaml
 bibliography_statutes: refs/statutes.yaml
 bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
+nocite: |
+  @*
 
 format:
   html:
