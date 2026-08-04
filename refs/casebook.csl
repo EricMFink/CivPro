@@ -143,7 +143,7 @@
 			<text variable="volume"/>
         	<text variable="container-title"/>
         	<text variable="section" prefix="§ "/>
-        	<text variable="title" prefix=" &amp;#x2013; "/>
+        	<text variable="title" prefix=". "/>
 		</group>
 	  </else-if>
       <else-if type="hearing">
