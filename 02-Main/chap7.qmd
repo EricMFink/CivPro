@@ -92,9 +92,7 @@ To permit such a decree, obtained under such circumstances, against a human bein
 
 On the trial of this case in this court, the plaintiff offered full and satisfactory evidence of her freedom at the time of the committing of the several grievances complained of, whilst defendant offered no opposing testimony. He rested his case wholly on the judgment pleaded and relied on by him. As this judgment does not, in our opinion, conclude the plaintiff, the verdict of the jury must stand. The damages are not excessive; the motion for a new trial will be disallowed, and judgment entered thereon in plaintiff's favor.
 
-## Claim & Issue Preclusion 
-
-### General Principles
+## Claim Preclusion 
 
 #### Rest. (2d) of Judgments 
 
@@ -102,38 +100,36 @@ On the trial of this case in this court, the plaintiff offered full and satisfac
 
 ##### § 13. Requirement of Finality 
 
-The rules of res judicata are applicable only when a final judgment is rendered. However, for purposes of issue preclusion (as distinguished from merger and bar), "final judgment" includes any prior adjudication of an issue in another action that is determined to be sufficiently firm to be accorded conclusive effect.
+- The rules of res judicata are applicable only when a final judgment is rendered. However, for purposes of issue preclusion (as distinguished from merger and bar), "final judgment" includes any prior adjudication of an issue in another action that is determined to be sufficiently firm to be accorded conclusive effect.
 
 ##### § 14. Effective Date of Final Judgment
 
-For purposes of res judicata, the effective date of a final judgment is the date of its rendition, without regard to the date of commencement of the action in which it is rendered or the action in which it is to be given effect.
+- For purposes of res judicata, the effective date of a final judgment is the date of its rendition, without regard to the date of commencement of the action in which it is rendered or the action in which it is to be given effect.
 
 ##### § 15. Inconsistent Judgments
 
-When in two actions inconsistent final judgments are rendered, it is the later, not the earlier, judgment that is accorded conclusive effect in a third action under the rules of res judicata.
+- When in two actions inconsistent final judgments are rendered, it is the later, not the earlier, judgment that is accorded conclusive effect in a third action under the rules of res judicata.
 
 ##### § 16. Judgment Based Upon a Judgment That Is Subsequently Reversed
 
-A judgment based on an earlier judgment is not nullified automatically by reason of the setting aside, or reversal on appeal, or other nullification of that earlier judgment; but the later judgment may be set aside, in appropriate proceedings, with provision for any suitable restitution of benefits received under it.
+- A judgment based on an earlier judgment is not nullified automatically by reason of the setting aside, or reversal on appeal, or other nullification of that earlier judgment; but the later judgment may be set aside, in appropriate proceedings, with provision for any suitable restitution of benefits received under it.
 
 ##### § 17. Effects of Former Adjudication—General Rules
 
-A valid and final personal judgment is conclusive between the parties, except on appeal or other direct review, to the following extent:
-
-- (1\) If the judgment is in favor of the plaintiff, the claim is extinguished and merged in the judgment and a new claim may arise on the judgment (see §18);
-- (2\) If the judgment is in favor of the defendant, the claim is extinguished and the judgment bars a subsequent action on that claim (see §19);
-- (3\) A judgment in favor of either the plaintiff or the defendant is conclusive, in a subsequent action between them on the same or a different claim, with respect to any issue actually litigated and determined if its determination was essential to that judgment (see §27).
+- A valid and final personal judgment is conclusive between the parties, except on appeal or other direct review, to the following extent:
+	- (1\) If the judgment is in favor of the plaintiff, the claim is extinguished and merged in the judgment and a new claim may arise on the judgment (see §18);
+	- (2\) If the judgment is in favor of the defendant, the claim is extinguished and the judgment bars a subsequent action on that claim (see §19);
+	- (3\) (Omitted).
 
 ##### § 18. Judgment for Plaintiff—The General Rule of Merger
 
-When a valid and final personal judgment is rendered in favor of the plaintiff:
-
-- (1\) The plaintiff cannot thereafter maintain an action on the original claim or any part thereof, although he may be able to maintain an action upon the judgment; and
-- (2\) In an action upon the judgment, the defendant cannot avail himself of defenses he might have interposed, or did interpose, in the first action.
+- When a valid and final personal judgment is rendered in favor of the plaintiff:
+	- (1\) The plaintiff cannot thereafter maintain an action on the original claim or any part thereof, although he may be able to maintain an action upon the judgment; and
+	- (2\) In an action upon the judgment, the defendant cannot avail himself of defenses he might have interposed, or did interpose, in the first action.
 
 ##### § 19. Judgment for Defendant—The General Rule of Bar
 
-A valid and final personal judgment rendered in favor of the defendant bars another action by the plaintiff on the same claim.
+- A valid and final personal judgment rendered in favor of the defendant bars another action by the plaintiff on the same claim.
 
 ##### § 20. Judgment for Defendant—Exceptions to the General Rule of Bar
 
@@ -157,7 +153,7 @@ A valid and final personal judgment rendered in favor of the defendant bars anot
 
 ##### § 23. Judgment for Plaintiff on Defendant’s Counterclaim
 
-Where the defendant interposes a claim as a counterclaim and a valid and final judgment is rendered against him on the counterclaim, the rules of bar are applicable to the judgment.
+- Where the defendant interposes a claim as a counterclaim and a valid and final judgment is rendered against him on the counterclaim, the rules of bar are applicable to the judgment.
 
 ##### § 24. Dimensions of "Claim" for Purposes of Merger or Bar—General Rule Concerning "Splitting" 
 
@@ -168,10 +164,9 @@ The general rule of this Section is exemplified in §25, and is subject to the e
 
 ##### § 25. Exemplifications of General Rule Concerning Splitting
 
-The rule of §24 applies to extinguish a claim by the plaintiff against the defendant even though the plaintiff is prepared in the second action
-
-- (1\) To present evidence or grounds or theories of the case not presented in the first action, or
-- (2\) To seek remedies or forms of relief not demanded in the first action.
+- The rule of §24 applies to extinguish a claim by the plaintiff against the defendant even though the plaintiff is prepared in the second action
+	- (1\) To present evidence or grounds or theories of the case not presented in the first action, or
+	- (2\) To seek remedies or forms of relief not demanded in the first action.
 
 ##### § 26. Exceptions to the General Rule Concerning Splitting
 
@@ -183,36 +178,7 @@ The rule of §24 applies to extinguish a claim by the plaintiff against the defe
 	- (e\) For reasons of substantive policy in a case involving a continuing or recurrent wrong, the plaintiff is given an option to sue once for the total harm, both past and prospective, or to sue from time to time for the damages incurred to the date of suit, and chooses the latter course; or
 	- (f\) It is clearly and convincingly shown that the policies favoring preclusion of a second action are overcome for an extraordinary reason, such as the apparent invalidity of a continuing restraint or condition having a vital relation to personal liberty or the failure of the prior litigation to yield a coherent disposition of the controversy.
 
-##### § 27. Issue Preclusion—General Rule
-
-When an issue of fact or law is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, the determination is conclusive in a subsequent action between the parties, whether on the same or a different claim.
-
-##### § 28. Exceptions to the General Rule of Issue Preclusion
-
-Although an issue is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, relitigation of the issue in a subsequent action between the parties is not precluded in the following circumstances:
-
-- (1\) The party against whom preclusion is sought could not, as a matter of law, have obtained review of the judgment in the initial action; or
-- (2\) The issue is one of law and (a) the two actions involve claims that are substantially unrelated, or (b) a new determination is warranted in order to take account of an intervening change in the applicable legal context or otherwise to avoid inequitable administration of the laws; or
-- (3\) A new determination of the issue is warranted by differences in the quality or extensiveness of the procedures followed in the two courts or by factors relating to the allocation of jurisdiction between them; or
-- (4\) The party against whom preclusion is sought had a significantly heavier burden of persuasion with respect to the issue in the initial action than in the subsequent action; the burden has shifted to his adversary; or the adversary has a significantly heavier burden than he had in the first action; or
-- (5\) There is a clear and convincing need for a new determination of the issue (a\) because of the potential adverse impact of the determination on the public interest or the interests of persons not themselves parties in the initial action, (b\) because it was not sufficiently foreseeable at the time of the initial action that the issue would arise in the context of a subsequent action, or (c\) because the party sought to be precluded, as a result of the conduct of his adversary or other special circumstances, did not have an adequate opportunity or incentive to obtain a full and fair adjudication in the initial action.
-
-##### § 29. Issue Preclusion in Subsequent Litigation with Others 
-
-A party precluded from relitigating an issue with an opposing party, in accordance with §§27 and 28, is also precluded from doing so with another person unless the fact that he lacked full and fair opportunity to litigate the issue in the first action or other circumstances justify affording him an opportunity to relitigate the issue. The circumstances to which considerations should be given include those enumerated in §28 and also whether:
-
-- (1\) Treating the issue as conclusively determined would be incompatible with an applicable scheme of administering the remedies in the actions involved;
-- (2\) The forum in the second action affords the party against whom preclusion is asserted procedural opportunities in the presentation and determination of the issue that were not available in the first action and could likely result in the issue being differently determined;
-- (3\) The person seeking to invoke favorable preclusion, or to avoid unfavorable preclusion, could have effected joinder in the first action between himself and his present adversary;
-- (4\) The determination relied on as preclusive was itself inconsistent with another determination of the same issue;
-- (5\) The prior determination may have been affected by relationships among the parties to the first action that are not present in the subsequent action, or apparently was based on a compromise verdict or finding;
-- (6\) Treating the issue as conclusively determined may complicate determination of issues in the subsequent action or prejudice the interests of another party thereto;
-- (7\) The issue is one of law and treating it as conclusively determined would inappropriately foreclose opportunity for obtaining reconsideration of the legal rule upon which it was based;
-- (8\) Other compelling circumstances make it appropriate that the party be permitted to relitigate the issue.
-
 :::
-
-### Claim Preclusion
 
 #### @JohnsonSpencer_10thCir2020
 
@@ -598,7 +564,46 @@ Ultimately, this result is consistent with basic fairness. If claim preclusion a
 
 That does not necessarily mean giving litigants like Passaro a second bite at the apple. If Passaro raised issues about discrimination and retaliation during the grievance process, and those issues were actually decided, then issue preclusion may bar relitigating them. We do not decide the availability or scope of issue preclusion, which is not before us. Moreover, claim preclusion could still conceivably bar Passaro's Title VII action to the extent he seeks remedies (such as reinstatement and back pay) that were available through the grievance process. Because the Commonwealth has not advanced that more limited claim-preclusion argument, we do not address it. We hold merely that claim preclusion does not bar Passaro's Title VII claims _in full_—that is, even for compensatory damages unavailable in the prior suit—which means that the district court erred in dismissing them on that ground.
 
-### Issue Preclusion
+## Issue Preclusion
+
+#### Rest. (2d) of Judgments 
+
+::: {.legalcode}
+
+##### § 17. Effects of Former Adjudication—General Rules
+
+- A valid and final personal judgment is conclusive between the parties, except on appeal or other direct review, to the following extent:
+	- (1\) (Omitted);
+	- (2\) (Omitted);
+	- (3\) A judgment in favor of either the plaintiff or the defendant is conclusive, in a subsequent action between them on the same or a different claim, with respect to any issue actually litigated and determined if its determination was essential to that judgment (see §27).
+
+##### § 27. Issue Preclusion—General Rule
+
+- When an issue of fact or law is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, the determination is conclusive in a subsequent action between the parties, whether on the same or a different claim.
+
+##### § 28. Exceptions to the General Rule of Issue Preclusion
+
+- Although an issue is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, relitigation of the issue in a subsequent action between the parties is not precluded in the following circumstances:
+	- (1\) The party against whom preclusion is sought could not, as a matter of law, have obtained review of the judgment in the initial action; or
+	- (2\) The issue is one of law and (a) the two actions involve claims that are substantially unrelated, or (b) a new determination is warranted in order to take account of an intervening change in the applicable legal context or otherwise to avoid inequitable administration of the laws; or
+	- (3\) A new determination of the issue is warranted by differences in the quality or extensiveness of the procedures followed in the two courts or by factors relating to the allocation of jurisdiction between them; or
+	- (4\) The party against whom preclusion is sought had a significantly heavier burden of persuasion with respect to the issue in the initial action than in the subsequent action; the burden has shifted to his adversary; or the adversary has a significantly heavier burden than he had in the first action; or
+	- (5\) There is a clear and convincing need for a new determination of the issue (a\) because of the potential adverse impact of the determination on the public interest or the interests of persons not themselves parties in the initial action, (b\) because it was not sufficiently foreseeable at the time of the initial action that the issue would arise in the context of a subsequent action, or (c\) because the party sought to be precluded, as a result of the conduct of his adversary or other special circumstances, did not have an adequate opportunity or incentive to obtain a full and fair adjudication in the initial action.
+
+##### § 29. Issue Preclusion in Subsequent Litigation with Others 
+
+- A party precluded from relitigating an issue with an opposing party, in accordance with §§27 and 28, is also precluded from doing so with another person unless the fact that he lacked full and fair opportunity to litigate the issue in the first action or other circumstances justify affording him an opportunity to relitigate the issue. The circumstances to which considerations should be given include those enumerated in §28 and also whether:
+	- (1\) Treating the issue as conclusively determined would be incompatible with an applicable scheme of administering the remedies in the actions involved;
+	- (2\) The forum in the second action affords the party against whom preclusion is asserted procedural opportunities in the presentation and determination of the issue that were not available in the first action and could likely result in the issue being differently determined;
+	- (3\) The person seeking to invoke favorable preclusion, or to avoid unfavorable preclusion, could have effected joinder in the first action between himself and his present adversary;
+	- (4\) The determination relied on as preclusive was itself inconsistent with another determination of the same issue;
+	- (5\) The prior determination may have been affected by relationships among the parties to the first action that are not present in the subsequent action, or apparently was based on a compromise verdict or finding;
+	- (6\) Treating the issue as conclusively determined may complicate determination of issues in the subsequent action or prejudice the interests of another party thereto;
+	- (7\) The issue is one of law and treating it as conclusively determined would inappropriately foreclose opportunity for obtaining reconsideration of the legal rule upon which it was based;
+	- (8\) Other compelling circumstances make it appropriate that the party be permitted to relitigate the issue.
+
+:::
+
 
 #### @NationalSatelliteSports_6thCir2001
 

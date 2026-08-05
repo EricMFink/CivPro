@@ -1,8 +1,6 @@
 # Pleading
 
-## Presenting Claims and Defenses
-
-### Pleading Under the Federal Rules 
+## Pleading Under the Federal Rules 
 
 ::: {.legalcode}
 
@@ -161,7 +159,7 @@ A complaint is a mechanism to fairly, precisely, directly, soberly, and economic
 
 This complaint stands unmistakably and inexcusably athwart the requirements of Rule 8. This action will begin, will continue, and will end in accord with the rules of procedure and in a professional and dignified manner. The complaint is STRUCK with leave to amend within twenty-eight days. The amended complaint must not exceed forty pages, excluding only the caption, the signature, and any attachment.
 
-### Assessing the Sufficiency of a Claim
+## Assessing the Sufficiency of a Claim
 
 Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a short and plain statement of the claim showing that the pleader is entitled to relief". This requirement applies to any party (whether in the position of plaintiff or defendant) who asserts a claim, counterclaim, crossclaim, or third-party claim.
 
@@ -401,7 +399,7 @@ When a court dismisses a claim under Rule 12, it will often do so "without preju
 
 :::
 
-### Answers & Defenses
+## Answers & Defenses
 
 #### @ReisRoboticsUSAInc_NDIll2006
 
