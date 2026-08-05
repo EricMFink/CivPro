@@ -426,13 +426,13 @@ Peggy sues Sterling Cooper in federal court, asserting a claim for breach of con
 
 In her complaint, Peggy seeks compensatory damages for her loss of employment. 
 
-[Part A]{.case-section}
+[Part A]{.casesection}
 
 Under Hudson state law, compensatory damages for wrongful termination in breach of an employment contract are limited to an amount equal to three times the plaintiff's annual earnings (wages or salary) in their last year of employment. In contrast, in cases for wrongful termination under federal law, there is no such cap on the amount of compensatory damages. 
 
 _Which rule should the federal court apply in this case?_
 
-[Part B]{.case-section}
+[Part B]{.casesection}
 
 Under Hudson state law, a complaint for breach of contract must include an itemized statement showing the basis and amount of compensatory damages sought. In contract, under FRCP Rule 8(a)(3), the "demand for relief sought" requires only a general statement that the plaintiff seeks compensatory damages. 
 
@@ -451,7 +451,7 @@ Carlill sues Carbolic for fraud under Euphoria state law. Her complaint alleges 
 
 Carlill files her suit in the U.S. District Court for the District of Euphoria, which has subject matter jurisdiction based on diversity of citizenship. 
 
-[Part A]{.case-section}
+[Part A]{.casesection}
 
 FRCP Rule 8(a)(3) provides that a complaint must include "a demand for the relief sought, which may include relief in the alternative or different types of relief." Under this rule, a plaintiff may request both legal remedies (usually money damages) and equitable relief (such as an injunction) in the same complaint. 
 
@@ -461,7 +461,7 @@ Carbolic objects that Carlill's request for both money damages and an injunction
 
 _Should the court apply state or federal law on this issue?_ 
 
-[Part B]{.case-section}
+[Part B]{.casesection}
 
 Under Euphoria state law, a consumer asserting a fraud claim based on an allegedly false advertisement must plead and prove the following elements:
 

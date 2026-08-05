@@ -239,9 +239,9 @@ Applying that standard to Iqbal's complaint, the majority concluded that the all
 
 The Government of Mexico brought this lawsuit against seven American gun manufacturers. As required by a federal statute, Mexico seeks to show (among other things) that the defendant companies participated in the unlawful sale or marketing of firearms. _See_ 15 U.S.C. §7903(5)(A)(iii). More specifically, Mexico alleges that the companies aided and abetted unlawful sales routing guns to Mexican drug cartels. The question presented is whether Mexico's complaint plausibly pleads that conduct. We conclude it does not.
 
-[I]{.case-section}
+[I]{.casesection}
 
-[A]{.case-subsection}
+[A]{.casesubsection}
 
 The [Protection of Lawful Commerce in Arms Act (PLCAA)](https://www.law.cornell.edu/uscode/text/15/chapter-105), 15 U.S.C. §§7901-7903, bars certain lawsuits against manufacturers and sellers of firearms. Congress enacted the statute in response to a spate of litigation trying to hold gun companies liable in tort for harms "caused by the misuse of firearms by third parties, including criminals." To curb such suits, PLCAA provides that a "qualified civil liability action," as defined in the Act, "may not be brought in any Federal or State court." The Act's definition of that term includes a "civil action or proceeding" against a firearms manufacturer or seller stemming from "the criminal or unlawful misuse" of a firearm by "a third party."
 
@@ -249,7 +249,7 @@ But PLCAA's general bar on those suits has an exception, usually called the pred
 
 Notably here, the predicate violation PLCAA demands may come from aiding and abetting someone else's firearms offense. The predicate exception itself lists as examples two ways in which aiding and abetting qualifies—when a gun manufacturer (or seller) aids and abets another person either in making a false statement about a gun sale's legality or in making specified criminal sales. And more broadly, aiding and abetting can qualify as a PLCAA predicate violation by virtue of another law assimilating an accomplice's liability to a principal's. The federal statute generally accomplishing that task is 18 U.S.C. §2(a), which provides that whoever "aids \[and\] abets" the commission of a federal crime "is punishable as a principal." Because of that provision, a gun manufacturer that aids and abets a federal gun crime may itself commit a PLCAA predicate violation. So principles of aiding and abetting from the criminal law—establishing what counts as aiding and abetting and what does not—may determine whether a plaintiff can satisfy PLCAA's predicate exception and thus proceed with a civil suit otherwise barred. And that dependence on aiding-and-abetting law is a feature of the case before us.
 
-[B]{.case-subsection}
+[B]{.casesubsection}
 
 Mexico has a severe gun violence problem, which its government views as coming from north of the border. The country has only a single gun store, and issues fewer than 50 gun permits each year. But gun traffickers can purchase firearms in the United States—often in illegal transactions—and deliver them to drug cartels in Mexico. Those groups, predictably enough, use the imported firearms to commit serious crimes—drug dealing, kidnapping, murder, and others. According to the Mexican Government, as many as 90% of the guns recovered at crime scenes in Mexico originated in the United States.
 
@@ -271,11 +271,11 @@ And third, Mexico alleges that the manufacturers make "design and marketing deci
 
 The defendant manufacturers moved to dismiss Mexico's complaint, contending that PLCAA barred the suit. The District Court granted the motion. But the Court of Appeals for the First Circuit reversed. It found that Mexico's complaint plausibly "alleged that defendants have been aiding and abetting the illegal sale of firearms by dealers." And because, in the court's view, the complaint also plausibly alleged that the defendants' aiding-and-abetting conduct proximately caused injury to Mexico, PLCAA's predicate exception was satisfied. As a result, Mexico's suit against the manufacturers could go forward.
 
-[II]{.case-section}
+[II]{.casesection}
 
 Mexico's complaint survives PLCAA only if, in accord with usual pleading rules, it has plausibly alleged conduct falling within the statute's predicate exception. See _Ashcroft_ v. _Iqbal,_ 556 U. S. 662 (2009). Because Mexico relies exclusively on an aiding-and-abetting theory, that means plausibly alleging that the manufacturers have aided and abetted gun dealers' firearms offenses (such as sales to straw purchasers), so as to proximately cause harm to Mexico. We need not address the proximate cause question, because we find that Mexico has not plausibly alleged aiding and abetting on the manufacturers' part. "Plausibly" does not mean "probably," but "it asks for more than a sheer possibility that a defendant has acted unlawfully." And Mexico has not met that bar. Its complaint does not plausibly allege the kind of "conscious ... and culpable participation in another's wrongdoing" needed to make out an aiding-and-abetting charge.
 
-[A]{.case-subsection}
+[A]{.casesubsection}
 
 Federal aiding-and-abetting law "reflects a centuries-old view of culpability: that a person may be responsible for a crime he has not personally carried out" if he deliberately "helps another to complete its commission." To aid and abet a crime, a person must "take an affirmative act in furtherance of that offense." And he must "intend to facilitate the offense's commission." Or as Judge Learned Hand stated those requisites, in what has become a canonical formulation, an aider and abettor must "participate in" a crime "as in something that he wishes to bring about" and "seek by his action to make it succeed." 
 
@@ -285,7 +285,7 @@ Two of our cases—one approving liability for aiding another's crime, the other
 
 By contrast, this Court recently ordered the dismissal of a suit against several social-media companies for aiding and abetting a terrorist attack carried out by ISIS. See [_Twitter, Inc. v. Taamneh_, 598 US 471](https://scholar.google.com/scholar_case?case=2294521463212185116). The plaintiffs, victims of the attack, alleged that adherents of ISIS used the companies' platforms for recruiting and fundraising. The complaint further asserted that the companies knew that was so, yet failed to identify and remove the ISIS-related accounts and content. But we held that was not enough to make the companies liable for ISIS's terrorist acts. The companies' relationship with ISIS and its supporters, we reasoned, was "the same as their relationship with their billion-plus other users: arm's length, passive, and largely indifferent." There were no allegations that the companies had given ISIS "any special treatment," or "encouraged, solicited, or advised" the group. Instead, after providing their platforms for general use, the companies "at most allegedly stood back and watched." More was needed, we stated, for a provider of generally available goods or services to be liable for a customer's misuse of them—for example, conduct of the kind in _Direct Sales._ When a company merely knows that "some bad actors" are taking "advantage" of its products for criminal purposes, it does not aid and abet. And that is so even if the company could adopt measures to reduce their users' downstream crimes.
 
-[B]{.case-subsection}
+[B]{.casesubsection}
 
 Viewed against the backdrop of that law, Mexico's complaint does not plausibly allege that the defendant manufacturers aided and abetted gun dealers' unlawful sales of firearms to Mexican traffickers. We have little doubt that, as the complaint asserts, some such sales take place—and that the manufacturers know they do. But still, Mexico has not adequately pleaded what it needs to: that the manufacturers "participate in" those sales "as in something that they wish to bring about," and "seek by their action to make" succeed.
 
@@ -303,7 +303,7 @@ For related reasons, Mexico's second set of allegations—that the manufacturers
 
 Finally, Mexico's allegations about the manufacturers' "design and marketing decisions" add nothing of consequence. As noted above, Mexico here focuses on the manufacturers' production of "military style" assault weapons, among which it includes AR-15 rifles, AK-47 rifles, and .50 caliber sniper rifles. But those products are both widely legal and bought by many ordinary consumers. (The AR-15 is the most popular rifle in the country.) The manufacturers cannot be charged with assisting in criminal acts just because Mexican cartel members like those guns too. The same is true of firearms with Spanish-language names or graphics alluding to Mexican history. Those guns may be "coveted by the cartels," as Mexico alleges; but they also may appeal, as the manufacturers rejoin, to "millions of law-abiding Hispanic Americans." That leaves only the allegation that the manufacturers have not attempted to make guns with nondefaceable serial numbers. But the failure to improve gun design in that way (which federal law does not require) cannot in the end show that the manufacturers have "joined both mind and hand" with lawbreakers in the way needed to aid and abet.
 
-[C]{.case-subsection}
+[C]{.casesubsection}
 
 All of that means PLCAA prevents Mexico's suit from going forward. The kinds of allegations Mexico makes cannot satisfy the demands of the statute's predicate exception. That exception permits a suit to be brought against a gun manufacturer that has aided and abetted a firearms violation (and in so doing proximately caused the plaintiff's harm). And Mexico's complaint, for the reasons given, does not plausibly allege such aiding and abetting. So this suit remains subject to PLCAA's general bar: An action cannot be brought against a manufacturer if, like Mexico's, it is founded on a third-party's criminal use of the company's product.
 
@@ -403,9 +403,7 @@ Although the analysis of the control element does not depend on the presence or 
 
 ::: {.callout-note}
 
-##### Amended Pleadings
-
-Under the Federal Rules, parties may amend their pleadings to add or omit claims and defenses, add or drop parties, alter the relief sought, or revise factual allegations, admissions, or denials. Fed. R. Civ. P. Rule 15 governs the conditions and procedure for amendment, including provisions for "relation back" of amendments where a newly added claim would otherwise be barred by the statute of limitations. 
+**Amended Pleadings**: Under the Federal Rules, parties may amend their pleadings to add or omit claims and defenses, add or drop parties, alter the relief sought, or revise factual allegations, admissions, or denials. Fed. R. Civ. P. Rule 15 governs the conditions and procedure for amendment, including provisions for "relation back" of amendments where a newly added claim would otherwise be barred by the statute of limitations. 
 
 When a court dismisses a claim under Rule 12(b)(6), it will typically do so "without prejudice", at least in the initial instance, giving the claimant an opportunity to file an amended pleading.
 

@@ -68,9 +68,9 @@ The question is whether want of a federal cause of action to try claims of title
 
 [I]{.casesection}
 
-In 1994, the Internal Revenue Service seized Michigan real property belonging to petitioner Grable & Sons Metal Products, Inc., to satisfy Grable's federal tax delinquency. Title 26 U.S.C. §6335 required the IRS to give notice of the seizure, and there is no dispute that Grable received actual notice by certified mail before the IRS sold the property to respondent Darue Engineering & Manufacturing. Although Grable also received notice of the sale itself, it did not exercise its statutory right to redeem the property within 180 days of the sale, and after that period had passed, the Government gave Darue a quitclaim deed.["quitclaim deed": "a document by which a grantor conveys his or her present interest, if any, in a given parcel of real property to a grantee without representing, covenanting, or warranting that the title is good." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quitclaim_deed).]{.aside}
+In 1994, the Internal Revenue Service seized Michigan real property belonging to petitioner Grable & Sons Metal Products, Inc., to satisfy Grable's federal tax delinquency.[A "quitclaim deed" is "a document by which a grantor conveys his or her present interest, if any, in a given parcel of real property to a grantee without representing, covenanting, or warranting that the title is good." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quitclaim_deed).]{.aside} Title 26 U.S.C. §6335 required the IRS to give notice of the seizure, and there is no dispute that Grable received actual notice by certified mail before the IRS sold the property to respondent Darue Engineering & Manufacturing. Although Grable also received notice of the sale itself, it did not exercise its statutory right to redeem the property within 180 days of the sale, and after that period had passed, the Government gave Darue a quitclaim deed.
 
-Five years later, Grable brought a quiet title action in state court,["quiet title action": "a special legal proceeding to determine ownership of real property." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quiet_title_action).]{.aside} claiming that Darue's record title was invalid because the IRS had failed to notify Grable of its seizure of the property in the exact manner required by §6335(a), which provides that written notice must be "given by the Secretary to the owner of the property or left at his usual place of abode or business." Grable said that the statute required personal service, not service by certified mail.
+Five years later, Grable brought a quiet title action in state court, claiming that Darue's record title was invalid because the IRS had failed to notify Grable of its seizure of the property in the exact manner required by §6335(a), which provides that written notice must be "given by the Secretary to the owner of the property or left at his usual place of abode or business."["quiet title action": "a special legal proceeding to determine ownership of real property." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quiet_title_action).]{.aside} Grable said that the statute required personal service, not service by certified mail.
 
 Darue removed the case to Federal District Court as presenting a federal question, because the claim of title depended on the interpretation of the notice statute in the federal tax law. The District Court declined to remand the case at Grable's behest after finding that the "claim does pose a significant question of federal law," and ruling that Grable's lack of a federal right of action to enforce its claim against Darue did not bar the exercise of federal jurisdiction. On the merits, the court granted summary judgment to Darue, holding that although §6335 by its terms required personal service, substantial compliance with the statute was enough.
 
@@ -106,7 +106,7 @@ In _Grable_, the Supreme Court sought to clarify when a state-law claim with an 
 
 But the _Grable_ standard is an exception to the Holmes "creation test". Even though state law creates the plaintiff's cause of action (which, for Holmes, would mean the claim did not "arise under" federal law), the presence of a federal issue as an element of the claim may nonetheless confer federal jurisdiction under §1331.
 
-[Rule]{.case-section}
+[Rule]{.casesection}
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
 
@@ -114,15 +114,15 @@ A state-law claim raises a federal question, sufficient to confer jurisdiction u
 2. The federal issue is _actually disputed,_ and
 3. There is a _substantial federal interest_ at stake.
 
-[Essential Federal Issue]{.case-subsection}
+[Essential Federal Issue]{.casesubsection}
 
 The federal issue is "essential" where the plaintiff's "right to relief depends upon the construction or application of the Constitution or laws of the United States." _Smith v. Kansas City Title & Trust Co._ (US 1921). This requirement will generally be satisfied where the plaintiff relies on federal law to establish a right, interest, or duty at issue in the case.
 
-[Federal Issue Is Actually Disputed]{.case-subsection}
+[Federal Issue Is Actually Disputed]{.casesubsection}
 
 If there is no dispute between the parties over the federal issue as it arises in the case, there is no need for the court to resolve the issue and thus no reason to confer federal subject matter jurisdiction based on that issue.
 
-[Substantial Federal Interest]{.case-subsection}
+[Substantial Federal Interest]{.casesubsection}
 
 In assessing whether there is a "substantial federal interest", the Supreme Court has considered these factors:
 
@@ -130,9 +130,9 @@ In assessing whether there is a "substantial federal interest", the Supreme Cour
 2. Whether allowing a federal forum for private litigants would undermine a federal statutory enforcement scheme
 3. Whether providing a federal forum would upset the balance between the state and federal judicial systems
 
-[Illustrations]{.case-section}
+[Illustrations]{.casesection}
 
-[Federal Issue]{.case-subsection}
+[Federal Issue]{.casesubsection}
 
 **Essential: Grable**. Grable brought a state-law "quiet title" claim against Darue, which purchased property that the IRS had seized from Grable in satisfaction of a tax delinquency. The real focus of the suit was Grable's right under federal law not to have its property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy).
 
@@ -152,7 +152,7 @@ Under state law, Minton was required to allege (and prove) that Gunn's represent
 
 To decide whether the argument would have been successful, the court would have to interpret federal patent law. But the patent law issue arose only as a benchmark for establishing whether Gunn was liable for malpractice under state law. The suit wasn't about Minton's rights under federal patent law at all, and the outcome would not have any effect on those rights. 
 
-[Federal Interest]{.case-subsection}
+[Federal Interest]{.casesubsection}
 
 **Substantial: Grable**. There is a strong federal interest in uniform interpretation of the statutory requirements for seizures of taxpayer property by the IRS. Inconsistent interpretations by various state courts would subject the IRS to conflicting standards in carrying out its tax enforcement responsibilities, and promote uncertainty about the rights and interests of taxpayers and purchasers of seized property.
 
@@ -391,7 +391,7 @@ Annie's Pooch Pops have not met their burden in showing the amount-in-controvers
 
 ##### Justice Brennan delivered the opinion of the Court.
 
-Respondent Paul Gibbs was awarded compensatory and punitive damages in this action against petitioner United Mine Workers of America (UMW) for alleged violations of §303 of the Labor Management Relations Act, 1947,[[§303 of the Labor Management Relations Act ("LMRA")](https://www.law.cornell.edu/uscode/text/29/187) authorizes suits to recover damages for injury to business or property resulting from certain unlawful conduct by a labor union. The federal court had subject matter jurisdiction over the §303 claim, because it arises under federal law (the LMRA).]{.aside} and of the common law of Tennessee. The case grew out of the rivalry between the United Mine Workers and the Southern Labor Union over representation of workers in the southern Appalachian coal fields. Tennessee Consolidated Coal Company, not a party here, laid off 100 miners of the UMW's Local 5881 when it closed one of its mines in southern Tennessee during the spring of 1960. Late that summer, Grundy Company, a wholly owned subsidiary of Consolidated, hired respondent as mine superintendent to attempt to open a new mine on Consolidated's property at nearby Gray's Creek through use of members of the Southern Labor Union. As part of the arrangement, Grundy also gave respondent a contract to haul the mine's coal to the nearest railroad loading point.
+Respondent Paul Gibbs was awarded compensatory and punitive damages in this action against petitioner United Mine Workers of America (UMW) for alleged violations of §303 of the Labor Management Relations Act, 1947,[[§303 of the Labor Management Relations Act ("LMRA")](https://www.law.cornell.edu/uscode/text/29/187) authorizes suits to recover damages for injury to business or property resulting from certain unlawful conduct by a labor union. Federal courts have exclusive subject matter jurisdiction over §303 claims. §303 also pre-empts most state law claims arising out of labor union boycotts and picketing. But there is an exception for state tort claims based on "conduct marked by violence and imminent threats to the public order" _Gibbs_, 383 U.S. at 722, which is why it was necessary to decide whether the federal court could take jurisdiction over the state claim in this case.]{.aside} and of the common law of Tennessee. The case grew out of the rivalry between the United Mine Workers and the Southern Labor Union over representation of workers in the southern Appalachian coal fields. Tennessee Consolidated Coal Company, not a party here, laid off 100 miners of the UMW's Local 5881 when it closed one of its mines in southern Tennessee during the spring of 1960. Late that summer, Grundy Company, a wholly owned subsidiary of Consolidated, hired respondent as mine superintendent to attempt to open a new mine on Consolidated's property at nearby Gray's Creek through use of members of the Southern Labor Union. As part of the arrangement, Grundy also gave respondent a contract to haul the mine's coal to the nearest railroad loading point.
 
 On August 15 and 16, 1960, armed members of Local 5881 forcibly prevented the opening of the mine, threatening respondent and beating an organizer for the rival union.The members of the local believed Consolidated had promised them the jobs at the new mine; they insisted that if anyone would do the work, they would. At this time, no representative of the UMW, their international union, was present. George Gilbert, the UMW's field representative for the area including Local 5881, was away at Middlesboro, Kentucky, attending an Executive Board meeting when the members of the local discovered Grundy's plan; he did not return to the area until late in the day of August 16. There was uncontradicted testimony that he first learned of the violence while at the meeting, and returned with explicit instructions from his international union superiors to establish a limited picket line, to prevent any further violence, and to see to it that the strike did not spread to neighboring mines. There was no further violence at the mine site; a picket line was maintained there for nine months; and no further attempts were made to open the mine during that period.
 
@@ -570,25 +570,6 @@ To the extent that the omission of Rule 20 plaintiffs from the list of §1367(b)
 And so we circle back to the original question. When the well-pleaded complaint in district court includes multiple claims, all part of the same case or controversy, and some, but not all, of the claims are within the court's original jurisdiction, does the court have before it "any civil action of which the district courts have original jurisdiction"? It does. Under §1367, the court has original jurisdiction over the civil action comprising the claims for which there is no jurisdictional defect. No other reading of §1367 is plausible in light of the text and structure of the jurisdictional statute. Though the special nature and purpose of the diversity requirement mean that a single nondiverse party can contaminate every other claim in the lawsuit, the contamination does not occur with respect to jurisdictional defects that go only to the substantive importance of individual claims.
 
 It follows from this conclusion that the threshold requirement of §1367(a) is satisfied in cases, like those now before us, where some, but not all, of the plaintiffs in a diversity action allege a sufficient amount in controversy. We hold that §1367 by its plain text overruled _Clark_ and _Zahn_ and authorized supplemental jurisdiction over all claims by diverse parties arising out of the same Article III case or controversy, subject only to enumerated exceptions not applicable in the cases now before us.
-
-::: {.callout-note}
-
-The Court interpreted § 1367 to permit supplemental jurisdiction over claims by multiple plaintiffs against the same defendant, provided complete diversity is preserved, without requiring each plaintiff to satisfy the statutory amount in controversy under § 1332 (as long as at least one does). What about the inverse: Claims by one plaintiff against multiple defendants?
-
-Consider this example: 
-
-- P (a citizen of NC), D1 (a citizen of DC), & D2 (also a citizen of SC) are parties to a contract. 
-- P sues D1 and D2 for breach, seeking $80,000 against D1 and $50,000 against D2. 
-- D1 asserts a crossclaim against D2 for breach of the same contract, seeking $30,000. 
-
-![Claims by a single plaintiff against multiple defendants](../img/1367b-codefendants.png){width=60%}
-
-The court would have diversity jurisdiction (§ 1332) over P's claim against D1 standing on its own. Joinder of D2 does not destroy complete diversity. But the claim against D2 does not satisfy § 1332's amount in controversy requirement. 
-
-1. May the court exercise supplemental jurisdiction over P's claim against D2? Does § 1367(b) give a clear answer? 
-2. What about D1's crossclaim against D2 (assuming D2 is properly joined and the court has jurisdiction on same basis over P's claim against D2)? 
-
-:::
 
 #### Supplemental Jurisdiction Analysis
 
