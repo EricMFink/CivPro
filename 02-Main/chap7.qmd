@@ -2,15 +2,17 @@
 
 ## Full Faith and Credit
 
-#### U.S. Constitution, art. IV, sec. 1
+#### @USConstitutionArticle5
 
 ::: {.legalcode}
+
+##### Section 1
 
 Full faith and credit shall be given in each state to the public acts, records, and judicial proceedings of every other state. And the Congress may by general laws prescribe the manner in which such acts, records, and proceedings shall be proved, and the effect thereof.
 
 :::
 
-#### 28 U.S.C. § 1738 
+#### @1738FullFaithCredit
 
 ::: {.legalcode}
 
@@ -94,7 +96,7 @@ On the trial of this case in this court, the plaintiff offered full and satisfac
 
 ## Claim Preclusion 
 
-#### Rest. (2d) of Judgments 
+#### @Rest2dJudgments 
 
 ::: {.legalcode}
 
@@ -566,7 +568,7 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 ## Issue Preclusion
 
-#### Rest. (2d) of Judgments 
+#### @Rest2dJudgments 
 
 ::: {.legalcode}
 

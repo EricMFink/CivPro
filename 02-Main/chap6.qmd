@@ -135,13 +135,20 @@ A civil action is commenced by filing a complaint with the court.
 
 [Order Striking Complaint]{.casesection}
 
-Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers".[The first page of the complaint is reproduced below. Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. Butterick (2015) is a very useful guide to producing attractive, reader-friendly, legal documents.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
+Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers".[The first page of the complaint is reproduced below.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
 
 **IT IS ORDERED** that plaintiff's complaint is **STRICKEN**. Plaintiff is directed to file an amended complaint, containing the same allegations as the original complaint, without the cartoon dragon by no later than May 5, 2025. 
 
 **IT IS FURTHER ORDERED** that plaintiff shall not file any other documents with the cartoon dragon or other inappropriate content. 
 
 ![Doe v. Clinton County Complaint](../img/DragonComplaint.jpg){ width=66% }
+
+
+::: {.callout-note}
+
+Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. @Butterick2015 Butterick (2015) is a very useful guide to producing attractive, reader-friendly, legal documents.
+
+:::
 
 #### @TrumpNewYorkTimes_MDFla2025
 

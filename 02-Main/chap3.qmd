@@ -2,15 +2,18 @@
 
 ## Constitutional Limits: Due Process 
 
-#### U.S Constitution
+#### @USConstitutionAmentment5
 
 ::: {.legalcode}
 
-##### Amendment V
-
 - No person shall ... be deprived of life, liberty, or property, without due process of law;
 
-##### Amendment IV
+:::
+
+#### @USConstitutionAmenment14
+
+::: {.legalcode}
+
 
 - § 1 ... nor shall any state deprive any person of life, liberty, or property, without due process of law;
 

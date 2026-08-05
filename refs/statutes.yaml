@@ -49,6 +49,18 @@ references:
   type: legislation
   volume: '28'
 
+- id: 1738FullFaithCredit
+  citation-key: 1738FullFaithCredit
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1738'
+  title: >-
+    State and Territorial statutes and judicial proceedings; full faith and
+    credit
+  type: legislation
+  volume: '28'
+
 - id: 2071RuleMakingPower
   citation-key: 2071RuleMakingPower
   container-title: U.S.C.
@@ -103,18 +115,8 @@ references:
   title: Personal Jurisdiction by Act of Non-Domiciliaries
   type: legislation
 
-- id: USConstitutionAmendment14
-  citation-key: USConstitutionAmendment14
-  title: U.S. Constitution, Amendment XIV
-  type: legislation
-
-- id: USConstitutionAmendment5
-  citation-key: USConstitutionAmendment5
-  title: U.S. Constitution, Amendment V
-  type: legislation
-
-- id: USConstitutionArticle3
-  citation-key: USConstitutionArticle3
-  title: U.S. Constitution, Article III
+- id: Rest2dJudgments
+  citation-key: Rest2dJudgments
+  title: Rest. (2d) of Judgments
   type: legislation
 ...

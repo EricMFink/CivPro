@@ -1,0 +1,22 @@
+---
+references:
+- id: USConstitutionAmendment14
+  citation-key: USConstitutionAmendment14
+  title: U.S. Constitution, Amendment XIV
+  type: legislation
+
+- id: USConstitutionAmendment5
+  citation-key: USConstitutionAmendment5
+  title: U.S. Constitution, Amendment V
+  type: legislation
+
+- id: USConstitutionArticle3
+  citation-key: USConstitutionArticle3
+  title: U.S. Constitution, Article III
+  type: legislation
+
+- id: USConstitutionArticle5
+  citation-key: USConstitutionArticle5
+  title: U.S. Constitution, Article IV
+  type: legislation
+...
