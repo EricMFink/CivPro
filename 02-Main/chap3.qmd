@@ -2,7 +2,7 @@
 
 ## Constitutional Limits: Due Process 
 
-#### @USConstitutionAmentment5
+#### @USConstitutionAmendment5
 
 ::: {.legalcode}
 
@@ -10,7 +10,7 @@
 
 :::
 
-#### @USConstitutionAmenment14
+#### @USConstitutionAmendment14
 
 ::: {.legalcode}
 
