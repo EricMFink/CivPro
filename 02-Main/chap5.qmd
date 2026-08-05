@@ -416,7 +416,7 @@ The judgment of the Court of Appeals is reversed, and the case is remanded for f
 
 ## Review Questions 
 
-#### Question 1
+##### Question 1
 
 Peggy was employed by Sterling Cooper, P.C\. She had a written employment contract specifying a three year term of employment, during which Sterling Cooper could not terminate Peggy's employment except for cause. The contract specifies that "cause for termination includes, but is not limited to, employee misconduct, dishonesty, or unsatisfactory performance of assigned duties." 
 
@@ -438,7 +438,7 @@ Under Hudson state law, a complaint for breach of contract must include an itemi
 
 _Which rule should the federal court apply in this case?_
 
-#### Question 2
+##### Question 2
 
 The Carbolic Smoke Ball Company ("Carbolic") runs an ad in the Pall Mall Gazette. The ad claims that the company's Carbolic Smoke Ball is "clinically proven to prevent colds and flu when used as directed." In fact, the product does nothing at all, other than emit foul-smelling smoke, and the company never conducted any tests, clinical or otherwise. 
 

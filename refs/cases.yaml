@@ -445,14 +445,14 @@ references:
   type: legal_case
   volume: '497'
 
-- id: NationalSatelliteSportsInc_6thCir2001
+- id: NationalSatelliteSports_6thCir2001
   authority: 6th Cir.
-  citation-key: NationalSatelliteSportsInc_6thCir2001
+  citation-key: NationalSatelliteSports_6thCir2001
   container-title: F. 3d
   issued:
     - year: 2001
   page: '900'
-  title: National Satellite Sports, Inc. v. Eliadis, Inc.
+  title: National Satellite Sports v. Eliadis
   type: legal_case
   volume: '253'
 
