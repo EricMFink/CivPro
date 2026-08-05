@@ -45,7 +45,7 @@ references:
     - year: 2018
       month: 11
       day: 1
-  number: 3:17-cv-00093-GFVT
+  number: No. 3:17-cv-00093-GFVT
   title: Burdine v. Metropolitan Direct Property and Casualty Insurance Co.
   type: legal_case
 
@@ -57,7 +57,7 @@ references:
   issued:
     - year: 1958
   page: '525'
-  title: Byrd v. Blue Ridge Rural Elec. Cooperative, Inc.
+  title: Byrd v. Blue Ridge Rural Elec. Coop., Inc.
   type: legal_case
   volume: '356'
 
@@ -69,7 +69,7 @@ references:
       month: 12
       day: 19
   jurisdiction: SD California
-  number: Case No. 12-cv-2859-L(BGS)
+  number: No. 12-cv-2859-L(BGS)
   title: Camacho v. Major League Baseball
   type: legal_case
 
@@ -92,7 +92,7 @@ references:
     - year: 2020
       month: 7
       day: 18
-  number: 20-724
+  number: No. 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops
   type: legal_case
 
@@ -128,7 +128,7 @@ references:
     - year: 2025
       month: 4
       day: 28
-  number: 1:25-cv-368
+  number: No. 1:25-cv-368
   title: Doe v. Clinton County
   type: legal_case
 
@@ -140,7 +140,7 @@ references:
       month: 5
       day: 6
   jurisdiction: Minnesota
-  number: Case No. 19-cv-1477 (MJD/ECW)
+  number: No. 19-cv-1477 (MJD/ECW)
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   type: legal_case
 
@@ -227,7 +227,7 @@ references:
     - year: 1999
       month: 8
       day: 17
-  number: 1:99CV00119
+  number: No. 1:99CV00119
   title: Hanks v Coan
   type: legal_case
 
@@ -243,9 +243,9 @@ references:
   type: legal_case
   volume: '380'
 
-- id: HernandezAssetAcceptanceLLC_DColo2013
+- id: HernandezAssetAcceptance_DColo2013
   authority: D. Colo.
-  citation-key: HernandezAssetAcceptanceLLC_DColo2013
+  citation-key: HernandezAssetAcceptance_DColo2013
   container-title: F. Supp. 2d
   issued:
     - year: 2013
@@ -253,7 +253,7 @@ references:
       day: 10
   jurisdiction: D. Colorado
   page: '1194'
-  title: Hernandez v. Asset Acceptance, LLC
+  title: Hernandez v. Asset Acceptance
   type: legal_case
   volume: '970'
 
@@ -301,7 +301,7 @@ references:
       month: 12
       day: 2
   jurisdiction: ED Michigan
-  number: Case No. 25-cv-11168
+  number: No. 25-cv-11168
   title: Jarrus v. Governor of Michigan
   type: legal_case
 
@@ -475,7 +475,7 @@ references:
       month: 7
       day: 10
   jurisdiction: ND Ohio
-  number: Case No. 3:17CV228
+  number: No. 3:17CV228
   title: Ottawa Township Board of Trustees v. New Par
   type: legal_case
 
@@ -487,7 +487,7 @@ references:
       month: 10
       day: 10
   jurisdiction: ND Ohio
-  number: Case No. 3:17CV228
+  number: No. 3:17CV228
   title: Ottawa Township Board of Trustees v. New Par
   type: legal_case
 
@@ -534,7 +534,7 @@ references:
     - year: 2026
       month: 7
       day: 25
-  number: Case No. 2:23-cv-00873-APG-NJK
+  number: No. 2:23-cv-00873-APG-NJK
   title: Patel v. Stewartson
   type: legal_case
 
@@ -627,7 +627,7 @@ references:
       month: 1
       day: 31
   jurisdiction: WD Pennsylvania
-  number: Civil Action No. 18-1698
+  number: No. 18-1698
   title: Sullivan-Blake v. Fedex Ground Package System, Inc.
   type: legal_case
 
