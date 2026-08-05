@@ -655,6 +655,17 @@ references:
   type: legal_case
   volume: '553'
 
+- id: TrumpInternalRevenueService_SDFla2026
+  authority: S.D. Fla.
+  citation-key: TrumpInternalRevenueService_SDFla2026
+  issued:
+    - year: 2026
+      month: 7
+      day: 13
+  number: No. 26-20609-CV-WILLIAMS
+  title: Trump v. Internal Revenue Service
+  type: legal_case
+
 - id: TrumpNewYorkTimes_MDFla2025
   authority: M.D. Fla.
   citation-key: TrumpNewYorkTimes_MDFla2025
