@@ -919,23 +919,43 @@ Some enumerated long-arm statutes have been interpreted as authorizing the exerc
 
 ## Review Questions
 
-##### Question 1
+_For each of the following questions, assume that the applicable long-arm statute permits the exercise of jurisdiction "on any basis not inconsistent with the Constitution of the United States"._
 
-Mrs. Potter, a wealthy resident of Philadelphia, decides that the time has come to make provisions for her children after her death. She creates a trust, administered by the Delaware Bank & Trust Company (located, naturally enough, in Delaware). Under the terms of the trust, after Mrs. Potter's death, her daughter Dora will receive whatever money remains in the trust account. She also writes a will, leaving the remainder of her estate to her other daughter, Polly. 
+##### Question 1 
 
-A year later, Mrs. Potter decides to move to Cocoanut Manor, a luxurious retirement community in Florida. There she meets Mr. Hammer, the genial grifter who developed Cocoanut Manor in the hopes of attracting a steady supply of wealthy victims for his cons. Mrs. Potter, smitten by Hammer's charm and believing he is the true love of her life, contacts the Delaware bank and directs them to make Mr. Hammer the trust beneficiary in place of her daughter Dora, who hasn't even bothered to write or call since Mrs. Potter moved to Florida. 
+In 2025, Heather Ammel sued former U.S. Senator Kyrsten Sinema for alienation of affection under North Carolina law. Ammel filed the suit in a North Carolina court.[The suit was originally filed in state court and then removed to federal court based on diversity jurisdiction.]{.aside} The complaint alleges that, while Ammel's husband Matthew was employed as Sinema's head of secuirty, the two commenced an intimate personal relationship that ultimately led to the Ammels' separation and divorce. Sinema, whose home state is Arizona, moved to dismiss under Fed. R. Civ. P. Rule 12(b)(2) for lack of personal jurisdiction. 
 
-A few months later, Mrs. Potter dies in a tragic shuffleboard accident. Dora Potter is chagrined to discover that the trust funds, now totalling $1.4 million, will go to Mr. Hammer instead of her. She brings a lawsuit in a Florida court, challenging the validity of the trust. Polly Potter, who despises her sister, also joins the suit as a co-plaintiff, arguing that the money in the trust should also go to her as part of Mrs. Potter's estate under the will. Because the Bank is in control of the trust account, it is named as a co-defendant in the suit. 
+Review the complaint and the parties' briefs on the motion to dismiss:
 
-_Does the Florida court have personal jurisdiction over the Bank?_ 
+1. [Complaint](../exhibits/Ammel-Sinema-complaint.pdf)
+2. [Defendant's Memorandum of Law in Support of Motion to Dismiss for Lack of Personal Jurisdiction](../exhibits/Ammel-Sinema-12b-brief.pdf)
+3. [Plaintiff's Memorandum of Law in Opposition to Motion to Dismiss for Lack of Personal Jurisdiction](../exhibits/Ammel-Sinema-12b2-opposition.pdf)
+
+Should the court grant the motion to dismiss? 
 
 ##### Question 2
+
+Gerald Mayo sued Satan and his Staff, alleging that, on numerous occasions, they caused him misery, made unwarranted threats against him, and placed deliberate obstacles in his path, causing his downfall. Mayo filed his suit in the U.S. District Court for the Western District of Pennsylvania. Mayo lives in Slippery Rock, Pennsylvania (about 50 miles north of Pittsburgh, within the W.D. Pa.). None of the defendants reside in Pennsylvania. 
+
+_On what basis might the court have personal jurisdiction over the defendants?_ See [_U.S. ex rel. Mayo v. Satan and His Staff_](../exhibits/Mayo_Satan.pdf), 54 F.R.D. 282 (W.D. Pa. 1971).
+
+##### Question 3
+
+Mrs. Potter, a wealthy resident of Philadelphia, decides that the time has come to make provisions for her children after her death. She creates a trust, administered by the Delaware Bank & Trust Company (located, naturally enough, in Delaware). Under the terms of the trust, after Mrs. Potter's death, her daughter Dora will receive whatever money remains in the trust account. 
+
+A year later, Mrs. Potter decides to move to Cocoanut Manor, a luxurious retirement community in Florida. There she meets Mr. Hammer (a Florida resident), the genial grifter who developed Cocoanut Manor in the hopes of attracting a steady supply of wealthy victims for his cons. Mrs. Potter, smitten by Hammer's charm and believing he is the true love of her life, contacts the Delaware bank and directs them to make Mr. Hammer the trust beneficiary in place of her daughter Dora, who hasn't even bothered to write or call since Mrs. Potter moved to Florida. 
+
+A few months later, Mrs. Potter dies in a tragic shuffleboard accident. Dora Potter is chagrined to discover that the trust funds, now totalling $1.4 million, will go to Hammer instead of her. She brings a lawsuit against the Bank and Hammer in a Florida court, seeking a declaratory judgment that the designation of Hammer as trust beneficiary was invalid and ordering the Bank to pay the funds to Dora as the sole rightful beneficiary.
+
+_May the Florida court exercise personal jurisdiction over the Bank? If not, in what state(s) would jurisdiction over both Hammer and the Bank be proper?_ 
+
+##### Question 4
 
 Dan & Pat, both residents of Pennsylvania, are partners in a Delaware business. The business fails and a disagreement arises between Dan & Pat over the division of the partnership's remaining assets. Deciding to get away from it all, Dan moves to Idaho. Pat now wants to sue Dan over the partnership dispute. Each state's long-arm statute provides for jurisdiction to the full extent permitted under the U.S. Constitution. 
 
 _In which state(s) may Pat sue?_ 
 
-##### Question 3
+##### Question 5
 
 _Same facts as previous question, but assume Pat has not sued Dan._
 
@@ -946,14 +966,8 @@ b. Yes, because Pat was personally served with the complaint and summons while p
 c. No, because the suit does not arise from, and is unrelated to, Pat's contacts with New Jersey
 d. No, because New Jersey is not Pat's permanent home
 
-##### Question 4
+##### Question 6
 
-Ronnie operates a gas station near U.S. Interstate 40 in Greensboro, North Carolina. The station is frequented by locals and by interstate travelers using I-40. Last summer, Ronnie changed a tire on an automobile bearing Missitucky license plates. The car belonged to Vivian, who was driving through Greensboro on the way home from vacation in the Outer Banks. A few days later, after Vivian reached Missitucky, the tire suddenly fell off, causing the car to swerve out of control and hit an embankment. Vivian sued Ronnie in Missitucky state court, alleging that the accident resulted in Ronnie's negligence in changing the tire. 
+Ronnie operates a gas station near U.S. Interstate 40 in Greensboro, North Carolina. The station is frequented by locals and by interstate travelers using I-40. Last summer, Ronnie changed a tire on an automobile bearing Tennessee license plates. The car belonged to Vivian, who lives in Knoxville and was driving through Greensboro on the way home from vacation in the Outer Banks. Shortly before Vivian arrived home, the tire suddenly fell off, causing the car to swerve out of control and hit an embankment. Vivian sued Ronnie in Tennessee state court, alleging that the accident resulted in Ronnie's negligence in changing the tire. 
 
-_Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Ronnie be permissible under the U.S. Constitution?_
-
-##### Question 5
-
-Gerald Mayo sued Satan and his Staff, alleging that, on numerous occasions, they caused him misery, made unwarranted threats against him, and placed deliberate obstacles in his path, causing his downfall. Mayo filed his suit in the U.S. District Court for the Western District of Pennsylvania. Mayo resides in Pittsburgh, where the court is located. Mayo lives in Slippery Rock, Pennsylvania. None of the defendants reside in Pennsylvania. 
-
-_On what basis might the court have personal jurisdiction over the defendants?_ See [_U.S. ex rel. Mayo v. Satan and His Staff_](../exhibits/Mayo_Satan.pdf), 54 F.R.D. 282 (W.D. Pa. 1971).
+_May the Tennessee court exercise personal jurisdiction over Ronnie?_

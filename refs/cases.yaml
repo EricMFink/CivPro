@@ -655,6 +655,20 @@ references:
   type: legal_case
   volume: '553'
 
+- id: TrumpNewYorkTimes_MDFla2025
+  authority: M.D. Fla.
+  citation-key: TrumpNewYorkTimes_MDFla2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 9
+      day: 19
+  jurisdiction: MD Florida
+  page: '1297'
+  title: Trump v. New York Times Co.
+  type: legal_case
+  volume: '800'
+
 - id: WilliamsEstatesLLC_MDNC2023
   authority: M.D.N.C.
   citation-key: WilliamsEstatesLLC_MDNC2023
