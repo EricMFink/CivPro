@@ -1,6 +1,8 @@
 # Subject Matter Jurisdiction
 
-#### U.S. Constitution 
+## Constitutional Foundation
+
+#### U.S. Constitution, Article III, sec. 2
 
 ::: {.legalcode}
 
@@ -10,7 +12,7 @@
 
 :::
 
-Article III of the Constitution identifies certain types of cases over which federal courts may exercise jurisdiction. Within the bounds set by Article III, Congress may authorize federal courts to exercise some or all of that jurisdiction. Some statutes authorize the exercise of jurisdiction over broad categories of cases, such as those arising under federal law, 28 U.S.C. § 1331, and those between citizens of different states, 28 U.S.C. § 1332. Provisions authorizing federal jurisdiction are also sometimes included in statutes establishing particular causes of action, e.g. 29 U.S. Code § 185 (authorizing federal jurisdiction over suits for violation of collective bargaining agreements under the National Labor Relations Act).
+Article III, sec. 2 identifies certain types of cases over which federal courts may exercise jurisdiction. Congress may authorize federal courts to exercise some or all of that jurisdiction. Some statutes authorize the exercise of jurisdiction over broad categories of cases, such as those arising under federal law, 28 U.S.C. § 1331, and those between citizens of different states, 28 U.S.C. § 1332. Provisions authorizing federal jurisdiction are also sometimes included in statutes establishing particular causes of action, e.g. 29 U.S. Code § 185 (authorizing federal jurisdiction over suits for violation of collective bargaining agreements under the National Labor Relations Act).
 
 Except for certain matters over which federal jurisdiction is exclusive,[^exclusive_jurisdiction] state courts generally have concurrent jurisdiction, giving plaintiffs a choice of forum. If a plaintiff opts to sue in state court, the defendant may (provided federal subject matter jurisdiction and other conditions are satisfied) override that choice by removing the action to federal court.[^removal] The conditions and procedures for removal are governed by federal statute. 28 U.S.C. §§ 1441 et seq.
 
@@ -70,7 +72,7 @@ The question is whether want of a federal cause of action to try claims of title
 
 In 1994, the Internal Revenue Service seized Michigan real property belonging to petitioner Grable & Sons Metal Products, Inc., to satisfy Grable's federal tax delinquency.[A "quitclaim deed" is "a document by which a grantor conveys his or her present interest, if any, in a given parcel of real property to a grantee without representing, covenanting, or warranting that the title is good." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quitclaim_deed).]{.aside} Title 26 U.S.C. §6335 required the IRS to give notice of the seizure, and there is no dispute that Grable received actual notice by certified mail before the IRS sold the property to respondent Darue Engineering & Manufacturing. Although Grable also received notice of the sale itself, it did not exercise its statutory right to redeem the property within 180 days of the sale, and after that period had passed, the Government gave Darue a quitclaim deed.
 
-Five years later, Grable brought a quiet title action in state court, claiming that Darue's record title was invalid because the IRS had failed to notify Grable of its seizure of the property in the exact manner required by §6335(a), which provides that written notice must be "given by the Secretary to the owner of the property or left at his usual place of abode or business."["quiet title action": "a special legal proceeding to determine ownership of real property." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quiet_title_action).]{.aside} Grable said that the statute required personal service, not service by certified mail.
+Five years later, Grable brought a quiet title action in state court,[A "quiet title action" is "a special legal proceeding to determine ownership of real property." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/quiet_title_action).]{.aside}  claiming that Darue's record title was invalid because the IRS had failed to notify Grable of its seizure of the property in the exact manner required by §6335(a), which provides that written notice must be "given by the Secretary to the owner of the property or left at his usual place of abode or business."Grable said that the statute required personal service, not service by certified mail.
 
 Darue removed the case to Federal District Court as presenting a federal question, because the claim of title depended on the interpretation of the notice statute in the federal tax law. The District Court declined to remand the case at Grable's behest after finding that the "claim does pose a significant question of federal law," and ruling that Grable's lack of a federal right of action to enforce its claim against Darue did not bar the exercise of federal jurisdiction. On the merits, the court granted summary judgment to Darue, holding that although §6335 by its terms required personal service, substantial compliance with the statute was enough.
 
