@@ -215,25 +215,6 @@ references:
   URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583102
   volume: '44'
 
-- id: Metzler2017
-  author:
-    - family: Metzler
-      given: Jack
-  citation-key: Metzler2017
-  container-title: The Journal of Appellate Practice and Process
-  container-title-short: J. Appell. Pract. Process
-  issue: '2'
-  issued:
-    - year: 2017
-      month: 10
-      day: 1
-  page: '143'
-  source: COinS
-  title: Cleaning Up Quotations
-  type: article-journal
-  URL: https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3
-  volume: '18'
-
 - id: Perdue1987
   author:
     - family: Perdue
@@ -255,25 +236,6 @@ references:
   type: article-journal
   URL: https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8
   volume: '62'
-
-- id: Perdue2024
-  author:
-    - family: Perdue
-      given: Wendy
-  citation-key: Perdue2024
-  container-title: University of Pittsburgh Law Review
-  container-title-short: Univ. Pittsburgh Law Rev.
-  issued:
-    - year: 2024
-      month: 1
-      day: 1
-  page: 1–29
-  source: COinS
-  title: 'Supplemental Jurisdiction and § 1367: The Good, The Bad, and the Ugly'
-  title-short: Supplemental Jurisdiction and § 1367
-  type: article-journal
-  URL: https://scholarship.richmond.edu/law-faculty-publications/1723
-  volume: '85'
 
 - id: Rutherglen2001
   accessed:
@@ -325,20 +287,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/gmlr10&i=69
   volume: '10'
 
-- id: Teton1940
-  author:
-    - family: Teton
-      given: Alfred B.
-  citation-key: Teton1940
-  container-title: Illinois Law Review
-  container-title-short: Ill. Law Rev.
-  issued:
-    - year: 1940
-  page: '519'
-  title: The Story of Swift v. Tyson
-  type: article-journal
-  volume: '35'
-
 - id: UnderstandingFederalCourts_AdministrativeOfficeoftheUSCourts
   author:
     - family: Administrative Office of the U.S. Courts
@@ -349,28 +297,4 @@ references:
   type: document
   URL: >-
     https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
-
-- id: Warren1923
-  accessed:
-    - year: 2025
-      month: 8
-      day: 12
-  archive: JSTOR
-  author:
-    - family: Warren
-      given: Charles
-  citation-key: Warren1923
-  container-title: Harvard Law Review
-  container-title-short: Harv. Law Rev.
-  DOI: 10.2307/1328407
-  ISSN: 0017811X
-  issue: '1'
-  issued:
-    - year: 1923
-  page: 49–132
-  publisher: The Harvard Law Review Association
-  title: New Light on the History of the Federal Judiciary Act of 1789
-  type: article-journal
-  URL: http://www.jstor.org.elon.idm.oclc.org/stable/1328407
-  volume: '37'
 ...

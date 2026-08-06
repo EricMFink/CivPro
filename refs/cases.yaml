@@ -38,6 +38,17 @@ references:
   type: legal_case
   volume: '146'
 
+- id: BlackWhiteTaxiCo_US1928
+  authority: U.S.
+  citation-key: BlackWhiteTaxiCo_US1928
+  container-title: US
+  issued:
+    - year: 1928
+  page: '518'
+  title: Black & White Taxi. Co. v. Brown & Yellow Taxi. Co.
+  type: legal_case
+  volume: '276'
+
 - id: BurdineMetropolitanDirectProperty_EDKy2018
   authority: E.D. Ky.
   citation-key: BurdineMetropolitanDirectProperty_EDKy2018
@@ -603,6 +614,17 @@ references:
   title: Smith & Wesson Brands v. Estados Unidos Mexicanos
   type: legal_case
   volume: '145'
+
+- id: SouthernPacificCoJensen_US1917
+  authority: U.S
+  citation-key: SouthernPacificCoJensen_US1917
+  container-title: US
+  issued:
+    - year: 1917
+  page: '205'
+  title: Southern Pacific Co. v. Jensen
+  type: legal_case
+  volume: '244'
 
 - id: StoutVincent_5thCir2018
   accessed:

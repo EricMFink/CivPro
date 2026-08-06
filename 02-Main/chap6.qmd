@@ -146,7 +146,7 @@ Each page of plaintiff's complaint appears on an e-filing which is dominated by 
 
 ::: {.callout-note}
 
-Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. @Butterick2015 Butterick (2015) is a very useful guide to producing attractive, reader-friendly, legal documents.
+Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. @Butterick2015 is a very useful guide to producing attractive, reader-friendly, legal documents.
 
 :::
 

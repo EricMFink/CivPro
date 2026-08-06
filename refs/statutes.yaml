@@ -29,16 +29,6 @@ references:
   type: legislation
   volume: '28'
 
-- id: 1445NonremovableActions
-  citation-key: 1445NonremovableActions
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1445'
-  title: Nonremovable Actions
-  type: legislation
-  volume: '28'
-
 - id: 1652RDA
   citation-key: 1652RDA
   container-title: U.S.C.
