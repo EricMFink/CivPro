@@ -702,20 +702,6 @@ references:
   type: legal_case
   volume: '800'
 
-- id: WilliamsEstatesLLC_MDNC2023
-  authority: M.D.N.C.
-  citation-key: WilliamsEstatesLLC_MDNC2023
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2023
-      month: 3
-      day: 23
-  jurisdiction: MD North Carolina
-  page: '466'
-  title: Williams v. The Estates LLC
-  type: legal_case
-  volume: '663'
-
 - id: WilliamsMitchell_4thCir2024
   authority: 4th Cir.
   citation-key: WilliamsMitchell_4thCir2024

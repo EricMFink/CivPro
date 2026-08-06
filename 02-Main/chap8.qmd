@@ -216,7 +216,7 @@ Under Federal Rule of Civil Procedure 56, a "court shall grant summary judgment 
 
 If the moving party meets its burden, "the nonmovant must go beyond the pleadings and designate specific facts showing that there is a genuine issue for trial." The nonmovant's "burden is not satisfied with some metaphysical doubt as to the material facts, by conclusory allegations, by unsubstantiated assertions, or by only a scintilla of evidence."
 
-A court must view all evidence "in the light most favorable to the opposing party." The Supreme Court [has] stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases. If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
+A court must view all evidence "in the light most favorable to the opposing party." The Supreme Court has stressed "the importance of drawing inferences in favor of the nonmovant" in qualified immunity cases. If a district court credits evidence of the party seeking summary judgment but fails to properly acknowledge key evidence offered by the nonmoving party, it misapprehends the summary judgment standard.
 
 _B. Qualified Immunity_
 
@@ -242,7 +242,7 @@ Finally, "discriminatory intent of one official may not be imputed to another fo
 
 [II. Lack of Evidence of Fourteenth Amendment Violation]{.casesection}
 
-The district court concluded that Montgomery and Stout “have not presented any evidence to support \[their\] claim” that Officer Vincent's decision to detain them was “at least partially based on their race.” The district court further concluded that Montgomery and Stout “have likewise not shown that their race played any role whatsoever in Vincent's formulation of a reasonable suspicion or wrongdoing, or in the actions that were taken by him to dispel that suspicion.”
+The district court concluded that Montgomery and Stout “have not presented any evidence to support their claim” that Officer Vincent's decision to detain them was “at least partially based on their race.” The district court further concluded that Montgomery and Stout “have likewise not shown that their race played any role whatsoever in Vincent's formulation of a reasonable suspicion or wrongdoing, or in the actions that were taken by him to dispel that suspicion.”
 
 On appeal, Montgomery and Stout detail the evidence they claim demonstrates Officer Vincent's discriminatory intent and unequal treatment:
 

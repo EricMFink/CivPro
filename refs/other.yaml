@@ -33,22 +33,6 @@ references:
     https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2
   volume: '62'
 
-- id: Dickens2003
-  author:
-    - family: Dickens
-      given: Charles
-  citation-key: Dickens2003
-  ISBN: 978-0-14-143972-3
-  issued:
-    - year: 2003
-  language: en
-  number-of-pages: '1036'
-  publisher: Penguin Classics
-  publisher-place: London New York
-  title: Bleak House
-  type: book
-  URL: https://standardebooks.org/ebooks/charles-dickens/bleak-house
-
 - id: Felstiner1980
   author:
     - family: Felstiner
