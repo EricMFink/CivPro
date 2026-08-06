@@ -4,20 +4,20 @@
 
 ### Cases
 
-::: {#refs_cases}
+::: {#refs-cases}
 :::
 
 ### Constitution, Statutes, & Restatement
 
-::: {#refs_constitution}
+::: {#refs-constitution}
 :::
 
-::: {#refs_statutes}
+::: {#refs-statutes}
 :::
 
 ### Books, Articles, & Other Publications
 
-::: {#refs_other}
+::: {#refs-other}
 :::
 
 :::

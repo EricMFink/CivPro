@@ -1,4 +1,3 @@
----@diagnostic disable: need-check-nil, undefined-global, param-type-mismatch, redundant-parameter
 --[[
 multibib – create multiple bibliographies
 

@@ -4,8 +4,8 @@ revised: 2026-08-03T11:01:37-0400-04:00
 
 subject: Civil Procedure
 term: 'Fall 2026'
-room: 'Room 207'
-meets: 'Mondays, Wednesdays, & Fridays, 1:30–3:15 pm'
+room: 'Room 204'
+meets: 'Mondays, Wednesdays, & Fridays, 10:40 am–12:30 pm'
 repo-url: 'emfink.net/CivPro'
 syllabus: true
 

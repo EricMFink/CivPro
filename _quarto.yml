@@ -81,13 +81,14 @@ book:
     - links.qmd
 
 filters:
-  - citetools
-bibliography_cases: ../refs/cases.yaml
-bibliography_constitution: ../refs/constitution.yaml
-bibliography_statutes: ../refs/statutes.yaml
-bibliography_other: ../refs/other.yaml
-csl: ../refs/casebook.csl
-citeproc: false
+  - multibib
+bibliography:
+  cases: refs/cases.yaml
+  constitution: refs/constitution.yaml
+  statutes: refs/statutes.yaml
+  other: refs/other.yaml
+validate-yaml: false
+csl: refs/casebook.csl
 
 format:
   html:
