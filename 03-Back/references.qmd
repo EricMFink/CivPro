@@ -4,12 +4,12 @@
 
 ### Cases
 
-::: {#refs-cases}
+::: {#refs_cases}
 :::
 
 ### Constitution, Statutes, & Restatement
 
-::: {#refs-constitution}
+::: {#refs_constitution}
 :::
 
 ::: {#refs_statutes}
@@ -17,7 +17,7 @@
 
 ### Books, Articles, & Other Publications
 
-::: {#refs-other}
+::: {#refs_other}
 :::
 
 :::
