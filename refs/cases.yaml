@@ -143,18 +143,6 @@ references:
   title: Doe v. Clinton County
   type: legal_case
 
-- id: DolphinKickboxingCoFranchoice_DMinn2020
-  authority: D. Minn.
-  citation-key: DolphinKickboxingCoFranchoice_DMinn2020
-  issued:
-    - year: 2020
-      month: 5
-      day: 6
-  jurisdiction: Minnesota
-  number: No. 19-cv-1477 (MJD/ECW)
-  title: Dolphin Kickboxing Co. v. Franchoice, Inc.
-  type: legal_case
-
 - id: EldenNirvanaLLC_CDCal2025
   authority: C.D. Cal.
   citation-key: EldenNirvanaLLC_CDCal2025
