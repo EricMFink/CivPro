@@ -12,5 +12,5 @@ contributes:
     common:
       verbosity: ERROR
       citeproc: false
-      link-citations: false
+      link-citations: true
       validate-yaml: false

@@ -7,6 +7,6 @@ filters:
   - ${.}/_extensions/bcdavasconcelos/citetools/citation-backlinks.lua
 #   - ${.}/_extensions/bcdavasconcelos/citetools/section-bibliographies.lua
 metadata:
-  link-citations: false
-  link-fields: false
+  link-citations: true
+  link-fields: true
 #   link-bibliography: true
