@@ -57,7 +57,7 @@ references:
       month: 11
       day: 1
   number: No. 3:17-cv-00093-GFVT
-  title: Burdine v. Metropolitan Direct Property and Casualty Insurance Co.
+  title: Burdine v. Metropolitan Direct Prop. and Cas. Ins. Co.
   type: legal_case
 
 - id: ByrdBlueRidgeRural_US1958
@@ -68,7 +68,7 @@ references:
   issued:
     - year: 1958
   page: '525'
-  title: Byrd v. Blue Ridge Rural Elec. Coop., Inc.
+  title: Byrd v. Blue Ridge Rural Elec. Coop..
   type: legal_case
   volume: '356'
 
@@ -92,7 +92,7 @@ references:
   issued:
     - year: 1991
   page: '585'
-  title: Carnival Cruise Lines, Inc. v. Shute
+  title: Carnival Cruise Lines v. Shute
   type: legal_case
   volume: '499'
 
@@ -104,7 +104,7 @@ references:
       month: 7
       day: 18
   number: No. 20-724
-  title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops
+  title: Complete Bus. Sol. Grp. v. Annie's Pooch Pops
   type: legal_case
 
 - id: CraneCityArlingtonTexas_5thCir2022
@@ -140,7 +140,7 @@ references:
       month: 4
       day: 28
   number: No. 1:25-cv-368
-  title: Doe v. Clinton County
+  title: Doe v. Clinton Cty.
   type: legal_case
 
 - id: EldenNirvanaLLC_CDCal2025
@@ -165,7 +165,7 @@ references:
   issued:
     - year: 1938
   page: '64'
-  title: Erie R. Co. v. Tompkins
+  title: Erie Railroad Co. v. Tompkins
   type: legal_case
   volume: '304'
 
@@ -177,7 +177,7 @@ references:
   issued:
     - year: 2005
   page: '546'
-  title: Exxon Mobil Corp. v. Allapattah Services, Inc.
+  title: Exxon Mobil Corp. v. Allapattah Serv.
   type: legal_case
   volume: '545'
 
@@ -203,7 +203,7 @@ references:
       day: 28
   jurisdiction: D. Maryland
   page: '674'
-  title: Ginwright v. Exeter Finance Corp.
+  title: Ginwright v. Exeter Fin. Corp.
   type: legal_case
   volume: '280'
 
@@ -215,7 +215,7 @@ references:
   issued:
     - year: 2005
   page: '308'
-  title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
+  title: Grable & Sons Metal Prod. v. Darue Eng'g & Mfg.
   type: legal_case
   volume: '545'
 
@@ -363,7 +363,7 @@ references:
   issued:
     - year: 2002
   page: '289'
-  title: Kirkcaldy v. Richmond County Bd. of Ed
+  title: Kirkcaldy v. Richmond Cty. Bd. of Ed.
   type: legal_case
   volume: '212'
 
@@ -377,7 +377,7 @@ references:
       day: 25
   jurisdiction: CD California
   page: '1220'
-  title: Lee v. POW! Entertainment, Inc.
+  title: Lee v. POW! Entertainment
   type: legal_case
   volume: '468'
 
@@ -462,32 +462,32 @@ references:
   issued:
     - year: 2022
   page: '614'
-  title: NBA Properties, Inc. v. Hanwjh
+  title: NBA Properties v. Hanwjh
   type: legal_case
   volume: '46'
 
-- id: OttawaTownshipBoardTrustees_NDOhio2017
+- id: OttawaTownshipI_NDOhio2017
   authority: N.D. Ohio
-  citation-key: OttawaTownshipBoardTrustees_NDOhio2017
+  citation-key: OttawaTownshipI_NDOhio2017
   issued:
     - year: 2017
       month: 7
       day: 10
   jurisdiction: ND Ohio
   number: No. 3:17CV228
-  title: Ottawa Township Board of Trustees v. New Par
+  title: Ottawa Township Bd. of Trustees v. New Par (I)
   type: legal_case
 
-- id: OttawaTownshipBoardTrustees_NDOhio2017a
+- id: OttawaTownshipII_NDOhio2017
   authority: N.D. Ohio
-  citation-key: OttawaTownshipBoardTrustees_NDOhio2017a
+  citation-key: OttawaTownshipII_NDOhio2017
   issued:
     - year: 2017
       month: 10
       day: 10
   jurisdiction: ND Ohio
   number: No. 3:17CV228
-  title: Ottawa Township Board of Trustees v. New Par
+  title: Ottawa Township Bd. of Trustees v. New Par (II)
   type: legal_case
 
 - id: PaceTimmermannsRanchSaddle_7thCir2014
@@ -497,7 +497,7 @@ references:
   issued:
     - year: 2014
   page: '748'
-  title: Pace v. Timmermann's Ranch & Saddle Shop Inc.
+  title: Pace v. Timmermann's Ranch & Saddle Shop
   type: legal_case
   volume: '795'
 
@@ -559,7 +559,7 @@ references:
       day: 6
   jurisdiction: ND Illinois
   page: '897'
-  title: Reis Robotics USA, Inc. v. Concept Industries
+  title: Reis Robotics USA v. Concept Indus.
   type: legal_case
   volume: '462'
 
@@ -638,7 +638,7 @@ references:
       day: 31
   jurisdiction: WD Pennsylvania
   number: No. 18-1698
-  title: Sullivan-Blake v. Fedex Ground Package System, Inc.
+  title: Sullivan-Blake v. Fedex Ground Package Sys.
   type: legal_case
 
 - id: SwiftTyson_US1842
@@ -673,7 +673,7 @@ references:
       month: 7
       day: 13
   number: No. 26-20609-CV-WILLIAMS
-  title: Trump v. Internal Revenue Service
+  title: Trump v. Internal Revenue Serv.
   type: legal_case
 
 - id: TrumpNewYorkTimes_MDFla2025

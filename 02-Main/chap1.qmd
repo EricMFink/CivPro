@@ -130,7 +130,7 @@ There are two special trial courts that have nationwide jurisdiction over certai
 
 Three territories of the United States— the Virgin Islands, Guam, and the Northern Mariana Islands—have U.S. district courts that hear federal cases, including bankruptcy cases.
 
-![Federal District Courts & Appellate Circuits](../img/FedCourtsMap.png){width=66%}
+![Federal District Courts & Appellate Circuits](../img/FedCourtsMap.png){width=100%}
 
 [Appellate Courts]{.casesubsection}
 
@@ -184,12 +184,12 @@ There is one form of action—the civil action.
 
 Before commencing a suit, a lawyer (in consultation with the client) must decide who will be named as parties (Party Joinder), what claims to assert (Claim Joinder), and where to file the suit (Subject Matter Jurisdiction, Personal Jurisdiction, & Venue). Decisions about joinder may constrain the choice of forum, and vice versa. The limited subject matter jurisdiction of the federal courts means that federal courts may only decide certain claims. The constitutional limits on personal jurisdiction mean that courts may only decide cases against defendants having sufficient contacts with the forum state. At some point, it may also be necessary to determine which law—state or federal, and if state law, which state—will apply to the various issues in the case. 
 
-![Stages of a Civil Suit, part 1](../img/CivilAction1.png){width=60%}
+![Stages of a Civil Suit, part 1](../img/CivilAction1.png)
 
 The next step is to file a complaint with the court and serve a copy on the defendant. The defendant must then respond, either by admitting or denying the allegations in the complaint (Answer) or moving to dismiss on procedural grounds (Rule 12 Motions). Defendants may also assert claims of their own against the plaintiff, other defendants, or new parties (Counterclaims, Crossclaims, Third party claims).
 
 If the case is not dismissed at the pleadings stage, the parties will produce evidence (Discovery). They may also ask the court to decide the suit, or particular issues, based on the evidence in the pre-trial record (Summary Judgment). 
 
-![Stages of a Civil Suit, part 2](../img/CivilAction2.png){width=60%}
+![Stages of a Civil Suit, part 2](../img/CivilAction2.png)
 
-If the case is not fully decided on summary judgment (or settled), it will proceed to trial, at the end of which the court will enter judgment in favor of the prevailing party. The losing party may then appeal to a higher court. A final judgment may have consequences for other lawsuits involving the same parties (Claim and Issue Preclusion).
+If the case is not fully decided on summary judgment (or settled), it will proceed to trial, with a judgment entered in favor of the prevailing party. The losing party may then appeal to a higher court. A final judgment may have consequences for other suits involving the same parties (Claim & Issue Preclusion).

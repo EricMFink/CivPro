@@ -251,7 +251,7 @@ Under the diversity jurisdiction statute, a corporation is a citizen of both the
 
 For unincorporated associations (e.g. a business partnership, labor union, or other organization formed for some common purpose), the traditional rule is that "an unincorporated association's citizenship is that of each of its members." _United Steelworkers of America v. R.H. Bouligny, Inc._ 382 U.S. 145 (1965); _Carden v. Arkoma Associates_, 494 U.S. 185 (1990). But in cases under the "Class Action Fairness Act", an unincorporated association is treated like a corporation, as a citizen of both the state under whose law it is organized and the state of its principal place of business. 28 U.S.C. §1332(d)(10).
 
-#### @OttawaTownshipBoardTrustees_NDOhio2017
+#### @OttawaTownshipI_NDOhio2017
 
 This state-law declaratory-judgment action tests whether the construction of a new cell tower must comply with an Ohio township's zoning regulations.
 
@@ -327,7 +327,7 @@ The Trustees seek a declaratory judgment that the defendants must construct the 
 
 Because the record is silent on these issues, the parties must submit additional briefs and supporting evidence so that I can determine whether this court has subject-matter jurisdiction.
 
-#### @OttawaTownshipBoardTrustees_NDOhio2017a
+#### @OttawaTownshipII_NDOhio2017
 
 This is a state-law declaratory-judgment case.
 
@@ -577,7 +577,7 @@ It follows from this conclusion that the threshold requirement of §1367(a) is s
 
 #### Supplemental Jurisdiction Analysis
 
-![Supplemental Jurisdiction](../img/1367.png){width=75%}
+![Supplemental Jurisdiction](../img/1367.png)
 
 ## Review Questions 
 

@@ -135,18 +135,17 @@ A civil action is commenced by filing a complaint with the court.
 
 [Order Striking Complaint]{.casesection}
 
-Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC © Award Winning Lawyers".[The first page of the complaint is reproduced below.]{.aside} Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
+![Doe v. Clinton County Complaint](../img/DragonComplaint.jpg)
+
+Each page of plaintiff's complaint appears on an e-filing which is dominated by a large multi-colored cartoon dragon dressed in a suit, presumably because she is represented by the law firm of "Dragon Lawyers PC© Award Winning Lawyers". Fed. R. Civ. P. 12(f)(1) allows a court to "strike from a pleading ... any redundant, immaterial, impertinent, or scandalous matter." Use of this dragon cartoon logo is not only distracting, it is juvenile and impertinent. The Court is not a cartoon. Accordingly, 
 
 **IT IS ORDERED** that plaintiff's complaint is **STRICKEN**. Plaintiff is directed to file an amended complaint, containing the same allegations as the original complaint, without the cartoon dragon by no later than May 5, 2025. 
 
 **IT IS FURTHER ORDERED** that plaintiff shall not file any other documents with the cartoon dragon or other inappropriate content. 
 
-![Doe v. Clinton County Complaint](../img/DragonComplaint.jpg){ width=66% }
-
-
 ::: {.callout-note}
 
-Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many federal and state courts have local rules governing the typography of pleadings, motions, briefs, and other documents. @Butterick2015 is a very useful guide to producing attractive, reader-friendly, legal documents.
+Surprisingly, the court did not mention the egregious use of colored type in the complaint. Many courts have local rules governing the typography and formatting of pleadings, motions, briefs, and other documents. @Butterick2015 is a useful guide to producing attractive, reader-friendly, legal documents.
 
 :::
 
@@ -264,7 +263,9 @@ Mexico's primary line of argument is that the manufacturers supply firearms to r
 
 Second, Mexico claims that the manufacturers have failed to impose the kind of controls on their distribution networks that would prevent illegal sales to Mexican traffickers. There are, Mexico contends, a raft of ways manufacturers could put "commonsense restraints on their supply chains." For example, they could prohibit dealers from making "bulk sales" to individual customers, because guns sold in that way (Mexico says) are likely to be "diverted to the illegal market." So too, they could bar dealers from selling their firearms at gun shows or out of their homes, because those sales (Mexico again says) often ignore regulatory requirements like background checks. And more generally, manufacturers could implement processes for "monitoring or "supervising their dealers' sales practices," so as to minimize illegal sales to traffickers. Yet the defendant manufacturers, Mexico states, have done none of those things. Rather, they have embraced "a seeno-evil, hear-no-evil, speak-no-evil approach" to "their gun distribution system." And that quite "deliberate" approach works to "funnel firearms to the cartels."
 
-And third, Mexico alleges that the manufacturers make "design and marketing decisions" intended to stimulate cartel members' demand for their products. Most prominently, Mexico asserts that the manufacturers have "increased production of military-style" assault weapons, with an eye toward cultivating the criminal market. For example, one manufacturer has made a ".50 caliber long range sniper rifle," which cartels have used to attack the police and military. In addition, Mexico says, the manufacturers make guns whose serial numbers can be "obliterated or defaced," thus hindering police tracing efforts. And the manufacturers produce firearms whose names or aesthetic features appeal to cartel members. Colt, for example, makes the ".38 caliber Super 'El Jefe' pistol; the .38 caliber Super 'El Grito' pistol; and the .38 caliber 'Emiliano Zapata 1911' pistol"—the last of which includes Zapata's image and the words "It is better to die standing than to live on your knees."[![Colt Emiliano Zapato 1911 pistol](../img/colt-zapata.jpg)]{.aside}
+And third, Mexico alleges that the manufacturers make "design and marketing decisions" intended to stimulate cartel members' demand for their products. Most prominently, Mexico asserts that the manufacturers have "increased production of military-style" assault weapons, with an eye toward cultivating the criminal market. For example, one manufacturer has made a ".50 caliber long range sniper rifle," which cartels have used to attack the police and military. In addition, Mexico says, the manufacturers make guns whose serial numbers can be "obliterated or defaced," thus hindering police tracing efforts. And the manufacturers produce firearms whose names or aesthetic features appeal to cartel members. Colt, for example, makes the ".38 caliber Super 'El Jefe' pistol; the .38 caliber Super 'El Grito' pistol; and the .38 caliber 'Emiliano Zapata 1911' pistol"—the last of which includes Zapata's image and the words "It is better to die standing than to live on your knees."
+
+![Colt Emiliano Zapato 1911 pistol](../img/colt-zapata.jpg)
 
 The defendant manufacturers moved to dismiss Mexico's complaint, contending that PLCAA barred the suit. The District Court granted the motion. But the Court of Appeals for the First Circuit reversed. It found that Mexico's complaint plausibly "alleged that defendants have been aiding and abetting the illegal sale of firearms by dealers." And because, in the court's view, the complaint also plausibly alleged that the defendants' aiding-and-abetting conduct proximately caused injury to Mexico, PLCAA's predicate exception was satisfied. As a result, Mexico's suit against the manufacturers could go forward.
 

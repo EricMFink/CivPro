@@ -15,6 +15,7 @@ format:
     classoption: [letterpaper, 11pt, DIV=9, openright]
     has-frontmatter: true
     toc: true
+    toc-flat: true
     toc-depth: 4
     toc-title: "Contents"
     number-sections: true
