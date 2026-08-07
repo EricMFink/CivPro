@@ -97,7 +97,7 @@ format:
       - brand
     css: styles.css
     title-block-style: none
-    reference-location: document
+    reference-location: margin
     citation-location: document
     toc: true
     number-sections: true
