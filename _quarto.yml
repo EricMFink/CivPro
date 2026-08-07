@@ -87,6 +87,7 @@ bibliography_constitution: refs/constitution.yaml
 bibliography_statutes: refs/statutes.yaml
 bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
+citation-abbreviations: refs/abbreviations.json
 nocite: |
   @*
 
