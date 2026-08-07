@@ -1,4 +1,4 @@
----@diagnostic disable: param-type-mismatch, redundant-parameter, need-check-nil
+---@diagnostic disable: param-type-mismatch, need-check-nil, redundant-parameter
 --[[
 multiple-bibliographies – create multiple bibliographies
 
