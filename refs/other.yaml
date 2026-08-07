@@ -33,6 +33,16 @@ references:
     https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2
   volume: '62'
 
+- id: CitingSlaveryProject_nd
+  accessed:
+    - year: 2026
+      month: 8
+      day: 7
+  citation-key: CitingSlaveryProject_nd
+  title: Citing Slavery Project
+  type: webpage
+  URL: https://www.citingslavery.org/
+
 - id: Felstiner1980
   author:
     - family: Felstiner
