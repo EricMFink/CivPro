@@ -84,6 +84,7 @@ filters:
   - citetools
 bibliography_cases: refs/cases.yaml
 bibliography_constitution: refs/constitution.yaml
+bibliography_frcp: refs/frcp.yaml
 bibliography_statutes: refs/statutes.yaml
 bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
