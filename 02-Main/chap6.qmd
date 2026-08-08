@@ -4,11 +4,11 @@
 
 ::: {.legalcode}
 
-#### Fed. R. Civ. P. Rule 3
+#### @FedCiv_Rule3
 
 A civil action is commenced by filing a complaint with the court.
 
-#### Fed. R. Civ. P. Rule 7
+#### @FedCiv_Rule7
 
 - (a\) Pleadings. Only these pleadings are allowed:
 	- (1\) a complaint;
@@ -25,7 +25,7 @@ A civil action is commenced by filing a complaint with the court.
 		- (C\) state the relief sought.
 	- (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
 
-#### Fed. R. Civ. P. Rule 8
+#### @FedCiv_Rule8
 
 - (a\) Claim for Relief. A pleading that states a claim for relief must contain:
 	- (1\) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
@@ -67,7 +67,7 @@ A civil action is commenced by filing a complaint with the court.
 	- (3\) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
 - (e\) Construing Pleadings. Pleadings must be construed so as to do justice.
 
-#### Fed. R. Civ. P. Rule 9
+#### @FedCiv_Rule9
 
 - (a\) Capacity or Authority to Sue; Legal Existence.
 	- (1\) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
@@ -81,13 +81,13 @@ A civil action is commenced by filing a complaint with the court.
 - (f\) Time and Place. An allegation of time or place is material when testing the sufficiency of a pleading.
 - (g\) Special Damages. If an item of special damage is claimed, it must be specifically stated.
 
-#### Fed. R. Civ. P. Rule 10
+#### @FedCiv_Rule10
 
 - (a\) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
 - (b\) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
 - (c\) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-#### Fed. R. Civ. P. Rule 12
+#### @FedCiv_Rule12
 
 - (a\) Time to Serve a Responsive Pleading.
 	- (1\) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
@@ -169,7 +169,7 @@ This complaint stands unmistakably and inexcusably athwart the requirements of R
 
 Under Rule 8(a), a "pleading that states a claim for relief must contain [...] a short and plain statement of the claim showing that the pleader is entitled to relief". This requirement applies to any party (whether in the position of plaintiff or defendant) who asserts a claim, counterclaim, crossclaim, or third-party claim.
 
-A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) with a motion to dismiss for "failure to state a claim upon which relief can be granted". Fed. R. Civ. P. Rule 12(b)(6). A claim may be dismissed on this basis for either factual or legal insufficiency:
+A defending party may challenge the sufficiency of a claim under Rule 8(a)(2) with a motion to dismiss for "failure to state a claim upon which relief can be granted". @FedCiv_Rule12(b)(6). A claim may be dismissed on this basis for either factual or legal insufficiency:
 
 - A claim is _factually insufficient_ if the facts alleged, even assuming they are true, would not satisfy the elements of a claim. For example, if a plaintiff asserts a claim for negligence, but fails to allege any injury resulting from the defendant's conduct, the claim would be factually insufficient, because injury is a necessary element of the claim.
 
@@ -401,7 +401,7 @@ Although the analysis of the control element does not depend on the presence or 
 
 ::: {.callout-note}
 
-**Amended Pleadings**: Under the Federal Rules, parties may amend their pleadings to add or omit claims and defenses, add or drop parties, alter the relief sought, or revise factual allegations, admissions, or denials. Fed. R. Civ. P. Rule 15 governs the conditions and procedure for amendment, including provisions for "relation back" of amendments where a newly added claim would otherwise be barred by the statute of limitations. 
+**Amended Pleadings**: Under the Federal Rules, parties may amend their pleadings to add or omit claims and defenses, add or drop parties, alter the relief sought, or revise factual allegations, admissions, or denials. @FedCiv_Rule15 governs the conditions and procedure for amendment, including provisions for "relation back" of amendments where a newly added claim would otherwise be barred by the statute of limitations. 
 
 When a court dismisses a claim under Rule 12, it will often do so "without prejudice", at least in the initial instance, giving the claimant an opportunity cure the deficiency in an amended pleading.
 
@@ -507,7 +507,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ## Truthfulness & Good Faith
 
-#### Fed R. Civ. P. Rule 11
+#### @FedCiv_Rule11
 
 ::: {.legalcode}
 

@@ -2,180 +2,151 @@
 references:
 - id: FedCiv
   citation-key: FedCiv
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure
   type: standard
 
 - id: FedCiv_Rule1
   citation-key: FedCiv_Rule1
-  number: Rule 1
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 1
   type: standard
 
 - id: FedCiv_Rule10
   citation-key: FedCiv_Rule10
-  number: Rule 10
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 10
   type: standard
 
 - id: FedCiv_Rule11
   citation-key: FedCiv_Rule11
-  number: Rule 11
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 11
   type: standard
 
 - id: FedCiv_Rule12
   citation-key: FedCiv_Rule12
-  number: Rule 12
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 12
   type: standard
 
 - id: FedCiv_Rule13
   citation-key: FedCiv_Rule13
-  number: Rule 13
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 13
   type: standard
 
 - id: FedCiv_Rule14
   citation-key: FedCiv_Rule14
-  number: Rule 14
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 14
   type: standard
 
 - id: FedCiv_Rule15
   citation-key: FedCiv_Rule15
-  number: Rule 15
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 15
   type: standard
 
 - id: FedCiv_Rule16
   citation-key: FedCiv_Rule16
-  number: Rule 16
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 16
   type: standard
 
 - id: FedCiv_Rule17
   citation-key: FedCiv_Rule17
-  number: Rule 17
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 17
   type: standard
 
 - id: FedCiv_Rule18
   citation-key: FedCiv_Rule18
-  number: Rule 18
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 18
   type: standard
 
 - id: FedCiv_Rule19
   citation-key: FedCiv_Rule19
-  number: Rule 19
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 19
   type: standard
 
 - id: FedCiv_Rule2
   citation-key: FedCiv_Rule2
-  number: Rule 2
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 2
   type: standard
 
 - id: FedCiv_Rule20
   citation-key: FedCiv_Rule20
-  number: Rule 20
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 20
   type: standard
 
 - id: FedCiv_Rule21
   citation-key: FedCiv_Rule21
-  number: Rule 21
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 21
   type: standard
 
 - id: FedCiv_Rule22
   citation-key: FedCiv_Rule22
-  number: Rule 22
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 22
   type: standard
 
 - id: FedCiv_Rule23
   citation-key: FedCiv_Rule23
-  number: Rule 23
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 23
   type: standard
 
 - id: FedCiv_Rule24
   citation-key: FedCiv_Rule24
-  number: Rule 24
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 24
   type: standard
 
 - id: FedCiv_Rule25
   citation-key: FedCiv_Rule25
-  number: Rule 25
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 25
   type: standard
 
 - id: FedCiv_Rule26
   citation-key: FedCiv_Rule26
-  number: Rule 26
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 26
   type: standard
 
 - id: FedCiv_Rule3
   citation-key: FedCiv_Rule3
-  number: Rule 3
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 3
   type: standard
 
 - id: FedCiv_Rule4
   citation-key: FedCiv_Rule4
-  number: Rule 4
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 4
   type: standard
 
 - id: FedCiv_Rule42
   citation-key: FedCiv_Rule42
-  number: Rule 42
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 42
   type: standard
 
 - id: FedCiv_Rule5
   citation-key: FedCiv_Rule5
-  number: Rule 5
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 5
   type: standard
 
 - id: FedCiv_Rule55
   citation-key: FedCiv_Rule55
-  number: Rule 55
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 55
   type: standard
 
 - id: FedCiv_Rule56
   citation-key: FedCiv_Rule56
-  number: Rule 56
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 56
   type: standard
 
 - id: FedCiv_Rule6
   citation-key: FedCiv_Rule6
-  number: Rule 6
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 6
   type: standard
 
 - id: FedCiv_Rule7
   citation-key: FedCiv_Rule7
-  number: Rule 7
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 7
   type: standard
 
 - id: FedCiv_Rule8
   citation-key: FedCiv_Rule8
-  number: Rule 8
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 8
   type: standard
 
 - id: FedCiv_Rule9
   citation-key: FedCiv_Rule9
-  number: Rule 9
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure Rule 9
   type: standard
 ...

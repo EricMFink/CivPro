@@ -41,7 +41,7 @@ environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
 bibliography_cases: ../refs/cases.yaml
 bibliography_constitution: ../refs/constitution.yaml
-frcp: ../refs/frcp.yaml
+bibliography_frcp: ../refs/frcp.yaml
 bibliography_statutes: ../refs/statutes.yaml
 bibliography_other: ../refs/other.yaml
 csl: ../refs/casebook.csl
