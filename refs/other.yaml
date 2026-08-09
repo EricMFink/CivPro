@@ -21,8 +21,8 @@ references:
     - family: Casto
       given: William R
   citation-key: Casto1987
-  container-title: Tul. L. Rev.
-  container-title-short: Tul Rev
+  container-title: Tulane Law Review
+  container-title-short: Tulane Law Rev.
   issued:
     - year: 1987
   page: '907'
@@ -68,8 +68,8 @@ references:
     - family: Frye
       given: Brian L
   citation-key: Frye2018
-  container-title: Akron L. Rev.
-  container-title-short: Akron Rev
+  container-title: Akron Law Review
+  container-title-short: Akron Law Rev.
   issued:
     - year: 2018
   page: '531'
@@ -196,8 +196,8 @@ references:
     - family: Marcus
       given: David
   citation-key: Marcus2009
-  container-title: Ga. L. Rev.
-  container-title-short: Ga Rev
+  container-title: Georgia Law Review
+  container-title-short: Ga. Law Rev.
   issued:
     - year: 2009
   page: '433'
@@ -246,9 +246,7 @@ references:
   ISSN: 0081-9557
   issued:
     - year: 2001
-      month: 1
   page: 347–374
-  publisher: The University of Chicago Press
   source: www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)
   title: International Shoe and the Legacy of Legal Realism
   type: article-journal
