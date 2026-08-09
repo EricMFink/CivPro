@@ -37,18 +37,16 @@ format:
     output-file: CivProCasebook
 filters:
   - latex-environment
-  - multibib
-validate-yaml: false
+  - citetools
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
-bibliography:
-  cases: ../refs/cases.yaml
-  constitution: ../refs/constitution.yaml
-  frcp: ../refs/frcp.yaml
-  statutes: ../refs/statutes.yaml
-  other: ../refs/other.yaml
-csl: ../refs/casebook.csl
+bibliography-cases: ../refs/cases.yaml
+bibliography-constitution: ../refs/constitution.yaml
+bibliography-frcp: ../refs/frcp.yaml
+bibliography-statutes: ../refs/statutes.yaml
+bibliography-other: ../refs/other.yaml
 citation-abbreviations: ../refs/abbreviations.json
+csl: ../refs/casebook.csl
 
 ---
 

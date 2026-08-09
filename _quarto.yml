@@ -82,8 +82,7 @@ book:
     - links.qmd
 
 filters:
-  - multibib
-validate-yaml: false
+  - citetools
 bibliography-cases: refs/cases.yaml
 bibliography-constitution: refs/constitution.yaml
 bibliography-frcp: refs/frcp.yaml
