@@ -50,24 +50,24 @@ citation-abbreviations: ../refs/abbreviations.json
 
 ---
 
-{{< include 02-Main/chap1.qmd >}}
+{{< include ../02-Main/chap1.qmd >}}
 
-{{< include 02-Main/chap2.qmd >}}
+{{< include ../02-Main/chap2.qmd >}}
 
-{{< include 02-Main/chap3.qmd >}}
+{{< include ../02-Main/chap3.qmd >}}
 
-{{< include 02-Main/chap4.qmd >}}
+{{< include ../02-Main/chap4.qmd >}}
 
-{{< include 02-Main/chap5.qmd >}}
+{{< include ../02-Main/chap5.qmd >}}
 
-{{< include 02-Main/chap6.qmd >}}
+{{< include ../02-Main/chap6.qmd >}}
 
-{{< include 02-Main/chap7.qmd >}}
+{{< include ../02-Main/chap7.qmd >}}
 
-{{< include 02-Main/chap8.qmd >}}
+{{< include ../02-Main/chap8.qmd >}}
 
 \backmatter
 
 \pagestyle{plain.scrheadings}
 
-{{< include 03-Back/references.qmd >}}
+{{< include ../03-Back/references.qmd >}}

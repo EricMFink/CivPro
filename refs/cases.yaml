@@ -96,6 +96,17 @@ references:
   type: legal_case
   volume: '499'
 
+- id: CohenBeneficialIndustrialLoan_US1949
+  authority: U.S.
+  citation-key: CohenBeneficialIndustrialLoan_US1949
+  container-title: US
+  issued:
+    - year: 1949
+  page: '541'
+  title: Cohen v. Beneficial Industrial Loan Corp.
+  type: legal_case
+  volume: '337'
+
 - id: CompleteBusinessSolutionsGroup_EDPa2020
   authority: E.D. Pa.
   citation-key: CompleteBusinessSolutionsGroup_EDPa2020
@@ -218,6 +229,17 @@ references:
   title: Grable & Sons Metal Prod. v. Darue Eng'g & Mfg.
   type: legal_case
   volume: '545'
+
+- id: GuarantyTrustCoYork_US1945
+  authority: U.S.
+  citation-key: GuarantyTrustCoYork_US1945
+  container-title: US
+  issued:
+    - year: 1945
+  page: '99'
+  title: Guaranty Trust Co. v. York
+  type: legal_case
+  volume: '326'
 
 - id: HanksCoan_MDNC1999
   authority: M.D.N.C.
@@ -549,6 +571,17 @@ references:
   type: legal_case
   volume: '95'
 
+- id: RaganMerchantsTransferWarehouse_US1949
+  authority: U.S.
+  citation-key: RaganMerchantsTransferWarehouse_US1949
+  container-title: US
+  issued:
+    - year: 1949
+  page: '530'
+  title: Ragan v. Merchants Transfer & Warehouse Co.
+  type: legal_case
+  volume: '337'
+
 - id: ReisRoboticsUSAInc_NDIll2006
   authority: N.D. Ill.
   citation-key: ReisRoboticsUSAInc_NDIll2006
@@ -702,6 +735,17 @@ references:
   title: Williams v. Mitchell
   type: legal_case
   volume: '122'
+
+- id: WoodsInterstateRealtyCo_US1949
+  authority: U.S.
+  citation-key: WoodsInterstateRealtyCo_US1949
+  container-title: US
+  issued:
+    - year: 1949
+  page: '535'
+  title: Woods v. Interstate Realty Co.
+  type: legal_case
+  volume: '337'
 
 - id: WoodWard_SDOhio1879
   authority: S.D. Ohio
