@@ -41,7 +41,8 @@ references:
 - id: BlackWhiteTaxiCo_US1928
   authority: U.S.
   citation-key: BlackWhiteTaxiCo_US1928
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1928
   page: '518'
@@ -99,7 +100,8 @@ references:
 - id: CohenBeneficialIndustrialLoan_US1949
   authority: U.S.
   citation-key: CohenBeneficialIndustrialLoan_US1949
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1949
   page: '541'
@@ -233,7 +235,8 @@ references:
 - id: GuarantyTrustCoYork_US1945
   authority: U.S.
   citation-key: GuarantyTrustCoYork_US1945
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1945
   page: '99'
@@ -574,7 +577,8 @@ references:
 - id: RaganMerchantsTransferWarehouse_US1949
   authority: U.S.
   citation-key: RaganMerchantsTransferWarehouse_US1949
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1949
   page: '530'
@@ -599,7 +603,8 @@ references:
 - id: ReNageleisen_EDKyBankr2014
   authority: E.D. Ky., Bankr.
   citation-key: ReNageleisen_EDKyBankr2014
-  container-title: BR
+  container-title: B.R.
+  container-title-short: B.R.
   issued:
     - year: 2014
       month: 12
@@ -637,9 +642,10 @@ references:
   volume: '145'
 
 - id: SouthernPacificCoJensen_US1917
-  authority: U.S
+  authority: U.S.
   citation-key: SouthernPacificCoJensen_US1917
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1917
   page: '205'
@@ -739,7 +745,8 @@ references:
 - id: WoodsInterstateRealtyCo_US1949
   authority: U.S.
   citation-key: WoodsInterstateRealtyCo_US1949
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1949
   page: '535'

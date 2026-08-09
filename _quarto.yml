@@ -82,14 +82,15 @@ book:
     - links.qmd
 
 filters:
-  - citetools
-bibliography_cases: refs/cases.yaml
-bibliography_constitution: refs/constitution.yaml
-bibliography_frcp: refs/frcp.yaml
-bibliography_statutes: refs/statutes.yaml
-bibliography_other: refs/other.yaml
-csl: refs/casebook.csl
+  - multibib
+validate-yaml: false
+bibliography-cases: refs/cases.yaml
+bibliography-constitution: refs/constitution.yaml
+bibliography-frcp: refs/frcp.yaml
+bibliography-statutes: refs/statutes.yaml
+bibliography-other: refs/other.yaml
 citation-abbreviations: refs/abbreviations.json
+csl: refs/casebook.csl
 
 format:
   html:

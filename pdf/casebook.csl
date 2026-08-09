@@ -145,14 +145,21 @@
         </group>
       </else-if>
       <else-if type="legislation">
-	  	<group delimiter=" ">
-			<text variable="volume"/>
-        	<text variable="container-title"/>
-        	<text variable="section" prefix="§ "/>
-		</group>
+	  	<choose>
+		  <if variable="section">
+	  		<group delimiter=" ">
+				<text variable="volume"/>
+        		<text variable="container-title"/>
+        		<text variable="section" prefix="§ "/>
+			</group>
+		  </if>
+		  <else>
+			  <text variable="title"/>
+		  </else>
+		</choose>
 	  </else-if>
       <else-if type="standard">
-        	<text form="short" variable="title"/>
+        	<text form="short" variable="title" font-variant="normal"/>
       </else-if>
       <else-if type="article-newspaper article-magazine" match="any">
         <group delimiter=", ">

@@ -2,7 +2,7 @@
 
 ## Permissive Joinder of Claims
 
-#### @FederalRulesCivilProcedureRule18
+#### @FRCPRule18
 
 ::: {.legalcode}
 
@@ -11,7 +11,7 @@
 
 :::
 
-#### @FederalRulesCivilProcedureRule42
+#### @FRCPRule42
 
 ::: {.legalcode}
 
@@ -53,7 +53,7 @@ In sum, Ms. Burdine has properly joined her claims, which sound in contract, aga
 
 ## Permissive Joinder of Parties
 
-#### @FederalRulesCivilProcedureRule20
+#### @FRCPRule20
 
 ::: {.legalcode}
 
@@ -115,7 +115,7 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ## Counterclaims
 
-#### @FederalRulesCivilProcedureRule13
+#### @FRCPRule13
 
 ::: {.legalcode}
 
@@ -283,7 +283,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 ## Crossclaims
 
-#### @FederalRulesCivilProcedureRule13
+#### @FRCPRule13
 
 ::: {.legalcode}
 
@@ -332,7 +332,7 @@ Although the Federal Rules do not themselves address when a co-defendant becomes
 
 ## Third-Party Defendants & Claims
 
-#### @FederalRulesCivilProcedureRule14
+#### @FRCPRule14
 
 ::: {.legalcode}
 
@@ -468,7 +468,7 @@ In light of the Court's holding that Smith has not satisfied the third-party pra
 
 ## Required Parties
 
-#### @FederalRulesCivilProcedureRule19
+#### @FRCPRule19
 
 ::: {.legalcode}
 

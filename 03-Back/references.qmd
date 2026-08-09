@@ -20,7 +20,7 @@
 ::: {#refs_frcp}
 :::
 
-### Books, Articles, & Other Publications
+### Books, Articles, & Other Material
 
 ::: {#refs_other}
 :::
