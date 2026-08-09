@@ -33,7 +33,6 @@ format:
     pdfcreator: LaTeX via pandoc
     colorlinks: true
     urlstyle: tt
-    keep-tex: true
     output-file: CivProCasebook
 filters:
   - latex-environment

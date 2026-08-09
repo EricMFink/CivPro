@@ -21,7 +21,6 @@ meets: 'Mondays, Wednesdays, & Fridays, 10:40 am–12:30 pm'
 format:
   pdf:
     template: syllabus.tex
-    keep-tex: true
     output-file: CivProSyllabus
 
 ---

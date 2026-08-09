@@ -410,8 +410,6 @@ Under the applicable state law, the elements of Schlimazel’s claim are as foll
 2. The product's design rendered it unreasonably dangerous in its normal intended use;
 3. The defective design was the proximate cause of the plaintiff’s injuries.
 
-Also under the applicable law, the defendant in a product liability suit based on an alleged design defect may assert, as an affirmative defense, that the dangerous condition of the product resulted from the manufacturing process, not the design itself. 
-
-Mebelmacher moves for summary judgment, arguing that Schlimazel has failed to meet her burden of proof that her injury was caused by a defect in the chair, and that any defect in the chair resulted from the manufacturing process, not the design. 
+Mebelmacher moves for summary judgment, arguing that the evidence in the record is insufficient to estabish the second and third elements.
 
 _Should the court grant summary judgment in favor of Mebelmacher?_
