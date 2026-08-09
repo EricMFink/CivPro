@@ -18,9 +18,9 @@ All original content is licensed under a [Creative Commons Attribution NonCommer
 
 ### Greensboro, North Carolina 27408
 
-#### [emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)
+#### [https://emfink.net/ElonLaw](https://emfink.net/ElonLaw/)
 
-### Source Code: [github.com/EricMFink/{{< var repo >}}](https://github.com/EricMFink/{{< var repo >}})
+### Source Code: [https://github.com/EricMFink/{{< var repo >}}](https://github.com/EricMFink/{{< var repo >}})
 
 ### Version {{< var version >}}, {{< now month >}} {{< now year >}}
 
