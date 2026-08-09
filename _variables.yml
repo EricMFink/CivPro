@@ -1,23 +1,18 @@
-version: 5.0, August 2026
-
-course: Civil Procedure
-repo: CivPro
-site-url: "https://emfink.net/CivPro"
-
-description: This book presents material for use in a first-year law school Civil Procedure course. Topics covered include the scope of a lawsuit (Party & Claim Joinder), selection of an appropriate forum (Personal & Subject Matter Jurisdiction), presentation of claims and defenses (Pleadings), choice of applicable law (the _Erie_ doctrine & the Rules Enabling Act), disposition without a trial (Summary Judgment), and the effect of judgments on future litigation (Claim & Issue Preclusion).
-
 author: Eric M. Fink
 email: efink@elon.edu
 phone: 336-279-9334
 appointments: https://calendly.com/emfink/
-
 institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
+subject: Civil Procedure
+repo: CivPro
+course-url: "https://emfink.net/CivPro"
+description: This book presents material for use in a first-year law school Civil Procedure course. Topics covered include the scope of a lawsuit (Party & Claim Joinder), selection of an appropriate forum (Personal & Subject Matter Jurisdiction), presentation of claims and defenses (Pleadings), choice of applicable law (the _Erie_ doctrine & the Rules Enabling Act), disposition without a trial (Summary Judgment), and the effect of judgments on future litigation (Claim & Issue Preclusion).
 term: 'Fall 2026'
 room: 'Room 204'
 meets: 'Mondays, Wednesdays, & Fridays, 10:40 am–12:30 pm'
-
 ta: Baron Turner
 ta-email:  bturner16@elon.edu
+version: '5.0'

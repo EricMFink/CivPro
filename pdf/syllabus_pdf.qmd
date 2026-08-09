@@ -1,40 +1,30 @@
-# Syllabus {.unnumbered}
+---
+title: Civil Procedure
+repo: CivPro
+course-url: "https://emfink.net/CivPro"
 
-[{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
+author: Eric M. Fink
+email: efink@elon.edu
+phone: 336-279-9334
+appointments: https://calendly.com/emfink/
+institution: Elon University School of Law
+address: 201 North Greene Street
+city-state: Greensboro, North Carolina
 
-::: {.syllabus}
+ta: Baron Turner
+ta-email:  bturner16@elon.edu
 
-::: {.syllabus-header}
+term: 'Fall 2026'
+room: 'Room 204'
+meets: 'Mondays, Wednesdays, & Fridays, 10:40 am–12:30 pm'
 
-## {{< var subject >}} {.unnumbered}
+format:
+  pdf:
+    template: syllabus.tex
+    keep-tex: true
+    output-file: CivProSyllabus
 
-{{< var institution >}}
-
-{{< var term >}}
-
-{{< var room >}}
-
-{{< var meets >}}
-
-[{{< var repo >}}]({{< var course-url >}})
-
-### Professor
-
-{{< var author >}}
-
-{{< var phone >}}
-
-[{{< var email >}}](mailto:{{< var email >}})
-
-Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
-
-### Teaching Assistants {.unnumbered}
-
-{{< var ta >}}
-
-[{{< var ta-email >}}](mailto:{{< var ta-email >}})
-
-:::
+---
 
 ## Description {.unnumbered}
 
@@ -236,5 +226,3 @@ _Click & Learn_ Unit 8 (part 1 sec. III only)
 **Date TBA** Final Exam
 
 [^syllabus3]: Relevant portions of the Clermont hornbook are listed for each unit. These are optional, but you may find them helpful to provide context for the assigned reading.
-
-:::
