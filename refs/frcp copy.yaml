@@ -2,181 +2,212 @@
 references:
 - id: FRCP
   citation-key: FRCP
-  container-title: Fed. R. Civ. P.
+  genre: Fed. R. Civ. P.
+  number: 
   title: Federal Rules of Civil Procedure
-  type: legislation
+  type: standard
 
 - id: FRCP1
   citation-key: FRCP1
   genre: Fed. R. Civ. P.
+  number: 1
   title: Fed. R. Civ. P. Rule 1
-  type: document
-
-- id: FRCP10
-  citation-key: FRCP10
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 10
-  type: document
-
-- id: FRCP11
-  citation-key: FRCP11
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 11
-  type: document
-
-- id: FRCP12
-  citation-key: FRCP12
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 12
-  type: document
-
-- id: FRCP13
-  citation-key: FRCP13
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 13
-  type: document
-
-- id: FRCP14
-  citation-key: FRCP14
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 14
-  type: document
-
-- id: FRCP15
-  citation-key: FRCP15
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 15
-  type: document
-
-- id: FRCP16
-  citation-key: FRCP16
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 16
-  type: document
-
-- id: FRCP17
-  citation-key: FRCP17
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 17
-  type: document
-
-- id: FRCP18
-  citation-key: FRCP18
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 18
-  type: document
-
-- id: FRCP19
-  citation-key: FRCP19
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 19
-  type: document
+  type: standard
 
 - id: FRCP2
   citation-key: FRCP2
   genre: Fed. R. Civ. P.
+  number: 2
   title: Fed. R. Civ. P. Rule 2
-  type: document
-
-- id: FRCP20
-  citation-key: FRCP20
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 20
-  type: document
-
-- id: FRCP21
-  citation-key: FRCP21
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 21
-  type: document
-
-- id: FRCP22
-  citation-key: FRCP22
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 22
-  type: document
-
-- id: FRCP23
-  citation-key: FRCP23
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 23
-  type: document
-
-- id: FRCP24
-  citation-key: FRCP24
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 24
-  type: document
-
-- id: FRCP25
-  citation-key: FRCP25
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 25
-  type: document
-
-- id: FRCP26
-  citation-key: FRCP26
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 26
-  type: document
+  type: standard
 
 - id: FRCP3
   citation-key: FRCP3
   genre: Fed. R. Civ. P.
+  number: 3
   title: Fed. R. Civ. P. Rule 3
-  type: document
+  type: standard
 
 - id: FRCP4
   citation-key: FRCP4
   genre: Fed. R. Civ. P.
+  number: 4
   title: Fed. R. Civ. P. Rule 4
-  type: document
-
-- id: FRCP42
-  citation-key: FRCP42
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 42
-  type: document
+  type: standard
 
 - id: FRCP5
   citation-key: FRCP5
   genre: Fed. R. Civ. P.
+  number: 5
   title: Fed. R. Civ. P. Rule 5
-  type: document
-
-- id: FRCP55
-  citation-key: FRCP55
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 55
-  type: document
-
-- id: FRCP56
-  citation-key: FRCP56
-  genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 56
-  type: document
+  type: standard
 
 - id: FRCP6
   citation-key: FRCP6
   genre: Fed. R. Civ. P.
+  number: 6
   title: Fed. R. Civ. P. Rule 6
-  type: document
+  type: standard
 
 - id: FRCP7
   citation-key: FRCP7
   genre: Fed. R. Civ. P.
+  number: 7
   title: Fed. R. Civ. P. Rule 7
-  type: document
+  type: standard
 
 - id: FRCP8
   citation-key: FRCP8
   genre: Fed. R. Civ. P.
+  number: 8
   title: Fed. R. Civ. P. Rule 8
-  type: document
+  type: standard
 
 - id: FRCP9
   citation-key: FRCP9
   genre: Fed. R. Civ. P.
+  number: 9
   title: Fed. R. Civ. P. Rule 9
-  type: document
+  type: standard
+
+- id: FRCP10
+  citation-key: FRCP10
+  genre: Fed. R. Civ. P.
+  number: 10
+  title: Fed. R. Civ. P. Rule 10
+  type: standard
+
+- id: FRCP11
+  citation-key: FRCP11
+  genre: Fed. R. Civ. P.
+  number: 11
+  title: Fed. R. Civ. P. Rule 11
+  type: standard
+
+- id: FRCP12
+  citation-key: FRCP12
+  genre: Fed. R. Civ. P.
+  number: 12
+  title: Fed. R. Civ. P. Rule 12
+  type: standard
+
+- id: FRCP13
+  citation-key: FRCP13
+  genre: Fed. R. Civ. P.
+  number: 13
+  title: Fed. R. Civ. P. Rule 13
+  type: standard
+
+- id: FRCP14
+  citation-key: FRCP14
+  genre: Fed. R. Civ. P.
+  number: 14
+  title: Fed. R. Civ. P. Rule 14
+  type: standard
+
+- id: FRCP15
+  citation-key: FRCP15
+  genre: Fed. R. Civ. P.
+  number: 15
+  title: Fed. R. Civ. P. Rule 15
+  type: standard
+
+- id: FRCP16
+  citation-key: FRCP16
+  genre: Fed. R. Civ. P.
+  number: 16
+  title: Fed. R. Civ. P. Rule 16
+  type: standard
+
+- id: FRCP17
+  citation-key: FRCP17
+  genre: Fed. R. Civ. P.
+  number: 17
+  title: Fed. R. Civ. P. Rule 17
+  type: standard
+
+- id: FRCP18
+  citation-key: FRCP18
+  genre: Fed. R. Civ. P.
+  number: 18
+  title: Fed. R. Civ. P. Rule 18
+  type: standard
+
+- id: FRCP19
+  citation-key: FRCP19
+  genre: Fed. R. Civ. P.
+  number: 19
+  title: Fed. R. Civ. P. Rule 19
+  type: standard
+
+- id: FRCP20
+  citation-key: FRCP20
+  genre: Fed. R. Civ. P.
+  number: 20
+  title: Fed. R. Civ. P. Rule 20
+  type: standard
+
+- id: FRCP21
+  citation-key: FRCP21
+  genre: Fed. R. Civ. P.
+  number: 21
+  title: Fed. R. Civ. P. Rule 21
+  type: standard
+
+- id: FRCP22
+  citation-key: FRCP22
+  genre: Fed. R. Civ. P.
+  number: 22
+  title: Fed. R. Civ. P. Rule 22
+  type: standard
+
+- id: FRCP23
+  citation-key: FRCP23
+  genre: Fed. R. Civ. P.
+  number: 23
+  title: Fed. R. Civ. P. Rule 23
+  type: standard
+
+- id: FRCP24
+  citation-key: FRCP24
+  genre: Fed. R. Civ. P.
+  number: 24
+  title: Fed. R. Civ. P. Rule 24
+  type: standard
+
+- id: FRCP25
+  citation-key: FRCP25
+  genre: Fed. R. Civ. P.
+  number: 25
+  title: Fed. R. Civ. P. Rule 25
+  type: standard
+
+- id: FRCP26
+  citation-key: FRCP26
+  genre: Fed. R. Civ. P.
+  number: 26
+  title: Fed. R. Civ. P. Rule 26
+  type: standard
+
+- id: FRCP42
+  citation-key: FRCP42
+  genre: Fed. R. Civ. P.
+  number: 42
+  title: Fed. R. Civ. P. Rule 42
+  type: standard
+
+- id: FRCP55
+  citation-key: FRCP55
+  genre: Fed. R. Civ. P.
+  number: 55
+  title: Fed. R. Civ. P. Rule 55
+  type: standard
+
+- id: FRCP56
+  citation-key: FRCP56
+  genre: Fed. R. Civ. P.
+  number: 56
+  title: Fed. R. Civ. P. Rule 56
+  type: standard
+
 ...

@@ -10,7 +10,7 @@
 
 :::
 
-#### @USConstitutionAmend14
+#### @ConstitutionAmend14
 
 ::: {.legalcode}
 

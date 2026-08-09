@@ -4,7 +4,7 @@ references:
   citation-key: 1331FederalQuestion
   container-title: U.S.C.
   container-title-short: U.S.C.
-  section: § 1331
+  section: '1331'
   title: 1331 Federal Question
   type: legislation
   volume: '28'
@@ -14,7 +14,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 1332
+  section: '1332'
   title: 1332 Diversity of Citizenship
   type: legislation
   volume: '28'
@@ -24,7 +24,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 1367
+  section: '1367'
   title: 1367 Supplemental Jurisdiction
   type: legislation
   volume: '28'
@@ -34,7 +34,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 1738
+  section: '1738'
   title: 1738 Full Faith & Credit
   type: legislation
   volume: '28'
@@ -42,14 +42,14 @@ references:
 - id: CaliforniaLongArm
   citation-key: CaliforniaLongArm
   container-title: Cal. Code Civ. Proc.
-  section: § 410.10
+  section: '410.10'
   title: California Long Arm
   type: legislation
 
 - id: NYLongArm
   citation-key: NYLongArm
   container-title: NY CPLR
-  section: § 302
+  section: '302'
   title: NY Long Arm
   type: legislation
 
@@ -58,7 +58,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 1652
+  section: '1652'
   title: RDA 1652
   type: legislation
   volume: '28'
@@ -68,7 +68,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 2071
+  section: '2071'
   title: REA 2071
   type: legislation
   volume: '28'
@@ -78,7 +78,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 2072
+  section: '2072'
   title: REA 2072
   type: legislation
   volume: '28'
@@ -88,7 +88,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 2073
+  section: '2073'
   title: REA 2073
   type: legislation
   volume: '28'
@@ -98,13 +98,14 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: § 2074
+  section: '2074'
   title: REA 2074
   type: legislation
   volume: '28'
 
 - id: Rest2dJudgments
   citation-key: Rest2dJudgments
+  genre: Rest. (2d) of Judgments
   title: Rest. (2d) of Judgments
   type: standard
 ...

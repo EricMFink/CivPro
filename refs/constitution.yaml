@@ -2,33 +2,21 @@
 references:
 - id: ConstitutionAmend14
   citation-key: ConstitutionAmend14
-  container-title: U.S. Constitution
-  container-title-short: US Const.
-  section: Amendment XIV
   title: U.S. Constitution, Amendment XIV
-  type: legislation
+  type: document
 
 - id: ConstitutionAmend5
   citation-key: ConstitutionAmend5
-  container-title: U.S. Constitution
-  container-title-short: US Const.
-  section: Amendment V
   title: U.S. Constitution, Amendment V
-  type: legislation
+  type: document
 
 - id: ConstitutionArt3
   citation-key: ConstitutionArt3
-  container-title: U.S. Constitution
-  container-title-short: US Const.
-  section: Article III
   title: U.S. Constitution, Article III
-  type: legislation
+  type: document
 
 - id: ConstitutionArt4
   citation-key: ConstitutionArt4
-  container-title: U.S. Constitution
-  container-title-short: US Const.
-  section: Article IV
   title: U.S. Constitution, Article IV
-  type: legislation
+  type: document
 ...
