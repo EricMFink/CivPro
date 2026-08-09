@@ -46,7 +46,7 @@ references:
   issued:
     - year: 1928
   page: '518'
-  title: Black & White Taxi. Co. v. Brown & Yellow Taxi. Co.
+  title: Black & White Taxi Co. v. Brown & Yellow Taxi Co.
   type: legal_case
   volume: '276'
 
@@ -105,7 +105,7 @@ references:
   issued:
     - year: 1949
   page: '541'
-  title: Cohen v. Beneficial Industrial Loan Corp.
+  title: Cohen v. Beneficial Indus. Loan Corp.
   type: legal_case
   volume: '337'
 
@@ -202,7 +202,7 @@ references:
   issued:
     - year: 2021
   page: '351'
-  title: Ford Motor Co. v. Montana Eighth Judicial Dist. Court
+  title: Ford Motor Co. v. Montana Eighth Jud. Dist. Court
   type: legal_case
   volume: '592'
 
@@ -500,7 +500,7 @@ references:
       day: 10
   jurisdiction: ND Ohio
   number: No. 3:17CV228
-  title: Ottawa Township Bd. of Trustees v. New Par (I)
+  title: Ottawa Twp. v. New Par (I)
   type: legal_case
 
 - id: OttawaTownshipII_NDOhio2017
@@ -512,7 +512,7 @@ references:
       day: 10
   jurisdiction: ND Ohio
   number: No. 3:17CV228
-  title: Ottawa Township Bd. of Trustees v. New Par (II)
+  title: Ottawa Twp. v. New Par (II)
   type: legal_case
 
 - id: PaceTimmermannsRanchSaddle_7thCir2014
