@@ -20,7 +20,7 @@ All original content is licensed under a [Creative Commons Attribution NonCommer
 
 #### [emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)
 
-### Source Code: [[github.com/EricMFink/{{< var repo >}}]{.mono-font-smaller}](https://github.com/EricMFink/{{< var repo >}})
+### Source Code: [github.com/EricMFink/{{< var repo >}}](https://github.com/EricMFink/{{< var repo >}})
 
 ### Version {{< var version >}}, {{< now month >}} {{< now year >}}
 
