@@ -2,7 +2,7 @@
 
 ## Legal Standard & Procedure
 
-#### @FedCiv_Rule56
+#### FederalRulesCivilProcedureRule56
 
 ::: {.legalcode}
 
@@ -34,7 +34,7 @@ Rule 56(c) requires that "A party asserting that a fact cannot be or is genuinel
 
 Rule 26 sets out general provisions for discovery. First, the parties must disclose certain information at the outset of the case: 
 
-##### @FedCiv_Rule26
+##### FederalRulesCivilProcedureRule26
 
 ::: {.legalcode}
 
