@@ -1,8 +1,8 @@
-version: 5.0
+version: 5.0, August 2026
 
 subject: Civil Procedure
-repo-name: emfink.net/CivPro
-repo-url: "https://emfink.net/CivPro"
+repo: CivPro
+site-url: "https://emfink.net/CivPro"
 
 author: Eric M. Fink
 email: efink@elon.edu
