@@ -2,7 +2,7 @@
 
 ## Constitutional Limits: Due Process 
 
-#### @USConstitutionAmendment5
+#### @ConstitutionAmend5
 
 ::: {.legalcode}
 
@@ -10,7 +10,7 @@
 
 :::
 
-#### @USConstitutionAmendment14
+#### @USConstitutionAmend14
 
 ::: {.legalcode}
 
@@ -852,11 +852,11 @@ Critics of Daimler and Goodyear may be happy to see them go. And make no mistake
 
 Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. There are two types of long-arm statute.
 
-##### Enumerated Statutes
+### Enumerated Statutes
 
 Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
-[@NYLongArm]{.casesection}
+#### @NYLongArm
 
 ::: {.legalcode}
 
@@ -875,11 +875,11 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 (1) Does the case fall within one (or more) of the circumstances enumerated in the statute? 
 (2) Will the exercise of jurisdiction over the defendant satisfy the constitutional due process standard? 
 
-##### Constitutional Limit Statutes
+### Constitutional Limit Statutes
 
 This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
 
-[@CaliforniaLongArm]{.casesection}
+#### @CaliforniaLongArm
 
 ::: {.legalcode}
 

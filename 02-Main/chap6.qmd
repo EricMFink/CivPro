@@ -4,11 +4,11 @@
 
 ::: {.legalcode}
 
-#### @FRCPRule3
+#### @FRCP3
 
 A civil action is commenced by filing a complaint with the court.
 
-#### @FRCPRule7
+#### @FRCP7
 
 - (a\) Pleadings. Only these pleadings are allowed:
 	- (1\) a complaint;
@@ -25,7 +25,7 @@ A civil action is commenced by filing a complaint with the court.
 		- (C\) state the relief sought.
 	- (2\) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers.
 
-#### @FRCPRule8
+#### @FRCP8
 
 - (a\) Claim for Relief. A pleading that states a claim for relief must contain:
 	- (1\) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
@@ -67,7 +67,7 @@ A civil action is commenced by filing a complaint with the court.
 	- (3\) _Inconsistent Claims or Defenses._ A party may state as many separate claims or defenses as it has, regardless of consistency.
 - (e\) Construing Pleadings. Pleadings must be construed so as to do justice.
 
-#### @FRCPRule9
+#### @FRCP9
 
 - (a\) Capacity or Authority to Sue; Legal Existence.
 	- (1\) _In General._ Except when required to show that the court has jurisdiction, a pleading need not allege:
@@ -81,13 +81,13 @@ A civil action is commenced by filing a complaint with the court.
 - (f\) Time and Place. An allegation of time or place is material when testing the sufficiency of a pleading.
 - (g\) Special Damages. If an item of special damage is claimed, it must be specifically stated.
 
-#### @FRCPRule10
+#### @FRCP10
 
 - (a\) Caption; Names of Parties. Every pleading must have a caption with the court's name, a title, a file number, and a Rule 7(a) designation. The title of the complaint must name all the parties; the title of other pleadings, after naming the first party on each side, may refer generally to other parties.
 - (b\) Paragraphs; Separate Statements. A party must state its claims or defenses in numbered paragraphs, each limited as far as practicable to a single set of circumstances. A later pleading may refer by number to a paragraph in an earlier pleading. If doing so would promote clarity, each claim founded on a separate transaction or occurrence—and each defense other than a denial—must be stated in a separate count or defense.
 - (c\) Adoption by Reference; Exhibits. A statement in a pleading may be adopted by reference elsewhere in the same pleading or in any other pleading or motion. A copy of a written instrument that is an exhibit to a pleading is a part of the pleading for all purposes.
 
-#### @FRCPRule12
+#### @FRCP12
 
 - (a\) Time to Serve a Responsive Pleading.
 	- (1\) In General. Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
@@ -507,7 +507,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 ## Truthfulness & Good Faith
 
-#### @FRCPRule11
+#### @FRCP11
 
 ::: {.legalcode}
 

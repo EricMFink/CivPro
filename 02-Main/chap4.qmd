@@ -2,7 +2,7 @@
 
 ## Constitutional Foundation
 
-#### @USConstitutionArticle3
+#### @USConstitutionArt3
 
 ::: {.legalcode}
 
@@ -176,7 +176,7 @@ Malpractice claims based on an attorney's conduct in a federal patent suit don't
 
 ## Diversity Jurisdiction
 
-#### @1332DiversityCitizenship
+#### @1332Diversity
 
 ::: {.legalcode}
 

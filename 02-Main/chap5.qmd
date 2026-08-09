@@ -2,7 +2,7 @@
 
 ## The Rules of Decision Act
 
-#### @1652RDA
+#### @RDA1652
 
 ::: {.legalcode}
 
@@ -206,7 +206,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ## The Rules Enabling Act
 
-##### @2071RuleMakingPower
+##### @REA2071
 
 ::: {.legalcode}
 
@@ -221,7 +221,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @2072RulesofProcedure
+#### @REA2072
 
 ::: {.legalcode}
 
@@ -231,7 +231,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @2073MethodofProscribing
+#### @REA2073
 
 ::: {.legalcode}
 
@@ -247,7 +247,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @2074SubmissiontoCongress
+#### @REA2074
 
 ::: {.legalcode}
 

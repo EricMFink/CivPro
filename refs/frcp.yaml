@@ -2,151 +2,210 @@
 references:
 - id: FRCP
   citation-key: FRCP
+  container-title: Fed. R. Civ. P.
   title: Federal Rules of Civil Procedure
-  type: standard
+  type: legislation
 
-- id: FRCPRule1
-  citation-key: FRCPRule1
+- id: FRCP1
+  citation-key: FRCP1
+  container-title: Fed. R. Civ. P.
+  section: Rule 1
   title: Fed. R. Civ. P. Rule 1
-  type: standard
+  type: legislation
 
-- id: FRCPRule10
-  citation-key: FRCPRule10
+- id: FRCP10
+  citation-key: FRCP10
+  container-title: Fed. R. Civ. P.
+  section: Rule 10
   title: Fed. R. Civ. P. Rule 10
-  type: standard
+  type: legislation
 
-- id: FRCPRule11
-  citation-key: FRCPRule11
+- id: FRCP11
+  citation-key: FRCP11
+  container-title: Fed. R. Civ. P.
+  section: Rule 11
   title: Fed. R. Civ. P. Rule 11
-  type: standard
+  type: legislation
 
-- id: FRCPRule12
-  citation-key: FRCPRule12
+- id: FRCP12
+  citation-key: FRCP12
+  container-title: Fed. R. Civ. P.
+  section: Rule 12
   title: Fed. R. Civ. P. Rule 12
-  type: standard
+  type: legislation
 
-- id: FRCPRule13
-  citation-key: FRCPRule13
+- id: FRCP13
+  citation-key: FRCP13
+  container-title: Fed. R. Civ. P.
+  section: Rule 13
   title: Fed. R. Civ. P. Rule 13
-  type: standard
+  type: legislation
 
-- id: FRCPRule14
-  citation-key: FRCPRule14
+- id: FRCP14
+  citation-key: FRCP14
+  container-title: Fed. R. Civ. P.
+  section: Rule 14
   title: Fed. R. Civ. P. Rule 14
-  type: standard
+  type: legislation
 
-- id: FRCPRule15
-  citation-key: FRCPRule15
+- id: FRCP15
+  citation-key: FRCP15
+  container-title: Fed. R. Civ. P.
+  section: Rule 15
   title: Fed. R. Civ. P. Rule 15
-  type: standard
+  type: legislation
 
-- id: FRCPRule16
-  citation-key: FRCPRule16
+- id: FRCP16
+  citation-key: FRCP16
+  container-title: Fed. R. Civ. P.
+  section: Rule 16
   title: Fed. R. Civ. P. Rule 16
-  type: standard
+  type: legislation
 
-- id: FRCPRule17
-  citation-key: FRCPRule17
+- id: FRCP17
+  citation-key: FRCP17
+  container-title: Fed. R. Civ. P.
+  section: Rule 17
   title: Fed. R. Civ. P. Rule 17
-  type: standard
+  type: legislation
 
-- id: FRCPRule18
-  citation-key: FRCPRule18
+- id: FRCP18
+  citation-key: FRCP18
+  container-title: Fed. R. Civ. P.
+  section: Rule 18
   title: Fed. R. Civ. P. Rule 18
-  type: standard
+  type: legislation
 
-- id: FRCPRule19
-  citation-key: FRCPRule19
+- id: FRCP19
+  citation-key: FRCP19
+  container-title: Fed. R. Civ. P.
+  section: Rule 19
   title: Fed. R. Civ. P. Rule 19
-  type: standard
+  type: legislation
 
-- id: FRCPRule2
-  citation-key: FRCPRule2
+- id: FRCP2
+  citation-key: FRCP2
+  container-title: Fed. R. Civ. P.
+  section: Rule 2
   title: Fed. R. Civ. P. Rule 2
-  type: standard
+  type: legislation
 
-- id: FRCPRule20
-  citation-key: FRCPRule20
+- id: FRCP20
+  citation-key: FRCP20
+  container-title: Fed. R. Civ. P.
+  section: Rule 20
   title: Fed. R. Civ. P. Rule 20
-  type: standard
+  type: legislation
 
-- id: FRCPRule21
-  citation-key: FRCPRule21
+- id: FRCP21
+  citation-key: FRCP21
+  container-title: Fed. R. Civ. P.
+  section: Rule 21
   title: Fed. R. Civ. P. Rule 21
-  type: standard
+  type: legislation
 
-- id: FRCPRule22
-  citation-key: FRCPRule22
+- id: FRCP22
+  citation-key: FRCP22
+  container-title: Fed. R. Civ. P.
+  section: Rule 22
   title: Fed. R. Civ. P. Rule 22
-  type: standard
+  type: legislation
 
-- id: FRCPRule23
-  citation-key: FRCPRule23
+- id: FRCP23
+  citation-key: FRCP23
+  container-title: Fed. R. Civ. P.
+  section: Rule 23
   title: Fed. R. Civ. P. Rule 23
-  type: standard
+  type: legislation
 
-- id: FRCPRule24
-  citation-key: FRCPRule24
+- id: FRCP24
+  citation-key: FRCP24
+  container-title: Fed. R. Civ. P.
+  section: Rule 24
   title: Fed. R. Civ. P. Rule 24
-  type: standard
+  type: legislation
 
-- id: FRCPRule25
-  citation-key: FRCPRule25
+- id: FRCP25
+  citation-key: FRCP25
+  container-title: Fed. R. Civ. P.
+  section: Rule 25
   title: Fed. R. Civ. P. Rule 25
-  type: standard
+  type: legislation
 
-- id: FRCPRule26
-  citation-key: FRCPRule26
+- id: FRCP26
+  citation-key: FRCP26
+  container-title: Fed. R. Civ. P.
+  section: Rule 26
   title: Fed. R. Civ. P. Rule 26
-  type: standard
+  type: legislation
 
-- id: FRCPRule3
-  citation-key: FRCPRule3
+- id: FRCP3
+  citation-key: FRCP3
+  container-title: Fed. R. Civ. P.
+  section: Rule 3
   title: Fed. R. Civ. P. Rule 3
-  type: standard
+  type: legislation
 
-- id: FRCPRule4
-  citation-key: FRCPRule4
+- id: FRCP4
+  citation-key: FRCP4
+  container-title: Fed. R. Civ. P.
+  section: Rule 4
   title: Fed. R. Civ. P. Rule 4
-  type: standard
+  type: legislation
 
-- id: FRCPRule42
-  citation-key: FRCPRule42
+- id: FRCP42
+  citation-key: FRCP42
+  container-title: Fed. R. Civ. P.
+  section: Rule 42
   title: Fed. R. Civ. P. Rule 42
-  type: standard
+  type: legislation
 
-- id: FRCPRule5
-  citation-key: FRCPRule5
+- id: FRCP5
+  citation-key: FRCP5
+  container-title: Fed. R. Civ. P.
+  section: Rule 5
   title: Fed. R. Civ. P. Rule 5
-  type: standard
+  type: legislation
 
-- id: FRCPRule55
-  citation-key: FRCPRule55
+- id: FRCP55
+  citation-key: FRCP55
+  container-title: Fed. R. Civ. P.
+  section: Rule 55
   title: Fed. R. Civ. P. Rule 55
-  type: standard
+  type: legislation
 
-- id: FRCPRule56
-  citation-key: FRCPRule56
+- id: FRCP56
+  citation-key: FRCP56
+  container-title: Fed. R. Civ. P.
+  section: Rule 56
   title: Fed. R. Civ. P. Rule 56
-  type: standard
+  type: legislation
 
-- id: FRCPRule6
-  citation-key: FRCPRule6
+- id: FRCP6
+  citation-key: FRCP6
+  container-title: Fed. R. Civ. P.
+  section: Rule 6
   title: Fed. R. Civ. P. Rule 6
-  type: standard
+  type: legislation
 
-- id: FRCPRule7
-  citation-key: FRCPRule7
+- id: FRCP7
+  citation-key: FRCP7
+  container-title: Fed. R. Civ. P.
+  section: Rule 7
   title: Fed. R. Civ. P. Rule 7
-  type: standard
+  type: legislation
 
-- id: FRCPRule8
-  citation-key: FRCPRule8
+- id: FRCP8
+  citation-key: FRCP8
+  container-title: Fed. R. Civ. P.
+  section: Rule 8
   title: Fed. R. Civ. P. Rule 8
-  type: standard
+  type: legislation
 
-- id: FRCPRule9
-  citation-key: FRCPRule9
+- id: FRCP9
+  citation-key: FRCP9
+  container-title: Fed. R. Civ. P.
+  section: Rule 9
   title: Fed. R. Civ. P. Rule 9
-  type: standard
+  type: legislation
 ...

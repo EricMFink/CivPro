@@ -83,13 +83,13 @@ book:
 
 filters:
   - citetools
-bibliography-cases: refs/cases.yaml
-bibliography-constitution: refs/constitution.yaml
-bibliography-frcp: refs/frcp.yaml
-bibliography-statutes: refs/statutes.yaml
-bibliography-other: refs/other.yaml
-citation-abbreviations: refs/abbreviations.json
+bibliography_cases: refs/cases.yaml
+bibliography_constitution: refs/constitution.yaml
+bibliography_frcp: refs/frcp.yaml
+bibliography_other: refs/other.yaml
+bibliography_statutes: refs/statutes.yaml
 csl: refs/casebook.csl
+citation-abbreviations: refs/abbreviations.json
 
 format:
   html:

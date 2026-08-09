@@ -50,14 +50,11 @@
 
   <macro name="title-inline">
     <choose>
-      <if match="any" type="bill collection legislation regulation treaty">
+      <if match="any" type="bill collection legislation regulation standard treaty">
         <text variable="title"/>
       </if>
       <else-if type="legal_case">
         <text font-style="italic" form="short" variable="title"/>
-      </else-if>
-	        <else-if type="standard">
-        <text form="short" variable="title"/>
       </else-if>
       <else-if match="any" type="book hearing">
         <text font-style="italic" form="short" variable="title"/>
@@ -82,10 +79,7 @@
     <if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
       <text form="short" variable="title" font-style="italic"/>
     </if>
-    <else-if type="standard" match="any">
-      <text form="short" variable="title" font-variant="normal"/>
-    </else-if>
-    <else-if type="legislation bill" match="any">
+    <else-if type="legislation bill standard" match="any">
       <text variable="title" font-variant="normal"/>
     </else-if>
     <else-if type="article-journal" match="any">
@@ -148,11 +142,11 @@
 	  	<group delimiter=" ">
 			<text variable="volume"/>
         	<text variable="container-title"/>
-        	<text variable="section" prefix="§ "/>
+        	<text variable="section"/>
 		</group>
 	  </else-if>
       <else-if type="standard">
-        	<text form="short" variable="title"/>
+        	<text variable="title"/>
       </else-if>
       <else-if type="article-newspaper article-magazine" match="any">
         <group delimiter=", ">
