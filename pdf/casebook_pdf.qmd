@@ -39,10 +39,10 @@ filters:
   - latex-environment
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
-bibliography: ../refs/PR.yaml
+bibliography: ../refs/CivPro.yaml
 csl: ../refs/casebook.csl
 citation-abbreviations: ../refs/abbreviations.json
-
+suppress-bibliography: true
 ---
 
 {{< include ../02-Main/chap1.qmd >}}
@@ -60,3 +60,7 @@ citation-abbreviations: ../refs/abbreviations.json
 {{< include ../02-Main/chap7.qmd >}}
 
 {{< include ../02-Main/chap8.qmd >}}
+
+\backmatter
+
+\pagestyle{plain.scrheadings}

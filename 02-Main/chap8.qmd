@@ -317,7 +317,7 @@ To prevail on his § 2255(a) claim, the only claim plaintiff asserts in this cas
 
 Defendants assert that plaintiff cannot make a sufficient showing on a critical element of his claim—that the album cover constitutes child pornography. Defendants argue that because "the image is unequivocally non-sexual, it is not child pornography as a matter of law"—that is, "even viewing the evidence in Plaintiff's favor, no reasonable juror could find the Album Cover is child pornography." Plaintiff responds that because "the parties dispute the material fact of whether the Album Cover constitutes child pornography," the issue must go to a jury. 
 
-The term "child pornography" is defined as "any visual depiction" where "the production of such visual depiction involves the use of a minor engaging in sexually explicit conduct." 18 U.S.C. § 2256(8)(A). "Sexually explicit conduct," in turn, is defined to include a "lascivious exhibition" of a person's "anus, genitals, or pubic area." § 2256(2)(A)(v). "To determine whether a visual depiction of a minor constitutes a 'lascivious exhibition of the genitals or pubic area'"—and thus child pornography—courts look to the six factors outlined in United States v. Dost, 636 F.Supp. 828 (S.D. Cal. 1986). The _Dost_ factors consider:
+The term "child pornography" is defined as "any visual depiction" where "the production of such visual depiction involves the use of a minor engaging in sexually explicit conduct." 18 U.S.C. § 2256(8)(A). "Sexually explicit conduct," in turn, is defined to include a "lascivious exhibition" of a person's "anus, genitals, or pubic area." § 2256(2)(A)(v). To determine whether a visual depiction of a minor constitutes child pornography, courts look to the six factors outlined in _United States v. Dost_, 636 F.Supp. 828 (S.D. Cal. 1986):
 
 > (1\) whether the focal point of the visual depiction is on the child's genitalia or pubic area;
 > 
@@ -335,7 +335,7 @@ Although these factors are the typical "starting point," they "are neither exclu
 
 [A. The _Dost_ factors.]{.casesubsection}
 
-To evaluate the album cover and any purported factual disputes, the court considers the _Dost_ factors in turn. The first and second _Dost_ factors, "whether the focal point of the visual depiction is on the child's genitalia or pubic area," and "whether the setting of the visual depiction is sexually suggestive," are not truly disputed here. First, the focal point of the album cover is not on the baby's genitalia. The photo captures the baby floating, and the lighting and angle of the photo, as well as the baby's prone position, are such that the focal point of the image is on the baby reaching for the dollar bill. The baby's genitalia are in the background of the image, under a shadow, and comprise a small portion of the overall image—they are not the focal point of the album cover. Although plaintiff asserts that "the focal point of the picture is on his genitals and the photographer positioned the camera to make plaintiff's genitals appear enlarged," In other words, neither the image itself nor anything else in the record suggests this is true. 
+The first and second _Dost_ factors, "whether the focal point of the visual depiction is on the child's genitalia or pubic area," and "whether the setting of the visual depiction is sexually suggestive," are not truly disputed here. First, the focal point of the album cover is not on the baby's genitalia. The photo captures the baby floating, and the lighting and angle of the photo, as well as the baby's prone position, are such that the focal point of the image is on the baby reaching for the dollar bill. The baby's genitalia are in the background of the image, under a shadow, and comprise a small portion of the overall image—they are not the focal point of the album cover. Although plaintiff asserts that "the focal point of the picture is on his genitals and the photographer positioned the camera to make plaintiff's genitals appear enlarged," In other words, neither the image itself nor anything else in the record suggests this is true. 
 
 Second, the baby is not "in a place or pose generally associated with sexual activity." Plaintiff argues that "the setting of the picture is sexually suggestive" because the baby is underwater, "unable to breathe," and "appears grasping for a dollar like a sex worker." But viewing the evidence in the light most favorable to plaintiff, the court has a difficult time understanding how this is a reasonable interpretation or inference to be drawn from the image. Further, plaintiff cites no relevant authority to suggest that the public pool, i.e., the underwater setting in this case, is inherently sexually suggestive. Indeed, the setting here is unlike others typically considered to be sexually suggestive. Finally, while it is plain that the baby appears to be reaching for the dollar, a dollar bill is not inherently sexually suggestive, and there is no evidence or basis to conclude that the baby is in "a pose generally associated with sexual activity."
 
@@ -351,7 +351,7 @@ Additionally, evidence about the ideas behind the album cover suggests that it w
 
 Plaintiff's contentions that the album cover image was intended to elicit a sexual response in the viewer, are unpersuasive. None of plaintiff's evidence establishes any connection—and plaintiff makes no attempt to show one—between Kurt Cobain and the creation of the album cover. Indeed, it is undisputed that Kurt Cobain was not present when the album cover image was taken, and plaintiff has failed to establish any connection between Kurt Cobain's diary entries and the album cover. The other evidence plaintiff cites to is similarly tangential and lacks any meaningful connection to the album cover.
 
-In short, having considered all the _Dost_ factors, neither the pose, focal point, setting, nor overall context suggest the album cover features sexually explicit conduct. In other words, other than the fact that plaintiff was nude on the album cover, no other _Dost_ factor comes close to bringing the image within the ambit of the child pornography statute. And when considering plaintiff's nudity in the context of the other _Dost_ factors, all we are left with is the image of a naked baby floating underwater, reaching for a dollar bill. This image—an image that is most analogous to a family photo of a nude child bathing—is plainly insufficient to support a finding of lasciviousness. 
+In short, neither the pose, focal point, setting, nor overall context suggest the album cover features sexually explicit conduct. In other words, other than the fact that plaintiff was nude on the album cover, no other factor comes close to bringing the image within the ambit of the child pornography statute. And when considering plaintiff's nudity in the context of the other factors, all we are left with is the image of a naked baby floating underwater, reaching for a dollar bill. This image—an image that is most analogous to a family photo of a nude child bathing—is plainly insufficient to support a finding of lasciviousness. 
 
 [B. Other Relevant Factors.]{.casesubsection}
 
@@ -361,7 +361,7 @@ As defendants note: (1) "both of Plaintiff's parents were at the photo shoot and
 
 [Conclusion]{.casesection}
 
-In sum, there are no disputes of material fact, and the _Dost_ and other relevant factors compel a finding that the album cover is not child pornography. 
+In sum, there are no disputes of material fact, and the relevant factors compel a finding that the album cover is not child pornography. 
 
 Based on the foregoing, IT IS ORDERED THAT:
 
@@ -370,15 +370,11 @@ Based on the foregoing, IT IS ORDERED THAT:
 
 ## Review Question
 
-Sally Schlimazel (domiciled in Florida), was injured when she cut her foot on a chair at the home of her neighbor, Freddie Frankel. The chair was designed by Mebelmacher Designs (incorporated and having its principal place of business in NC). Schlimazel sued Mebelmacher in the U.S. District Court for the Middle District of North Carolina, asserting a claim under state law based on strict liability for a defective product. (Assume the court has diversity jurisdiction.)
-
-The evidentiary record based on discovery includes the following evidence: 
+Sally Schlimazel (domiciled in Florida), was injured when she cut her foot on a chair at the home of her neighbor, Freddie Frankel. The chair was designed by Mebelmacher Designs (incorporated and having its principal place of business in NC). Schlimazel sued Mebelmacher in the U.S. District Court for the Middle District of North Carolina, asserting a claim under state law based on strict liability for a defective product. (Assume the court has diversity jurisdiction.) The evidentiary record based on discovery includes the following:
 
 ##### Summary of Sally Schlimazel Deposition Testimony
 
-Schlimazel testified in her deposition that she cut her bare foot on the “outside bottom edge of the chair where the base meets the sides,” resulting in severe lacerations. She later examined the chair and determined that the edge was “razor sharp, sharp enough that if you were to rub your finger across the bottom outside edge of the chair, you would shave skin off your finger.” The chrome was flush with the plywood but the edge was sharp all the way around the 360 degrees of the base.
-
-Schlimazel went to the emergency room, where a doctor found that Schlimazel had a severed tendon. Following the doctor’s advice, Schlimazel underwent surgery, followed by six months of physical therapy. 
+Schlimazel testified that she cut her bare foot on the “outside bottom edge of the chair where the base meets the sides,” resulting in severe lacerations. She later examined the chair and determined that the edge was “razor sharp, sharp enough that if you were to rub your finger across the bottom outside edge of the chair, you would shave skin off your finger.” The chrome was flush with the plywood but the edge was sharp all the way around the 360 degrees of the base. Schlimazel went to the emergency room, where a doctor found that Schlimazel had a severed tendon. Following the doctor’s advice, Schlimazel underwent surgery, followed by six months of physical therapy. 
 
 ##### Summary of Freddie Frankel Affidavit
 
@@ -394,7 +390,7 @@ The chair (Mebelmacher Deposition, Exhibit A) consists of a “tub” seat attac
 
 The chair was designed for residential use. Mebelmacher assumes that people commonly walk barefoot in their homes. Nonetheless, he never anticipated that someone might put their foot in the area between the tub seat and the top of the base. 
 
-He was familiar with the use of clear plastic pieces known as “edge guards.” These are used to protect the bottom edge of the metal on chrome-trimmed furniture. The Swivel Tub Chair was not designed with an edge guard because it did not seem necessary. Although it was technically feasible, it would have ruined the look of the chair to add a wood or cloth trim around the edge of the chrome veneer. 
+He was familiar with the use of clear plastic “edge guards” to protect the bottom edge of the metal on chrome-trimmed furniture. The Swivel Tub Chair was not designed with an edge guard because it did not seem necessary. Although it was technically feasible, it would have ruined the look of the chair to add a wood or cloth trim around the edge of the chrome veneer. 
 
 If the chair were manufactured with the chrome veneer extending beyond the plywood, it would create a surface that would cut bare skin. This would be a dangerous condition. The Swivel Tub Chair was specifically designed so that the plywood and chrome would be flush. This was not noted on the design drawing because it is so obvious. The drawings do not include all details: “I don’t put in all the screws, I don’t put in the dowels, I don’t put in the mechanisms. I don’t specify things that are not my problems. These are done by the engineers in the plant.”
 
@@ -408,7 +404,7 @@ Mebelmacher generally furnishes Hahn with a pencil sketch of the furniture desig
 
 ***
 
-Under the applicable state law, the elements of Schlimazel’s claim is as follows:
+Under the applicable state law, the elements of Schlimazel’s claim are as follows:
 
 1. The defendant designed the product; 
 2. The product's design rendered it unreasonably dangerous in its normal intended use;
@@ -416,6 +412,6 @@ Under the applicable state law, the elements of Schlimazel’s claim is as follo
 
 Also under the applicable law, the defendant in a product liability suit based on an alleged design defect may assert, as an affirmative defense, that the dangerous condition of the product resulted from the manufacturing process, not the design itself. 
 
-After discovery has concluded, Mebelmacher moves for summary judgment, arguing that Schlimazel has failed to meet her burden of proof that her injury was caused by a defect in the chair, and that any defect in the chair resulted from the manufacturing process, not the design. 
+Mebelmacher moves for summary judgment, arguing that Schlimazel has failed to meet her burden of proof that her injury was caused by a defect in the chair, and that any defect in the chair resulted from the manufacturing process, not the design. 
 
 _Should the court grant summary judgment in favor of Mebelmacher?_

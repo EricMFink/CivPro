@@ -83,6 +83,7 @@ book:
 bibliography_cases: refs/CivPro.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
+suppress-bibliography: true
 
 format:
   html:
