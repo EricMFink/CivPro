@@ -1,5 +1,7 @@
 ::: {.cover}
 
+# Cover {.unnumbered}
+
 ![](../img/CivProCasebook.png)
 
 :::

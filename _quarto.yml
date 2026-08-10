@@ -40,7 +40,6 @@ book:
     - syllabus.qmd
     - part: Casebook
       chapters:
-      - 01-Front/cover.qmd
       - 01-Front/frontispiece.qmd
       - 01-Front/license.qmd
       - 01-Front/epigraph.qmd
