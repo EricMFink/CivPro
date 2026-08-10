@@ -37,7 +37,7 @@ format:
 filters:
   - latex-environment
 environments: [legalcode]
-commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
+commands: [casesection,casesubsection,casesubsubsection]
 bibliography: ../refs/CivPro.yaml
 csl: ../refs/casebook.csl
 citation-abbreviations: ../refs/abbreviations.json

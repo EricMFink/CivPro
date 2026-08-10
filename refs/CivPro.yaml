@@ -250,7 +250,7 @@ references:
   volume: '337'
 
 - id: ColbornForestGoodEats_DistCourt2020
-  authority: Dist. Court
+  authority: E.D.N.C.
   citation-key: ColbornForestGoodEats_DistCourt2020
   issued:
     - year: 2020
@@ -295,7 +295,8 @@ references:
 - id: CraneCityArlingtonTexas_5thCir2022
   authority: 5th Cir.
   citation-key: CraneCityArlingtonTexas_5thCir2022
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2022
       month: 9
@@ -732,7 +733,8 @@ references:
 - id: HunterEarthgrainsCoBakery_4thCir2001
   authority: 4th Cir.
   citation-key: HunterEarthgrainsCoBakery_4thCir2001
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2001
   page: '144'
@@ -755,7 +757,8 @@ references:
 - id: JanjuaNeufeld_9thCir2019
   authority: 9th Cir.
   citation-key: JanjuaNeufeld_9thCir2019
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2019
       month: 8
@@ -813,7 +816,8 @@ references:
 - id: JohnsonGriffin_6thCir2023
   authority: 6th Cir.
   citation-key: JohnsonGriffin_6thCir2023
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2023
   page: '429'
@@ -824,7 +828,8 @@ references:
 - id: JohnsonSpencer_10thCir2020
   authority: 10th Cir.
   citation-key: JohnsonSpencer_10thCir2020
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2020
       month: 2
@@ -837,7 +842,8 @@ references:
 - id: JonesFordMotorCredit_2ndCir2004
   authority: 2nd Cir.
   citation-key: JonesFordMotorCredit_2ndCir2004
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2004
       month: 2
@@ -937,7 +943,8 @@ references:
 - id: LehmanRevolutionPortfolioLLC_1stCir1999
   authority: 1st Cir.
   citation-key: LehmanRevolutionPortfolioLLC_1stCir1999
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 1999
       month: 1
@@ -1033,7 +1040,7 @@ references:
   volume: '383'
 
 - id: MooreBaker_11thCircuit1993
-  authority: 11th Circuit
+  authority: 11th Cir.
   citation-key: MooreBaker_11thCircuit1993
   container-title: F. 2d
   issued:
@@ -1062,7 +1069,8 @@ references:
 - id: NationalSatelliteSports_6thCir2001
   authority: 6th Cir.
   citation-key: NationalSatelliteSports_6thCir2001
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2001
   page: '900'
@@ -1073,7 +1081,8 @@ references:
 - id: NBAPropertiesIncHanwjh_7thCir2022
   authority: 7th Cir.
   citation-key: NBAPropertiesIncHanwjh_7thCir2022
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2022
   page: '614'
@@ -1115,7 +1124,8 @@ references:
 - id: PaceTimmermannsRanchSaddle_7thCir2014
   authority: 7th Cir.
   citation-key: PaceTimmermannsRanchSaddle_7thCir2014
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2014
   page: '748'
@@ -1152,7 +1162,8 @@ references:
 - id: PassaroVirginia_4thCir2019
   authority: 4th Cir.
   citation-key: PassaroVirginia_4thCir2019
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2019
       month: 8
@@ -1430,7 +1441,8 @@ references:
       day: 11
   authority: 5th Cir.
   citation-key: StoutVincent_5thCir2018
-  container-title: Fed. Appx.
+  container-title: Fed. App'x.
+  container-title-short: Fed Appx
   issued:
     - year: 2018
   page: '468'
@@ -1577,7 +1589,8 @@ references:
 - id: WilliamsMitchell_4thCir2024
   authority: 4th Cir.
   citation-key: WilliamsMitchell_4thCir2024
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2024
       month: 11
