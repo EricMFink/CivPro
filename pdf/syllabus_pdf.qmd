@@ -13,6 +13,7 @@ city-state: Greensboro, North Carolina
 
 ta: Baron Turner
 ta-email:  bturner16@elon.edu
+ta-hours: Tuesday & Thursday, 3:30-5:00 pm; Friday, 1:30-3:00 pm
 
 term: 'Fall 2026'
 room: 'Room 204'
@@ -37,7 +38,9 @@ This course is intended to prepare you for legal practice by developing the know
 
 Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/CivPro/)]{.mono-font}.
 
-[Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 326-138-9849. 
+[Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 326-138-9849.[^syllabus1]
+
+[^syllabus1]: The 1-year Click & Learn subscription is all you need. 
 
 ### Suggested
 
@@ -51,10 +54,10 @@ Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.)
 
 Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- The Click & Learn assignments are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each unit are indicated by a due date of December 1.[^syllabus1] You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by December 1. Your grade will be based on your highest score for each lesson. 
+- The Click & Learn assignments are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. Required lessons in each unit are indicated by a due date of December 7.[^syllabus2] You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by December 7. Your grade will be based on your highest score for each lesson. 
 - The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample questions from past exams are posted on the [course website](https://www.emfink.net/CivPro/). 
 
-[^syllabus1]: Click & Learn lessons without a due date are not required and will not count toward your final grade.
+[^syllabus2]: Click & Learn lessons without a due date are not required and will not count toward your final grade.
 
 ### Attendance
 
@@ -210,7 +213,7 @@ _Click & Learn_ Unit 10 (part 1 only)
 
 ### 8\. Summary Judgment
 
-_Clermont_ chap. 2: § 2.2 
+_Clermont_ chap. 2: § 2.2 (E)(2)
 
 _Click & Learn_ Unit 8 (part 1 sec. III only) 
 
