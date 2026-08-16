@@ -13,7 +13,7 @@ city-state: Greensboro, North Carolina
 
 ta: Baron Turner
 ta-email:  bturner16@elon.edu
-ta-hours: Tuesday & Thursday, 3:30-5:00 pm; Friday, 1:30-3:00 pm
+ta-hours: Tuesdays, Thursdays, & Fridays, 3:30-5:00 pm
 
 term: 'Fall 2026'
 room: 'Room 204'
