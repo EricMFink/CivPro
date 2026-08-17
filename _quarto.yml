@@ -79,7 +79,7 @@ book:
         - 04-Appendix/sample-multiple-choice.qmd
     - links.qmd
 
-bibliography_cases: refs/CivPro.yaml
+bibliography: refs/CivPro.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
