@@ -1600,6 +1600,17 @@ references:
   type: legal_case
   volume: '122'
 
+- id: WithersCityAberdeen_NDMiss2026
+  authority: N.D. Miss.
+  citation-key: WithersCityAberdeen_NDMiss2026
+  issued:
+    - year: 2026
+      month: 6
+      day: 8
+  number: No. 1:24-cv-00218-SA-RP
+  title: Withers v. City of Aberdeen
+  type: legal_case
+
 - id: WoodsInterstateRealtyCo_US1949
   authority: U.S.
   citation-key: WoodsInterstateRealtyCo_US1949
