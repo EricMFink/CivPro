@@ -95,6 +95,13 @@ We are likewise unable to conclude that the service of the process within the st
 
 Appellant having rendered itself amenable to suit upon obligations arising out of the activities of its salesmen in Washington, the state may maintain the present suit _in personam_ to collect the tax laid upon the exercise of the privilege of employing appellant's salesmen within the state. For Washington has made one of those activities, which taken together establish appellant's "presence" there for purposes of suit, the taxable event by which the state brings appellant within the reach of its taxing power. The state thus has constitutional power to lay the tax and to subject appellant to a suit to recover it. The activities which establish its "presence" subject it alike to taxation by the state and to suit to recover the tax.
 
+::: {.callout-note}
+In _Pennoyer_, the Court tied due process to the formality of a defendant's physical presence within the territory of the forum state. _International Shoe_ represents a fundamentally new approach, focused on the social and economic realities giving rise to a suit. This move was part of a broader shift in legal thought during the early 20th century. You will encounter another instance of this development with the _Erie_ decision in Chapter 5. 
+
+While personal service on a defendant in the forum state is no longer the sole means of establishing jurisdiction over a non-resident defendant, it remains valid, at least for individual defendants, under the _International Shoe_ minimum contacts standard. [Burnham v. Superior Court](https://scholar.google.com/scholar_case?case=15724200979988759252), 495 U.S. 604 (1990); but see [Ford Motor Co. v. Mont. Eighth Judicial Dist. Court,](https://scholar.google.com/scholar_case?case=813614271113176842&hl=en&as_sdt=6,34#r[11]), 764 F.3d 1062, 1038 n.4 (2021) (Gorsuch, J. concurring) (noting circuit split over applicability of _Burnham_ to corporate defendants). 
+
+:::
+
 #### _International Shoe_, the FRCP, & Service of Process
 
 ![International Shoe Co. building, St. Louis](../img/IntlShoeBldg2.jpg)

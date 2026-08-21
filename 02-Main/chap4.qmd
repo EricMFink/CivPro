@@ -104,7 +104,7 @@ Accordingly, _Merrell Dow_ should be read in its entirety as treating the absenc
 
 As already indicated, however, a comparable analysis yields a different jurisdictional conclusion in this case. Although Congress also indicated ambivalence in this case by providing no private right of action to Grable, it is the rare state quiet title action that involves contested issues of federal law. Consequently, jurisdiction over actions like Grable's would not materially affect, or threaten to affect, the normal currents of litigation. Given the absence of threatening structural consequences and the clear interest the Government, its buyers, and its delinquents have in the availability of a federal forum, there is no good reason to shirk from federal jurisdiction over the dispositive and contested federal issue at the heart of the state-law title claim.
 
-#### Understanding Grable
+#### Understanding _Grable_
 
 In _Grable_, the Supreme Court sought to clarify when a state-law claim with an "essential federal element" falls within the jurisdiction granted under §1331. This is not really an exception to the "well-pleaded complaint" rule in _Mottley_. Under the _Grable_ standard, the federal question must still arise on the face of the complaint, i.e. as one of the elements of the plaintiff's claim, not a defense.
 

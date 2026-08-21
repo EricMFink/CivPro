@@ -117,16 +117,16 @@ references:
 - id: BerkChoy_US2026
   authority: U.S.
   citation-key: BerkChoy_US2026
-  container-title: S. Ct.
-  container-title-short: Ct
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2026
       month: 1
       day: 20
-  page: '546'
+  page: '187'
   title: Berk v. Choy
   type: legal_case
-  volume: '146'
+  volume: '1607'
 
 - id: BlackWhiteTaxiCo_US1928
   authority: U.S.
@@ -423,7 +423,7 @@ references:
   issued:
     - year: 2021
   page: '351'
-  title: Ford Motor Co. v. Montana Eighth Jud. Dist. Court
+  title: Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.
   type: legal_case
   volume: '592'
 

@@ -80,7 +80,7 @@ book:
     - links.qmd
 
 bibliography: refs/CivPro.yaml
-csl: refs/casebook.csl
+csl: refs/casebook-bibliography.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
 
