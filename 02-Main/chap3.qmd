@@ -2,7 +2,7 @@
 
 ## Constitutional Limits: Due Process 
 
-#### @ConstitutionAmend5
+#### @ConstitutionAmendment5
 
 ::: {.legalcode}
 
@@ -10,7 +10,7 @@
 
 :::
 
-#### @ConstitutionAmend14
+#### @ConstitutionAmendment14
 
 ::: {.legalcode}
 
@@ -96,9 +96,7 @@ We are likewise unable to conclude that the service of the process within the st
 Appellant having rendered itself amenable to suit upon obligations arising out of the activities of its salesmen in Washington, the state may maintain the present suit _in personam_ to collect the tax laid upon the exercise of the privilege of employing appellant's salesmen within the state. For Washington has made one of those activities, which taken together establish appellant's "presence" there for purposes of suit, the taxable event by which the state brings appellant within the reach of its taxing power. The state thus has constitutional power to lay the tax and to subject appellant to a suit to recover it. The activities which establish its "presence" subject it alike to taxation by the state and to suit to recover the tax.
 
 ::: {.callout-note}
-In _Pennoyer_, the Court tied due process to the formality of a defendant's physical presence within the territory of the forum state. _International Shoe_ represents a fundamentally new approach, focused on the social and economic realities giving rise to a suit. This move was part of a broader shift in legal thought during the early 20th century. You will encounter another instance of this development with the _Erie_ decision in Chapter 5. 
-
-While personal service on a defendant in the forum state is no longer the sole means of establishing jurisdiction over a non-resident defendant, it remains valid, at least for individual defendants, under the _International Shoe_ minimum contacts standard. [Burnham v. Superior Court](https://scholar.google.com/scholar_case?case=15724200979988759252), 495 U.S. 604 (1990); but see [Ford Motor Co. v. Mont. Eighth Judicial Dist. Court,](https://scholar.google.com/scholar_case?case=813614271113176842&hl=en&as_sdt=6,34#r[11]), 764 F.3d 1062, 1038 n.4 (2021) (Gorsuch, J. concurring) (noting circuit split over applicability of _Burnham_ to corporate defendants). 
+In _Pennoyer_, the Court tied due process to the formality of a defendant's physical presence within the territory of the forum state. In _International Shoe_, the Court abandoned _Pennoyer's_ formalism and adopted a new standard, focused on the social and economic realities in which suits arise. This move was part of a broader shift in legal thought during the early 20th century. You will encounter another instance of this development with the _Erie_ decision in Chapter 5. 
 
 :::
 
@@ -106,11 +104,13 @@ While personal service on a defendant in the forum state is no longer the sole m
 
 ![International Shoe Co. building, St. Louis](../img/IntlShoeBldg2.jpg)
 
-_International Shoe_ extended the reach of personal jurisdiction over out-of-state parties. As a result, the exercise of jurisdiction no longer requires personal service on the defendant while they are present in the state.
+_International Shoe_ extended the reach of personal jurisdiction over out-of-state parties. As a result, the exercise of jurisdiction no longer requires personal service on the defendant while they are present in the forum state,[^tag] and may reach defendants who have never been physically present in the state at all.
+
+[^tag]: While personal service on a defendant in the forum state is no longer the sole means of establishing jurisdiction over a non-resident defendant, it remains valid under the _International Shoe_ minimum contacts standard, at least for individual defendants. [Burnham v. Superior Court](https://scholar.google.com/scholar_case?case=15724200979988759252), 495 U.S. 604 (1990). Whether "tag" jurisdiction (i.e. by service on a corporate agent in the forum state) is effective for corporate defendants remains an unsettled question. See [Ford Motor Co. v. Mont. Eighth Judicial Dist. Court,](https://scholar.google.com/scholar_case?case=813614271113176842&hl=en&as_sdt=6,34#r[11]), 764 F.3d 1062, 1038 n.4 (2021) (Gorsuch, J. concurring) (noting circuit split over applicability of _Burnham_ to corporate defendants).
 
 Service of the complaint and summons is still required to satisfy the notice aspect of due process. However, the Federal Rules of Civil Procedure (adopted in 1938) relaxed that requirement, permitting service by various alternate means and giving defendants an incentive to waive formal service if they receive actual notice. [Fed.R.Civ.P. Rule 4](https://www.law.cornell.edu/rules/frcp/rule_4).
 
-The requirements of personal jurisdiction and service of process are analogous to an electrical circuit. Minimum contacts between the defendant and the forum state are the wiring. Service of process is the switch. The court cannot exercise power over the defendant unless the wiring is connected (personal jurisdiction) and the switch is turned on (service of process).
+The requirements of personal jurisdiction and service of process are analogous to an electrical circuit. Minimum contacts between the defendant and the forum state are the wiring. Service of process is the switch. The court may not exercise power over the defendant unless the wiring is connected (personal jurisdiction) and the switch is turned on (service of process).
 
 Suppose that Dan, who lives in Ohio, rents a beach house in the Outer Banks from Pat, who lives in North Carolina. One evening, while enjoying several cocktails on the deck, Dan carelessly knocks over a Tiki torch, setting fire to the house. After Dan returns home to Ohio, Pat files suit in the U.S. District Court for the Eastern District of North Carolina.
 
@@ -118,13 +118,13 @@ The suit arises out of Dan's conduct in North Carolina, satisfying the minimum c
 
 ![Pat v. Dan: Jurisdiction, No Service](../img/PJ-NoService.png)
 
-After filing the suit, Pat serves Dan with a copy of the summons and complaint, in a manner authorized, and within the time allowed, under Rule 4. The court's power is now active.
+After filing the suit, Pat serves Dan with a copy of the summons and complaint, in a manner authorized under Rule 4. The court's power is now active.
 
 ![Pat v. Dan: Jurisdiction & Service](../img/PJ-Service.png)
 
 Suppose instead that Pat travels from North Carolina to Ohio for a football game between the Carolina Panthers and the Cleveland Browns. Dan, a diehard Browns fan, was sitting behind Pat. Throughout the game, Pat vociferously cheers for the visiting team and mercilessly heckles the Cleveland quarterback. Annoyed with Pat's taunts, Dan pours a large cup of beer over Pat's head, provoking a brawl in which Pat is badly injured. After returning home, having vowed never to return to Ohio again, Pat sues Dan for battery, filing the case in the U.S. District Court for the Eastern District of North Carolina. 
 
-In this case, the suit does not arise out of any contacts between Dan and North Carolina. Even if Dan is served with a copy of the summons and complaint, flipping the service switch has no effect, because the court has no power over Dan at all.
+In this case, the suit does not arise out of any contacts between Dan and North Carolina, but rather from Pat's contacts with (and conduct in) Ohio. Even if Dan is served with a copy of the summons and complaint, flipping the service switch has no effect, because the court has no power over Dan at all.
 
 ![Pat v. Dan: Service, No Jurisdiction](../img/NoPJ-Service.png)
 
