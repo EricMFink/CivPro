@@ -39,7 +39,7 @@ filters:
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection]
 bibliography: ../refs/CivPro.yaml
-csl: ../refs/casebook-bibliography.csl
+csl: ../refs/casebook.csl
 citation-abbreviations: ../refs/abbreviations.json
 suppress-bibliography: true
 ---
