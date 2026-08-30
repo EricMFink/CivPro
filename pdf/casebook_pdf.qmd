@@ -12,7 +12,7 @@ epigraph-source: Bleak House (1853)
 format:
   pdf:
     documentclass: scrbook
-    classoption: [letterpaper, 11pt, DIV=9, openright]
+    classoption: [letterpaper, 12pt, DIV=9, openright]
     has-frontmatter: true
     toc: true
     toc-flat: true
@@ -33,6 +33,7 @@ format:
     pdfcreator: LaTeX via pandoc
     colorlinks: true
     urlstyle: tt
+    keep-tex: true
     output-file: CivProCasebook
 filters:
   - latex-environment
