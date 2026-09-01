@@ -470,7 +470,7 @@ On remand, Fairchild suggests, Taylor should bear the burden of proving he is no
 
 We reject Fairchild's suggestion. Claim preclusion, like issue preclusion, is an affirmative defense. Ordinarily, it is incumbent on the defendant to plead and prove such a defense, and we have never recognized claim preclusion as an exception to that general rule. We acknowledge that direct evidence justifying nonparty preclusion is often in the hands of plaintiffs rather than defendants. In these situations, targeted interrogatories or deposition questions can reduce the information disparity. We see no greater cause here than in other matters of affirmative defense to disturb the traditional allocation of the proof burden.
 
-#### @LeePOWEntertainmentInc_CDCal2020
+#### @LeePOWEntertainment_CDCal2020
 
 Defendant POW! Entertainment, Inc., ("POW") filed a motion to dismiss the amended complaint filed by Plaintiff Joan Celia Lee ("JC Lee"). POW argues that JC Lee's amended complaint is barred by the doctrines of res judicata, collateral estoppel, and statute of limitations. For the reasons discussed below, the Court GRANTS POW's Motion to Dismiss.
 
@@ -612,8 +612,7 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 :::
 
-
-#### @NationalSatelliteSports_6thCir2001
+#### @NationalSatelliteSportsEliadis_6thCir2001
 
 On the night of December 14, 1996, the Melody Lane Lounge, a commercial bar located in Massillon, Ohio, showed the live broadcast of a boxing match between Riddick Bowe and Andrew Golota (the event). National Satellite Sports, Inc. (NSS) had obtained the exclusive right to broadcast the event to commercial establishments in Ohio. Time Warner Entertainment Company, L.P. had obtained the exclusive right to broadcast the event on a pay-per-view basis to its Ohio residential customers. The Melody Lane Lounge, erroneously listed as a residential customer of Time Warner, ordered the event through Time Warner's service.
 

@@ -64,7 +64,7 @@ Apart from the case for which he is remembered today, Erasmus Mottley was appare
 
 :::
 
-#### @GrableSonsMetalProducts_US2005
+#### @GrableSonsMetalProd_US2005
 
 ##### Justice Souter delivered the opinion of the Court.
 
@@ -251,7 +251,7 @@ Under the diversity jurisdiction statute, a corporation is a citizen of both the
 
 For unincorporated associations (e.g. a business partnership, labor union, or other organization formed for some common purpose), the traditional rule is that "an unincorporated association's citizenship is that of each of its members." _United Steelworkers of America v. R.H. Bouligny, Inc._ 382 U.S. 145 (1965); _Carden v. Arkoma Associates_, 494 U.S. 185 (1990). But in cases under the "Class Action Fairness Act", an unincorporated association is treated like a corporation, as a citizen of both the state under whose law it is organized and the state of its principal place of business. 28 U.S.C. §1332(d)(10).
 
-#### @OttawaTownshipI_NDOhio2017
+#### @OttawaTwpNewPar_NDOhio2017
 
 This state-law declaratory-judgment action tests whether the construction of a new cell tower must comply with an Ohio township's zoning regulations.
 
@@ -327,7 +327,7 @@ The Trustees seek a declaratory judgment that the defendants must construct the 
 
 Because the record is silent on these issues, the parties must submit additional briefs and supporting evidence so that I can determine whether this court has subject-matter jurisdiction.
 
-#### @OttawaTownshipII_NDOhio2017
+#### @OttawaTwpNewPar_NDOhio2017a
 
 This is a state-law declaratory-judgment case.
 
@@ -367,7 +367,7 @@ Moreover, given the Trustees' claim that the defendants are building the tower i
 
 Accordingly, the only evidence in the record establishes that the value of the injunctive relief the Trustees seek exceeds $75,000. I therefore have subject-matter jurisdiction under 28 U.S.C. §1332(a)(1), and I will deny the Trustees' motion to remand.
 
-#### @CompleteBusinessSolutionsGroup_EDPa2020
+#### @CompleteBusSolGrp_EDPa2020
 
 Pennsylvania law permits a prothonotary of any of its courts of common pleas to enter judgment by confession,[A prothonotary is the chief clerk in most Pennsylvania state courts. "A confession of judgment is a legal device—usually a clause within a contract—in which a debtor agrees to allow a creditor, upon the nonoccurrence of a payment, to obtain a judgment against the debtor, often without advanced notice or a hearing." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/confession_of_judgment).]{.aside} in ministerial fashion, when a plaintiff files a complaint that, among other requisites, includes a copy of an instrument that the defendant has signed authorizing such judgment. 
 
@@ -489,7 +489,7 @@ Whether Ford Credit's counterclaims "predominate" over the Plaintiffs' claims an
 
 Accordingly, we remand this case with directions to rule on the class certification motion, and then, in light of that ruling, to proceed to determine whether to exercise or decline supplemental jurisdiction.
 
-#### @GinwrightExeterFinanceCorp_DMd2017
+#### @GinwrightExeterFinCorp_DMd2017
 
 On February 26, 2016, Plaintiff Billy Ginwright filed this action against Defendant Exeter Finance Corporation ("Exeter") for violations of the Telephone Consumer Protection Act ("TCPA"), 47 U.S.C. §227 (2012), and the Maryland Telephone Consumer Protection Act ("MTCPA"). On May 11, 2016, Exeter filed its Amended Answer and Counterclaim, alleging that Ginwright breached the contract that led Exeter to seek to collect a debt by telephone. Pending before the Court is Ginwright's Motion to Dismiss Exeter's Counterclaim. For the following reasons, the Motion is granted.
 

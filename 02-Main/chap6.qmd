@@ -409,7 +409,7 @@ When a court dismisses a claim under Rule 12, it will often do so "without preju
 
 ## Answers & Defenses
 
-#### @ReisRoboticsUSAInc_NDIll2006
+#### @ReisRoboticsUSAConcept_NDIll2006
 
 This is a diversity action governed by Illinois law in which Plaintiff Reis Robotics USA, Inc. ("Reis") filed a complaint against Defendant Concept Industries, Inc. ("Concept"), seeking redress for breach of contract. Concept has answered the complaint, asserted six affirmative defenses, and brought seven counterclaims against Reis. Reis now moves to strike and dismiss Concept's affirmative defenses; strike portions of Concept's answer; and dismiss Concept's counterclaims. For the reasons set forth below, Reis's motions are granted in part and denied in part.
 
@@ -530,7 +530,7 @@ The Court finds that Plaintiff's Petition lacks sufficient specificity to give t
 
 :::
 
-#### @TrumpInternalRevenueService_SDFla2026
+#### @TrumpInternalRevenueServ_SDFla2026
 
 On May 27, 2026, thirty-five non-party movants filed a Motion for Relief from Judgment or Order , in which they requested this Court to set aside its dismissal pursuant to Rule 60 because the case, and its purported settlement, is "a fraud on the Court." The non-party movants highlighted the atypical way the litigation had unfolded and argued that the purported settlement reached in this matter "is a product of collusion." In light of those serious allegations and the Court's own view of the unusual circumstances of the case, the Court entered an Order on May 29, 2026, ("May 29 Order") directing Plaintiffs to detail their position as to various issues, "including (1) the charges of collusion and whether the Parties are truly adverse; (2) the assertion that the dismissal in this case was premised on deception by the Parties; and (3) the question of whether the case should be reopened because the Court was the 'victim of a fraud.'"
 

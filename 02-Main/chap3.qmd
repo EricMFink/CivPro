@@ -2,7 +2,7 @@
 
 ## Constitutional Limits: Due Process 
 
-#### @USConstitutionamend5
+#### @USConstitutionAmend5
 
 ::: {.legalcode}
 
@@ -10,7 +10,7 @@
 
 :::
 
-#### @USConstitutionamend14
+#### @USConstitutionAmend14
 
 ::: {.legalcode}
 
@@ -458,7 +458,7 @@ _Johnson v. Griffin_ and _Patel v. Stewartson_ both involved defamation suits, f
 
 :::
 
-#### @NBAPropertiesIncHanwjh_7thCir2022
+#### @NBAPropertiesHanwjh_7thCir2022
 
 The plaintiffs in the underlying litigation are professional or collegiate sports associations who own, or license, trademarks related to their respective sports. The plaintiffs filed this action under the Lanham Act, 15 U.S.C. §1051, et seq., against a list of defendants listed in Schedule A of the complaint. In the complaint, NBA Properties, Inc. alleged that HANWJH, a China-based online retailer, infringed NBA Properties' trademarks by selling counterfeit products in its online stores. After the deadline to answer expired, HANWJH moved to dismiss the complaint for lack of personal jurisdiction. The district court denied the motion and entered a default under Federal Rule of Civil Procedure 55(a). The district court instructed the parties to file any objections to the motion for default judgment. After the deadline expired without objection, the district court entered a final judgment. HANWJH timely appealed. For the reasons set forth in this opinion, we affirm the judgment of the district court.
 
@@ -560,7 +560,7 @@ In similar cases involving online sales, other federal courts have disagreed wit
 
 ## General Jurisdiction
 
-#### @DaimlerAgBauman_US2014
+#### @DaimlerAGBauman_US2014
 
 ##### Justice Ginsburg delivered the opinion of the Court.
 
@@ -626,7 +626,7 @@ The Ninth Circuit, moreover, paid little heed to the risks to international comi
 
 ## Consent 
 
-#### @CarnivalCruiseLinesInc_US1991
+#### @CarnivalCruiseLinesShute_US1991
 
 ##### Justice Blackmun delivered the opinion of the Court.
 

@@ -161,7 +161,7 @@ Although the "logical relationship" test does not require "an absolute identity 
 
 We agree with the District Court that the debt collection counterclaims were permissive rather than compulsory. The Plaintiffs' ECOA claim centers on Ford Credit's mark-up policy, based on subjective factors, which allegedly resulted in higher finance charges on their purchase contracts than on those of similarly situated White customers. Ford Credit's debt collection counterclaims are related to those purchase contracts, but not to any particular clause or rate. Rather, the debt collection counterclaims concern the individual Plaintiffs' non-payment after the contract price was set. Thus, the relationship between the counterclaims and the ECOA claim is "logical" only in the sense that the sale, allegedly on discriminatory credit terms, was the "but for" cause of the non-payment. That is not the sort of relationship contemplated by our case law on compulsory counterclaims. The essential facts for proving the counterclaims and the ECOA claim are not so closely related that resolving both sets of issues in one lawsuit would yield judicial efficiency. Indeed, Ford Credit does not even challenge the ruling that its counterclaims are permissive.
 
-#### @GinwrightExeterFinanceCorp_DMd2017
+#### @GinwrightExeterFinCorp_DMd2017
 
 On February 26, 2016, Plaintiff Billy Ginwright filed this action against Defendant Exeter Finance Corporation ("Exeter") for violations of the Telephone Consumer Protection Act ("TCPA"), and the Maryland Telephone Consumer Protection Act ("MTCPA"). On May 11, 2016, Exeter filed its Amended Answer and Counterclaim, alleging that Ginwright breached the contract that led Exeter to seek to collect a debt by telephone. Pending before the Court is Ginwright's Motion to Dismiss Exeter's Counterclaim. For the following reasons, the Motion is granted.
 
@@ -292,7 +292,7 @@ We conclude that the district court erred in dismissing the Paces' 2013 complain
 
 :::
 
-#### @KirkcaldyRichmondCountyBd_MDNC2002
+#### @KirkcaldyRichmondCtyBd_MDNC2002
 
 This case comes before the Court on Defendant Richmond County Board of Education's ("Board") and Third-party Defendants Bruce Stanback, Sandy Lampley, Herman Williams, Myrtle Stogner, Mary Carroll, Jackson Dawkins, Carlene Hill, and Larry K. Weatherly's ("Individual School Defendants") Motion to Dismiss Defendant Marcus Smith's ("Smith") Cross-claim and Third-party Complaint. For the reasons stated below, the Motion to Dismiss is hereby GRANTED.
 
@@ -444,7 +444,7 @@ As a fallback position, Roffman suggests that the third-party complaint against 
 
 There is, moreover, a broader point. A district court must oversee third-party practice with the core purpose of Rule 14(a) in mind: avoiding unnecessary duplication and circuity of action. Requiring a district court to determine the merits of all defenses potentially available to the original defendant as a precondition to allowing that defendant to file a third-party complaint would frustrate this purpose and countervail the efficient allocation of judicial resources. Thus, as long as a third-party action falls within the general contours limned by Rule 14(a), does not contravene customary jurisdictional and venue requirements, and will not work unfair prejudice, a district court should not preclude its prosecution. So here.
 
-#### @KirkcaldyRichmondCountyBd_MDNC2002
+#### @KirkcaldyRichmondCtyBd_MDNC2002
 
 Until August of 2000, Smith served as a principal of the Leak Street Alternative School, part of the Richmond County School System overseen by the Board. On September 14, 2001, Plaintiff Elizabeth Kirkcaldy ("Kirkcaldy"), who had worked as a secretary at the Leak Street Alternative School, filed a lawsuit against Smith and the Board. Kirkcaldy's Complaint alleges that from approximately July 20, 1999 to June 12, 2000, she was subjected to sexual harassment by Smith, who served as her direct supervisor during that time. Kirkcaldy claims that during this time, Smith repeatedly made unwelcome sexual contact with Kirkcaldy. Kirkcaldy also asserts that Smith frequently made comments of a sexual nature to her. Based on these facts, Kirkcaldy asserts the following claims: hostile work environment pursuant to 42 U.S.C. §2000e et seq., intentional and negligent infliction of emotional distress against both the Board and Smith, and a claim for negligent supervision, retention and hiring against the Board.
 
