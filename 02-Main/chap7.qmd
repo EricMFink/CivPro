@@ -2,7 +2,7 @@
 
 ## Full Faith and Credit
 
-#### @ConstitutionArticle4
+#### @USConstitutionArt4
 
 ::: {.legalcode}
 
