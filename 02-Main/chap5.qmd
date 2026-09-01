@@ -44,7 +44,7 @@ During the late 19th and early 20th centuries, the legal field experienced a par
 
 [^f392]: A paradigm shift is a transformation in the fundamental assumptions, theories, and practice of a scientific or professional community. "When the transition is completed, the profession will have changed its view of the field, its methods, and its goals." @Kuhn2012, p. 84-85.
 
-[^02ef]: See, e.g. @Rutherglen2001; @Sawyer2001; @Marcus2009; @Casto1987; @LaPiana1986
+[^02ef]: See, e.g. @Rutherglen2001; @SawyerIII2001; @Marcus2009; @Casto1987; @LaPiana1986
 
 Among those leading the charge was Oliver Wendell Holmes, Jr., whose work as a legal scholar and opinions as a Supreme Court Justice advanced a positivist understanding of law and pragmatist approach to judicial decision-making, and laid the groundwork for overturning _Swift_. 
 
@@ -158,7 +158,7 @@ Ragan sued Merchants Transfer for injuries resulting from a traffic accident. A 
 
 As in _Guaranty Trust_, the Court focused on whether applying different rules in state and federal court would yield different outcomes. Once again, the Court held that the federal court must follow state law, under which the plaintiff's right to relief would be extinguished.
 
-##### @WoodsInterstateRealtyCo_US1949; @CohenBeneficialIndustrialLoan_US1949
+##### @WoodsInterstateRealtyCo_US1949; @CohenBeneficialIndusLoan_US1949
 
 In these two cases, decided together with _Ragan_, the Court likewise held that the federal court must apply state law rules where a contrary federal rule would have yielded different outcomes. _Woods v. Interstate Realty_ (State rule, barring unqualified business from appearing in state court, applies in federal diversity action); _Cohen v. Beneficial Indust. Loan Corp_, (State rule, requiring bond in shareholder derivative suit, applies in federal diversity action, despite lack of bond requirement in FRCP Rule 23.1).
 

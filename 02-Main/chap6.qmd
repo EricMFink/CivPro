@@ -131,7 +131,7 @@ A civil action is commenced by filing a complaint with the court.
 
 :::
 
-#### @DoeClintonCounty_WDMich2025
+#### @DoeClintonCty_WDMich2025
 
 [Order Striking Complaint]{.casesection}
 
