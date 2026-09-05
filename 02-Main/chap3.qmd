@@ -356,7 +356,7 @@ Plaintiff Heather Ammel, a North Carolina resident, filed this action alleging a
 
 [Factual Background]{.casesection}
 
-Ms. Ammel married Matthew Ammel in 2010. PFrom 2014 through November 2024, they resided in Whispering Pines, North Carolina, with their three children.
+Ms. Ammel married Matthew Ammel in 2010. From 2014 through November 2024, they resided in Whispering Pines, North Carolina, with their three children.
 
 Mr. Ammel met Ms. Sinema in August 2022, following his retirement from the military. At that time, Ms. Sinema was serving as a United States Senator for the State of Arizona. During her tenure in the Senate, Ms. Sinema maintained residences in both Arizona and Washington, DC. Ms. Sinema left the Senate and is currently a professor at Arizona State University and an attorney with Hogan Lovells Cadwalader in Washington, DC.
 
@@ -382,13 +382,13 @@ According to Mr. Ammel and Ms. Sinema, they first had sexual intercourse at an A
 
 Because of the nature of Signal messages, the record contains evidence of only one message that Ms. Sinema sent to Mr. Ammel during the summer of 2024:
 
-![Text message 1](img/AmmelSinemaImg1.png)
+![Text message 1](../img/AmmelSinemaImg1.png)
 
 Ms. Ammel was on vacation in Kansas with Mr. Ammel when he received the above message.
 
 Mr. Ammel and Ms. Sinema spent the night together and had sex on October 2, 2024, at Ms. Sinema’s home in Phoenix. Ms. Sinema testified that she knew that Mr. Ammel was scheduled to fly out of Phoenix early the following day; however, she testified that she did not know that he was going to North Carolina for his daughter’s birthday. Based on flight records, on October 3, 2024, Mr. Ammel departed Phoenix at approximately 6:22 a.m. and arrived in North Carolina around 3:31 p.m. Ms. Sinema sent the following message to Mr. Ammel at 9:57 p.m. on October 3, 2024, while he was in North Carolina:
 
-![Text message 2](img/AmmelSinemaImg2.png)
+![Text message 2](../img/AmmelSinemaImg2.png)
 
 Ms. Ammel opened the message from Ms. Sinema and responded in the early hours of October 4, 2024, “Are you having an affair with my husband.” Ms. Sinema did not respond.
 
