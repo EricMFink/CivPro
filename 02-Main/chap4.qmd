@@ -2,7 +2,7 @@
 
 ## Constitutional Foundation
 
-#### @USConstitutionArt3
+#### @USConst_art.3
 
 ::: {.legalcode}
 
