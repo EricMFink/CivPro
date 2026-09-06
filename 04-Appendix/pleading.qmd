@@ -1,6 +1,6 @@
 # Pleadings {.unnumbered}
 
-## Sample Complaints {.unnumbered}
+#### Sample Complaints {.unlisted}
 
 [Complaint for Negligence](../exhibits/NegligenceComplaint.pdf)
 
@@ -8,7 +8,7 @@
 
 [Neither Short nor Plain Statement](../exhibits/blount-complaint.pdf)
 
-## Diagrams {.unnumbered}
+#### Amendments {.unlisted}
 
 ![Amending as a Matter of Course](../img/rule15a1.png)
 

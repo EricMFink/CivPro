@@ -1014,25 +1014,13 @@ Some enumerated long-arm statutes have been interpreted as authorizing the exerc
 
 _For each of the following questions, assume that the applicable long-arm statute permits the exercise of jurisdiction "on any basis not inconsistent with the Constitution of the United States"._
 
-##### Question 1 
-
-In 2025, Heather Ammel sued former U.S. Senator Kyrsten Sinema for alienation of affection under North Carolina law. Ammel filed the suit in a North Carolina court.[The suit was originally filed in state court and then removed to federal court based on diversity jurisdiction.]{.aside} The complaint alleges that, while Ammel's husband Matthew was employed as Sinema's head of secuirty, the two commenced an intimate personal relationship that ultimately led to the Ammels' separation and divorce. Sinema, whose home state is Arizona, moved to dismiss under Fed. R. Civ. P. Rule 12(b)(2) for lack of personal jurisdiction. 
-
-Review the complaint and the parties' briefs on the motion to dismiss:
-
-1. [Complaint](../exhibits/Ammel-Sinema-complaint.pdf)
-2. [Defendant's Memorandum of Law in Support of Motion to Dismiss for Lack of Personal Jurisdiction](../exhibits/Ammel-Sinema-12b-brief.pdf)
-3. [Plaintiff's Memorandum of Law in Opposition to Motion to Dismiss for Lack of Personal Jurisdiction](../exhibits/Ammel-Sinema-12b2-opposition.pdf)
-
-Should the court grant the motion to dismiss? 
-
-##### Question 2
+#### Question 1
 
 Gerald Mayo sued Satan and his Staff, alleging that, on numerous occasions, they caused him misery, made unwarranted threats against him, and placed deliberate obstacles in his path, causing his downfall. Mayo filed his suit in the U.S. District Court for the Western District of Pennsylvania. Mayo lives in Slippery Rock, Pennsylvania (about 50 miles north of Pittsburgh, within the W.D. Pa.). None of the defendants reside in Pennsylvania. 
 
 _On what basis might the court have personal jurisdiction over the defendants?_ See [_U.S. ex rel. Mayo v. Satan and His Staff_](../exhibits/Mayo_Satan.pdf), 54 F.R.D. 282 (W.D. Pa. 1971).
 
-##### Question 3
+#### Question 2
 
 Mrs. Potter, a wealthy resident of Philadelphia, decides that the time has come to make provisions for her children after her death. She creates a trust, administered by the Delaware Bank & Trust Company (located, naturally enough, in Delaware). Under the terms of the trust, after Mrs. Potter's death, her daughter Dora will receive whatever money remains in the trust account. 
 
@@ -1042,13 +1030,13 @@ A few months later, Mrs. Potter dies in a tragic shuffleboard accident. Dora Pot
 
 _May the Florida court exercise personal jurisdiction over the Bank? If not, in what state(s) would jurisdiction over both Hammer and the Bank be proper?_ 
 
-##### Question 4
+#### Question 3
 
 Dan & Pat, both residents of Pennsylvania, are partners in a Delaware business. The business fails and a disagreement arises between Dan & Pat over the division of the partnership's remaining assets. Deciding to get away from it all, Dan moves to Idaho. Pat now wants to sue Dan over the partnership dispute. Each state's long-arm statute provides for jurisdiction to the full extent permitted under the U.S. Constitution. 
 
 _In which state(s) may Pat sue?_ 
 
-##### Question 5
+#### Question 4
 
 _Same facts as previous question, but assume Pat has not sued Dan._
 
@@ -1059,7 +1047,7 @@ b. Yes, because Pat was personally served with the complaint and summons while p
 c. No, because the suit does not arise from, and is unrelated to, Pat's contacts with New Jersey
 d. No, because New Jersey is not Pat's permanent home
 
-##### Question 6
+#### Question 5
 
 Ronnie operates a gas station near U.S. Interstate 40 in Greensboro, North Carolina. The station is frequented by locals and by interstate travelers using I-40. Last summer, Ronnie changed a tire on an automobile bearing Tennessee license plates. The car belonged to Vivian, who lives in Knoxville and was driving through Greensboro on the way home from vacation in the Outer Banks. Shortly before Vivian arrived home, the tire suddenly fell off, causing the car to swerve out of control and hit an embankment. Vivian sued Ronnie in Tennessee state court, alleging that the accident resulted in Ronnie's negligence in changing the tire. 
 

@@ -1,9 +1,9 @@
 # Civil Litigation {.unnumbered}
 
-![Federal Judicial Districts & Appellate Circuits](../img/fed-courts-map.png)
+![Federal Judicial Districts & Appellate Circuits](../img/FedCourtsMap.png)
 
 ![Stages of a Civil Suit](../img/civil-action-timeline.png)
 
-### A Guy Gets Run Over by a Lawnmower
+#### A Guy Gets Run Over by a Lawnmower {.unlisted}
 
 {{< video ../video/lawnmower.mp4 width="640" height="480" >}}

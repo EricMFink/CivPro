@@ -12,7 +12,9 @@
 
 - In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
 
-:::
+::: 
+
+---
 
 Article III, sec. 2 identifies certain types of cases over which federal courts may exercise jurisdiction. Congress may authorize federal courts to exercise some or all of that jurisdiction. Some statutes authorize the exercise of jurisdiction over broad categories of cases, such as those arising under federal law, 28 U.S.C. § 1331, and those between citizens of different states, 28 U.S.C. § 1332. Provisions authorizing federal jurisdiction are also sometimes included in statutes establishing particular causes of action, e.g. 29 U.S. Code § 185 (authorizing federal jurisdiction over suits for violation of collective bargaining agreements under the National Labor Relations Act).
 
@@ -581,25 +583,25 @@ It follows from this conclusion that the threshold requirement of §1367(a) is s
 
 ## Review Questions 
 
-##### Question 1
+#### Question 1
 
 Peter, a lifelong resident of Pennsylvania, worked as a delivery driver in Pennsylvania for Dreadful Express Corp. (DreadEx), which is incorporated and has its corporate headquarters in Pennsylvania. When Peter retired, he bought a second home in Florida, where he spends most of the year, returning to Pennsylvania for the summers. DreadEx owes Peter $80,000 in commissions earned during his final year of work. When the company fails to pay, Peter sues for breach of contract, filing his claim in the U.S. District Court for the Eastern District of Pennsylvania. 
 
 _Does the court have subject-matter jurisdiction?_
 
-##### Question 2
+#### Question 2
 
 Pam, a lifelong resident of North Carolina, files a products liability action seeking $150,000 in damages against Danger Corp. in the U.S. District Court for the Middle District of North Carolina. Danger is incorporated in Delaware, has its sole manufacturing & distribution facility is in South Carolina, and its corporate offices (where all significant business decisions are made) in North Carolina. 
 
 _Does the court have subject-matter jurisdiction?_
 
-##### Question 3
+#### Question 3
 
 Tri-State Landscaping, based in Johnson City, Tennessee, is organized as an unincorporated business partnership under Tennessee law. Of Tri-State's three partners, two are lifelong residents of Tennessee, the other a lifelong resident of North Carolina. The company provides residential and commercial landscaping services in eastern Tennessee, southwestern Virginia, and northwestern North Carolina. Pat, a lifelong resident of Virginia, hires Tri-State to maintain the lawn and garden at her Abingdon, Virginia home. Dissatisfied with the work, Pat sues Tri-State for breach of contract, filing the action in the U.S. District Court for the Western District of Virginia. As permitted under the applicable state law, Pat names Tri-State itself (not the individual partners) as the sole defendant. 
 
 _Does the court has subject-matter jurisdiction?_ 
 
-##### Question 4
+#### Question 4
 
 Eleanor (domiciled in the state of Keystone) is employed by Bombco, Inc. (“Bombco”), a munitions manufacturer (incorporated in Delaware with its sole place of business in Keystone). Bombco sells most of its products to the U.S. Defense Department for use by the U.S. military. 
 

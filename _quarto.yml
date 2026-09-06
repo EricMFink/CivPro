@@ -10,7 +10,7 @@ book:
   page-navigation: true
   page-footer:
       center: 
-        - text: "Last updated: {{< now >}}"
+        - text: "Last updated {{< now >}}"
   sidebar:
     style: "floating"
     search: true
