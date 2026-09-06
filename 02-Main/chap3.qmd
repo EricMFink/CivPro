@@ -2,7 +2,7 @@
 
 ## Constitutional Limits: Due Process 
 
-#### @USConst_amend.5
+#### @USConst_amend.V
 
 ::: {.legalcode}
 
@@ -10,7 +10,7 @@
 
 :::
 
-#### @USConst_amend.14
+#### @USConst_amend.XIV
 
 ::: {.legalcode}
 
@@ -973,13 +973,11 @@ Critics of Daimler and Goodyear may be happy to see them go. And make no mistake
 
 ![Robert Wadlow, the tallest human in history, visiting Folsom Prison in 1939 as a spokesman for the International Shoe Company. ](../img/Long-Arm.jpg)
 
-Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. There are two types of long-arm statute.
+Within the outer bounds allowed under the constitutional due process standard, the exercise of personal jurisdiction are subject to additional limits under state "long-arm" statutes. 
 
-### Enumerated Statutes
+**Enumerated statutes** identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
 
-Enumerated long-arm statutes identify particular circumstances in which a state's courts may exercise jurisdiction over a non-resident. The New York long-arm statute is an example:
-
-#### @NYLongArm
+#### @NYCPLR302
 
 ::: {.legalcode}
 
@@ -998,11 +996,9 @@ Under an enumerated long-arm statute, determining whether the court may exercise
 (1) Does the case fall within one (or more) of the circumstances enumerated in the statute? 
 (2) Will the exercise of jurisdiction over the defendant satisfy the constitutional due process standard? 
 
-### Constitutional Limit Statutes
+_Constitutional limit statutes_ grant a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
 
-This type of long-arm statute grants a state's courts jurisdiction to the full extent permitted under the Constitution. The California long-arm statute is an example:
-
-#### @CaliforniaLongArm
+#### @CalCodeCivProc410.10
 
 ::: {.legalcode}
 

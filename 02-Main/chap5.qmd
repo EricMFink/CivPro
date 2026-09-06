@@ -2,7 +2,7 @@
 
 ## The Rules of Decision Act
 
-#### @RDA1652
+#### @28USC1652
 
 ::: {.legalcode}
 
@@ -206,7 +206,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 ## The Rules Enabling Act
 
-#### @REA2071
+#### @28USC2071
 
 ::: {.legalcode}
 
@@ -221,7 +221,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @REA2072
+#### @28USC2072
 
 ::: {.legalcode}
 
@@ -231,7 +231,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @REA2073
+#### @28USC2073
 
 ::: {.legalcode}
 
@@ -247,7 +247,7 @@ _Third_. We have discussed the problem upon the assumption that the outcome of t
 
 :::
 
-#### @REA2074
+#### @28USC2074
 
 ::: {.legalcode}
 

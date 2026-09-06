@@ -2,7 +2,7 @@
 
 ## Constitutional Foundation
 
-#### @USConst_art.3
+#### @USConst_art.III
 
 ::: {.legalcode}
 
@@ -24,7 +24,7 @@ Except for certain matters over which federal jurisdiction is exclusive,[^exclus
 
 ## Federal Question Jurisdiction
 
-#### @1331FederalQuestion
+#### @28USC1331
 
 ::: {.legalcode}
 
@@ -176,7 +176,7 @@ Malpractice claims based on an attorney's conduct in a federal patent suit don't
 
 ## Diversity Jurisdiction
 
-#### @1332Diversity
+#### @28USC1332
 
 ::: {.legalcode}
 
@@ -421,7 +421,7 @@ That power need not be exercised in every case in which it is found to exist. It
 
 The question of power will ordinarily be resolved on the pleadings. But the issue whether pendent jurisdiction has been properly assumed is one which remains open throughout the litigation. Pretrial procedures or even the trial itself may reveal a substantial hegemony of state law claims, or likelihood of jury confusion, which could not have been anticipated at the pleading stage. Although it will of course be appropriate to take account in this circumstance of the already completed course of the litigation, dismissal of the state claim might even then be merited. For example, it may appear that the plaintiff was well aware of the nature of his proofs and the relative importance of his claims; recognition of a federal court's wide latitude to decide ancillary questions of state law does not imply that it must tolerate a litigant's effort to impose upon it what is in effect only a state law case. Once it appears that a state claim constitutes the real body of a case, to which the federal claim is only an appendage, the state claim may fairly be dismissed.
 
-#### @1367SupplementalJurisdiction
+#### @28USC1367
 
 ::: {.legalcode}
 

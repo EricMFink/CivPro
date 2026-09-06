@@ -2,7 +2,7 @@
 
 ## Full Faith and Credit
 
-#### @USConst_art.4
+#### @USConst_art.IV
 
 ::: {.legalcode}
 
@@ -12,7 +12,7 @@ Full faith and credit shall be given in each state to the public acts, records, 
 
 :::
 
-#### @1738FullFaithCredit
+#### @28USC1738
 
 ::: {.legalcode}
 

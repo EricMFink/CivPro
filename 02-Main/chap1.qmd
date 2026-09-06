@@ -100,7 +100,7 @@ In between courts and psychotherapy there are many other dispute institutions—
 
 ## Civil Litigation in Federal Court
 
-#### @USConst_art.3
+#### @USConst_art.III
 
 ::: {.legalcode}
 
