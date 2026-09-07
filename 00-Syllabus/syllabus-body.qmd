@@ -1,139 +1,201 @@
 # Description
 
-This course surveys federal and state laws governing employment, in both the individual and organized labor settings. Topics to be covered include establishing an employment relationship; recruitment & hiring; the scope and limits of supervisory control; confidentiality & competition; wages & hours; employee health & safety; and termination of employment. 
+In this course, you will learn about the procedures for civil suits. Topics to be covered include the scope of a lawsuit, selection of an appropriate forum, presentation of claims and defenses, choice of applicable law, disposition without a trial, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar.
 
-After completing the course, you should be able to recognize and diagnose legal issues arising in the employment context, analyze those issues under the applicable law, and help clients avoid legal problems or pursue remedies when they arise. Simulation problems, including in-class discussion and take-home assignments, provide an opportunity to develop practical skills for representing clients in employment matters.
+This course is intended to prepare you for legal practice by developing the knowledge and skill required to recognize and analyze procedural issues in civil litigation, advise clients on those issues and the available options, and draft pleadings and motions.
 
 # Course Materials
 
 ## Required
 
-Employment Law: An Open-Source Casebook (version 4.1, December 2025). Available on the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw).  
+Civil Procedure: An Open-Source Casebook (v.5.0 2026). Available on the course website: [[emfink.net/CivPro](https://www.emfink.net/CivPro/)]{.mono-font}.
 
-Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2017) ("Workbook"). 
+[Click & Learn Civil Procedure](https://clickandlearnguide.com) (Carolina Academic Press). Class Code: 326-138-9849.
 
 ## Suggested
 
-Richard A. Bales, Jeffrey M. Hirsch, & Paul M. Secunda, Understanding Employment Law (4th. ed. Carolina Academic Press 2025)
+Kevin M. Clermont, _Principles of Civil Procedure_ (West Academic 7th ed. 2024). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/). This hornbook provides concise overviews of the topics covered in the course. Relevant portions for each unit are listed in the Schedule & Assignments section of the syllabus. These are optional, but you may find them helpful to provide context for the assigned reading.
+
+Joseph W. Glannon, _Examples & Explanations for Civil Procedure_ (Aspen 9th ed.) or _The Glannon Guide to Civil Procedure_ (Aspen 5th ed.). These are two popular study aids for Civil Procedure, presenting similar content in different formats. 
 
 # Policies
 
 ## Grading
 
-Your final grade for this course will be based on two take-home problem assignments (35% each) and participation in class discussions (30%). There will be no final exam.
+Your final grade for the term will be based on the assigned Click & Learn lessons (20%) and a final exam (80%):
 
-- The take-home assignments will be based on problems from the _Developing Professional Skills_ workbook. I will provide further instructions for these assignments in class. You should submit each assignment to my faculty assistant, Jasmin Whitsett by email (jwhitsett4@elon.edu) no later than 10:00am on the due date (see _Schedule & Assignments_ below). **Be sure to include your Exam ID number, _not your name_, at the top of your submission.**
+- The Click & Learn assignments are intended to help you review & assess your understanding of the topics covered. The Schedule & Assignments section below lists the corresponding Click & Learn unit for each part of the course. 
+	- Required lessons within each unit are indicated by a due date of December 7. Click & Learn lessons without a due date are not required and will not count toward your final grade.
+	- You may work on the Click & Learn lessons at your own pace and may redo them as many times as you like, as long as you complete them all by December 7. Your grade will be based on your highest score for each lesson. 
+	- You will receive full credit for the Click & Learn portion of the final grade if you complete all required lessons with an overall average of 90% or greater. Otherwise, this portion of your grade will be based on the percentage of lessons completed and answered correctly. 
+- The final exam (closed-book/closed-note) will consist of essay and short-answer questions. You will take the final exam at the Law School during the Fall Term exam period (date & time TBA). Sample questions from past exams are posted on the [course website](https://www.emfink.net/CivPro/). 
 
-- The use of generative AI for take-home assignments is not permitted. The purpose of the assignments is to give you an opportunity to demonstrate what you have learned and what you can do. Among the many reasons to avoid artificial intelligence,[^syllabusAI] the most compelling is that it demeans your own intelligence.
-
-- The class participation component of your grade will be based on your constructive engagement in class discussions and in-class problem exercises. This will include presenting at least one question about the assigned reading for at least one class each week (beginning with the second week of class, i.e. Jan. 12 & 14). I will provide further guidance on this assignment in class. You should send your questions to me by email before the class for which the reading is assigned.
-
-- Consistent with ABA Standard 310,[^syllabusABA] Elon Law School policy[^syllabusStudentHandbook] requires that "Each credit hour of in-class instructional time must also require at least two additional hours of out-of-class student work." Completion of the assigned reading for each class, the preparation of discussion questions, and the two take-home problems will satisfy this requirement.
+Consistent with [ABA Standard 310](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/standards/2025-2026/2025-2026-standards-chapter-3.pdf), [Elon Law School policy](https://eloncdn.blob.core.windows.net/eu3/sites/996/2020/01/GSO-Student-Handbook-2025-26.pdf) requires that "Each credit hour of in-class instructional time must also require at least two additional hours of out-of-class student work." Completion of the assigned reading and Click & Learn lessons will satisfy this requirement.
 
 ## Attendance
 
 Elon Law School has adopted the following attendance policy for all courses:
 
-> The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences  imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class  and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
->  
+> The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
+> 
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the [Office of Student Life](https://www.elon.edu/u/law/students/).
 
 You should let me know (in advance if feasible) if you are unable to attend class, will arrive late, or must leave early. I do not require an explanation of the reason, nor do I require a doctor's note or other documentation.
 
 ## Disability Accommodations
 
-For disability accommodation requests, contact the [Office of Academic Accommodations and Accessibility](https://www.elon.edu/u/law/students/student-resources/academic-accommodations-accessibility/).
+For disability accommodation requests, contact the [Office of Academic Accommodations and Accessibility](https://www.elon.edu/u/academics/koenigsberger-learning-center/disabilities-resources/homepage/graduate-student-resources/).
 
 ## Honor Code
 
-The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including class meetings, assignments, and examinations.
+The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including conduct during class and examinations.
 
 # Schedule & Assignments
 
-(_Note:_ This class will not meet on Monday, January 19th)
+_Note:_ This class will not meet on Sept. 7, Sept.21, and Oct. 16. 
 
-### 1\. Foundations of Employment Law
+### 1\. Foundations of Civil Procedure
 
-#### January 5 & 7
+- _Clermont_ chap. 1 & 2
 
-- Employment as a Socio-Legal Relationship, _Casebook_ Chap. 1
+- _Click & Learn_ Basic Skills & Fundamentals
 
-#### January 12
+#### Monday, August 31
 
-- Labor Organizing & Concerted Activity, _Casebook_ Chap. 2
+- Foundations of Civil Procedure, _Casebook_ Chap. 1
 
-### 2\. Establishing an Employment Relationship
+### 2\. Parties and Claims
 
-#### January 14 & 21
+- _Clermont_ chap. 6 
 
-- Identifying Employees, _Casebook_ Chap. 3, § 1
+- _Click & Learn_ Unit 6 (parts 1, 2, & 3)
 
-#### January 26 
+#### Wednesday, September 2 
 
-- Identifying Employers, _Casebook_ Chap. 3, § 2
+- Permissive Joinder of Claims & Parties, _Casebook_ Chap. 2, §§ 2.1 & 2.2 
 
-#### January 28 
+#### Friday, September 4 
 
-- Recruitment & Hiring, _Casebook_ Chap. 3, § 3
+- Counterclaims, _Casebook_ Chap. 2, § 2.3 
 
-### 3\. Scope & Limits of Employer Control
+#### Wednesday, September 9 
 
-#### February 2
+- Crossclaims, _Casebook_ § Chap. 2, 2.4 
 
-- Control At Work, _Casebook_ Chap. 4, § 1
-- _Problem Assignment 1:_ Sexual Harassment (Workbook, Chap. 7)
+#### Friday, September 11
 
-#### February 4 
+- Third-Party Defendants & Claims, _Casebook_ Chap. 2, § 2.5 
 
-- Control Outside Work, _Casebook_ Chap. 4, § 2
+####  Monday, September 14 
 
-### 4\. Employee Duties to Employers
+- Required Parties, _Casebook_ Chap. 2, § 2.6 
 
-#### February 9 
+#### Wednesday, September 16 
 
-- Confidentiality, _Casebook_ Chap. 5, § 1
+- Joinder Wrap-Up
 
-#### February 11
+### 3\. Personal Jurisdiction
 
-- Loyalty, _Casebook_ Chap. 5, § 2
+- _Clermont_ chap. 4: §§ 4.2-4.4 
 
-### 5\. Wages & Hours
+- _Click & Learn_ Unit 1 (parts 1-7)
 
-#### February 16 & 18
+#### Friday, September 18 & Wednesday, September 23
 
-- Minimum Wage, Overtime, & Wage Payments, _Casebook_ Chap. 6
+- Constitutional Limits: Due Process, _Casebook_ Chap. 3, § 3.1 
 
-### 6\. Employee Health & Safety
+#### Friday, September 25 & Monday, September 28
 
-#### February 23
+- Specific Jurisdiction, _Casebook_ Chap. 3, § 3.2
 
-- Workers' Compensation & OSHA, _Casebook_ Chap. 7, § 1
+#### Wednesday, September 30
 
-#### February 25
+- General Jurisdiction, _Casebook_ Chap. 3, § 3.3
 
-- FMLA & ADA, _Casebook_ Chap. 7, § 2
+#### Friday, October 2
 
-### 7\. Terminating Employment
+- Consent; Long-Arm Statutes, _Casebook_ Chap. 3, §§ 3.4 & 3.5
 
-#### March 2
+### 4\. Subject Matter Jurisdiction
 
-- Express "Good Cause" Requirements & Implied Contract Limits, _Casebook_ Chap. 8, §§ 1.1 & 1.2
+- _Clermont_ chap. 4: § 4.1 
 
-#### March 4
+- _Click & Learn_ Unit 3 (parts 1-4 & 6)
 
-- Tort Claims & Statutory Protections, _Casebook_ Chap. 8, §§ 1.3 & 1.4
-- _Problem Assignment 2:_ Whistleblowers (Workbook, Chap. 4)
+#### Monday, October 5 & Wednesday, October 7
 
-#### March 9
+- Constitutinal Foundation; Federal Question Jurisdiction, _Casebook_ Chap. 4, §§ 4.1 & 4.2
 
-- Unemployment Compensation, _Casebook_ Chap. 8, § 2
+#### Friday, October 9 & Monday, October 12 
 
-#### March 11
+- Diversity Jurisdiction, _Casebook_ Chap. 4, § 4.3 
 
-- Make-up class (if needed)
+#### Wednesday, October 14 & Monday, October 19
 
-[^syllabusAI]: It is an unreliable tool for legal research, as attorneys continue to learn the hard way. _See, e.g._, @WithersCityAberdeen_NDMiss2026; @MillerRegionsBank_NDAla2026; @MezuMezu_MdAppCt2025; @NolandLandFreeLP_CalCtApp2025; @GarnerKadinceInc_UtahCtApp2025. It consumes "a staggering amount of electricity" and water, imposing significant social and environmental costs. @Zewe_MITNews2025; @AIhasenvironmental2025; @Crawford2024. It makes you stupid. @Kosmyna_MITMediaLab2025. Its "current design and massive scaled deployment" corrodes "the institutions that support modern democratic life". @Hartzog2026.
+- Supplemental Jurisdiction, _Casebook_ Chap. 4, § 4.4
 
-[^syllabusABA]: See [2025-2026 Standards and Rules of Procedure for Approval of Law Schools](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/standards/2025-2026/2025-2026-standards-chapter-3.pdf), Standard 310. 
+### 5\. Choice of Governing Law
 
-[^syllabusStudentHandbook]: See [2025-26 Student Handbook](https://eloncdn.blob.core.windows.net/eu3/sites/996/2020/01/GSO-Student-Handbook-2025-26.pdf), Appendix A.
+- _Clermont_ chap. 3 
+
+- _Click & Learn_ Unit 9 
+
+#### Wednesday, October 21 & Friday, October 23
+
+- The Rules of Decision Act, _Casebook_ Chap. 5, § 5.1 
+
+#### Monday, October 26 & Wednesday, October 28
+
+- The Rules Enabling Act; Synthesis, _Casebook_ Chap. 5, §§ 5.2 & 5.3
+
+### 6\. Pleading
+
+- _Clermont_ chap. 2: § 2.2(A) 
+
+- _Click & Learn_ Unit 5 (parts 1-3, & 5)
+
+#### Friday, October 30
+
+- Pleading Under the Federal Rules, _Casebook_ Chap. 6, §§ 6.1
+
+#### Monday, November 2 & Wednesday, November 4
+
+- Assessing the Sufficiency of a Claim, _Casebook_ Chap. 6, §§ 6.2
+
+#### Friday, November 6
+
+- Answers & Defenses _Casebook_ Chap. 6, § 6.3
+
+#### Monday, November 9
+
+- Truthfulness and Good Faith, _Casebook_ Chap. 6, § 6.4
+
+### 7\. Effect of Judgments
+
+- _Clermont_ chap. 5 
+
+- _Click & Learn_ Unit 10 (part 1 only)
+
+#### Wednesday, November 11 & Friday, November 13
+
+- Full Faith & Credit; Claim Preclusion, _Casebook_ Chap. 7, §§ 7.1 & 7.2
+
+#### Monday, November 16 & Wednesday, November 18
+
+- Issue Preclusion, _Casebook_ Chap. 7, § 7.3 
+
+### 8\. Summary Judgment
+
+- _Clermont_ chap. 2: § 2.2 (E)(2)
+
+- _Click & Learn_ Unit 8 (part 1 sec. III only) 
+
+#### Friday, November 20
+
+- Judgment as a Matter of Law; Genuine Issue of Material Fact, _Casebook_  Chap. 8
+
+---
+
+**Date TBA** Final Review
+
+**Date TBA** Final Exam

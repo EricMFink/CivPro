@@ -5,7 +5,7 @@ format:
     number-sections: false
 ---
 
-# Syllabus {.unnumbered}
+# Syllabus
 
 [{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
 
@@ -40,7 +40,5 @@ format:
 ###### Office hours: {{< var ta-hours >}} {.unlisted}
 
 :::
-
-
 
 {{< include /00-Syllabus/syllabus-body.qmd >}}
