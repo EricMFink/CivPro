@@ -1,0 +1,38 @@
+# Chapter 3 Notes: Personal Jurisdiction {.unnumbered}
+
+## Specific Jurisdiction 
+
+### Rule
+
+_International Shoe v. Washington_ (1945):
+
+> [D]ue process requires only that in order to subject a defendant to a judgment _in personam,_ if he be not present within the territory of the forum, he have certain minimum contacts with it such that the maintenance of the suit does not offend "traditional notions of fair play and substantial justice."
+
+#### Contacts 
+
+_Ford Motor Co._ (2021):
+
+> The contacts needed for [specific] jurisdiction often go by the name "purposeful availment." The defendant, we have said, must take "some act by which it purposefully avails itself of the privilege of conducting activities within the forum State." The contacts must be the defendant's own choice and not "random, isolated, or fortuitous." They must show that the defendant deliberately "reached out beyond" its home—by, for example, "exploiting a market" in the forum State or entering a contractual relationship centered there.
+
+> The plaintiff's claims ... "must arise out of or relate to the defendant's contacts" with the forum. Or put just a bit differently, "there must be an affiliation between the forum and the underlying controversy, principally, an activity or an occurrence that takes place in the forum State and is therefore subject to the State's regulation."
+
+#### Reasonableness 
+
+_World Wide Volkswagen_ (1979):
+
+> The relationship between the defendant and the forum must be such that it is "reasonable to require the corporation to defend the particular suit which is brought there." Implicit in this emphasis on reasonableness is the understanding that the burden on the defendant, while always a primary concern, will in an appropriate case be considered in light of other relevant factors, including the forum State's interest in adjudicating the dispute, the plaintiff's interest in obtaining convenient and effective relief, at least when that interest is not adequately protected by the plaintiff's power to choose the forum, the interstate judicial system's interest in obtaining the most efficient resolution of controversies; and the shared interest of the several States in furthering fundamental substantive social policies.
+
+
+## General Jurisdiction 
+
+### Rule 
+
+## Consent
+
+### By Contract 
+
+### By Statute
+
+### By Appearance 
+
+A party that objects to personal jurisdiction must assert that objection at the outset, either by a motion to dismiss under Rule 12(b)(2) or in the first responsive pleading. By appearing and responding to a complaint without asserting that objection, the party implicitly consents to personal jurisdiction. 

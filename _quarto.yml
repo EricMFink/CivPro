@@ -54,29 +54,32 @@ book:
       - 02-Main/chap8.qmd
       - 03-Back/ack.qmd
       - 03-Back/colophon.qmd
+    - part: Notes 
+      chapters:
+      - 04-Notes/joinder.qmd
     - part: Visuals
       chapters: 
-      - 04-Appendix/civil-litigation.qmd
-      - 04-Appendix/joinder.qmd
-      - 04-Appendix/personal-jurisdiction.qmd
-      - 04-Appendix/subject-matter-jurisdiction.qmd
-      - 04-Appendix/choice-of-law.qmd
-      - 04-Appendix/pleading.qmd
-      - 04-Appendix/preclusion.qmd
-      - 04-Appendix/summary-judgment.qmd
+      - 05-Visuals/civil-litigation.qmd
+      - 05-Visuals/joinder.qmd
+      - 05-Visuals/personal-jurisdiction.qmd
+      - 05-Visuals/subject-matter-jurisdiction.qmd
+      - 05-Visuals/choice-of-law.qmd
+      - 05-Visuals/pleading.qmd
+      - 05-Visuals/preclusion.qmd
+      - 05-Visuals/summary-judgment.qmd
     - part: Practice Exam Questions
       chapters: 
-        - 04-Appendix/exam1.qmd
-        - 04-Appendix/exam2.qmd
-        - 04-Appendix/exam3.qmd
-        - 04-Appendix/exam4.qmd
-        - 04-Appendix/exam5.qmd
-        - 04-Appendix/exam6.qmd
-        - 04-Appendix/exam7.qmd
-        - 04-Appendix/exam8.qmd
-        - 04-Appendix/exam9.qmd
-        - 04-Appendix/exam10.qmd
-        - 04-Appendix/sample-multiple-choice.qmd
+        - 06-Exams/exam1.qmd
+        - 06-Exams/exam2.qmd
+        - 06-Exams/exam3.qmd
+        - 06-Exams/exam4.qmd
+        - 06-Exams/exam5.qmd
+        - 06-Exams/exam6.qmd
+        - 06-Exams/exam7.qmd
+        - 06-Exams/exam8.qmd
+        - 06-Exams/exam9.qmd
+        - 06-Exams/exam10.qmd
+        - 06-Exams/sample-multiple-choice.qmd
     - links.qmd
 
 bibliography: refs/Library.yaml

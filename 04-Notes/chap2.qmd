@@ -1,0 +1,101 @@
+# Chapter 2 Notes: Joinder {.unnumbered}
+
+## Overview of Rules
+
+#### Rule 18: Joinder of Claims 
+
+> A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party.
+
+- Only requirement is that the claims are by the same party against the same opposing party.
+    - Claims don't have to arise from same T/O; they may be completely unrelated (apart from involving the same parties).
+- Permissive: may either bring claims in same action (assuming the court has subject matter jurisdiction) _or_ in separate actions
+    - But note that if a party asserting a claim (including counterclaims, crossclaims, & third party claims) fails to assert additional claims arising from the same T/O, **Claim Preclusion** (Chap. 7) may bar that party from asserting those claims in another suit.
+
+#### Rule 20: Joinder of Parties
+
+- Co-parties
+    - Multiple plaintiffs against same defendant
+    - Same plaintiff against multiple defendants
+- Requirements
+    - Claims arise from same T/O (or series)
+    - Claims involve _at least one_ common question of law or fact
+        - Doesn't matter if it's a question of law or fact (you don't need to indicate which it is on the exam).
+        - Given the way courts interpret & apply the "same T/O" requirement, it is almost inevitable that claims arising from the same T/O will involve some common questions of law or fact.
+
+#### Rule 13(a): Compulsory Counterclaims 
+
+> (1\) _In General._ A pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim:
+> 
+> > (A\) arises out of the transaction or occurrence that is the subject matter of the opposing party's claim; and
+> > 
+> > (B\) does not require adding another party over whom the court cannot acquire jurisdiction.
+
+- Compulsory: Must be asserted in same action or it is forfeited.
+	- This has the same effect as claim preclusion, which requires plaintiffs to assert all related claims in the same action, but wouldn't apply to a defendant who asserts no counterclaims at all. By forcing defendants to assert their related counterclaims, Rule 13(a) puts both parties on an equal footing. 
+  
+#### Rule 13(b): Permissive Counterclaims
+
+> A pleading may state as a counterclaim against an opposing party any claim that is not compulsory.
+
+- Permissive: Like Rule 18, Rule 13(b) allows, but does not require, joinder of unrelated claims. 
+
+#### Rule 13(g): Crossclaims
+
+> A pleading may state as a crossclaim any claim by one party against a coparty if the claim arises out of the transaction or occurrence that is the subject matter of the original action or of a counterclaim, or if the claim relates to any property that is the subject matter of the original action. The crossclaim may include a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant.
+
+- Co-parties: i.e. P1 v P2; D1 v. D2. 
+- Crossclaims vs. Counterclaims 
+	- Crossclaims must arise from the same T/O as an underlying claim in the suit (like compulsory counterclaims). 
+	- But crossclaims are permissive, not compulsory (unlike compulsory counterclaims).
+- Effect (majority rule):
+	- A _substantive_ crossclaim transforms the co-parties involved into opposing parties for purposes of Rule 13. So the "crossclaim defendant" must then assert, as a compulsory counterclaim, any claim against the "crossclaim plaintiff" arising from the same T/O.
+	- But a crossclaim _only for contribution/indemnification_ does not alter the co-parties' status. So the "crossclaim defendant" _may_ assert, as a crossclaim, _only_ a claim against the "crossclaim plaintiff" that arises from the same T/O as an underlying claim against the co-parties. 
+
+#### Rule 14: Third Party Claims 
+
+> Rule 14(a)(1): A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. 
+
+- Rule 14 allows joinder of third party defendants _only_ to assert claims for **contribution** or **indemnification**.
+	- _Example:_ A sues B for injuries resulting from a multicar accident. B may join C, another driver involved in the accident, as third party defendant, to assert a claim for contribution on A's claim against B, but _may not_ join C only to assert a claim for B's own injuries in the accident. 
+		- If B joins C for contribution on A's claim, Rule 18 would then permit B to assert an additional claim against C for B's own injuries in the accident (or even for something unrelated to the accident). See "Combining Rules", below. 
+- Rule 14 also addresses additional claims following joinder of a third party defendant & the application of Rule 13(a), (b), & (g): 
+	- Claims by third party defendant:
+		- "must assert any counterclaim against the third-party plaintiff under Rule 13(a), and may assert any counterclaim against the third-party plaintiff under Rule 13(b) [...]". Rule 14(a)(2)(B).
+		- "may assert [...] any crossclaim against another third-party defendant under Rule 13(g)." Rule 14(a)(2)(B).
+		- "may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff." Rule 14(a)(2)(D).
+			- Note that this is permissive (unless the plaintiff asserts a claim against the third party defendant)
+	- Claims by plaintiff against third party defendant:  
+		- "The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff." Rule 14(a)(2)(D).
+		- "The third-party defendant must then assert [...] any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g)." Rule 14(a)(2)(D).
+
+## Combining Rules 
+
+#### Joinder of Additional Parties on a Counterclaim or Crossclaim 
+
+Rule 13(h) clarifies that Rules 19 & 20 govern the joinder of additional parties on a counterclaim or crossclaim. 
+
+_Example:_ A sues B & C for injuries resulting from a multicar accident. B asserts a (compulsory) counterclaim against A and a crossclaim against C, also for injuries resulting from the same accident. B may also join D, another driver involved in the accident, as a co-defendant[^1] on either the counterclaim or crossclaim. 
+
+[^1]: Once the initial parties start asserting counterclaims, crossclaims, or third-party claims, the labels "plaintiff" and "defendant" will continue to refer to those parties' original positions, but may also be applied descriptively to refer to "the party asserting a claim" and "the party against whom a claim is asserted". The terms "counterclaim/crossclaim/third party plaintiff/defendant" are sometimes used in this context. On an exam, diagramming the parties & claims is helpful to avoid getting lost. 
+
+Unlike joinder of a third party defendant under Rule 14, joinder of C as an additional party on a counterclaim or crossclaim is not limited to (though it may include) claims for contribution or indemnification. Even without a claim for contribution/indemnification, B may join C as a counterclaim/crossclaim co-defendant to assert a claim for C's liability for B's own injuries arising from the same accident.  
+
+
+   
+#### Joinder of Additional Claims by a Co-Plaintiff, against a Co-Defendant, or with a Counterclaim, Crossclaim, or Third Party Claim
+
+Rule 20 (co-parties) & Rule 13(g) (crossclaims) limit joinder to claims arising from the same T/O. Rule 14 is even more restrictive, limiting joinder of third party defendants to claims for contribution or indemnification (which, by definition, do arise from the same T/O as the underlying claim for which contribution/indemnification is sought). But once a party asserts a valid claim under Rule 20, Rule 13(g), or Rule 14(a), they may then join any additional claims (related or unrelated) against the same party, per Rule 18. 
+
+_Example:_ A & B join as co-plaintiffs (Rule 20), each asserting a claim against C for injuries resulting from a multicar accident.
+
+- A also asserts a claim against C for breach of contract, unrelated to the accident. This is permitted by Rule 18. 
+- B asserts a crossclaim against A for injuries in the same accident.
+    - B may then also assert a claim against A for defamation, unrelated to the accident.
+- C impleads D, another driver involved in the accident as a third party defendant, for contribution on A's claim against C. C may then also assert claims against D for C's injuries in the accident, or even for something unrelated to the accident. 
+- If a defendant uses Rule 18 to assert a claim completely unrelated to the plaintiff's original claims, the court will most likely entertain a motion, or exercise its own discretion, to sever that claim under Rule 21.[^2]
+
+[^2]: Rule 21 is not included in the casebook and you're not responsible for knowing it on the exam. It's mentioned here simply to alleviate any worries about true pandemonium being unleashed in court. 
+
+## Joinder & Jurisdiction 
+
+The FRCP joinder rules do not confer jurisdiction over parties (**Personal Jurisdiction**, chap. 3) or claims (**Subject Matter Jurisdiction**, chap. 4). Consequently, joinder of a party or claim is proper only if (1) authorized under the FRCP, _and_ (2) the court has personal jurisdiction (over paries) and subject matter jurisdiction (over claims). 
