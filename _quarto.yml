@@ -79,7 +79,7 @@ book:
         - 05-Exams/sample-multiple-choice.qmd
     - links.qmd
 
-bibliography: refs/Library.yaml
+bibliography: refs/Library.json
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
