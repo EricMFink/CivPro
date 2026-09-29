@@ -3,11 +3,14 @@ format:
   html:
     css: syllabus.css
     number-sections: false
+  pdf:
+    template: pdf/syllabus.tex
+    output-file: CivProSyllabus
 ---
 
 # Syllabus {.unnumbered}
 
-[{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
+[{{< bi download >}}]({{< var repo >}}Syllabus.pdf "Download Syllabus")
 
 ::: {.syllabus-header}
 
@@ -36,8 +39,6 @@ format:
 ###### {{< var ta >}} {.unlisted}
 
 ###### [{{< var ta-email >}}](mailto:{{< var ta-email >}}) {.unlisted}
-
-###### Office hours: {{< var ta-hours >}} {.unlisted}
 
 :::
 
