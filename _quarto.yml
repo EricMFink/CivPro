@@ -79,8 +79,8 @@ book:
         - 05-Exams/sample-multiple-choice.qmd
     - links.qmd
 
-bibliography: refs/Library.yaml
-csl: refs/casebook.csl
+bibliography: refs/CivPro.yaml
+csl: refs/indigobook-inline-bib.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
 
