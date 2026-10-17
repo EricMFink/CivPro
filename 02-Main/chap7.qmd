@@ -2,7 +2,7 @@
 
 ## Full Faith and Credit
 
-#### @USConst_art.IV
+#### @USConstart.IV
 
 ::: {.legalcode}
 

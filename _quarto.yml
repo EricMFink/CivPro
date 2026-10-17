@@ -80,7 +80,7 @@ book:
     - links.qmd
 
 bibliography: refs/CivPro.yaml
-csl: refs/indigobook-inline-bib.csl
+csl: refs/indigobook-inline.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
 
