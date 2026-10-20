@@ -102,7 +102,7 @@ The legacy of chattel slavery in the U.S. includes a body of case law that "legi
 
 ## Claim Preclusion 
 
-#### @Rest2dJudgments 
+#### @Rest2dofJudgments 
 
 ::: {.legalcode}
 
@@ -574,7 +574,7 @@ That does not necessarily mean giving litigants like Passaro a second bite at th
 
 ## Issue Preclusion
 
-#### @Rest2dJudgments 
+#### @Rest2dofJudgments 
 
 ::: {.legalcode}
 
