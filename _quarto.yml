@@ -52,6 +52,7 @@ book:
       - 02-Main/chap6.qmd
       - 02-Main/chap7.qmd
       - 02-Main/chap8.qmd
+      - 03-Back/references.qmd
       - 03-Back/ack.qmd
       - 03-Back/colophon.qmd
     - part: Visuals
@@ -82,7 +83,7 @@ book:
 bibliography: refs/CivPro.yaml
 csl: refs/indigobook-inline.csl
 citation-abbreviations: refs/abbreviations.json
-suppress-bibliography: true
+suppress-bibliography: false
 
 format:
   html:
@@ -90,6 +91,8 @@ format:
       - cosmo
       - brand
     css: styles.css
+    resources:
+      - media/*
     title-block-style: none
     reference-location: margin
     citation-location: document
