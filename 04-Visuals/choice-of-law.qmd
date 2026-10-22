@@ -1,13 +1,3 @@
 # Choice of Law {.unnumbered}
 
 ![Erie-Hanna Analysis ](../img/Erie-Hanna.png)
-
-
-::: {.center}
-[The Ballad of Harry Tompkins]()
-
-{{< audio file="../media/HarryTompkins.mp3" caption="">}}
-
-![Harry Tompkins with his daughter Naomi (1960)](../img/harry-tompkins.png)
-
-:::
