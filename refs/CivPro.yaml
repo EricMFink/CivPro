@@ -220,6 +220,18 @@ references:
   type: legal_case
   volume: '607'
 
+- id: BivensSixUnknownFed_US1971
+  authority: U.S.
+  citation-key: BivensSixUnknownFed_US1971
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1971
+  page: '388'
+  title: Bivens v. Six Unknown Fed. Narcotics Agents
+  type: legal_case
+  volume: '403'
+
 - id: BlackWhiteTaxiCo_US1928
   authority: U.S.
   citation-key: BlackWhiteTaxiCo_US1928
