@@ -80,10 +80,19 @@ book:
         - 05-Exams/sample-multiple-choice.qmd
     - links.qmd
 
-bibliography: refs/CivPro.yaml
+
+filters:
+    - multibib
+
+bibliography_cases: refs/cases.json
+bibliography_constitution: refs/constitution.json
+bibliography_statutes: refs/statutes.json
+bibliography_frcp: refs/frcp.json
+bibliography_other: refs/other.json
+
 csl: refs/indigobook-inline.csl
 citation-abbreviations: refs/abbreviations.json
-suppress-bibliography: false
+suppress-bibliography: true
 
 format:
   html:

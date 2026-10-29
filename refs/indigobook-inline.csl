@@ -308,30 +308,30 @@
 				<group delimiter=" ">
 					<text macro="container"/>
 					<text variable="note"/>
-					<text variable="section"/>
+					<text variable="section" form="numeric"/>
 					<text macro="issuance"/>
 				</group>
 			</if>
 			<else-if variable="number" match="any">
 				<group delimiter=" ">
 						<text variable="title" suffix=", "/>
-						<text variable="number"/>
-						<text variable="section" prefix="§ "/>
+						<text variable="number" form="numeric"/>
+						<text variable="section" form="numeric" prefix="§ "/>
 						<text macro="issuance"/>
 				</group>
 			</else-if>
 			<else-if variable="volume" match="any">
 				<group delimiter=" ">
-						<text variable="volume"/>
+						<text variable="volume" form="numeric"/>
 						<text macro="container"/>
-						<text variable="section" prefix="§ "/>
+						<text variable="section" form="numeric" prefix="§ "/>
 						<text macro="issuance"/>
 				</group>
 			</else-if>
 			<else>
 				<group delimiter=" ">
 					<text macro="container"/>
-					<text variable="section" prefix="§ "/>
+					<text variable="section" form="numeric" prefix="§ "/>
 					<text macro="issuance"/>
 				</group>
 			</else>
@@ -425,8 +425,6 @@
 	</choose>
 </macro>
 
-
-
 <!-- Formatted Citation for Bibliography -->
 <macro name="source-bib">
 	<choose>
@@ -470,30 +468,31 @@
 			<if variable="note" match="any">
 				<group delimiter=" ">
 					<text macro="container"/>
-					<text variable="note" prefix="Rule "/>
+					<text variable="note"/>
+					<text variable="section" form="numeric"/>
 					<text macro="issuance"/>
 				</group>
 			</if>
 			<else-if variable="number" match="any">
 				<group delimiter=" ">
 						<text variable="title" suffix=", "/>
-						<text variable="number"/>
-						<text variable="section" prefix="§ "/>
+						<text variable="number" form="numeric"/>
+						<text variable="section" form="numeric" prefix="§ "/>
 						<text macro="issuance"/>
 				</group>
 			</else-if>
 			<else-if variable="volume" match="any">
 				<group delimiter=" ">
-						<text variable="volume"/>
+						<text variable="volume" form="numeric"/>
 						<text macro="container"/>
-						<text variable="section" prefix="§ "/>
+						<text variable="section" form="numeric" prefix="§ "/>
 						<text macro="issuance"/>
 				</group>
 			</else-if>
 			<else>
 				<group delimiter=" ">
 					<text macro="container"/>
-					<text variable="section" prefix="§ "/>
+					<text variable="section" form="numeric" prefix="§ "/>
 					<text macro="issuance"/>
 				</group>
 			</else>
@@ -643,8 +642,8 @@
 	<else-if type="legislation" match="any">
 			<text value="2"/>
 			<text variable="container-title"/>
-			<text variable="volume" form="numeric"/>
-			<text variable="section" form="numeric"/>
+			<text variable="volume"/>
+			<text variable="section"/>
 	</else-if>
 	<else-if type="standard" match="any">
 		<text value="3"/>
@@ -675,33 +674,14 @@
 <!-- sort legislation by code volume -->
 <macro name="sort-volume">
 	<choose>
-		<if type="legislation">
-			<choose>
-				<if variable="volume">
-					<text variable="volume" form="numeric"/>
-				</if>
-				<else>
-					<text value="9999"/>
-				</else>
-			</choose>
+		<if variable="volume">
+			<text variable="volume" form="numeric"/>
 		</if>
 	</choose>
 </macro>
 
-<!-- sort legislation by section  -->
 <macro name="sort-section">
-	<choose>
-		<if type="legislation">
-			<choose>
-				<if variable="section">
-					<text variable="section" form="numeric"/>
-				</if>
-				<else-if variable ="note">
-					<text variable="note" form="numeric"/>
-				</else-if>
-			</choose>
-		</if>
-	</choose>
+	<text variable="section" form="numeric"/>
 </macro>
 
 <!-- dates -->
@@ -752,9 +732,12 @@
 <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="1">
 	<sort>
 	<key macro="sort-type"/>
+	<key macro="sort-legislation"/>
+	<key macro="sort-volume"/>
+	<key macro="sort-section" sort="descending"/>
 	<key macro="author"/>
+	<key macro="year-sort" sort="descending"/>
 	<key macro="full-title"/>
-	<key macro="year-sort"/>
 	</sort>
 	<layout suffix="">
 		<choose>
@@ -763,9 +746,44 @@
 		</if>
 		</choose>
 		<choose>
-		<if type="bill hearing legal_case legislation regulation standard" match="any">
+		<if type="legislation regulation" match="any">
+			<choose>
+			<if variable="note" match="any">
+				<group delimiter=" ">
+					<text macro="container"/>
+					<text variable="note"/>
+					<text variable="section" form="numeric"/>
+					<text macro="issuance"/>
+				</group>
+			</if>
+			<else-if variable="number" match="any">
+				<group delimiter=" ">
+						<text variable="title" suffix=", "/>
+						<text variable="number" form="numeric"/>
+						<text variable="section" form="numeric" prefix="§ "/>
+						<text macro="issuance"/>
+				</group>
+			</else-if>
+			<else-if variable="volume" match="any">
+				<group delimiter=" ">
+						<text variable="volume" form="numeric"/>
+						<text macro="container"/>
+						<text variable="section" form="numeric" prefix="§ "/>
+						<text macro="issuance"/>
+				</group>
+			</else-if>
+			<else>
+				<group delimiter=" ">
+					<text macro="container"/>
+					<text variable="section" form="numeric" prefix="§ "/>
+					<text macro="issuance"/>
+				</group>
+			</else>
+			</choose>
+		</if> 
+		<else-if type="bill hearing legal_case standard" match="any">
 			<text macro="source-bib"/>
-		</if>
+		</else-if>
 		<else>
 			<text macro="author"/>
 			<text macro="source-bib" prefix=""/>

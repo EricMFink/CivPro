@@ -1,4 +1,22 @@
 # References {.unlisted .unnumbered}
 
-::: {#refs}
-::: 
+## Cases
+
+::: {#refs_cases}
+:::
+
+## Constitution, Statutes, Rules, & Restatement
+
+::: {#refs_constitution}
+:::
+
+::: {#refs_statutes}
+:::
+
+::: {#refs_frcp}
+:::
+
+## Articles, Books, & Other Material
+
+::: {#refs_other}
+:::

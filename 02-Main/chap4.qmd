@@ -27,7 +27,7 @@ Except for certain matters over which federal jurisdiction is exclusive,[^exclus
 ## Federal Question Jurisdiction
 
 #### @28USC1331
-
+ 
 ::: {.legalcode}
 
 The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
