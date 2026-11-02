@@ -82,7 +82,6 @@ book:
 bibliography: refs/CivPro.yaml
 csl: refs/indigobook-inline.csl
 citation-abbreviations: refs/abbreviations.json
-suppress-bibliography: true
 
 format:
   html:
